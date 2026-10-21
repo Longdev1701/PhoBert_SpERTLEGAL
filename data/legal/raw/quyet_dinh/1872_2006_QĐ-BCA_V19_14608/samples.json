@@ -1,0 +1,233 @@
+{
+ "doc_id": "1872_2006_QĐ-BCA_V19_14608",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 1872/2006/QĐ-BCA(V19) Ban hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ CÔNG AN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nSố: 1872/2006/QĐ-BCA(V19)\nHà Nội, ngày 24 tháng 11 năm 2006\nQUYẾT ĐỊNH\nBan hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ TRƯỞNG BỘ CÔNG AN\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Nghị định số 161/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ban hành văn bản quy phạm pháp luật và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 135/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ về kiểm tra và xử lý văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;\nTheo đề nghị của đồng chí Vụ trưởng Vụ Pháp chế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\".\nĐiều 3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nBỘ TRƯỞNG ĐẠI TƯỚNG (Đã ký) Lê Hồng Anh\n",
+ "total_chars": 1880,
+ "total_paras": 18,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 35,
+   "text": "1872/2006/QĐ-BCA(V19)"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 142,
+   "end": 152,
+   "text": "BỘ CÔNG AN"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 250,
+   "end": 275,
+   "text": "ngày 24 tháng 11 năm 2006"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\".",
+   "parent": "e_so_hieu",
+   "start": 1186,
+   "end": 1326,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\"."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\".",
+   "parent": "e_so_hieu",
+   "start": 1327,
+   "end": 1632,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\"."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 1633,
+   "end": 1839,
+   "text": "Điều 3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1868,
+   "end": 1879,
+   "text": "Lê Hồng Anh"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "1872_2006_QĐ-BCA_V19_14608",
+ "doc": "1872_2006_QĐ-BCA_V19_14608",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 1872/2006/QĐ-BCA(V19) Ban hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ CÔNG AN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nSố: 1872/2006/QĐ-BCA(V19)\nHà Nội, ngày 24 tháng 11 năm 2006\nQUYẾT ĐỊNH\nBan hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ TRƯỞNG BỘ CÔNG AN\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Nghị định số 161/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ban hành văn bản quy phạm pháp luật và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 135/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ về kiểm tra và xử lý văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;\nTheo đề nghị của đồng chí Vụ trưởng Vụ Pháp chế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\".\nĐiều 3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nBỘ TRƯỞNG ĐẠI TƯỚNG (Đã ký) Lê Hồng Anh\n",
+   "full_text": "Quyết định số 1872/2006/QĐ-BCA(V19) Ban hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ CÔNG AN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nSố: 1872/2006/QĐ-BCA(V19)\nHà Nội, ngày 24 tháng 11 năm 2006\nQUYẾT ĐỊNH\nBan hành Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\nBỘ TRƯỞNG BỘ CÔNG AN\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Nghị định số 161/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ban hành văn bản quy phạm pháp luật và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 135/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ về kiểm tra và xử lý văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;\nTheo đề nghị của đồng chí Vụ trưởng Vụ Pháp chế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\".\nĐiều 3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nBỘ TRƯỞNG ĐẠI TƯỚNG (Đã ký) Lê Hồng Anh\n",
+   "total_chars": 1880,
+   "total_paras": 18,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 35,
+     "text": "1872/2006/QĐ-BCA(V19)"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 142,
+     "end": 152,
+     "text": "BỘ CÔNG AN"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 250,
+     "end": 275,
+     "text": "ngày 24 tháng 11 năm 2006"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\".",
+     "parent": "e_so_hieu",
+     "start": 1186,
+     "end": 1326,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy chế về xây dựng, ban hành, kiểm tra, xử lý văn bản quy phạm pháp luật trong Công an nhân dân\"."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\".",
+     "parent": "e_so_hieu",
+     "start": 1327,
+     "end": 1632,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 836/1997/QĐ-BNV(V19) ngày 18 tháng 10 năm 1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành \"Quy chế về việc xây dựng, ban hành văn bản quy phạm pháp luật trong lực lượng Công an nhân dân\"."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 1633,
+     "end": 1839,
+     "text": "Điều 3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1868,
+     "end": 1879,
+     "text": "Lê Hồng Anh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

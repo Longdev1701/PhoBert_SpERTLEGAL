@@ -1,0 +1,1680 @@
+{
+ "doc": "07_2025_TT-BXD_177750",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 20,
+ "total_entities": 88,
+ "total_relations": 68,
+ "samples": [
+  {
+   "id": "07_2025_TT-BXD_177750#header_0",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ XÂY_DỰNG . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc . Số : 07/2025/TT-BXD . Hà_Nội , ngày 15 tháng 5 năm 2025 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "XÂY_DỰNG",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "07/2025/TT-BXD",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "15",
+    "tháng",
+    "5",
+    "năm",
+    "2025",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 18,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 15 tháng 5 năm 2025"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ XÂY_DỰNG"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 28,
+     "end": 29,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_context_1",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng . QUY_ĐỊNH THỜI_HẠN LƯU_TRỮ HỒ_SƠ , TÀI_LIỆU THUỘC LĨNH_VỰC QUẢN_LÝ NHÀ_NƯỚC CỦA BỘ XÂY_DỰNG",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "QUY_ĐỊNH",
+    "THỜI_HẠN",
+    "LƯU_TRỮ",
+    "HỒ_SƠ",
+    ",",
+    "TÀI_LIỆU",
+    "THUỘC",
+    "LĨNH_VỰC",
+    "QUẢN_LÝ",
+    "NHÀ_NƯỚC",
+    "CỦA",
+    "BỘ",
+    "XÂY_DỰNG"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 14,
+     "end": 20,
+     "text": "LĨNH_VỰC QUẢN_LÝ NHÀ_NƯỚC CỦA BỘ XÂY_DỰNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_standalone_2",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "QUY_ĐỊNH THỜI_HẠN LƯU_TRỮ HỒ_SƠ , TÀI_LIỆU THUỘC LĨNH_VỰC QUẢN_LÝ NHÀ_NƯỚC CỦA BỘ XÂY_DỰNG",
+   "tokens": [
+    "QUY_ĐỊNH",
+    "THỜI_HẠN",
+    "LƯU_TRỮ",
+    "HỒ_SƠ",
+    ",",
+    "TÀI_LIỆU",
+    "THUỘC",
+    "LĨNH_VỰC",
+    "QUẢN_LÝ",
+    "NHÀ_NƯỚC",
+    "CỦA",
+    "BỘ",
+    "XÂY_DỰNG"
+   ],
+   "entities": [
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 13,
+     "text": "LĨNH_VỰC QUẢN_LÝ NHÀ_NƯỚC CỦA BỘ XÂY_DỰNG"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_context_3",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng . Căn_cứ Luật Lưu_trữ số 33/2024/QH15 ngày 21 tháng 6 năm 2024 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Lưu_trữ",
+    "số",
+    "33/2024/QH15",
+    "ngày",
+    "21",
+    "tháng",
+    "6",
+    "năm",
+    "2024",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Luật Lưu_trữ số 33/2024/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 12,
+     "end": 18,
+     "text": "ngày 21 tháng 6 năm 2024"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_standalone_4",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Lưu_trữ số 33/2024/QH15 ngày 21 tháng 6 năm 2024 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Lưu_trữ",
+    "số",
+    "33/2024/QH15",
+    "ngày",
+    "21",
+    "tháng",
+    "6",
+    "năm",
+    "2024",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Lưu_trữ số 33/2024/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 21 tháng 6 năm 2024"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_context_5",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng . Căn_cứ Nghị_định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Xây_dựng ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2025/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "02",
+    "năm",
+    "2025",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 33/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 02 năm 2025"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_standalone_6",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Xây_dựng ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2025/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "02",
+    "năm",
+    "2025",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 33/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 02 năm 2025"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_context_7",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng . Theo đề_nghị của Chánh Văn_phòng Bộ Xây_dựng ,",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Chánh",
+    "Văn_phòng",
+    "Bộ",
+    "Xây_dựng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_standalone_8",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Chánh Văn_phòng Bộ Xây_dựng ,",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Chánh",
+    "Văn_phòng",
+    "Bộ",
+    "Xây_dựng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_context_9",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng . Bộ_trưởng Bộ Xây_dựng ban_hành Thông_tư quy_định thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc phạm_vi quản_lý của Bộ Xây_dựng .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 10,
+     "text": "Bộ_trưởng Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#preamble_standalone_10",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Bộ_trưởng Bộ Xây_dựng ban_hành Thông_tư quy_định thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc phạm_vi quản_lý của Bộ Xây_dựng .",
+   "tokens": [
+    "Bộ_trưởng",
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "Bộ_trưởng Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_11",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2025/TT-BXD ban_hành ngày 15 tháng 05 năm 2025 bởi Bộ Xây_dựng . Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "15",
+    "tháng",
+    "05",
+    "năm",
+    "2025",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    "và",
+    "đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 15 tháng 05 năm 2025"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 22,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_12",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 07/2025/TT-BXD . Điều 1 . 1 . Thông_tư này quy_định về thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng gồm các lĩnh_vực : quy_hoạch , kiến_trúc ; hoạt_động đầu_tư xây_dựng ; phát_triển đô_thị ; hạ_tầng kỹ_thuật ; nhà ở ; bất_động_sản ; vật_liệu xây_dựng ; an_toàn lao_động trong thi_công xây_dựng ; đăng_kiểm ; đường_bộ ; đường_sắt ; đường thủy_nội_địa ; hàng_hải ; hàng_không và hồ_sơ , tài_liệu tổng_hợp chung .",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "về",
+    "thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "lĩnh_vực",
+    "quản_lý",
+    "nhà_nước",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "gồm",
+    "các",
+    "lĩnh_vực",
+    ":",
+    "quy_hoạch",
+    ",",
+    "kiến_trúc",
+    ";",
+    "hoạt_động",
+    "đầu_tư",
+    "xây_dựng",
+    ";",
+    "phát_triển",
+    "đô_thị",
+    ";",
+    "hạ_tầng",
+    "kỹ_thuật",
+    ";",
+    "nhà",
+    "ở",
+    ";",
+    "bất_động_sản",
+    ";",
+    "vật_liệu",
+    "xây_dựng",
+    ";",
+    "an_toàn",
+    "lao_động",
+    "trong",
+    "thi_công",
+    "xây_dựng",
+    ";",
+    "đăng_kiểm",
+    ";",
+    "đường_bộ",
+    ";",
+    "đường_sắt",
+    ";",
+    "đường",
+    "thủy_nội_địa",
+    ";",
+    "hàng_hải",
+    ";",
+    "hàng_không",
+    "và",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "tổng_hợp",
+    "chung",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 79,
+     "text": "1 . Thông_tư này quy_định về thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng gồm các lĩnh_vực : quy_hoạch , kiến_trúc ; hoạt_động đầu_tư xây_dựng ; phát_triển đô_thị ; hạ_tầng kỹ_thuật ; nhà ở ; bất_động_sản ; vật_liệu xây_dựng ; an_toàn lao_động trong thi_công xây_dựng ; đăng_kiểm ; đường_bộ ; đường_sắt ; đường thủy_nội_địa ; hàng_hải ; hàng_không và hồ_sơ , tài_liệu tổng_hợp chung ."
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 22,
+     "end": 28,
+     "text": "lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_13",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động - Thương_binh và Xã_hội . Điều 1 . 2 . Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân có liên_quan đến hoạt_động quản_lý , lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "cơ_quan",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động",
+    "quản_lý",
+    ",",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "lĩnh_vực",
+    "quản_lý",
+    "nhà_nước",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 13,
+     "text": "Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 46,
+     "text": "2 . Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân có liên_quan đến hoạt_động quản_lý , lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng ."
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 39,
+     "end": 45,
+     "text": "lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_14",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2025/TT-BXD ban_hành ngày 15 tháng 05 năm 2025 bởi Bộ Xây_dựng . Điều 2 . Thời_hạn lưu_trữ hồ_sơ , tài_liệu . Thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng thực_hiện theo quy_định tại các Phụ_lục ban_hành theo Thông_tư này gồm :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "15",
+    "tháng",
+    "05",
+    "năm",
+    "2025",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    ".",
+    "Thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "lĩnh_vực",
+    "quản_lý",
+    "nhà_nước",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "tại",
+    "các",
+    "Phụ_lục",
+    "ban_hành",
+    "theo",
+    "Thông_tư",
+    "này",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 15 tháng 05 năm 2025"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 47,
+     "text": "Điều 2 . Thời_hạn lưu_trữ hồ_sơ , tài_liệu . Thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng thực_hiện theo quy_định tại các Phụ_lục ban_hành theo Thông_tư này gồm :"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 36,
+     "end": 39,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 29,
+     "end": 35,
+     "text": "lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_standalone_15",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Thời_hạn lưu_trữ hồ_sơ , tài_liệu . Thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng thực_hiện theo quy_định tại các Phụ_lục ban_hành theo Thông_tư này gồm :",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    ".",
+    "Thời_hạn",
+    "lưu_trữ",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "thuộc",
+    "lĩnh_vực",
+    "quản_lý",
+    "nhà_nước",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "tại",
+    "các",
+    "Phụ_lục",
+    "ban_hành",
+    "theo",
+    "Thông_tư",
+    "này",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 33,
+     "text": "Điều 2 . Thời_hạn lưu_trữ hồ_sơ , tài_liệu . Thời_hạn lưu_trữ hồ_sơ , tài_liệu thuộc lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng thực_hiện theo quy_định tại các Phụ_lục ban_hành theo Thông_tư này gồm :"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 15,
+     "end": 21,
+     "text": "lĩnh_vực quản_lý nhà_nước của Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_16",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 07/2025/TT-BXD . Điều 3 . Điều_khoản thi_hành",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 3 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_17",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động - Thương_binh và Xã_hội . Điều 3 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2025 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "01",
+    "tháng",
+    "7",
+    "năm",
+    "2025",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 13,
+     "text": "Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 33,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2025 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#body_context_18",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2025/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động - Thương_binh và Xã_hội . Điều 3 . 2 . Chánh Văn_phòng Bộ Xây_dựng , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ và các cơ_quan , đơn_vị , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2025/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Chánh",
+    "Văn_phòng",
+    "Bộ",
+    "Xây_dựng",
+    ",",
+    "Thủ_trưởng",
+    "các",
+    "cơ_quan",
+    ",",
+    "đơn_vị",
+    "thuộc",
+    "Bộ",
+    "và",
+    "các",
+    "cơ_quan",
+    ",",
+    "đơn_vị",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Thông_tư",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2025/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 13,
+     "text": "Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 48,
+     "text": "2 . Chánh Văn_phòng Bộ Xây_dựng , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ và các cơ_quan , đơn_vị , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2025_TT-BXD_177750#hard_negative_19",
+   "doc": "07_2025_TT-BXD_177750",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "doc_id": "11_2013_TT-BTTTT_46726",
+ "category": "thong_tu",
+ "full_text": "Thông tư số 11/2013/TT-BTTTT Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 11/2013/TT-BTTTT\nNgày 13 tháng 5 năm 2013\nTHÔNG TƯ\nDanh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nCăn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;\nCăn cứ Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 50/2011/NĐ-CP ngày 24 tháng 6 năm 2011 của Chính phủ sửa đổi Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;\nTheo đề nghị của Cục trưởng Cục Viễn thông,\nBộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 2. Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013.\nĐiều 3. Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông\nvà các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\n(Đã ký)\nNguyễn Bắc Son\n",
+ "total_chars": 1589,
+ "total_paras": 21,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 8,
+   "text": "Thông tư"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 12,
+   "end": 28,
+   "text": "11/2013/TT-BTTTT"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 113,
+   "end": 141,
+   "text": "BỘ THÔNG TIN VÀ TRUYỀN THÔNG"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 226,
+   "end": 250,
+   "text": "Ngày 13 tháng 5 năm 2013"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.",
+   "parent": "e_so_hieu",
+   "start": 1134,
+   "end": 1257,
+   "text": "Điều 1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013.",
+   "parent": "e_so_hieu",
+   "start": 1258,
+   "end": 1331,
+   "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông",
+   "parent": "e_so_hieu",
+   "start": 1332,
+   "end": 1555,
+   "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông\nvà các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1574,
+   "end": 1588,
+   "text": "Nguyễn Bắc Son"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "11_2013_TT-BTTTT_46726",
+ "doc": "11_2013_TT-BTTTT_46726",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "11_2013_TT-BTTTT_46726",
+   "doc": "11_2013_TT-BTTTT_46726",
+   "category": "thong_tu",
+   "kind": "document",
+   "text": "Thông tư số 11/2013/TT-BTTTT Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 11/2013/TT-BTTTT\nNgày 13 tháng 5 năm 2013\nTHÔNG TƯ\nDanh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nCăn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;\nCăn cứ Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 50/2011/NĐ-CP ngày 24 tháng 6 năm 2011 của Chính phủ sửa đổi Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;\nTheo đề nghị của Cục trưởng Cục Viễn thông,\nBộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 2. Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013.\nĐiều 3. Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông\nvà các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\n(Đã ký)\nNguyễn Bắc Son\n",
+   "full_text": "Thông tư số 11/2013/TT-BTTTT Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 11/2013/TT-BTTTT\nNgày 13 tháng 5 năm 2013\nTHÔNG TƯ\nDanh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch\nCăn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;\nCăn cứ Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 50/2011/NĐ-CP ngày 24 tháng 6 năm 2011 của Chính phủ sửa đổi Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;\nCăn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;\nTheo đề nghị của Cục trưởng Cục Viễn thông,\nBộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.\nĐiều 2. Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013.\nĐiều 3. Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông\nvà các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\n(Đã ký)\nNguyễn Bắc Son\n",
+   "total_chars": 1589,
+   "total_paras": 21,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 8,
+     "text": "Thông tư"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 12,
+     "end": 28,
+     "text": "11/2013/TT-BTTTT"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 113,
+     "end": 141,
+     "text": "BỘ THÔNG TIN VÀ TRUYỀN THÔNG"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 226,
+     "end": 250,
+     "text": "Ngày 13 tháng 5 năm 2013"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch.",
+     "parent": "e_so_hieu",
+     "start": 1134,
+     "end": 1257,
+     "text": "Điều 1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông thực hiện báo cáo giá thành thực tế, giá thành kế hoạch."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013.",
+     "parent": "e_so_hieu",
+     "start": 1258,
+     "end": 1331,
+     "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 13 tháng 5 năm 2013."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông",
+     "parent": "e_so_hieu",
+     "start": 1332,
+     "end": 1555,
+     "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Cục trưởng Cục Viễn thông, Tổng giám đốc, Giám đốc các doanh nghiệp viễn thông\nvà các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1574,
+     "end": 1588,
+     "text": "Nguyễn Bắc Son"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

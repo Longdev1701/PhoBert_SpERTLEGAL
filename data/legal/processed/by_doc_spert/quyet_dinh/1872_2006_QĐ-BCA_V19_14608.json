@@ -1,0 +1,1703 @@
+{
+ "doc": "1872_2006_QĐ-BCA_V19_14608",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 18,
+ "total_entities": 93,
+ "total_relations": 66,
+ "samples": [
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#header_0",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "BỘ CÔNG_AN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Số : 1872/2006/QĐ-BCA ( V19 ) . Hà_Nội , ngày 24 tháng 11 năm 2006 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "BỘ",
+    "CÔNG_AN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "24",
+    "tháng",
+    "11",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 21,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 24,
+     "end": 30,
+     "text": "ngày 24 tháng 11 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_AN"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 31,
+     "end": 32,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#signature_1",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG ĐẠI_TƯỚNG ( Đã ký ) Lê_Hồng_Anh",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    "ĐẠI_TƯỚNG",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    "Lê_Hồng_Anh"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 6,
+     "end": 7,
+     "text": "Lê_Hồng_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#meta_2",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "BỘ CÔNG_AN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Số : 1872/2006/QĐ-BCA ( V19 ) . Hà_Nội , ngày 24 tháng 11 năm 2006 . QUYẾT_ĐỊNH . BỘ_TRƯỞNG ĐẠI_TƯỚNG ( Đã ký ) Lê_Hồng_Anh",
+   "tokens": [
+    "BỘ",
+    "CÔNG_AN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "24",
+    "tháng",
+    "11",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "BỘ_TRƯỞNG",
+    "ĐẠI_TƯỚNG",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    "Lê_Hồng_Anh"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 21,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_AN"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 31,
+     "end": 32,
+     "text": "QUYẾT_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 39,
+     "end": 40,
+     "text": "Lê_Hồng_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 33,
+     "end": 34,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_context_3",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an . BỘ_TRƯỞNG BỘ CÔNG_AN",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_AN"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 13,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_AN"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_standalone_4",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "BỘ_TRƯỞNG BỘ CÔNG_AN",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_AN"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_AN"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_context_5",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an . Căn_cứ Luật Ban_hành_văn_bản quy_phạm_pháp_luật ngày 12 tháng 11 năm 1996 và Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật ngày 16 tháng 12 năm 2002 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "ngày",
+    "12",
+    "tháng",
+    "11",
+    "năm",
+    "1996",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "ngày",
+    "16",
+    "tháng",
+    "12",
+    "năm",
+    "2002",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Luật Ban_hành_văn_bản quy_phạm_pháp_luật"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 31,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 12 tháng 11 năm 1996"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 31,
+     "end": 37,
+     "text": "ngày 16 tháng 12 năm 2002"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_standalone_6",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Ban_hành_văn_bản quy_phạm_pháp_luật ngày 12 tháng 11 năm 1996 và Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật ngày 16 tháng 12 năm 2002 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "ngày",
+    "12",
+    "tháng",
+    "11",
+    "năm",
+    "1996",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "ngày",
+    "16",
+    "tháng",
+    "12",
+    "năm",
+    "2002",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Ban_hành_văn_bản quy_phạm_pháp_luật"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 21,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 12 tháng 11 năm 1996"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 16 tháng 12 năm 2002"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_context_7",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an . Căn_cứ Nghị_định số 161/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật và Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "161/2005/NĐ-CP",
+    "ngày",
+    "27",
+    "tháng",
+    "12",
+    "năm",
+    "2005",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Nghị_định số 161/2005/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 35,
+     "end": 41,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 27 tháng 12 năm 2005"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_standalone_8",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 161/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật và Luật sửa_đổi , bổ_sung một_số điều của Luật Ban_hành_văn_bản quy_phạm_pháp_luật ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "161/2005/NĐ-CP",
+    "ngày",
+    "27",
+    "tháng",
+    "12",
+    "năm",
+    "2005",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 161/2005/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 31,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 12 năm 2005"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_context_9",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an . Căn_cứ Nghị_định số 135/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ về kiểm_tra và xử_lý văn_bản quy_phạm_pháp_luật ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "135/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "kiểm_tra",
+    "và",
+    "xử_lý",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Nghị_định số 135/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_standalone_10",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 135/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ về kiểm_tra và xử_lý văn_bản quy_phạm_pháp_luật ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "135/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "kiểm_tra",
+    "và",
+    "xử_lý",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 135/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_context_11",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an . Căn_cứ Nghị_định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_an ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "136/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_an",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Nghị_định số 136/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#preamble_standalone_12",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_an ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "136/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_an",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 136/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#body_context_13",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . Ban_hành kèm theo Quyết_định này \" Quy_chế về xây_dựng , ban_hành , kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật trong Công_an nhân_dân \" .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành",
+    "kèm",
+    "theo",
+    "Quyết_định",
+    "này",
+    "\"",
+    "Quy_chế",
+    "về",
+    "xây_dựng",
+    ",",
+    "ban_hành",
+    ",",
+    "kiểm_tra",
+    ",",
+    "xử_lý",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    "trong",
+    "Công_an",
+    "nhân_dân",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 38,
+     "text": "Điều 1 . Ban_hành kèm theo Quyết_định này \" Quy_chế về xây_dựng , ban_hành , kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật trong Công_an nhân_dân \" ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#body_context_14",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 836/1997/QĐ-BNV ( V19 ) ngày 18 tháng 10 năm 1997 của Bộ_trưởng Bộ Nội_vụ ( nay là Bộ Công_an ) ban_hành \" Quy_chế về việc xây_dựng , ban_hành_văn_bản quy_phạm_pháp_luật trong lực_lượng Công_an nhân_dân \" .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "và",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "836/1997/QĐ-BNV",
+    "(",
+    "V19",
+    ")",
+    "ngày",
+    "18",
+    "tháng",
+    "10",
+    "năm",
+    "1997",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    "(",
+    "nay",
+    "là",
+    "Bộ",
+    "Công_an",
+    ")",
+    "ban_hành",
+    "\"",
+    "Quy_chế",
+    "về",
+    "việc",
+    "xây_dựng",
+    ",",
+    "ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "trong",
+    "lực_lượng",
+    "Công_an",
+    "nhân_dân",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 69,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 836/1997/QĐ-BNV ( V19 ) ngày 18 tháng 10 năm 1997 của Bộ_trưởng Bộ Nội_vụ ( nay là Bộ Công_an ) ban_hành \" Quy_chế về việc xây_dựng , ban_hành_văn_bản quy_phạm_pháp_luật trong lực_lượng Công_an nhân_dân \" ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "Quyết_định số 836/1997/QĐ-BNV"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 38,
+     "end": 44,
+     "text": "ngày 18 tháng 10 năm 1997"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 21,
+     "end": 24,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 48,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 51,
+     "end": 53,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#body_standalone_15",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 836/1997/QĐ-BNV ( V19 ) ngày 18 tháng 10 năm 1997 của Bộ_trưởng Bộ Nội_vụ ( nay là Bộ Công_an ) ban_hành \" Quy_chế về việc xây_dựng , ban_hành_văn_bản quy_phạm_pháp_luật trong lực_lượng Công_an nhân_dân \" .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "và",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "836/1997/QĐ-BNV",
+    "(",
+    "V19",
+    ")",
+    "ngày",
+    "18",
+    "tháng",
+    "10",
+    "năm",
+    "1997",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    "(",
+    "nay",
+    "là",
+    "Bộ",
+    "Công_an",
+    ")",
+    "ban_hành",
+    "\"",
+    "Quy_chế",
+    "về",
+    "việc",
+    "xây_dựng",
+    ",",
+    "ban_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    "trong",
+    "lực_lượng",
+    "Công_an",
+    "nhân_dân",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 56,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 836/1997/QĐ-BNV ( V19 ) ngày 18 tháng 10 năm 1997 của Bộ_trưởng Bộ Nội_vụ ( nay là Bộ Công_an ) ban_hành \" Quy_chế về việc xây_dựng , ban_hành_văn_bản quy_phạm_pháp_luật trong lực_lượng Công_an nhân_dân \" ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 22,
+     "text": "Quyết_định số 836/1997/QĐ-BNV"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 25,
+     "end": 31,
+     "text": "ngày 18 tháng 10 năm 1997"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 8,
+     "end": 11,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 35,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 40,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#body_context_16",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1872/2006/QĐ-BCA ( V19 ) ban_hành ngày 24 tháng 11 năm 2006 bởi Bộ Công_an . Điều 3 . Các đồng_chí Tổng_cục_trưởng , Thủ_trưởng đơn_vị trực_thuộc Bộ , Giám_đốc Công_an tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1872/2006/QĐ-BCA",
+    "(",
+    "V19",
+    ")",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "11",
+    "năm",
+    "2006",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Các",
+    "đồng_chí",
+    "Tổng_cục_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "đơn_vị",
+    "trực_thuộc",
+    "Bộ",
+    ",",
+    "Giám_đốc",
+    "Công_an",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "các",
+    "tổ_chức",
+    "và",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1872/2006/QĐ-BCA ( V19 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 24 tháng 11 năm 2006"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 51,
+     "text": "Điều 3 . Các đồng_chí Tổng_cục_trưởng , Thủ_trưởng đơn_vị trực_thuộc Bộ , Giám_đốc Công_an tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 29,
+     "end": 30,
+     "text": "Giám_đốc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "1872_2006_QĐ-BCA_V19_14608#hard_negative_17",
+   "doc": "1872_2006_QĐ-BCA_V19_14608",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "doc_id": "173_2008_QĐ-TTg_12572",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 173/2008/QĐ-TTg Ban hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 173/2008/QĐ-TTg\nHà Nội, ngày 25 tháng 12 năm 2008\nQUYẾT ĐỊNH\nBan hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Dược ngày 14 tháng 6 năm 2005;\nCăn cứ Luật Sở hữu trí tuệ ngày 29 tháng 11 năm 2005;\nCăn cứ Nghị định số 108/2007/NĐ-CP ngày 26 tháng 6 năm 2007 của Chính phủ hướng dẫn chi tiết thi hành một số điều của Luật Phòng, chống nhiễm virút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS);\nCăn cứ Nghị định số 79/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ quy định chi tiết thi hành một số điều của Luật Dược;\nXét đề nghị của Bộ trưởng Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Thiện Nhân\n",
+ "total_chars": 1621,
+ "total_paras": 21,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 29,
+   "text": "173/2008/QĐ-TTg"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 141,
+   "end": 160,
+   "text": "THỦ TƯỚNG CHÍNH PHỦ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 252,
+   "end": 277,
+   "text": "ngày 25 tháng 12 năm 2008"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\".",
+   "parent": "e_so_hieu",
+   "start": 1089,
+   "end": 1234,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\"."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 1235,
+   "end": 1317,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.",
+   "parent": "e_so_hieu",
+   "start": 1318,
+   "end": 1620,
+   "text": "Điều 3. Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Thiện Nhân"
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1603,
+   "end": 1620,
+   "text": "Nguyễn Thiện Nhân"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "173_2008_QĐ-TTg_12572",
+ "doc": "173_2008_QĐ-TTg_12572",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "173_2008_QĐ-TTg_12572",
+   "doc": "173_2008_QĐ-TTg_12572",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 173/2008/QĐ-TTg Ban hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 173/2008/QĐ-TTg\nHà Nội, ngày 25 tháng 12 năm 2008\nQUYẾT ĐỊNH\nBan hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Dược ngày 14 tháng 6 năm 2005;\nCăn cứ Luật Sở hữu trí tuệ ngày 29 tháng 11 năm 2005;\nCăn cứ Nghị định số 108/2007/NĐ-CP ngày 26 tháng 6 năm 2007 của Chính phủ hướng dẫn chi tiết thi hành một số điều của Luật Phòng, chống nhiễm virút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS);\nCăn cứ Nghị định số 79/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ quy định chi tiết thi hành một số điều của Luật Dược;\nXét đề nghị của Bộ trưởng Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Thiện Nhân\n",
+   "full_text": "Quyết định số 173/2008/QĐ-TTg Ban hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 173/2008/QĐ-TTg\nHà Nội, ngày 25 tháng 12 năm 2008\nQUYẾT ĐỊNH\nBan hành Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Dược ngày 14 tháng 6 năm 2005;\nCăn cứ Luật Sở hữu trí tuệ ngày 29 tháng 11 năm 2005;\nCăn cứ Nghị định số 108/2007/NĐ-CP ngày 26 tháng 6 năm 2007 của Chính phủ hướng dẫn chi tiết thi hành một số điều của Luật Phòng, chống nhiễm virút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS);\nCăn cứ Nghị định số 79/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ quy định chi tiết thi hành một số điều của Luật Dược;\nXét đề nghị của Bộ trưởng Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Thiện Nhân\n",
+   "total_chars": 1621,
+   "total_paras": 21,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 29,
+     "text": "173/2008/QĐ-TTg"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 141,
+     "end": 160,
+     "text": "THỦ TƯỚNG CHÍNH PHỦ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 252,
+     "end": 277,
+     "text": "ngày 25 tháng 12 năm 2008"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\".",
+     "parent": "e_so_hieu",
+     "start": 1089,
+     "end": 1234,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định áp dụng các biện pháp cần thiết đáp ứng yêu cầu về thuốc kháng HIV trong trường hợp khẩn cấp\"."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 1235,
+     "end": 1317,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.",
+     "parent": "e_so_hieu",
+     "start": 1318,
+     "end": 1620,
+     "text": "Điều 3. Bộ trưởng Bộ Y tế chịu trách nhiệm hướng dẫn, thi hành Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Thiện Nhân"
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1603,
+     "end": 1620,
+     "text": "Nguyễn Thiện Nhân"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

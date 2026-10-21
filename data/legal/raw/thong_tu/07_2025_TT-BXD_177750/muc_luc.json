@@ -1,0 +1,31 @@
+[
+  {
+    "level": "Điều",
+    "number": "1",
+    "title": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Thông tư này quy định về thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng gồm các lĩnh vực: quy hoạch, kiến trúc; hoạt động đầu tư xây dựng; phát triển đô thị; hạ tầng kỹ thuật; nhà ở; bất động sản; vật liệu xây dựng; an toàn lao động trong thi công xây dựng; đăng kiểm; đường bộ; đường sắt; đường thủy nội địa; hàng hải; hàng không và hồ sơ, tài liệu tổng hợp chung.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến hoạt động quản lý, lưu trữ hồ sơ, tài liệu thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "2",
+    "title": "Điều 2. Thời hạn lưu trữ hồ sơ, tài liệu",
+    "content": "Thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng thực hiện theo quy định tại các Phụ lục ban hành theo Thông tư này gồm:",
+    "children": []
+  }
+]

@@ -1,0 +1,203 @@
+{
+ "doc_id": "1371_2006_QĐ-CTN_14154",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 1371/2006/QĐ-CTN Về việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 1371/2006/QĐ-CTN\nHà Nội, ngày 18 tháng 12 năm 2006\nQUYẾT ĐỊNH\nVề việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10;\nCăn cứ Luật Quốc tịch Việt Nam năm 1998.\nXét đề nghị của Chính phủ tại Tờ trình số 131/TTr-CP ngày 12 tháng 10 năm 2006,\nQUYẾT ĐỊNH:\nĐiều 1. Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo).\nĐiều 2. Quyết định có hiệu lực kể từ ngày ký.\nThủ tướng Chính phủ, Bộ trưởng Bộ Tư pháp, Chủ nhiệm Văn phòng Chủ tịch nước và những công dân có tên trong danh sách tại Điều 1 chịu trách nhiệm thi hành Quyết định này.CHỦ TỊCH\nNƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA\nVIỆT NAM(Đã ký)Nguyễn Minh Triết\n",
+ "total_chars": 1705,
+ "total_paras": 18,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 30,
+   "text": "1371/2006/QĐ-CTN"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 67,
+   "end": 80,
+   "text": "CHỦ TỊCH NƯỚC"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 173,
+   "end": 198,
+   "text": "ngày 18 tháng 12 năm 2006"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo).",
+   "parent": "e_so_hieu",
+   "start": 638,
+   "end": 1415,
+   "text": "Điều 1. Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo)."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định có hiệu lực kể từ ngày ký.",
+   "parent": "e_so_hieu",
+   "start": 1416,
+   "end": 1461,
+   "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1687,
+   "end": 1704,
+   "text": "Nguyễn Minh Triết"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "1371_2006_QĐ-CTN_14154",
+ "doc": "1371_2006_QĐ-CTN_14154",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "1371_2006_QĐ-CTN_14154",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 1371/2006/QĐ-CTN Về việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 1371/2006/QĐ-CTN\nHà Nội, ngày 18 tháng 12 năm 2006\nQUYẾT ĐỊNH\nVề việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10;\nCăn cứ Luật Quốc tịch Việt Nam năm 1998.\nXét đề nghị của Chính phủ tại Tờ trình số 131/TTr-CP ngày 12 tháng 10 năm 2006,\nQUYẾT ĐỊNH:\nĐiều 1. Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo).\nĐiều 2. Quyết định có hiệu lực kể từ ngày ký.\nThủ tướng Chính phủ, Bộ trưởng Bộ Tư pháp, Chủ nhiệm Văn phòng Chủ tịch nước và những công dân có tên trong danh sách tại Điều 1 chịu trách nhiệm thi hành Quyết định này.CHỦ TỊCH\nNƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA\nVIỆT NAM(Đã ký)Nguyễn Minh Triết\n",
+   "full_text": "Quyết định số 1371/2006/QĐ-CTN Về việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 1371/2006/QĐ-CTN\nHà Nội, ngày 18 tháng 12 năm 2006\nQUYẾT ĐỊNH\nVề việc cho thôi quốc tịch Việt Nam\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10;\nCăn cứ Luật Quốc tịch Việt Nam năm 1998.\nXét đề nghị của Chính phủ tại Tờ trình số 131/TTr-CP ngày 12 tháng 10 năm 2006,\nQUYẾT ĐỊNH:\nĐiều 1. Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo).\nĐiều 2. Quyết định có hiệu lực kể từ ngày ký.\nThủ tướng Chính phủ, Bộ trưởng Bộ Tư pháp, Chủ nhiệm Văn phòng Chủ tịch nước và những công dân có tên trong danh sách tại Điều 1 chịu trách nhiệm thi hành Quyết định này.CHỦ TỊCH\nNƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA\nVIỆT NAM(Đã ký)Nguyễn Minh Triết\n",
+   "total_chars": 1705,
+   "total_paras": 18,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 30,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 67,
+     "end": 80,
+     "text": "CHỦ TỊCH NƯỚC"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 173,
+     "end": 198,
+     "text": "ngày 18 tháng 12 năm 2006"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo).",
+     "parent": "e_so_hieu",
+     "start": 638,
+     "end": 1415,
+     "text": "Điều 1. Cho thôi quốc tịch Việt Nam đối với: 102 công dân hiện đang cư trú tại Hàn Quốc; 245 công dân hiện đang cư trú tại Cộng hoà liên bang Đức; 270 công dân hiện đang cư trú tại Cộng hoà dân chủ nhân dân Lào; 24 công dân hiện đang cư trú tại Cộng hoà Ba Lan; 13 công dân hiện đang cư trú tại Cộng hoà Séc; 29 công dân hiện đang cư trú tại Cộng hoà Áo; 1 công dân hiện đang cư trú tại Canada; 1 công dân hiện đang cư trú tại Thái Lan; 16 công dân hiện đang cư trú tại Singapore; 4 công dân hiện đang cư trú tại Hoa Kỳ; 1 công dân hiện đang cư trú tại Slovakia; 12 công dân hiện đang cư trú tại Hà Lan; 17 công dân hiện đang cư trú tại Vương quốc Đan Mạch; 3 công dân hiện đang cư trú tại Nhật Bản; 24 công dân hiện đang cư trú tại Hồng Kông (có tên trong danh sách kèm theo)."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định có hiệu lực kể từ ngày ký.",
+     "parent": "e_so_hieu",
+     "start": 1416,
+     "end": 1461,
+     "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1687,
+     "end": 1704,
+     "text": "Nguyễn Minh Triết"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

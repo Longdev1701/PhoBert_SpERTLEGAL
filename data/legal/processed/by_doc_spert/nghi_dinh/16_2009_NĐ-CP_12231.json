@@ -1,0 +1,2110 @@
+{
+ "doc": "16_2009_NĐ-CP_12231",
+ "category": "nghi_dinh",
+ "split": "train",
+ "total_samples": 23,
+ "total_entities": 120,
+ "total_relations": 90,
+ "samples": [
+  {
+   "id": "16_2009_NĐ-CP_12231#header_0",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "header",
+   "text": "CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 16/2009/NĐ-CP . Ngày 16 tháng 2 năm 2009 . NGHỊ_ĐỊNH",
+   "tokens": [
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "16/2009/NĐ-CP",
+    ".",
+    "Ngày",
+    "16",
+    "tháng",
+    "2",
+    "năm",
+    "2009",
+    ".",
+    "NGHỊ_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 18,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 19,
+     "end": 25,
+     "text": "Ngày 16 tháng 2 năm 2009"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 26,
+     "end": 27,
+     "text": "NGHỊ_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#signature_1",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "signature",
+   "text": "TM. CHÍNH_PHỦ THỦ_TƯỚNG CHÍNH_PHỦ . ( Đã ký ) . Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "TM.",
+    "CHÍNH_PHỦ",
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 10,
+     "end": 11,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 2,
+     "end": 3,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#meta_2",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "meta",
+   "text": "CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 16/2009/NĐ-CP . Ngày 16 tháng 2 năm 2009 . NGHỊ_ĐỊNH . TM. CHÍNH_PHỦ THỦ_TƯỚNG CHÍNH_PHỦ . ( Đã ký ) . Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "16/2009/NĐ-CP",
+    ".",
+    "Ngày",
+    "16",
+    "tháng",
+    "2",
+    "năm",
+    "2009",
+    ".",
+    "NGHỊ_ĐỊNH",
+    ".",
+    "TM.",
+    "CHÍNH_PHỦ",
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 18,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 26,
+     "end": 27,
+     "text": "NGHỊ_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 38,
+     "end": 39,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 30,
+     "end": 31,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_context_3",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ . Sửa_đổi , bổ_sung khoản 2 điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Úy ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Úy",
+    "ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 16,
+     "text": "khoản 2 điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 9,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 16,
+     "end": 22,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 24,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_standalone_4",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Sửa_đổi , bổ_sung khoản 2 điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Úy ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương",
+   "tokens": [
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Úy",
+    "ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 3,
+     "end": 10,
+     "text": "khoản 2 điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 3,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 18,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_context_5",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_standalone_6",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_context_7",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Hội_đồng nhân_dân và Ủy_ban nhân_dân ngày 26 tháng 11 năm 2003 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Hội_đồng",
+    "nhân_dân",
+    "và",
+    "Ủy_ban",
+    "nhân_dân",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 14,
+     "text": "Luật Tổ_chức Hội_đồng nhân_dân và Ủy_ban nhân_dân"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 26 tháng 11 năm 2003"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_standalone_8",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Hội_đồng nhân_dân và Ủy_ban nhân_dân ngày 26 tháng 11 năm 2003 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Hội_đồng",
+    "nhân_dân",
+    "và",
+    "Ủy_ban",
+    "nhân_dân",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 8,
+     "text": "Luật Tổ_chức Hội_đồng nhân_dân và Ủy_ban nhân_dân"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 8,
+     "end": 14,
+     "text": "ngày 26 tháng 11 năm 2003"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_context_9",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ . Xét đề_nghị của Bộ_trưởng Bộ Nội_vụ ,",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 12,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#preamble_standalone_10",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Xét đề_nghị của Bộ_trưởng Bộ Nội_vụ ,",
+   "tokens": [
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 6,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_11",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Nội_vụ . Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . \" 2 . Sở Tư_pháp :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "\"",
+    "2",
+    ".",
+    "Sở",
+    "Tư_pháp",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 53,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . \" 2 . Sở Tư_pháp :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 15,
+     "end": 22,
+     "text": "khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 12,
+     "end": 15,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 30,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 43,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 52,
+     "text": "Sở Tư_pháp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_standalone_12",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . \" 2 . Sở Tư_pháp :",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "\"",
+    "2",
+    ".",
+    "Sở",
+    "Tư_pháp",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 44,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . \" 2 . Sở Tư_pháp :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 13,
+     "text": "khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 3,
+     "end": 6,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 34,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 41,
+     "end": 43,
+     "text": "Sở Tư_pháp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_13",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP ban_hành ngày 16 tháng 02 năm 2009 bởi Chính_phủ . Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . Tham_mưu , giúp Ủy_ban nhân_dân cấp tỉnh thực_hiện chức_năng quản_lý nhà_nước về : công_tác xây_dựng và thi_hành_văn_bản quy_phạm_pháp_luật ; kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật ; phổ_biến , giáo_dục pháp_luật ; thi",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "16",
+    "tháng",
+    "02",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "Tham_mưu",
+    ",",
+    "giúp",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "thực_hiện",
+    "chức_năng",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    ":",
+    "công_tác",
+    "xây_dựng",
+    "và",
+    "thi_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    ";",
+    "kiểm_tra",
+    ",",
+    "xử_lý",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    ";",
+    "phổ_biến",
+    ",",
+    "giáo_dục",
+    "pháp_luật",
+    ";",
+    "thi"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 16 tháng 02 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 82,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . Tham_mưu , giúp Ủy_ban nhân_dân cấp tỉnh thực_hiện chức_năng quản_lý nhà_nước về : công_tác xây_dựng và thi_hành_văn_bản quy_phạm_pháp_luật ; kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật ; phổ_biến , giáo_dục pháp_luật ; thi"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 26,
+     "text": "khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 16,
+     "end": 19,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 26,
+     "end": 32,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 34,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 40,
+     "end": 47,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 54,
+     "end": 58,
+     "text": "Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_standalone_14",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . Tham_mưu , giúp Ủy_ban nhân_dân cấp tỉnh thực_hiện chức_năng quản_lý nhà_nước về : công_tác xây_dựng và thi_hành_văn_bản quy_phạm_pháp_luật ; kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật ; phổ_biến , giáo_dục pháp_luật ; thi",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "số",
+    "13/2008/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "02",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "tổ_chức",
+    "các",
+    "cơ_quan",
+    "chuyên_môn",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "Tham_mưu",
+    ",",
+    "giúp",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "thực_hiện",
+    "chức_năng",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    ":",
+    "công_tác",
+    "xây_dựng",
+    "và",
+    "thi_hành_văn_bản",
+    "quy_phạm_pháp_luật",
+    ";",
+    "kiểm_tra",
+    ",",
+    "xử_lý",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    ";",
+    "phổ_biến",
+    ",",
+    "giáo_dục",
+    "pháp_luật",
+    ";",
+    "thi"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 69,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP ngày 04 tháng 02 năm 2008 của Chính_phủ quy_định tổ_chức các cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương như sau : . Tham_mưu , giúp Ủy_ban nhân_dân cấp tỉnh thực_hiện chức_năng quản_lý nhà_nước về : công_tác xây_dựng và thi_hành_văn_bản quy_phạm_pháp_luật ; kiểm_tra , xử_lý văn_bản quy_phạm_pháp_luật ; phổ_biến , giáo_dục pháp_luật ; thi"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 13,
+     "text": "khoản 2 Điều 8 Nghị_định số 13/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 3,
+     "end": 6,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 04 tháng 02 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 34,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 41,
+     "end": 45,
+     "text": "Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_15",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Nội_vụ . Điều 2 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 2 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_16",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 16/2009/NĐ-CP . Điều 2 . 1 . Nghị_định này có hiệu_lực thi_hành kể từ ngày 02 tháng 4 năm 2009 .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Nghị_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "02",
+    "tháng",
+    "4",
+    "năm",
+    "2009",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 25,
+     "text": "1 . Nghị_định này có hiệu_lực thi_hành kể từ ngày 02 tháng 4 năm 2009 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_17",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 16/2009/NĐ-CP . Điều 2 . 2 . Bãi_bỏ các quy_định trước đây trái với Nghị_định này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Bãi_bỏ",
+    "các",
+    "quy_định",
+    "trước",
+    "đây",
+    "trái",
+    "với",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 21,
+     "text": "2 . Bãi_bỏ các quy_định trước đây trái với Nghị_định này ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_18",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Nội_vụ . Điều 3 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Hội_đồng nhân_dân và Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Nghị_định này . / .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Hội_đồng",
+    "nhân_dân",
+    "và",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Nghị_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 48,
+     "text": "Điều 3 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Hội_đồng nhân_dân và Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Nghị_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 27,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Hội_đồng nhân_dân"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 40,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_19",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Nội_vụ . Điều 1 . 2 . Sở Tư_pháp :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Sở",
+    "Tư_pháp",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 17,
+     "text": "2 . Sở Tư_pháp :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Sở Tư_pháp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_20",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 16/2009/NĐ-CP . Điều 2 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 11,
+     "text": "Điều 2 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#body_context_21",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 16/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Nội_vụ . Điều 3 . Trách_nhiệm thi_hành",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "16/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "16/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 3 . Trách_nhiệm thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "16_2009_NĐ-CP_12231#hard_negative_22",
+   "doc": "16_2009_NĐ-CP_12231",
+   "category": "nghi_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

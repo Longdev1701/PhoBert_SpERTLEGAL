@@ -1,0 +1,209 @@
+{
+ "doc_id": "133_2009_QĐ-TTg_23839",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 133/2009/QĐ-TTg Ban hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 133/2009/QĐ-TTg\nHà Nội, ngày 03 tháng 11 năm 2009\nQUYẾT ĐỊNH\nBan hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Nghị định số 24/NĐ-CP ngày 19 tháng 3 năm 1997 của Chính phủ quy định chi tiết thi hành Pháp lệnh Khai thác và Bảo vệ công trình khí tượng thuỷ văn;\nCăn cứ Nghị định số 08/2006/NĐ-CP ngày 16 tháng 01 năm 2006 của Chính phủ quy định chi tiết một số điều của Pháp lệnh Phòng, chống lụt, bão đã được sửa đổi, bổ sung ngày 24 tháng 8 năm 2000;\nCăn cứ Quyết định số 137/2007/QĐ-TTg ngày 21 tháng 8 năm 2007 của Thủ tướng Chính phủ phê duyệt Đề án tổ chức thông tin phục vụ công tác phòng, chống thiên tai trên biển;\nXét đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009.\nĐiều 3. Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Trưởng ban Ban Chỉ đạo phòng, chống lụt, bão Trung ương, Chủ tịch Ủy ban quốc gia Tìm kiếm Cứu nạn, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nTHỦ TƯỚNG CHÍNH PHỦNguyễn Tấn Dũng\n",
+ "total_chars": 1606,
+ "total_paras": 20,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 29,
+   "text": "133/2009/QĐ-TTg"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 94,
+   "end": 113,
+   "text": "THỦ TƯỚNG CHÍNH PHỦ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 205,
+   "end": 230,
+   "text": "ngày 03 tháng 11 năm 2009"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển.",
+   "parent": "e_so_hieu",
+   "start": 968,
+   "end": 1064,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009.",
+   "parent": "e_so_hieu",
+   "start": 1065,
+   "end": 1141,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.",
+   "parent": "e_so_hieu",
+   "start": 1142,
+   "end": 1570,
+   "text": "Điều 3. Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Trưởng ban Ban Chỉ đạo phòng, chống lụt, bão Trung ương, Chủ tịch Ủy ban quốc gia Tìm kiếm Cứu nạn, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./."
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "133_2009_QĐ-TTg_23839",
+ "doc": "133_2009_QĐ-TTg_23839",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "133_2009_QĐ-TTg_23839",
+   "doc": "133_2009_QĐ-TTg_23839",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 133/2009/QĐ-TTg Ban hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 133/2009/QĐ-TTg\nHà Nội, ngày 03 tháng 11 năm 2009\nQUYẾT ĐỊNH\nBan hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Nghị định số 24/NĐ-CP ngày 19 tháng 3 năm 1997 của Chính phủ quy định chi tiết thi hành Pháp lệnh Khai thác và Bảo vệ công trình khí tượng thuỷ văn;\nCăn cứ Nghị định số 08/2006/NĐ-CP ngày 16 tháng 01 năm 2006 của Chính phủ quy định chi tiết một số điều của Pháp lệnh Phòng, chống lụt, bão đã được sửa đổi, bổ sung ngày 24 tháng 8 năm 2000;\nCăn cứ Quyết định số 137/2007/QĐ-TTg ngày 21 tháng 8 năm 2007 của Thủ tướng Chính phủ phê duyệt Đề án tổ chức thông tin phục vụ công tác phòng, chống thiên tai trên biển;\nXét đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009.\nĐiều 3. Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Trưởng ban Ban Chỉ đạo phòng, chống lụt, bão Trung ương, Chủ tịch Ủy ban quốc gia Tìm kiếm Cứu nạn, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nTHỦ TƯỚNG CHÍNH PHỦNguyễn Tấn Dũng\n",
+   "full_text": "Quyết định số 133/2009/QĐ-TTg Ban hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 133/2009/QĐ-TTg\nHà Nội, ngày 03 tháng 11 năm 2009\nQUYẾT ĐỊNH\nBan hành Quy chế thông tin cảnh báo, dự báo thiên tai trên biển\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Nghị định số 24/NĐ-CP ngày 19 tháng 3 năm 1997 của Chính phủ quy định chi tiết thi hành Pháp lệnh Khai thác và Bảo vệ công trình khí tượng thuỷ văn;\nCăn cứ Nghị định số 08/2006/NĐ-CP ngày 16 tháng 01 năm 2006 của Chính phủ quy định chi tiết một số điều của Pháp lệnh Phòng, chống lụt, bão đã được sửa đổi, bổ sung ngày 24 tháng 8 năm 2000;\nCăn cứ Quyết định số 137/2007/QĐ-TTg ngày 21 tháng 8 năm 2007 của Thủ tướng Chính phủ phê duyệt Đề án tổ chức thông tin phục vụ công tác phòng, chống thiên tai trên biển;\nXét đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009.\nĐiều 3. Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Trưởng ban Ban Chỉ đạo phòng, chống lụt, bão Trung ương, Chủ tịch Ủy ban quốc gia Tìm kiếm Cứu nạn, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nTHỦ TƯỚNG CHÍNH PHỦNguyễn Tấn Dũng\n",
+   "total_chars": 1606,
+   "total_paras": 20,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 29,
+     "text": "133/2009/QĐ-TTg"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 94,
+     "end": 113,
+     "text": "THỦ TƯỚNG CHÍNH PHỦ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 205,
+     "end": 230,
+     "text": "ngày 03 tháng 11 năm 2009"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển.",
+     "parent": "e_so_hieu",
+     "start": 968,
+     "end": 1064,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế thông tin cảnh báo, dự báo thiên tai trên biển."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009.",
+     "parent": "e_so_hieu",
+     "start": 1065,
+     "end": 1141,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2009."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.",
+     "parent": "e_so_hieu",
+     "start": 1142,
+     "end": 1570,
+     "text": "Điều 3. Bộ trưởng Bộ Tài nguyên và Môi trường chịu trách nhiệm chủ trì hướng dẫn, tổ chức, chỉ đạo và kiểm tra việc thực hiện Quyết định này.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Trưởng ban Ban Chỉ đạo phòng, chống lụt, bão Trung ương, Chủ tịch Ủy ban quốc gia Tìm kiếm Cứu nạn, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./."
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+[
+  {
+    "level": "Điều",
+    "number": "1",
+    "title": "Điều 1. Công bố vùng nước cảng biển thuộc địa phận tỉnh An Giang",
+    "content": "Vùng nước cảng biển thuộc địa phận tỉnh An Giang tính theo mực nước thủy triều lớn nhất bao gồm các khu vực sau:",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Khu vực Hòn Chông với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm từ HC1 đến HC6 có tọa độ sau đây:",
+            "content": "HC1: 10°10’13” N, 104°35’59” E;\nHC2: 10°10’18” N, 104°34’02” E;\nHC3: 10°00’00” N, 104°33’36” E;\nHC4: 10°00’00” N, 104°35’36” E;\nHC5: 10°08’39” N, 104°35’57” E;\nHC6: 10°09’05” N, 104°36’01” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: được giới hạn bởi đoạn thẳng nối hai điểm bờ nhô xa nhất từ điểm HC1 đến điểm HC6, từ điểm HC6 chạy dọc theo bờ biển về hướng Nam đến điểm HC5.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Khu vực Bình Trị với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm BT1, BT2, BT3, BT4 và BT5 có tọa độ sau đây:",
+            "content": "BT1: 10°14’18” N, 104°35’12” E;\nBT2: 10°14’24” N, 104°24’00” E;\nBT3: 10°10’36” N, 104°24’00” E;\nBT4: 10°11’36” N, 104°32’36” E;\nBT5: 10°11’00” N, 104°35’20” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm BT1 chạy dọc theo bờ biển về hướng Nam đến điểm BT5.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Khu vực Hà Tiên với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm HT1, HT2, HT3 và HT4 có tọa độ sau đây:",
+            "content": "HT1: 10°21’56” N, 104°26’28” E;\nHT2: 10°20’24” N, 104°22’52” E;\nHT3: 10°18’10” N, 104°24’58” E;\nHT4: 10°22’01” N, 104°28’32” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm HT1 chạy dọc theo bờ biển đến cửa sông Tô Châu (tính đến hạ lưu hành lang an toàn cầu Tô Châu), từ cửa sông Tô Châu chạy dọc theo bờ tả ngạn sông Tô Châu về phía thượng lưu đến vị trí HT6, chạy cắt ngang sông đến bờ hữu ngạn sông Tô Châu tại vị trí HT5, tiếp tục chạy dọc theo bờ kè, bờ biển về phía hạ lưu sông Tô Châu đến điểm HT4.",
+            "content": "HT5: 10°22’54” N, 104°29’24” E;\nHT6: 10°23’00” N, 104°29’21” E.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "4",
+        "title": "4. Khu vực Dương Đông với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm DD1, DD2, DD3, DD4 có tọa độ sau đây:",
+            "content": "DD1: 10°14’30” N, 103°56’47” E;\nDD2: 10°14’30” N, 103°50’00” E;\nDD3: 10°10’46” N, 103°52’03” E;\nDD4: 10°10’46” N, 103°57’46” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm DD1 chạy dọc theo bờ biển về hướng Nam đến điểm DD4.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "5",
+        "title": "5. Khu vực An Thới với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm AT1, AT2, AT3, AT4, từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5, tiếp tục nối liền với các điểm AT6, AT7, AT8, AT9, AT10 có tọa độ sau đây:",
+            "content": "AT1: 10°03’19” N, 103°59’16” E;\nAT2: 10°02’32” N, 103°56’32” E;\nAT3: 09°59’08” N, 103°58’10” E;\nAT4: 09°59’08” N, 104°00’42” E;\nAT5: 09°58’10” N, 104°01’24” E;\nAT6: 09°57’23” N, 104°01’24” E;\nAT7: 09°57’23” N, 104°02’27” E;\nAT8: 09°59’30” N, 104°01’25” E;\nAT9: 10°00’18” N, 104°01’42” E;\nAT10: 10°00’46” N, 104°00’54” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm AT1 chạy dọc theo bờ biển về hướng Nam đến điểm AT10.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "6",
+        "title": "6. Khu vực Bãi Vòng với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm BV1, BV2, BV3 và BV4 có tọa độ sau đây:",
+            "content": "BV1: 10°10’00” N, 104°02’51” E;\nBV2: 10°10’00” N, 104°06’38” E;\nBV3: 10°03’40” N, 104°04’56” E;\nBV4: 10°03’40” N, 104°02’28” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm BV1 chạy dọc theo bờ đến điểm BV5, cắt ngang rạch Cầu Sấu tại điểm BV6, từ điểm BV6 tiếp tục chạy dọc theo bờ đến điểm BV4.",
+            "content": "BV5: 10°04’15” N, 104°01’30” E;\nBV6: 10°04’15” N, 104°01’33” E.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "7",
+        "title": "7. Khu vực Rạch Giá với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối lần lượt các điểm RG1, RG2, RG3, RG4, RG5 và RG6 có tọa độ sau đây:",
+            "content": "RG1: 10°00’42” N, 105°04’00” E;\nRG2: 09°59’34” N, 105°02’00” E;\nRG3: 09°59’34” N, 104°56’00” E;\nRG4: 09°58’00” N, 104°56’00” E;\nRG5: 09°58’00” N, 105°02’42” E;\nRG6: 10°00’28” N, 105°04’36” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm RG1 chạy dọc theo bờ kè khu đô thị lấn biển Tây Bắc (tính từ biển vào) bao gồm bến cảng Rạch Giá đến cách cống Sông Kiên 50 mét về phía hạ lưu, cắt ngang sông song song với cống Sông Kiên, tiếp tục chạy dọc bờ kè khu đô thị lấn biển 16 hécta đến điểm RG6.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "8",
+        "title": "8. Khu vực Mỹ Thới với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía hạ lưu là ranh giới trên sông Hậu giữa thành phố Cần Thơ, tỉnh Đồng Tháp và tỉnh An Giang, nối liền từ điểm MT1, MT2, MT3, MT4. Tọa độ như sau:",
+            "content": "MT1: 10°19’32” N, 105°29’23” E;\nMT2: 10°19’35” N, 105°29’37” E;\nMT3: 10°20’08” N, 105°29’09” E;\nMT4: 10°20’19” N, 105°29’19” E.",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía thượng lưu là đoạn thẳng cắt ngang sông Hậu đi qua hai điểm MT5 (phường Long Xuyên, tỉnh An Giang) và MT6 (xã Hội An, tỉnh An Giang) tại khu vực rạch Gòi Lớn. Tọa độ như sau:",
+            "content": "MT5: 10°21’45” N, 105°27’30” E;\nMT6: 10°22’00” N, 105°27’55” E.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "9",
+        "title": "9. Ranh giới vùng nước cảng biển thuộc địa phận tỉnh An Giang quy định tại Thông tư này được xác định trên các hải đồ do Tổng công ty Bảo đảm an toàn hàng hải Việt Nam phát hành, bao gồm: VN4HG013, VN300033, VN300034 được cập nhật mới nhất năm 2025 và Hải đồ của Hải quân nhân dân Việt Nam: IA-100-31 xuất bản năm 2008, IA-100-32 tái bản lần thứ nhất năm 2006. Tọa độ các điểm quy định tại Thông tư này được áp dụng theo Hệ tọa độ VN-2000 và được chuyển sang Hệ tọa độ WGS-84 tại Phụ lục kèm theo Thông tư này.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "2",
+    "title": "Điều 2. Công bố vùng nước cảng biển thuộc địa phận tỉnh Cà Mau",
+    "content": "Vùng nước cảng biển thuộc địa phận tỉnh Cà Mau tính theo mực nước thủy triều lớn nhất bao gồm các khu vực sau:",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Khu vực Năm Căn với phạm vi:",
+        "content": "",
+        "children": [
+          {
+            "level": "Điểm",
+            "number": "a",
+            "title": "a) Ranh giới về phía biển: được giới hạn bởi các đoạn thẳng nối các điểm NC1, NC2, NC3, NC4, có tọa độ sau đây:",
+            "content": "NC1: 08°45’12” N, 105°12’31” E;\nNC2: 08°38’43” N, 105°17’46” E;\nNC3: 08°40’44” N, 105°20’22” E;\nNC4: 08°46’20” N, 105°15’50” E;",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "b",
+            "title": "b) Ranh giới về phía đất liền: từ điểm NC1 và điểm NC4 thuộc cửa Bồ Đề chạy dọc theo hai bờ sông Cửa Lớn đến đoạn thẳng cắt ngang sông cách cầu cảng Năm Căn 3.500 mét về phía thượng lưu.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Điểm",
+            "number": "c",
+            "title": "c) Ranh giới tại khu vực Ông Đốc: là vùng nước được giới hạn bởi đường tròn bán kính 1,5 hải lý, với tâm tại điểm OĐ có tọa độ: 09°02’00” N, 104°46’00” E.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Khu vực cảng dầu khí ngoài khơi cửa sông Ông Đốc với phạm vi:",
+        "content": "Được giới hạn bởi đường tròn bán kính 11 hải lý, với tâm tại điểm SOĐ có tọa độ: 08o28’17” N, 102°45’05” E.",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Khu vực cảng dầu khí ngoài khơi mỏ Sông Đốc với phạm vi:",
+        "content": "Được giới hạn bởi đường tròn bán kính 01 hải lý, với tâm tại điểm SĐ có tọa độ: 07°09’39” N, 104°03’21” E.",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "4",
+        "title": "4. Khu vực Vĩnh Hậu với phạm vi:",
+        "content": "Được giới hạn bởi các đoạn thẳng nối các điểm VH1, VH2, VH3 và VH4, có tọa độ sau đây:\nVH1: 09°01’25” N, 105°44’14” E;\nVH2: 08°51’39” N, 105°48’33” E;\nVH3: 08°55’09” N, 105°58’23” E;\nVH4: 09°05’07” N, 105°54’54” E.",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "5",
+        "title": "5. Ranh giới vùng nước cảng biển thuộc địa phận tỉnh Cà Mau quy định tại Thông tư này được xác định trên các hải đồ: VN300029, VN300030 do Tổng công ty Bảo đảm an toàn hàng hải Việt Nam phát hành và Hải đồ số I-500-16 sản xuất năm 2013, Hải đồ I-300-28 tái bản năm 2016, Hải đồ số I-100-133 tái bản năm 2018 của Hải quân nhân dân Việt Nam. Tọa độ các điểm quy định tại Thông tư này được áp dụng theo Hệ tọa độ VN-2000 và được chuyển sang Hệ tọa độ WGS-84 tại Phụ lục kèm theo Thông tư này.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "3",
+    "title": "Điều 3. Khu vực hàng hải thuộc địa phận tỉnh An Giang và tỉnh Cà Mau",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Khu vực hàng hải Hà Tiên: bao gồm khu vực Hòn Chông, khu vực Bình Trị và khu vực Hà Tiên.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Khu vực hàng hải Phú Quốc: bao gồm khu vực Dương Đông, khu vực An Thới và khu vực Bãi Vòng.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Khu vực hàng hải Rạch Giá.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "4",
+        "title": "4. Khu vực hàng hải Cà Mau: bao gồm khu vực Năm Căn, khu vực Vĩnh Hậu, khu vực cảng dầu khí ngoài khơi cửa sông Ông Đốc và khu vực cảng dầu khí ngoài khơi mỏ Sông Đốc.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "4",
+    "title": "Điều 4. Khu vực quản lý của Cảng vụ Hàng hải Kiên Giang",
+    "content": "Cảng vụ Hàng hải Kiên Giang thực hiện quản lý nhà nước chuyên ngành về hàng hải tại cảng biển thuộc địa phận tỉnh An Giang được quy định tại các khoản 1, 2, 3, 4, 5, 6, 7 Điều 1, cảng biển thuộc địa phận tỉnh Cà Mau được quy định tại Điều 2 và các khu vực hàng hải được quy định tại Điều 3 Thông tư này.",
+    "children": []
+  },
+  {
+    "level": "Điều",
+    "number": "5",
+    "title": "Điều 5. Điều khoản thi hành",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Thông tư này có hiệu lực kể từ ngày 15 tháng 4 năm 2026.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Bãi bỏ Thông tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh Kiên Giang, Cà Mau, Bạc Liêu và khu vực quản lý của Cảng vụ Hàng hải Kiên Giang và Thông tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh An Giang và khu vực quản lý của Cảng vụ Hàng hải An Giang.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Bãi bỏ số thứ tự số 24, 25 tại Phụ lục Danh mục khu vực hàng hải thuộc phạm vi quản lý của Cảng vụ hàng hải được ban hành kèm theo Thông tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ trưởng Bộ Giao thông vận tải công bố Danh mục khu vực hàng hải thuộc phạm vi quản lý của Cảng vụ hàng hải./.",
+        "content": "",
+        "children": []
+      }
+    ]
+  }
+]

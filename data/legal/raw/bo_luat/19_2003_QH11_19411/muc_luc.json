@@ -1,0 +1,32 @@
+[
+  {
+    "level": "Phần",
+    "number": "th",
+    "title": "Phần th. ứ nhất",
+    "content": "",
+    "children": [
+      {
+        "level": "Chương",
+        "number": "I",
+        "title": "Chương I. NHIỆM VỤ VÀ HIỆU LỰC CỦA BỘ LUẬT TỐ TỤNG HÌNH SỰ",
+        "content": "",
+        "children": [
+          {
+            "level": "Điều",
+            "number": "1",
+            "title": "Điều 1. Nhiệm vụ của Bộ luật tố tụng hình sự",
+            "content": "Bộ luật tố tụng hình sự quy định trình tự, thủ tục khởi tố, điều tra, truy tố, xét xử và thi hành án hình sự; chức năng, nhiệm vụ, quyền hạn và mối quan hệ giữa các cơ quan tiến hành tố tụng; nhiệm vụ, quyền hạn và trách nhiệm của những người tiến hành tố tụng; quyền và nghĩa vụ của những người tham gia tố tụng, của các cơ quan, tổ chức và công dân; hợp tác quốc tế trong tố tụng hình sự, nhằm chủ động phòng ngừa, ngăn chặn tội phạm, phát hiện chính xác, nhanh chóng và xử lý công minh, kịp thời mọi hành vi phạm tội, không để lọt tội phạm, không làm oan người vô tội.\nBộ luật tố tụng hình sự góp phần bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của công dân, tổ chức, bảo vệ trật tự pháp luật xã hội chủ nghĩa, đồng thời giáo dục mọi người ý thức tuân theo pháp luật, đấu tranh phòng ngừa và chống tội phạm.",
+            "children": []
+          },
+          {
+            "level": "Điều",
+            "number": "2",
+            "title": "Điều 2. Hiệu lực của Bộ luật tố tụng hình sự",
+            "content": "Mọi hoạt động tố tụng hình sự trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam phải được tiến hành theo quy định của Bộ luật này.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

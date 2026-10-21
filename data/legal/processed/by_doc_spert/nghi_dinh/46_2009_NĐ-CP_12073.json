@@ -1,0 +1,9963 @@
+{
+ "doc": "46_2009_NĐ-CP_12073",
+ "category": "nghi_dinh",
+ "split": "train",
+ "total_samples": 89,
+ "total_entities": 551,
+ "total_relations": 384,
+ "samples": [
+  {
+   "id": "46_2009_NĐ-CP_12073#header_0",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "header",
+   "text": "CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Số : 46/2009/NĐ-CP . Hà_Nội , ngày 13 tháng 05 năm 2009 . NGHỊ_ĐỊNH",
+   "tokens": [
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "46/2009/NĐ-CP",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    ".",
+    "NGHỊ_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 16,
+     "end": 17,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 20,
+     "end": 26,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 27,
+     "end": 28,
+     "text": "NGHỊ_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#signature_1",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "signature",
+   "text": "TM. CHÍNH_PHỦ THỦ_TƯỚNG Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "TM.",
+    "CHÍNH_PHỦ",
+    "THỦ_TƯỚNG",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 3,
+     "end": 4,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 2,
+     "end": 3,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#meta_2",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "meta",
+   "text": "CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Số : 46/2009/NĐ-CP . Hà_Nội , ngày 13 tháng 05 năm 2009 . NGHỊ_ĐỊNH . TM. CHÍNH_PHỦ THỦ_TƯỚNG Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "46/2009/NĐ-CP",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    ".",
+    "NGHỊ_ĐỊNH",
+    ".",
+    "TM.",
+    "CHÍNH_PHỦ",
+    "THỦ_TƯỚNG",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 16,
+     "end": 17,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 27,
+     "end": 28,
+     "text": "NGHỊ_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 32,
+     "end": 33,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 31,
+     "end": 32,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#preamble_context_3",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ; Căn_cứ Pháp_lệnh Công_nghiệp quốc_phòng ngày 26 tháng 01 năm 2008 ; Xét đề_nghị của Bộ_trưởng Bộ Quốc_phòng ,",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";",
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "ngày",
+    "26",
+    "tháng",
+    "01",
+    "năm",
+    "2008",
+    ";",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Quốc_phòng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "Pháp_lệnh Công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 25 tháng 12 năm 2001"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 26 tháng 01 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 34,
+     "text": "Bộ_trưởng Bộ Quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#preamble_standalone_4",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ; Căn_cứ Pháp_lệnh Công_nghiệp quốc_phòng ngày 26 tháng 01 năm 2008 ; Xét đề_nghị của Bộ_trưởng Bộ Quốc_phòng ,",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";",
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "ngày",
+    "26",
+    "tháng",
+    "01",
+    "năm",
+    "2008",
+    ";",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Quốc_phòng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 15,
+     "text": "Pháp_lệnh Công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 15,
+     "end": 21,
+     "text": "ngày 26 tháng 01 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "Bộ_trưởng Bộ Quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_5",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định chi_tiết và hướng_dẫn thi_hành điểm d khoản 1 Điều 5 Pháp_lệnh Công_nghiệp quốc_phòng về xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng ; khoản 2 Điều 7 Pháp_lệnh Công_nghiệp quốc_phòng về lập danh_sách các cơ_sở công_nghiệp quốc_phòng ; khoản 4 Điều 8 Pháp_lệnh Công_nghiệp quốc_phòng về hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt ; khoản 2 Điều 10 Pháp_lệnh Công",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Nghị_định",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "điểm",
+    "d",
+    "khoản",
+    "1",
+    "Điều",
+    "5",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "xuất_khẩu",
+    ",",
+    "nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    ";",
+    "khoản",
+    "2",
+    "Điều",
+    "7",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "lập",
+    "danh_sách",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    ";",
+    "khoản",
+    "4",
+    "Điều",
+    "8",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "của",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    ";",
+    "khoản",
+    "2",
+    "Điều",
+    "10",
+    "Pháp_lệnh",
+    "Công"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 76,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định chi_tiết và hướng_dẫn thi_hành điểm d khoản 1 Điều 5 Pháp_lệnh Công_nghiệp quốc_phòng về xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng ; khoản 2 Điều 7 Pháp_lệnh Công_nghiệp quốc_phòng về lập danh_sách các cơ_sở công_nghiệp quốc_phòng ; khoản 4 Điều 8 Pháp_lệnh Công_nghiệp quốc_phòng về hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt ; khoản 2 Điều 10 Pháp_lệnh Công"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 25,
+     "text": "điểm d khoản 1 Điều 5"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 41,
+     "text": "khoản 2 Điều 7"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 52,
+     "end": 56,
+     "text": "khoản 4 Điều 8"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 70,
+     "end": 74,
+     "text": "khoản 2 Điều 10"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 48,
+     "end": 51,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 65,
+     "end": 69,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_6",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định chi_tiết và hướng_dẫn thi_hành điểm d khoản 1 Điều 5 Pháp_lệnh Công_nghiệp quốc_phòng về xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng ; khoản 2 Điều 7 Pháp_lệnh Công_nghiệp quốc_phòng về lập danh_sách các cơ_sở công_nghiệp quốc_phòng ; khoản 4 Điều 8 Pháp_lệnh Công_nghiệp quốc_phòng về hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt ; khoản 2 Điều 10 Pháp_lệnh Công",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Nghị_định",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "điểm",
+    "d",
+    "khoản",
+    "1",
+    "Điều",
+    "5",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "xuất_khẩu",
+    ",",
+    "nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    ";",
+    "khoản",
+    "2",
+    "Điều",
+    "7",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "lập",
+    "danh_sách",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    ";",
+    "khoản",
+    "4",
+    "Điều",
+    "8",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "về",
+    "hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "của",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    ";",
+    "khoản",
+    "2",
+    "Điều",
+    "10",
+    "Pháp_lệnh",
+    "Công"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 70,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định chi_tiết và hướng_dẫn thi_hành điểm d khoản 1 Điều 5 Pháp_lệnh Công_nghiệp quốc_phòng về xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng ; khoản 2 Điều 7 Pháp_lệnh Công_nghiệp quốc_phòng về lập danh_sách các cơ_sở công_nghiệp quốc_phòng ; khoản 4 Điều 8 Pháp_lệnh Công_nghiệp quốc_phòng về hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt ; khoản 2 Điều 10 Pháp_lệnh Công"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 19,
+     "text": "điểm d khoản 1 Điều 5"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 35,
+     "text": "khoản 2 Điều 7"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 46,
+     "end": 50,
+     "text": "khoản 4 Điều 8"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 68,
+     "text": "khoản 2 Điều 10"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 45,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 59,
+     "end": 63,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_7",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Xuất_khẩu",
+    ",",
+    "nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 16,
+     "text": "Điều 2 . Xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_8",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Khoản 1 . a ) Xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng phải : thực_hiện theo kế_hoạch được cấp có thẩm_quyền phê_duyệt ; tuân_thủ pháp_luật , các quy_định của Nhà_nước , các Điều_ước quốc_tế mà Việt_Nam là thành_viên ; được quản_lý chặt_chẽ , bảo_đảm bí_mật , an_toàn , hiệu_quả ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Xuất_khẩu",
+    ",",
+    "nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    "phải",
+    ":",
+    "thực_hiện",
+    "theo",
+    "kế_hoạch",
+    "được",
+    "cấp",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    ";",
+    "tuân_thủ",
+    "pháp_luật",
+    ",",
+    "các",
+    "quy_định",
+    "của",
+    "Nhà_nước",
+    ",",
+    "các",
+    "Điều_ước",
+    "quốc_tế",
+    "mà",
+    "Việt_Nam",
+    "là",
+    "thành_viên",
+    ";",
+    "được",
+    "quản_lý",
+    "chặt_chẽ",
+    ",",
+    "bảo_đảm",
+    "bí_mật",
+    ",",
+    "an_toàn",
+    ",",
+    "hiệu_quả",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 59,
+     "text": "a ) Xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng phải : thực_hiện theo kế_hoạch được cấp có thẩm_quyền phê_duyệt ; tuân_thủ pháp_luật , các quy_định của Nhà_nước , các Điều_ước quốc_tế mà Việt_Nam là thành_viên ; được quản_lý chặt_chẽ , bảo_đảm bí_mật , an_toàn , hiệu_quả ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "cấp có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_9",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Khoản 1 . b ) Chỉ nhập_khẩu hàng quốc_phòng có tiêu_chuẩn , chất_lượng cao hơn hoặc tương_đương hàng quốc_phòng do cơ_sở công_nghiệp quốc_phòng sản_xuất trong trường_hợp trong nước không đáp_ứng được nhu_cầu về số_lượng ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Chỉ",
+    "nhập_khẩu",
+    "hàng",
+    "quốc_phòng",
+    "có",
+    "tiêu_chuẩn",
+    ",",
+    "chất_lượng",
+    "cao",
+    "hơn",
+    "hoặc",
+    "tương_đương",
+    "hàng",
+    "quốc_phòng",
+    "do",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "sản_xuất",
+    "trong",
+    "trường_hợp",
+    "trong",
+    "nước",
+    "không",
+    "đáp_ứng",
+    "được",
+    "nhu_cầu",
+    "về",
+    "số_lượng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 44,
+     "text": "b ) Chỉ nhập_khẩu hàng quốc_phòng có tiêu_chuẩn , chất_lượng cao hơn hoặc tương_đương hàng quốc_phòng do cơ_sở công_nghiệp quốc_phòng sản_xuất trong trường_hợp trong nước không đáp_ứng được nhu_cầu về số_lượng ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 32,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_10",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 1 . b ) Chỉ nhập_khẩu hàng quốc_phòng có tiêu_chuẩn , chất_lượng cao hơn hoặc tương_đương hàng quốc_phòng do cơ_sở công_nghiệp quốc_phòng sản_xuất trong trường_hợp trong nước không đáp_ứng được nhu_cầu về số_lượng ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Chỉ",
+    "nhập_khẩu",
+    "hàng",
+    "quốc_phòng",
+    "có",
+    "tiêu_chuẩn",
+    ",",
+    "chất_lượng",
+    "cao",
+    "hơn",
+    "hoặc",
+    "tương_đương",
+    "hàng",
+    "quốc_phòng",
+    "do",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "sản_xuất",
+    "trong",
+    "trường_hợp",
+    "trong",
+    "nước",
+    "không",
+    "đáp_ứng",
+    "được",
+    "nhu_cầu",
+    "về",
+    "số_lượng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 38,
+     "text": "b ) Chỉ nhập_khẩu hàng quốc_phòng có tiêu_chuẩn , chất_lượng cao hơn hoặc tương_đương hàng quốc_phòng do cơ_sở công_nghiệp quốc_phòng sản_xuất trong trường_hợp trong nước không đáp_ứng được nhu_cầu về số_lượng ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 26,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_11",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Khoản 1 . c ) Cấm_nhập_khẩu , mua_sắm sản_phẩm là vũ_khí , trang_bị kỹ_thuật quân_sự của tổ_chức , cá_nhân nước_ngoài không rõ lai_lịch , nguồn_gốc , xuất_xứ ; gian_lận thương_mại ; không bảo_đảm tính_năng kỹ_thuật , chiến_thuật , mục_đích sử_dụng ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Cấm_nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "sản_phẩm",
+    "là",
+    "vũ_khí",
+    ",",
+    "trang_bị",
+    "kỹ_thuật",
+    "quân_sự",
+    "của",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "không",
+    "rõ",
+    "lai_lịch",
+    ",",
+    "nguồn_gốc",
+    ",",
+    "xuất_xứ",
+    ";",
+    "gian_lận",
+    "thương_mại",
+    ";",
+    "không",
+    "bảo_đảm",
+    "tính_năng",
+    "kỹ_thuật",
+    ",",
+    "chiến_thuật",
+    ",",
+    "mục_đích",
+    "sử_dụng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 50,
+     "text": "c ) Cấm_nhập_khẩu , mua_sắm sản_phẩm là vũ_khí , trang_bị kỹ_thuật quân_sự của tổ_chức , cá_nhân nước_ngoài không rõ lai_lịch , nguồn_gốc , xuất_xứ ; gian_lận thương_mại ; không bảo_đảm tính_năng kỹ_thuật , chiến_thuật , mục_đích sử_dụng ;"
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 40,
+     "end": 49,
+     "text": "không bảo_đảm tính_năng kỹ_thuật , chiến_thuật , mục_đích sử_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_12",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 2 . 2 . Hàng quốc_phòng đảm_bảo cho quân_đội thực_hiện các nhiệm_vụ quân_sự , quốc_phòng bao_gồm : vũ_khí , trang_bị kỹ_thuật , các dây_chuyền công_nghệ , sản_phẩm công_nghệ , dịch_vụ , vật_tư và các hàng_hóa khác .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Hàng",
+    "quốc_phòng",
+    "đảm_bảo",
+    "cho",
+    "quân_đội",
+    "thực_hiện",
+    "các",
+    "nhiệm_vụ",
+    "quân_sự",
+    ",",
+    "quốc_phòng",
+    "bao_gồm",
+    ":",
+    "vũ_khí",
+    ",",
+    "trang_bị",
+    "kỹ_thuật",
+    ",",
+    "các",
+    "dây_chuyền",
+    "công_nghệ",
+    ",",
+    "sản_phẩm",
+    "công_nghệ",
+    ",",
+    "dịch_vụ",
+    ",",
+    "vật_tư",
+    "và",
+    "các",
+    "hàng_hóa",
+    "khác",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 51,
+     "text": "2 . Hàng quốc_phòng đảm_bảo cho quân_đội thực_hiện các nhiệm_vụ quân_sự , quốc_phòng bao_gồm : vũ_khí , trang_bị kỹ_thuật , các dây_chuyền công_nghệ , sản_phẩm công_nghệ , dịch_vụ , vật_tư và các hàng_hóa khác ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 48,
+     "end": 49,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_13",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 2 . 3 . Hàng quốc_phòng gồm 2 loại : hàng chuyên_dùng quân_sự và hàng lưỡng_dụng .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Hàng",
+    "quốc_phòng",
+    "gồm",
+    "2",
+    "loại",
+    ":",
+    "hàng",
+    "chuyên_dùng",
+    "quân_sự",
+    "và",
+    "hàng",
+    "lưỡng_dụng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 27,
+     "text": "3 . Hàng quốc_phòng gồm 2 loại : hàng chuyên_dùng quân_sự và hàng lưỡng_dụng ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_14",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Khoản 3 . a ) Hàng chuyên_dùng quân_sự bao_gồm : vũ_khí , đạn_dược , vật_liệu nổ , trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư chuyên_dùng quốc_phòng ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Hàng",
+    "chuyên_dùng",
+    "quân_sự",
+    "bao_gồm",
+    ":",
+    "vũ_khí",
+    ",",
+    "đạn_dược",
+    ",",
+    "vật_liệu",
+    "nổ",
+    ",",
+    "trang",
+    "thiết_bị",
+    "kỹ_thuật",
+    ",",
+    "công_nghệ",
+    ",",
+    "dịch_vụ",
+    ",",
+    "vật_tư",
+    "chuyên_dùng",
+    "quốc_phòng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 38,
+     "text": "a ) Hàng chuyên_dùng quân_sự bao_gồm : vũ_khí , đạn_dược , vật_liệu nổ , trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư chuyên_dùng quốc_phòng ;"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 28,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_15",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . Khoản 3 . b ) Hàng lưỡng_dụng bao_gồm : trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư , hàng_hóa , có_thể sử_dụng cho quốc_phòng và cả trong lĩnh_vực kinh_tế - xã_hội ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Hàng",
+    "lưỡng_dụng",
+    "bao_gồm",
+    ":",
+    "trang",
+    "thiết_bị",
+    "kỹ_thuật",
+    ",",
+    "công_nghệ",
+    ",",
+    "dịch_vụ",
+    ",",
+    "vật_tư",
+    ",",
+    "hàng_hóa",
+    ",",
+    "có_thể",
+    "sử_dụng",
+    "cho",
+    "quốc_phòng",
+    "và",
+    "cả",
+    "trong",
+    "lĩnh_vực",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 42,
+     "text": "b ) Hàng lưỡng_dụng bao_gồm : trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư , hàng_hóa , có_thể sử_dụng cho quốc_phòng và cả trong lĩnh_vực kinh_tế - xã_hội ;"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 37,
+     "end": 41,
+     "text": "lĩnh_vực kinh_tế - xã_hội"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 20,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 29,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_16",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 3 . b ) Hàng lưỡng_dụng bao_gồm : trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư , hàng_hóa , có_thể sử_dụng cho quốc_phòng và cả trong lĩnh_vực kinh_tế - xã_hội ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Hàng",
+    "lưỡng_dụng",
+    "bao_gồm",
+    ":",
+    "trang",
+    "thiết_bị",
+    "kỹ_thuật",
+    ",",
+    "công_nghệ",
+    ",",
+    "dịch_vụ",
+    ",",
+    "vật_tư",
+    ",",
+    "hàng_hóa",
+    ",",
+    "có_thể",
+    "sử_dụng",
+    "cho",
+    "quốc_phòng",
+    "và",
+    "cả",
+    "trong",
+    "lĩnh_vực",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 36,
+     "text": "b ) Hàng lưỡng_dụng bao_gồm : trang thiết_bị kỹ_thuật , công_nghệ , dịch_vụ , vật_tư , hàng_hóa , có_thể sử_dụng cho quốc_phòng và cả trong lĩnh_vực kinh_tế - xã_hội ;"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 31,
+     "end": 35,
+     "text": "lĩnh_vực kinh_tế - xã_hội"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 14,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_17",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 2 . 4 . Nhập_khẩu hàng quốc_phòng trực_tiếp từ nước_ngoài để phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội , bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Nhập_khẩu",
+    "hàng",
+    "quốc_phòng",
+    "trực_tiếp",
+    "từ",
+    "nước_ngoài",
+    "để",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quân_sự",
+    ",",
+    "quốc_phòng",
+    "của",
+    "quân_đội",
+    ",",
+    "bằng",
+    "các",
+    "nguồn",
+    "ngân_sách",
+    "nhà_nước",
+    "giao",
+    "Bộ",
+    "Quốc_phòng",
+    "quản_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 43,
+     "text": "4 . Nhập_khẩu hàng quốc_phòng trực_tiếp từ nước_ngoài để phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội , bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 39,
+     "end": 41,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 36,
+     "end": 38,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_18",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 4 . Nhập_khẩu hàng quốc_phòng trực_tiếp từ nước_ngoài để phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội , bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Nhập_khẩu",
+    "hàng",
+    "quốc_phòng",
+    "trực_tiếp",
+    "từ",
+    "nước_ngoài",
+    "để",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quân_sự",
+    ",",
+    "quốc_phòng",
+    "của",
+    "quân_đội",
+    ",",
+    "bằng",
+    "các",
+    "nguồn",
+    "ngân_sách",
+    "nhà_nước",
+    "giao",
+    "Bộ",
+    "Quốc_phòng",
+    "quản_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 30,
+     "text": "4 . Nhập_khẩu hàng quốc_phòng trực_tiếp từ nước_ngoài để phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội , bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 28,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_19",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 2 . 6 . Mua_sắm hàng quốc_phòng bao_gồm : các trang thiết_bị , vật_tư kỹ_thuật , hàng_hóa khác phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "6",
+    ".",
+    "Mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    "bao_gồm",
+    ":",
+    "các",
+    "trang",
+    "thiết_bị",
+    ",",
+    "vật_tư",
+    "kỹ_thuật",
+    ",",
+    "hàng_hóa",
+    "khác",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quân_sự",
+    ",",
+    "quốc_phòng",
+    "của",
+    "quân_đội",
+    "bằng",
+    "các",
+    "nguồn",
+    "ngân_sách",
+    "nhà_nước",
+    "giao",
+    "Bộ",
+    "Quốc_phòng",
+    "quản_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 45,
+     "text": "6 . Mua_sắm hàng quốc_phòng bao_gồm : các trang thiết_bị , vật_tư kỹ_thuật , hàng_hóa khác phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 41,
+     "end": 43,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 22,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 38,
+     "end": 40,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_20",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 6 . Mua_sắm hàng quốc_phòng bao_gồm : các trang thiết_bị , vật_tư kỹ_thuật , hàng_hóa khác phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "6",
+    ".",
+    "Mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    "bao_gồm",
+    ":",
+    "các",
+    "trang",
+    "thiết_bị",
+    ",",
+    "vật_tư",
+    "kỹ_thuật",
+    ",",
+    "hàng_hóa",
+    "khác",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quân_sự",
+    ",",
+    "quốc_phòng",
+    "của",
+    "quân_đội",
+    "bằng",
+    "các",
+    "nguồn",
+    "ngân_sách",
+    "nhà_nước",
+    "giao",
+    "Bộ",
+    "Quốc_phòng",
+    "quản_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 36,
+     "text": "6 . Mua_sắm hàng quốc_phòng bao_gồm : các trang thiết_bị , vật_tư kỹ_thuật , hàng_hóa khác phục_vụ nhiệm_vụ quân_sự , quốc_phòng của quân_đội bằng các nguồn ngân_sách nhà_nước giao Bộ Quốc_phòng quản_lý ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 11,
+     "end": 13,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 17,
+     "end": 18,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 31,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_21",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 2 . 7 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan quy_định trình_tự , thủ_tục xuất , nhập_khẩu và mua_sắm hàng quốc_phòng ; xây_dựng kế_hoạch và tổ_chức quản_lý chặt_chẽ việc xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "7",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan",
+    "quy_định",
+    "trình_tự",
+    ",",
+    "thủ_tục",
+    "xuất",
+    ",",
+    "nhập_khẩu",
+    "và",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    ";",
+    "xây_dựng",
+    "kế_hoạch",
+    "và",
+    "tổ_chức",
+    "quản_lý",
+    "chặt_chẽ",
+    "việc",
+    "xuất_khẩu",
+    ",",
+    "nhập_khẩu",
+    ",",
+    "mua_sắm",
+    "hàng",
+    "quốc_phòng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 51,
+     "text": "7 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan quy_định trình_tự , thủ_tục xuất , nhập_khẩu và mua_sắm hàng quốc_phòng ; xây_dựng kế_hoạch và tổ_chức quản_lý chặt_chẽ việc xuất_khẩu , nhập_khẩu , mua_sắm hàng quốc_phòng ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_22",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . Cơ_sở công_nghiệp quốc_phòng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 19,
+     "text": "Điều 3 . Cơ_sở công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 16,
+     "end": 19,
+     "text": "Cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_23",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . 1 . Tiêu_chí để được công_nhận là cơ_sở công_nghiệp quốc_phòng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Tiêu_chí",
+    "để",
+    "được",
+    "công_nhận",
+    "là",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 26,
+     "text": "1 . Tiêu_chí để được công_nhận là cơ_sở công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 26,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_24",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Tiêu_chí để được công_nhận là cơ_sở công_nghiệp quốc_phòng",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Tiêu_chí",
+    "để",
+    "được",
+    "công_nhận",
+    "là",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 13,
+     "text": "1 . Tiêu_chí để được công_nhận là cơ_sở công_nghiệp quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 13,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_25",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . Khoản 1 . a ) Được cơ_quan nhà_nước có thẩm_quyền quyết_định thành_lập theo quy_định của pháp_luật ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Được",
+    "cơ_quan",
+    "nhà_nước",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "thành_lập",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 33,
+     "text": "a ) Được cơ_quan nhà_nước có thẩm_quyền quyết_định thành_lập theo quy_định của pháp_luật ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 26,
+     "text": "cơ_quan nhà_nước có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 26,
+     "end": 28,
+     "text": "quyết_định thành_lập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_26",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 1 . a ) Được cơ_quan nhà_nước có thẩm_quyền quyết_định thành_lập theo quy_định của pháp_luật ;",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Được",
+    "cơ_quan",
+    "nhà_nước",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "thành_lập",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 20,
+     "text": "a ) Được cơ_quan nhà_nước có thẩm_quyền quyết_định thành_lập theo quy_định của pháp_luật ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 13,
+     "text": "cơ_quan nhà_nước có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 13,
+     "end": 15,
+     "text": "quyết_định thành_lập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_27",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . Khoản 1 . b ) Đủ điều_kiện , thủ_tục tham_gia hoạt_động công_nghiệp quốc_phòng theo quyết_định của Thủ_tướng Chính_phủ ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Đủ",
+    "điều_kiện",
+    ",",
+    "thủ_tục",
+    "tham_gia",
+    "hoạt_động",
+    "công_nghiệp",
+    "quốc_phòng",
+    "theo",
+    "quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 35,
+     "text": "b ) Đủ điều_kiện , thủ_tục tham_gia hoạt_động công_nghiệp quốc_phòng theo quyết_định của Thủ_tướng Chính_phủ ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_28",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . 2 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Công_Thương và Bộ , ngành liên_quan lập danh_sách các cơ_sở công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt trên cơ_sở tiêu_chí được quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Công_Thương",
+    "và",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "lập",
+    "danh_sách",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "phê_duyệt",
+    "trên",
+    "cơ_sở",
+    "tiêu_chí",
+    "được",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 52,
+     "text": "2 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Công_Thương và Bộ , ngành liên_quan lập danh_sách các cơ_sở công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt trên cơ_sở tiêu_chí được quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 47,
+     "end": 51,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 45,
+     "end": 47,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 26,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 40,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 37,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_29",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Công_Thương và Bộ , ngành liên_quan lập danh_sách các cơ_sở công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt trên cơ_sở tiêu_chí được quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Công_Thương",
+    "và",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "lập",
+    "danh_sách",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "phê_duyệt",
+    "trên",
+    "cơ_sở",
+    "tiêu_chí",
+    "được",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 39,
+     "text": "2 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Công_Thương và Bộ , ngành liên_quan lập danh_sách các cơ_sở công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt trên cơ_sở tiêu_chí được quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 38,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_30",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 3 . 3 . Hàng năm , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan xác_định trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_sách cơ_sở công_nghiệp quốc_phòng .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Hàng",
+    "năm",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan",
+    "xác_định",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_sách",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 48,
+     "text": "3 . Hàng năm , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan xác_định trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_sách cơ_sở công_nghiệp quốc_phòng ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 47,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_31",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 3 . Hàng năm , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan xác_định trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_sách cơ_sở công_nghiệp quốc_phòng .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Hàng",
+    "năm",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan",
+    "xác_định",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_sách",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 35,
+     "text": "3 . Hàng năm , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan xác_định trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_sách cơ_sở công_nghiệp quốc_phòng ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 8,
+     "end": 10,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 25,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 34,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_32",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 4 . Hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "của",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 18,
+     "text": "Điều 4 . Hoạt_động liên_doanh , liên_kết của cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 18,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_33",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 4 . 1 . Cơ_sở công_nghiệp quốc_phòng nòng_cốt được liên_doanh , liên_kết với các tổ_chức kinh_tế trong nước thuộc mọi thành_phần kinh_tế và các tổ_chức , cá_nhân nước_ngoài để sản_xuất các sản_phẩm phục_vụ quốc_phòng , an_ninh trên nguyên_tắc tự_nguyện , bình_đẳng , cùng có lợi .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "được",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "với",
+    "các",
+    "tổ_chức",
+    "kinh_tế",
+    "trong",
+    "nước",
+    "thuộc",
+    "mọi",
+    "thành_phần",
+    "kinh_tế",
+    "và",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "để",
+    "sản_xuất",
+    "các",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "trên",
+    "nguyên_tắc",
+    "tự_nguyện",
+    ",",
+    "bình_đẳng",
+    ",",
+    "cùng",
+    "có",
+    "lợi",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 56,
+     "text": "1 . Cơ_sở công_nghiệp quốc_phòng nòng_cốt được liên_doanh , liên_kết với các tổ_chức kinh_tế trong nước thuộc mọi thành_phần kinh_tế và các tổ_chức , cá_nhân nước_ngoài để sản_xuất các sản_phẩm phục_vụ quốc_phòng , an_ninh trên nguyên_tắc tự_nguyện , bình_đẳng , cùng có lợi ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 18,
+     "text": "Cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 24,
+     "end": 26,
+     "text": "tổ_chức kinh_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_34",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 1 . Cơ_sở công_nghiệp quốc_phòng nòng_cốt được liên_doanh , liên_kết với các tổ_chức kinh_tế trong nước thuộc mọi thành_phần kinh_tế và các tổ_chức , cá_nhân nước_ngoài để sản_xuất các sản_phẩm phục_vụ quốc_phòng , an_ninh trên nguyên_tắc tự_nguyện , bình_đẳng , cùng có lợi .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "được",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "với",
+    "các",
+    "tổ_chức",
+    "kinh_tế",
+    "trong",
+    "nước",
+    "thuộc",
+    "mọi",
+    "thành_phần",
+    "kinh_tế",
+    "và",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "để",
+    "sản_xuất",
+    "các",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "trên",
+    "nguyên_tắc",
+    "tự_nguyện",
+    ",",
+    "bình_đẳng",
+    ",",
+    "cùng",
+    "có",
+    "lợi",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 47,
+     "text": "1 . Cơ_sở công_nghiệp quốc_phòng nòng_cốt được liên_doanh , liên_kết với các tổ_chức kinh_tế trong nước thuộc mọi thành_phần kinh_tế và các tổ_chức , cá_nhân nước_ngoài để sản_xuất các sản_phẩm phục_vụ quốc_phòng , an_ninh trên nguyên_tắc tự_nguyện , bình_đẳng , cùng có lợi ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 9,
+     "text": "Cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 17,
+     "text": "tổ_chức kinh_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_35",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 4 . 2 . Mọi hoạt_động liên_doanh , liên_kết kinh_tế đều được thực_hiện bằng hợp_đồng theo quy_định của pháp_luật .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Mọi",
+    "hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "kinh_tế",
+    "đều",
+    "được",
+    "thực_hiện",
+    "bằng",
+    "hợp_đồng",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 27,
+     "text": "2 . Mọi hoạt_động liên_doanh , liên_kết kinh_tế đều được thực_hiện bằng hợp_đồng theo quy_định của pháp_luật ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_36",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 4 . 3 . Nghiêm_cấm cơ_sở công_nghiệp quốc_phòng nòng_cốt bán , cho mượn , cho thuê tư_cách pháp_nhân trong các hoạt_động_kinh_tế .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Nghiêm_cấm",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "bán",
+    ",",
+    "cho",
+    "mượn",
+    ",",
+    "cho",
+    "thuê",
+    "tư_cách",
+    "pháp_nhân",
+    "trong",
+    "các",
+    "hoạt_động_kinh_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 29,
+     "text": "3 . Nghiêm_cấm cơ_sở công_nghiệp quốc_phòng nòng_cốt bán , cho mượn , cho thuê tư_cách pháp_nhân trong các hoạt_động_kinh_tế ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 12,
+     "end": 16,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_37",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 4 . 4 . Khi liên_doanh , liên_kết với tổ_chức , cá_nhân nước_ngoài để sản_xuất sản_phẩm phục_vụ quốc_phòng , các cơ_sở công_nghiệp quốc_phòng nòng_cốt phải chấp_hành quy_định của pháp_luật về hợp_tác quốc_tế tại Điều 5 của Pháp_lệnh Công_nghiệp quốc_phòng và tại Điều 2 của Nghị_định này . Trong hoạt_động liên_doanh , liên_kết cần :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "4",
+    ".",
+    "Khi",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "để",
+    "sản_xuất",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "phải",
+    "chấp_hành",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "hợp_tác",
+    "quốc_tế",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "và",
+    "tại",
+    "Điều",
+    "2",
+    "của",
+    "Nghị_định",
+    "này",
+    ".",
+    "Trong",
+    "hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "cần",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 61,
+     "text": "4 . Khi liên_doanh , liên_kết với tổ_chức , cá_nhân nước_ngoài để sản_xuất sản_phẩm phục_vụ quốc_phòng , các cơ_sở công_nghiệp quốc_phòng nòng_cốt phải chấp_hành quy_định của pháp_luật về hợp_tác quốc_tế tại Điều 5 của Pháp_lệnh Công_nghiệp quốc_phòng và tại Điều 2 của Nghị_định này . Trong hoạt_động liên_doanh , liên_kết cần :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 48,
+     "end": 53,
+     "text": "Điều 2 của Nghị_định này"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 31,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_38",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 4 . Khi liên_doanh , liên_kết với tổ_chức , cá_nhân nước_ngoài để sản_xuất sản_phẩm phục_vụ quốc_phòng , các cơ_sở công_nghiệp quốc_phòng nòng_cốt phải chấp_hành quy_định của pháp_luật về hợp_tác quốc_tế tại Điều 5 của Pháp_lệnh Công_nghiệp quốc_phòng và tại Điều 2 của Nghị_định này . Trong hoạt_động liên_doanh , liên_kết cần :",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "4",
+    ".",
+    "Khi",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "để",
+    "sản_xuất",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "phải",
+    "chấp_hành",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "hợp_tác",
+    "quốc_tế",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Pháp_lệnh",
+    "Công_nghiệp",
+    "quốc_phòng",
+    "và",
+    "tại",
+    "Điều",
+    "2",
+    "của",
+    "Nghị_định",
+    "này",
+    ".",
+    "Trong",
+    "hoạt_động",
+    "liên_doanh",
+    ",",
+    "liên_kết",
+    "cần",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 55,
+     "text": "4 . Khi liên_doanh , liên_kết với tổ_chức , cá_nhân nước_ngoài để sản_xuất sản_phẩm phục_vụ quốc_phòng , các cơ_sở công_nghiệp quốc_phòng nòng_cốt phải chấp_hành quy_định của pháp_luật về hợp_tác quốc_tế tại Điều 5 của Pháp_lệnh Công_nghiệp quốc_phòng và tại Điều 2 của Nghị_định này . Trong hoạt_động liên_doanh , liên_kết cần :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 47,
+     "text": "Điều 2 của Nghị_định này"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 25,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_39",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 4 . Khoản 4 . b ) Ưu_tiên gọi vốn đầu_tư nước_ngoài vào các lĩnh_vực và ngành mà các cơ_sở công_nghiệp quốc_phòng có thế mạnh , các lĩnh_vực cần có công_nghệ_cao hoặc lĩnh_vực vừa phục_vụ quốc_phòng , vừa phục_vụ kinh_tế .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "b",
+    ")",
+    "Ưu_tiên",
+    "gọi",
+    "vốn",
+    "đầu_tư",
+    "nước_ngoài",
+    "vào",
+    "các",
+    "lĩnh_vực",
+    "và",
+    "ngành",
+    "mà",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "có",
+    "thế",
+    "mạnh",
+    ",",
+    "các",
+    "lĩnh_vực",
+    "cần",
+    "có",
+    "công_nghệ_cao",
+    "hoặc",
+    "lĩnh_vực",
+    "vừa",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "vừa",
+    "phục_vụ",
+    "kinh_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 48,
+     "text": "b ) Ưu_tiên gọi vốn đầu_tư nước_ngoài vào các lĩnh_vực và ngành mà các cơ_sở công_nghiệp quốc_phòng có thế mạnh , các lĩnh_vực cần có công_nghệ_cao hoặc lĩnh_vực vừa phục_vụ quốc_phòng , vừa phục_vụ kinh_tế ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 29,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_40",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khoản 4 . b ) Ưu_tiên gọi vốn đầu_tư nước_ngoài vào các lĩnh_vực và ngành mà các cơ_sở công_nghiệp quốc_phòng có thế mạnh , các lĩnh_vực cần có công_nghệ_cao hoặc lĩnh_vực vừa phục_vụ quốc_phòng , vừa phục_vụ kinh_tế .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "b",
+    ")",
+    "Ưu_tiên",
+    "gọi",
+    "vốn",
+    "đầu_tư",
+    "nước_ngoài",
+    "vào",
+    "các",
+    "lĩnh_vực",
+    "và",
+    "ngành",
+    "mà",
+    "các",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "có",
+    "thế",
+    "mạnh",
+    ",",
+    "các",
+    "lĩnh_vực",
+    "cần",
+    "có",
+    "công_nghệ_cao",
+    "hoặc",
+    "lĩnh_vực",
+    "vừa",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "vừa",
+    "phục_vụ",
+    "kinh_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 42,
+     "text": "b ) Ưu_tiên gọi vốn đầu_tư nước_ngoài vào các lĩnh_vực và ngành mà các cơ_sở công_nghiệp quốc_phòng có thế mạnh , các lĩnh_vực cần có công_nghệ_cao hoặc lĩnh_vực vừa phục_vụ quốc_phòng , vừa phục_vụ kinh_tế ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 23,
+     "text": "cơ_sở công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_41",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 5 . 1 . Tiêu_chí xác_định sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Tiêu_chí",
+    "xác_định",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 21,
+     "text": "1 . Tiêu_chí xác_định sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_42",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 5 . Khoản 1 . c ) Được cơ_quan nhà_nước có thẩm_quyền đặt_hàng hoặc đấu_thầu theo giá hoặc phí do Nhà_nước quy_định .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Được",
+    "cơ_quan",
+    "nhà_nước",
+    "có",
+    "thẩm_quyền",
+    "đặt_hàng",
+    "hoặc",
+    "đấu_thầu",
+    "theo",
+    "giá",
+    "hoặc",
+    "phí",
+    "do",
+    "Nhà_nước",
+    "quy_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 30,
+     "text": "c ) Được cơ_quan nhà_nước có thẩm_quyền đặt_hàng hoặc đấu_thầu theo giá hoặc phí do Nhà_nước quy_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 19,
+     "text": "cơ_quan nhà_nước có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_43",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 5 . 2 . Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh được quy_định tại Phụ_lục ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Danh_mục",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "được",
+    "quy_định",
+    "tại",
+    "Phụ_lục",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 32,
+     "text": "2 . Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh được quy_định tại Phụ_lục ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 23,
+     "end": 25,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_44",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 5 . 3 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Trong",
+    "từng",
+    "thời_kỳ",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_mục",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 50,
+     "text": "3 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 36,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_45",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 3 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Trong",
+    "từng",
+    "thời_kỳ",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_mục",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 37,
+     "text": "3 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục sản_phẩm , dịch_vụ phục_vụ quốc_phòng , an_ninh ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 11,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 23,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_46",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 6 . Nhập_khẩu và dự_trữ vật_tư kỹ_thuật cho công_nghiệp quốc_phòng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Nhập_khẩu",
+    "và",
+    "dự_trữ",
+    "vật_tư",
+    "kỹ_thuật",
+    "cho",
+    "công_nghiệp",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 20,
+     "text": "Điều 6 . Nhập_khẩu và dự_trữ vật_tư kỹ_thuật cho công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_47",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 6 . 1 . Vật_tư kỹ_thuật nhập_khẩu cho công_nghiệp quốc_phòng thuộc hàng_hóa_nhập_khẩu được xét miễn hoặc giảm thuế theo quy_định của pháp_luật về thuế .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Vật_tư",
+    "kỹ_thuật",
+    "nhập_khẩu",
+    "cho",
+    "công_nghiệp",
+    "quốc_phòng",
+    "thuộc",
+    "hàng_hóa_nhập_khẩu",
+    "được",
+    "xét",
+    "miễn",
+    "hoặc",
+    "giảm",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 32,
+     "text": "1 . Vật_tư kỹ_thuật nhập_khẩu cho công_nghiệp quốc_phòng thuộc hàng_hóa_nhập_khẩu được xét miễn hoặc giảm thuế theo quy_định của pháp_luật về thuế ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa_nhập_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_48",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Vật_tư kỹ_thuật nhập_khẩu cho công_nghiệp quốc_phòng thuộc hàng_hóa_nhập_khẩu được xét miễn hoặc giảm thuế theo quy_định của pháp_luật về thuế .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Vật_tư",
+    "kỹ_thuật",
+    "nhập_khẩu",
+    "cho",
+    "công_nghiệp",
+    "quốc_phòng",
+    "thuộc",
+    "hàng_hóa_nhập_khẩu",
+    "được",
+    "xét",
+    "miễn",
+    "hoặc",
+    "giảm",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 26,
+     "text": "1 . Vật_tư kỹ_thuật nhập_khẩu cho công_nghiệp quốc_phòng thuộc hàng_hóa_nhập_khẩu được xét miễn hoặc giảm thuế theo quy_định của pháp_luật về thuế ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa_nhập_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_49",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 6 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành cơ_quan liên_quan lập Danh_mục vật_tư kỹ_thuật nhập_khẩu và vật_tư dự_trữ cho công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "cơ_quan",
+    "liên_quan",
+    "lập",
+    "Danh_mục",
+    "vật_tư",
+    "kỹ_thuật",
+    "nhập_khẩu",
+    "và",
+    "vật_tư",
+    "dự_trữ",
+    "cho",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "phê_duyệt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 42,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành cơ_quan liên_quan lập Danh_mục vật_tư kỹ_thuật nhập_khẩu và vật_tư dự_trữ cho công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 40,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_50",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành cơ_quan liên_quan lập Danh_mục vật_tư kỹ_thuật nhập_khẩu và vật_tư dự_trữ cho công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "cơ_quan",
+    "liên_quan",
+    "lập",
+    "Danh_mục",
+    "vật_tư",
+    "kỹ_thuật",
+    "nhập_khẩu",
+    "và",
+    "vật_tư",
+    "dự_trữ",
+    "cho",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "phê_duyệt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành cơ_quan liên_quan lập Danh_mục vật_tư kỹ_thuật nhập_khẩu và vật_tư dự_trữ cho công_nghiệp quốc_phòng trình Thủ_tướng Chính_phủ phê_duyệt ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_51",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 6 . 4 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục vật_tư kỹ_thuật phục_vụ quốc_phòng , an_ninh .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Trong",
+    "từng",
+    "thời_kỳ",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_mục",
+    "vật_tư",
+    "kỹ_thuật",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 43,
+     "text": "4 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục vật_tư kỹ_thuật phục_vụ quốc_phòng , an_ninh ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 30,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_52",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 4 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục vật_tư kỹ_thuật phục_vụ quốc_phòng , an_ninh .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Trong",
+    "từng",
+    "thời_kỳ",
+    ",",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    ",",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Danh_mục",
+    "vật_tư",
+    "kỹ_thuật",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 37,
+     "text": "4 . Trong từng thời_kỳ , Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành , cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định việc sửa_đổi , bổ_sung Danh_mục vật_tư kỹ_thuật phục_vụ quốc_phòng , an_ninh ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 11,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_53",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 7 . 1 . Tổ_chức , cá_nhân trong nước và nước_ngoài tham_gia nghiên_cứu khoa_học , phát_triển và chuyển_giao công_nghệ phục_vụ công_nghiệp quốc_phòng thực_hiện theo quy_định của pháp_luật về khoa_học và công_nghệ ; chuyển_giao công_nghệ .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "trong",
+    "nước",
+    "và",
+    "nước_ngoài",
+    "tham_gia",
+    "nghiên_cứu",
+    "khoa_học",
+    ",",
+    "phát_triển",
+    "và",
+    "chuyển_giao",
+    "công_nghệ",
+    "phục_vụ",
+    "công_nghiệp",
+    "quốc_phòng",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    ";",
+    "chuyển_giao",
+    "công_nghệ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 42,
+     "text": "1 . Tổ_chức , cá_nhân trong nước và nước_ngoài tham_gia nghiên_cứu khoa_học , phát_triển và chuyển_giao công_nghệ phục_vụ công_nghiệp quốc_phòng thực_hiện theo quy_định của pháp_luật về khoa_học và công_nghệ ; chuyển_giao công_nghệ ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_54",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 7 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ xây_dựng , tổ_chức quản_lý thực_hiện kế_hoạch nghiên_cứu , ứng_dụng khoa_học kỹ_thuật và công_nghệ vào sản_xuất , sửa_chữa , cải_tiến , hiện_đại_hóa vũ_khí , trang_bị kỹ_thuật quân_sự phục_vụ nhiệm_vụ quốc_phòng – an_ninh , ưu_tiên lĩnh_vực công_nghệ_cao , công_nghệ lưỡng_dụng , cơ – điện_tử , tự_động hóa , điện_tử viễn_thông , công_nghệ thông_tin , hóa_chất , vật",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Khoa_học",
+    "và",
+    "Công_nghệ",
+    "xây_dựng",
+    ",",
+    "tổ_chức",
+    "quản_lý",
+    "thực_hiện",
+    "kế_hoạch",
+    "nghiên_cứu",
+    ",",
+    "ứng_dụng",
+    "khoa_học",
+    "kỹ_thuật",
+    "và",
+    "công_nghệ",
+    "vào",
+    "sản_xuất",
+    ",",
+    "sửa_chữa",
+    ",",
+    "cải_tiến",
+    ",",
+    "hiện_đại_hóa",
+    "vũ_khí",
+    ",",
+    "trang_bị",
+    "kỹ_thuật",
+    "quân_sự",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "–",
+    "an_ninh",
+    ",",
+    "ưu_tiên",
+    "lĩnh_vực",
+    "công_nghệ_cao",
+    ",",
+    "công_nghệ",
+    "lưỡng_dụng",
+    ",",
+    "cơ",
+    "–",
+    "điện_tử",
+    ",",
+    "tự_động",
+    "hóa",
+    ",",
+    "điện_tử",
+    "viễn_thông",
+    ",",
+    "công_nghệ",
+    "thông_tin",
+    ",",
+    "hóa_chất",
+    ",",
+    "vật"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 83,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ xây_dựng , tổ_chức quản_lý thực_hiện kế_hoạch nghiên_cứu , ứng_dụng khoa_học kỹ_thuật và công_nghệ vào sản_xuất , sửa_chữa , cải_tiến , hiện_đại_hóa vũ_khí , trang_bị kỹ_thuật quân_sự phục_vụ nhiệm_vụ quốc_phòng – an_ninh , ưu_tiên lĩnh_vực công_nghệ_cao , công_nghệ lưỡng_dụng , cơ – điện_tử , tự_động hóa , điện_tử viễn_thông , công_nghệ thông_tin , hóa_chất , vật"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 61,
+     "end": 63,
+     "text": "lĩnh_vực công_nghệ_cao"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 28,
+     "text": "Bộ Khoa_học và Công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_55",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ xây_dựng , tổ_chức quản_lý thực_hiện kế_hoạch nghiên_cứu , ứng_dụng khoa_học kỹ_thuật và công_nghệ vào sản_xuất , sửa_chữa , cải_tiến , hiện_đại_hóa vũ_khí , trang_bị kỹ_thuật quân_sự phục_vụ nhiệm_vụ quốc_phòng – an_ninh , ưu_tiên lĩnh_vực công_nghệ_cao , công_nghệ lưỡng_dụng , cơ – điện_tử , tự_động hóa , điện_tử viễn_thông , công_nghệ thông_tin , hóa_chất , vật",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Khoa_học",
+    "và",
+    "Công_nghệ",
+    "xây_dựng",
+    ",",
+    "tổ_chức",
+    "quản_lý",
+    "thực_hiện",
+    "kế_hoạch",
+    "nghiên_cứu",
+    ",",
+    "ứng_dụng",
+    "khoa_học",
+    "kỹ_thuật",
+    "và",
+    "công_nghệ",
+    "vào",
+    "sản_xuất",
+    ",",
+    "sửa_chữa",
+    ",",
+    "cải_tiến",
+    ",",
+    "hiện_đại_hóa",
+    "vũ_khí",
+    ",",
+    "trang_bị",
+    "kỹ_thuật",
+    "quân_sự",
+    "phục_vụ",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "–",
+    "an_ninh",
+    ",",
+    "ưu_tiên",
+    "lĩnh_vực",
+    "công_nghệ_cao",
+    ",",
+    "công_nghệ",
+    "lưỡng_dụng",
+    ",",
+    "cơ",
+    "–",
+    "điện_tử",
+    ",",
+    "tự_động",
+    "hóa",
+    ",",
+    "điện_tử",
+    "viễn_thông",
+    ",",
+    "công_nghệ",
+    "thông_tin",
+    ",",
+    "hóa_chất",
+    ",",
+    "vật"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 70,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ xây_dựng , tổ_chức quản_lý thực_hiện kế_hoạch nghiên_cứu , ứng_dụng khoa_học kỹ_thuật và công_nghệ vào sản_xuất , sửa_chữa , cải_tiến , hiện_đại_hóa vũ_khí , trang_bị kỹ_thuật quân_sự phục_vụ nhiệm_vụ quốc_phòng – an_ninh , ưu_tiên lĩnh_vực công_nghệ_cao , công_nghệ lưỡng_dụng , cơ – điện_tử , tự_động hóa , điện_tử viễn_thông , công_nghệ thông_tin , hóa_chất , vật"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 48,
+     "end": 50,
+     "text": "lĩnh_vực công_nghệ_cao"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Khoa_học và Công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_56",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 7 . 4 . Các đề_tài nghiên_cứu , chế thử vũ_khí , trang thiết_bị mới và đưa vào sản_xuất trang_bị cho lực_lượng vũ_trang thực_hiện theo quy_định của pháp_luật .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "4",
+    ".",
+    "Các",
+    "đề_tài",
+    "nghiên_cứu",
+    ",",
+    "chế",
+    "thử",
+    "vũ_khí",
+    ",",
+    "trang",
+    "thiết_bị",
+    "mới",
+    "và",
+    "đưa",
+    "vào",
+    "sản_xuất",
+    "trang_bị",
+    "cho",
+    "lực_lượng",
+    "vũ_trang",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 36,
+     "text": "4 . Các đề_tài nghiên_cứu , chế thử vũ_khí , trang thiết_bị mới và đưa vào sản_xuất trang_bị cho lực_lượng vũ_trang thực_hiện theo quy_định của pháp_luật ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 21,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_57",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 7 . Khoản 5 . a ) Đăng_ký tiêu_chuẩn , chất_lượng , mẫu_mã các sản_phẩm và bảo_hành sản_phẩm quốc_phòng theo quy_định của pháp_luật ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Đăng_ký",
+    "tiêu_chuẩn",
+    ",",
+    "chất_lượng",
+    ",",
+    "mẫu_mã",
+    "các",
+    "sản_phẩm",
+    "và",
+    "bảo_hành",
+    "sản_phẩm",
+    "quốc_phòng",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 34,
+     "text": "a ) Đăng_ký tiêu_chuẩn , chất_lượng , mẫu_mã các sản_phẩm và bảo_hành sản_phẩm quốc_phòng theo quy_định của pháp_luật ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_58",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 8 . Chính_sách của Nhà_nước đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Chính_sách",
+    "của",
+    "Nhà_nước",
+    "đối_với",
+    "cơ_sở",
+    "và",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 24,
+     "text": "Điều 8 . Chính_sách của Nhà_nước đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 24,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_59",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 8 . Khoản 1 . b ) Được Nhà_nước đầu_tư kết_cấu_hạ_tầng về giao_thông , năng_lượng đối_với nơi chưa có sẵn các hệ_thống bảo_đảm giao_thông và cung_cấp năng_lượng ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Được",
+    "Nhà_nước",
+    "đầu_tư",
+    "kết_cấu_hạ_tầng",
+    "về",
+    "giao_thông",
+    ",",
+    "năng_lượng",
+    "đối_với",
+    "nơi",
+    "chưa",
+    "có",
+    "sẵn",
+    "các",
+    "hệ_thống",
+    "bảo_đảm",
+    "giao_thông",
+    "và",
+    "cung_cấp",
+    "năng_lượng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 38,
+     "text": "b ) Được Nhà_nước đầu_tư kết_cấu_hạ_tầng về giao_thông , năng_lượng đối_với nơi chưa có sẵn các hệ_thống bảo_đảm giao_thông và cung_cấp năng_lượng ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_60",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . Khoản 1 . b ) Được Nhà_nước đầu_tư kết_cấu_hạ_tầng về giao_thông , năng_lượng đối_với nơi chưa có sẵn các hệ_thống bảo_đảm giao_thông và cung_cấp năng_lượng ;",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Được",
+    "Nhà_nước",
+    "đầu_tư",
+    "kết_cấu_hạ_tầng",
+    "về",
+    "giao_thông",
+    ",",
+    "năng_lượng",
+    "đối_với",
+    "nơi",
+    "chưa",
+    "có",
+    "sẵn",
+    "các",
+    "hệ_thống",
+    "bảo_đảm",
+    "giao_thông",
+    "và",
+    "cung_cấp",
+    "năng_lượng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 29,
+     "text": "b ) Được Nhà_nước đầu_tư kết_cấu_hạ_tầng về giao_thông , năng_lượng đối_với nơi chưa có sẵn các hệ_thống bảo_đảm giao_thông và cung_cấp năng_lượng ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_61",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 8 . Khoản 1 . đ ) Được sử_dụng các nguồn_lực được giao để tổ_chức sản_xuất , cung_ứng sản_phẩm , dịch_vụ phục_vụ quốc_phòng và hoạt_động_kinh_doanh bổ_sung khi không ảnh_hưởng tới việc thực_hiện nhiệm_vụ trực_tiếp phục_vụ quốc_phòng , an_ninh được giao , nhưng phải hạch_toán riêng phần hoạt_động_kinh_doanh và thực_hiện nghĩa_vụ nộp thuế theo quy_định của pháp_luật ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "đ",
+    ")",
+    "Được",
+    "sử_dụng",
+    "các",
+    "nguồn_lực",
+    "được",
+    "giao",
+    "để",
+    "tổ_chức",
+    "sản_xuất",
+    ",",
+    "cung_ứng",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    "và",
+    "hoạt_động_kinh_doanh",
+    "bổ_sung",
+    "khi",
+    "không",
+    "ảnh_hưởng",
+    "tới",
+    "việc",
+    "thực_hiện",
+    "nhiệm_vụ",
+    "trực_tiếp",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "được",
+    "giao",
+    ",",
+    "nhưng",
+    "phải",
+    "hạch_toán",
+    "riêng",
+    "phần",
+    "hoạt_động_kinh_doanh",
+    "và",
+    "thực_hiện",
+    "nghĩa_vụ",
+    "nộp",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 67,
+     "text": "đ ) Được sử_dụng các nguồn_lực được giao để tổ_chức sản_xuất , cung_ứng sản_phẩm , dịch_vụ phục_vụ quốc_phòng và hoạt_động_kinh_doanh bổ_sung khi không ảnh_hưởng tới việc thực_hiện nhiệm_vụ trực_tiếp phục_vụ quốc_phòng , an_ninh được giao , nhưng phải hạch_toán riêng phần hoạt_động_kinh_doanh và thực_hiện nghĩa_vụ nộp thuế theo quy_định của pháp_luật ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_62",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . Khoản 1 . đ ) Được sử_dụng các nguồn_lực được giao để tổ_chức sản_xuất , cung_ứng sản_phẩm , dịch_vụ phục_vụ quốc_phòng và hoạt_động_kinh_doanh bổ_sung khi không ảnh_hưởng tới việc thực_hiện nhiệm_vụ trực_tiếp phục_vụ quốc_phòng , an_ninh được giao , nhưng phải hạch_toán riêng phần hoạt_động_kinh_doanh và thực_hiện nghĩa_vụ nộp thuế theo quy_định của pháp_luật ;",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "đ",
+    ")",
+    "Được",
+    "sử_dụng",
+    "các",
+    "nguồn_lực",
+    "được",
+    "giao",
+    "để",
+    "tổ_chức",
+    "sản_xuất",
+    ",",
+    "cung_ứng",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "phục_vụ",
+    "quốc_phòng",
+    "và",
+    "hoạt_động_kinh_doanh",
+    "bổ_sung",
+    "khi",
+    "không",
+    "ảnh_hưởng",
+    "tới",
+    "việc",
+    "thực_hiện",
+    "nhiệm_vụ",
+    "trực_tiếp",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "được",
+    "giao",
+    ",",
+    "nhưng",
+    "phải",
+    "hạch_toán",
+    "riêng",
+    "phần",
+    "hoạt_động_kinh_doanh",
+    "và",
+    "thực_hiện",
+    "nghĩa_vụ",
+    "nộp",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 58,
+     "text": "đ ) Được sử_dụng các nguồn_lực được giao để tổ_chức sản_xuất , cung_ứng sản_phẩm , dịch_vụ phục_vụ quốc_phòng và hoạt_động_kinh_doanh bổ_sung khi không ảnh_hưởng tới việc thực_hiện nhiệm_vụ trực_tiếp phục_vụ quốc_phòng , an_ninh được giao , nhưng phải hạch_toán riêng phần hoạt_động_kinh_doanh và thực_hiện nghĩa_vụ nộp thuế theo quy_định của pháp_luật ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_63",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 8 . Khoản 1 . h ) Được nhà_nước hỗ_trợ kinh_phí nhà_trẻ , giáo_dục tại địa_bàn chưa có trường lớp theo hệ_thống giáo_dục công_lập ; kinh_phí y_tế đối_với những nơi do điều_kiện đặc_biệt phải duy_trì bệnh_xá ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "h",
+    ")",
+    "Được",
+    "nhà_nước",
+    "hỗ_trợ",
+    "kinh_phí",
+    "nhà_trẻ",
+    ",",
+    "giáo_dục",
+    "tại",
+    "địa_bàn",
+    "chưa",
+    "có",
+    "trường",
+    "lớp",
+    "theo",
+    "hệ_thống",
+    "giáo_dục",
+    "công_lập",
+    ";",
+    "kinh_phí",
+    "y_tế",
+    "đối_với",
+    "những",
+    "nơi",
+    "do",
+    "điều_kiện",
+    "đặc_biệt",
+    "phải",
+    "duy_trì",
+    "bệnh_xá",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 51,
+     "text": "h ) Được nhà_nước hỗ_trợ kinh_phí nhà_trẻ , giáo_dục tại địa_bàn chưa có trường lớp theo hệ_thống giáo_dục công_lập ; kinh_phí y_tế đối_với những nơi do điều_kiện đặc_biệt phải duy_trì bệnh_xá ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_64",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 8 . Khoản 1 . i ) Cơ_sở công_nghiệp quốc_phòng nòng_cốt hoạt_động trên các địa_bàn chiến_lược , kết_hợp nhiệm_vụ kinh_tế với nhiệm_vụ quốc_phòng được hưởng chế_độ , chính_sách ưu_đãi và hỗ_trợ khác theo quyết_định của Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "i",
+    ")",
+    "Cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "hoạt_động",
+    "trên",
+    "các",
+    "địa_bàn",
+    "chiến_lược",
+    ",",
+    "kết_hợp",
+    "nhiệm_vụ",
+    "kinh_tế",
+    "với",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "được",
+    "hưởng",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "ưu_đãi",
+    "và",
+    "hỗ_trợ",
+    "khác",
+    "theo",
+    "quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 52,
+     "text": "i ) Cơ_sở công_nghiệp quốc_phòng nòng_cốt hoạt_động trên các địa_bàn chiến_lược , kết_hợp nhiệm_vụ kinh_tế với nhiệm_vụ quốc_phòng được hưởng chế_độ , chính_sách ưu_đãi và hỗ_trợ khác theo quyết_định của Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 49,
+     "end": 51,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 25,
+     "text": "Cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_65",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . Khoản 1 . i ) Cơ_sở công_nghiệp quốc_phòng nòng_cốt hoạt_động trên các địa_bàn chiến_lược , kết_hợp nhiệm_vụ kinh_tế với nhiệm_vụ quốc_phòng được hưởng chế_độ , chính_sách ưu_đãi và hỗ_trợ khác theo quyết_định của Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "i",
+    ")",
+    "Cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "hoạt_động",
+    "trên",
+    "các",
+    "địa_bàn",
+    "chiến_lược",
+    ",",
+    "kết_hợp",
+    "nhiệm_vụ",
+    "kinh_tế",
+    "với",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "được",
+    "hưởng",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "ưu_đãi",
+    "và",
+    "hỗ_trợ",
+    "khác",
+    "theo",
+    "quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 39,
+     "text": "i ) Cơ_sở công_nghiệp quốc_phòng nòng_cốt hoạt_động trên các địa_bàn chiến_lược , kết_hợp nhiệm_vụ kinh_tế với nhiệm_vụ quốc_phòng được hưởng chế_độ , chính_sách ưu_đãi và hỗ_trợ khác theo quyết_định của Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 12,
+     "text": "Cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_66",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 8 . 2 . Người lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt được hưởng các chế_độ , chính_sách như sau :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Người",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "được",
+    "hưởng",
+    "các",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 30,
+     "text": "2 . Người lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt được hưởng các chế_độ , chính_sách như sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 21,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 16,
+     "text": "Người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_67",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 2 . Người lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt được hưởng các chế_độ , chính_sách như sau :",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Người",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "được",
+    "hưởng",
+    "các",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 21,
+     "text": "2 . Người lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt được hưởng các chế_độ , chính_sách như sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 12,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 5,
+     "end": 7,
+     "text": "Người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_68",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 8 . Khoản 2 . c ) Lao_động trực_tiếp tham_gia nghiên_cứu , chế_tạo , sửa_chữa , bảo_quản , vận_chuyển sản_phẩm quốc_phòng là vũ_khí , trang_bị hoặc đảm_nhiệm công_việc đòi_hỏi trách_nhiệm cao được hưởng phụ_cấp trách_nhiệm trong thời_gian thực_hiện nhiệm_vụ ; được hưởng phụ_cấp độc_hại , nguy_hiểm đối_với ngành_nghề , công_việc quốc_phòng đặc_thù ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Lao_động",
+    "trực_tiếp",
+    "tham_gia",
+    "nghiên_cứu",
+    ",",
+    "chế_tạo",
+    ",",
+    "sửa_chữa",
+    ",",
+    "bảo_quản",
+    ",",
+    "vận_chuyển",
+    "sản_phẩm",
+    "quốc_phòng",
+    "là",
+    "vũ_khí",
+    ",",
+    "trang_bị",
+    "hoặc",
+    "đảm_nhiệm",
+    "công_việc",
+    "đòi_hỏi",
+    "trách_nhiệm",
+    "cao",
+    "được",
+    "hưởng",
+    "phụ_cấp",
+    "trách_nhiệm",
+    "trong",
+    "thời_gian",
+    "thực_hiện",
+    "nhiệm_vụ",
+    ";",
+    "được",
+    "hưởng",
+    "phụ_cấp",
+    "độc_hại",
+    ",",
+    "nguy_hiểm",
+    "đối_với",
+    "ngành_nghề",
+    ",",
+    "công_việc",
+    "quốc_phòng",
+    "đặc_thù",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 67,
+     "text": "c ) Lao_động trực_tiếp tham_gia nghiên_cứu , chế_tạo , sửa_chữa , bảo_quản , vận_chuyển sản_phẩm quốc_phòng là vũ_khí , trang_bị hoặc đảm_nhiệm công_việc đòi_hỏi trách_nhiệm cao được hưởng phụ_cấp trách_nhiệm trong thời_gian thực_hiện nhiệm_vụ ; được hưởng phụ_cấp độc_hại , nguy_hiểm đối_với ngành_nghề , công_việc quốc_phòng đặc_thù ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_69",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 8 . Khoản 2 . d ) Công_nhân quốc_phòng , ngoài chế_độ tiền_lương còn được hưởng thêm chế_độ phụ_cấp lương theo quy_định của pháp_luật về chế_độ tiền_lương đối_với cán_bộ , công_chức , viên_chức và lực_lượng vũ_trang ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Công_nhân",
+    "quốc_phòng",
+    ",",
+    "ngoài",
+    "chế_độ",
+    "tiền_lương",
+    "còn",
+    "được",
+    "hưởng",
+    "thêm",
+    "chế_độ",
+    "phụ_cấp",
+    "lương",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "chế_độ",
+    "tiền_lương",
+    "đối_với",
+    "cán_bộ",
+    ",",
+    "công_chức",
+    ",",
+    "viên_chức",
+    "và",
+    "lực_lượng",
+    "vũ_trang",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 51,
+     "text": "d ) Công_nhân quốc_phòng , ngoài chế_độ tiền_lương còn được hưởng thêm chế_độ phụ_cấp lương theo quy_định của pháp_luật về chế_độ tiền_lương đối_với cán_bộ , công_chức , viên_chức và lực_lượng vũ_trang ;"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 42,
+     "end": 47,
+     "text": "cán_bộ , công_chức , viên_chức"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "tiền_lương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "tiền_lương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_70",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . Khoản 2 . d ) Công_nhân quốc_phòng , ngoài chế_độ tiền_lương còn được hưởng thêm chế_độ phụ_cấp lương theo quy_định của pháp_luật về chế_độ tiền_lương đối_với cán_bộ , công_chức , viên_chức và lực_lượng vũ_trang ;",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Công_nhân",
+    "quốc_phòng",
+    ",",
+    "ngoài",
+    "chế_độ",
+    "tiền_lương",
+    "còn",
+    "được",
+    "hưởng",
+    "thêm",
+    "chế_độ",
+    "phụ_cấp",
+    "lương",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "chế_độ",
+    "tiền_lương",
+    "đối_với",
+    "cán_bộ",
+    ",",
+    "công_chức",
+    ",",
+    "viên_chức",
+    "và",
+    "lực_lượng",
+    "vũ_trang",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 38,
+     "text": "d ) Công_nhân quốc_phòng , ngoài chế_độ tiền_lương còn được hưởng thêm chế_độ phụ_cấp lương theo quy_định của pháp_luật về chế_độ tiền_lương đối_với cán_bộ , công_chức , viên_chức và lực_lượng vũ_trang ;"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 29,
+     "end": 34,
+     "text": "cán_bộ , công_chức , viên_chức"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 13,
+     "end": 14,
+     "text": "tiền_lương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "tiền_lương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_71",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 8 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành có liên_quan hướng_dẫn thực_hiện chế_độ , chính_sách đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại khoản 1 , khoản 2 Điều này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "đối_với",
+    "cơ_sở",
+    "và",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 47,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành có liên_quan hướng_dẫn thực_hiện chế_độ , chính_sách đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại khoản 1 , khoản 2 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 46,
+     "text": "khoản 1 , khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 37,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_72",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành có liên_quan hướng_dẫn thực_hiện chế_độ , chính_sách đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại khoản 1 , khoản 2 Điều này .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Quốc_phòng",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "đối_với",
+    "cơ_sở",
+    "và",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 41,
+     "text": "3 . Bộ Quốc_phòng chủ_trì , phối_hợp với các Bộ , ngành có liên_quan hướng_dẫn thực_hiện chế_độ , chính_sách đối_với cơ_sở và lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại khoản 1 , khoản 2 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 33,
+     "end": 40,
+     "text": "khoản 1 , khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 31,
+     "end": 33,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 31,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_73",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 9 . Chính_sách của Nhà_nước đối_với tổ_chức , cá_nhân tham_gia hoạt_động công_nghiệp quốc_phòng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "Chính_sách",
+    "của",
+    "Nhà_nước",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoạt_động",
+    "công_nghiệp",
+    "quốc_phòng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 27,
+     "text": "Điều 9 . Chính_sách của Nhà_nước đối_với tổ_chức , cá_nhân tham_gia hoạt_động công_nghiệp quốc_phòng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_74",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 9 . Khoản 1 . b ) Được hưởng phụ_cấp độc_hại , nguy_hiểm khi thực_hiện các nhiệm_vụ quốc_phòng đặc_thù quy_định tại điểm c khoản 2 Điều 8 Nghị_định này ; trường_hợp bị_thương hoặc bị chết được xét công_nhận và hưởng chế_độ thương_binh , liệt_sĩ như đối_với lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại điểm e khoản 2 Điều 8 Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Được",
+    "hưởng",
+    "phụ_cấp",
+    "độc_hại",
+    ",",
+    "nguy_hiểm",
+    "khi",
+    "thực_hiện",
+    "các",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "đặc_thù",
+    "quy_định",
+    "tại",
+    "điểm",
+    "c",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "này",
+    ";",
+    "trường_hợp",
+    "bị_thương",
+    "hoặc",
+    "bị",
+    "chết",
+    "được",
+    "xét",
+    "công_nhận",
+    "và",
+    "hưởng",
+    "chế_độ",
+    "thương_binh",
+    ",",
+    "liệt_sĩ",
+    "như",
+    "đối_với",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "quy_định",
+    "tại",
+    "điểm",
+    "e",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 73,
+     "text": "b ) Được hưởng phụ_cấp độc_hại , nguy_hiểm khi thực_hiện các nhiệm_vụ quốc_phòng đặc_thù quy_định tại điểm c khoản 2 Điều 8 Nghị_định này ; trường_hợp bị_thương hoặc bị chết được xét công_nhận và hưởng chế_độ thương_binh , liệt_sĩ như đối_với lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại điểm e khoản 2 Điều 8 Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 39,
+     "text": "điểm c khoản 2 Điều 8 Nghị_định này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 72,
+     "text": "điểm e khoản 2 Điều 8 Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 31,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 62,
+     "end": 64,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 58,
+     "end": 62,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_75",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 9 . Khoản 1 . b ) Được hưởng phụ_cấp độc_hại , nguy_hiểm khi thực_hiện các nhiệm_vụ quốc_phòng đặc_thù quy_định tại điểm c khoản 2 Điều 8 Nghị_định này ; trường_hợp bị_thương hoặc bị chết được xét công_nhận và hưởng chế_độ thương_binh , liệt_sĩ như đối_với lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại điểm e khoản 2 Điều 8 Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "9",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Được",
+    "hưởng",
+    "phụ_cấp",
+    "độc_hại",
+    ",",
+    "nguy_hiểm",
+    "khi",
+    "thực_hiện",
+    "các",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    "đặc_thù",
+    "quy_định",
+    "tại",
+    "điểm",
+    "c",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "này",
+    ";",
+    "trường_hợp",
+    "bị_thương",
+    "hoặc",
+    "bị",
+    "chết",
+    "được",
+    "xét",
+    "công_nhận",
+    "và",
+    "hưởng",
+    "chế_độ",
+    "thương_binh",
+    ",",
+    "liệt_sĩ",
+    "như",
+    "đối_với",
+    "lao_động",
+    "trong",
+    "cơ_sở",
+    "công_nghiệp",
+    "quốc_phòng",
+    "nòng_cốt",
+    "quy_định",
+    "tại",
+    "điểm",
+    "e",
+    "khoản",
+    "2",
+    "Điều",
+    "8",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 64,
+     "text": "b ) Được hưởng phụ_cấp độc_hại , nguy_hiểm khi thực_hiện các nhiệm_vụ quốc_phòng đặc_thù quy_định tại điểm c khoản 2 Điều 8 Nghị_định này ; trường_hợp bị_thương hoặc bị chết được xét công_nhận và hưởng chế_độ thương_binh , liệt_sĩ như đối_với lao_động trong cơ_sở công_nghiệp quốc_phòng nòng_cốt quy_định tại điểm e khoản 2 Điều 8 Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 30,
+     "text": "điểm c khoản 2 Điều 8 Nghị_định này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 63,
+     "text": "điểm e khoản 2 Điều 8 Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 20,
+     "end": 22,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 53,
+     "end": 55,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 49,
+     "end": 53,
+     "text": "cơ_sở công_nghiệp quốc_phòng nòng_cốt"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_76",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 9 . 2 . Tổ_chức , cá_nhân khi trực_tiếp thực_hiện nhiệm_vụ sản_xuất hàng quốc_phòng phục_vụ công_nghiệp quốc_phòng theo quy_định tại Danh_mục B kèm theo Nghị_định này được hưởng chế_độ , chính_sách theo quy_định của pháp_luật về sản_xuất và cung_ứng sản_phẩm , dịch_vụ công_ích .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "khi",
+    "trực_tiếp",
+    "thực_hiện",
+    "nhiệm_vụ",
+    "sản_xuất",
+    "hàng",
+    "quốc_phòng",
+    "phục_vụ",
+    "công_nghiệp",
+    "quốc_phòng",
+    "theo",
+    "quy_định",
+    "tại",
+    "Danh_mục",
+    "B",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "được",
+    "hưởng",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "sản_xuất",
+    "và",
+    "cung_ứng",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "công_ích",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 51,
+     "text": "2 . Tổ_chức , cá_nhân khi trực_tiếp thực_hiện nhiệm_vụ sản_xuất hàng quốc_phòng phục_vụ công_nghiệp quốc_phòng theo quy_định tại Danh_mục B kèm theo Nghị_định này được hưởng chế_độ , chính_sách theo quy_định của pháp_luật về sản_xuất và cung_ứng sản_phẩm , dịch_vụ công_ích ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_77",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 9 . 2 . Tổ_chức , cá_nhân khi trực_tiếp thực_hiện nhiệm_vụ sản_xuất hàng quốc_phòng phục_vụ công_nghiệp quốc_phòng theo quy_định tại Danh_mục B kèm theo Nghị_định này được hưởng chế_độ , chính_sách theo quy_định của pháp_luật về sản_xuất và cung_ứng sản_phẩm , dịch_vụ công_ích .",
+   "tokens": [
+    "Điều",
+    "9",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "khi",
+    "trực_tiếp",
+    "thực_hiện",
+    "nhiệm_vụ",
+    "sản_xuất",
+    "hàng",
+    "quốc_phòng",
+    "phục_vụ",
+    "công_nghiệp",
+    "quốc_phòng",
+    "theo",
+    "quy_định",
+    "tại",
+    "Danh_mục",
+    "B",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "được",
+    "hưởng",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "sản_xuất",
+    "và",
+    "cung_ứng",
+    "sản_phẩm",
+    ",",
+    "dịch_vụ",
+    "công_ích",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 45,
+     "text": "2 . Tổ_chức , cá_nhân khi trực_tiếp thực_hiện nhiệm_vụ sản_xuất hàng quốc_phòng phục_vụ công_nghiệp quốc_phòng theo quy_định tại Danh_mục B kèm theo Nghị_định này được hưởng chế_độ , chính_sách theo quy_định của pháp_luật về sản_xuất và cung_ứng sản_phẩm , dịch_vụ công_ích ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_78",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 10 . 2 . Tổ_chức , cá_nhân nước_ngoài khi tham_gia hoạt_động công_nghiệp quốc_phòng trong trường_hợp sản_xuất sản_phẩm , chi_tiết sản_phẩm , nghiên_cứu khoa_học công_nghệ hoặc chuyển_giao công_nghệ chế_tạo sản_phẩm phục_vụ quốc_phòng , an_ninh thì được miễn thuế giá_trị gia_tăng theo quy_định của pháp_luật về thuế giá_trị gia_tăng ; miễn thuế thu_nhập doanh_nghiệp cho nhà đầu_tư góp vốn bằng sáng_chế , bí_quyết kỹ_thuật , quy_trình công_nghệ , dịch",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "10",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "khi",
+    "tham_gia",
+    "hoạt_động",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trong",
+    "trường_hợp",
+    "sản_xuất",
+    "sản_phẩm",
+    ",",
+    "chi_tiết",
+    "sản_phẩm",
+    ",",
+    "nghiên_cứu",
+    "khoa_học",
+    "công_nghệ",
+    "hoặc",
+    "chuyển_giao",
+    "công_nghệ",
+    "chế_tạo",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "thì",
+    "được",
+    "miễn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ";",
+    "miễn",
+    "thuế",
+    "thu_nhập",
+    "doanh_nghiệp",
+    "cho",
+    "nhà",
+    "đầu_tư",
+    "góp",
+    "vốn",
+    "bằng",
+    "sáng_chế",
+    ",",
+    "bí_quyết",
+    "kỹ_thuật",
+    ",",
+    "quy_trình",
+    "công_nghệ",
+    ",",
+    "dịch"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 77,
+     "text": "2 . Tổ_chức , cá_nhân nước_ngoài khi tham_gia hoạt_động công_nghiệp quốc_phòng trong trường_hợp sản_xuất sản_phẩm , chi_tiết sản_phẩm , nghiên_cứu khoa_học công_nghệ hoặc chuyển_giao công_nghệ chế_tạo sản_phẩm phục_vụ quốc_phòng , an_ninh thì được miễn thuế giá_trị gia_tăng theo quy_định của pháp_luật về thuế giá_trị gia_tăng ; miễn thuế thu_nhập doanh_nghiệp cho nhà đầu_tư góp vốn bằng sáng_chế , bí_quyết kỹ_thuật , quy_trình công_nghệ , dịch"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 63,
+     "end": 65,
+     "text": "nhà đầu_tư"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 60,
+     "end": 61,
+     "text": "thu_nhập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_79",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 10 . 2 . Tổ_chức , cá_nhân nước_ngoài khi tham_gia hoạt_động công_nghiệp quốc_phòng trong trường_hợp sản_xuất sản_phẩm , chi_tiết sản_phẩm , nghiên_cứu khoa_học công_nghệ hoặc chuyển_giao công_nghệ chế_tạo sản_phẩm phục_vụ quốc_phòng , an_ninh thì được miễn thuế giá_trị gia_tăng theo quy_định của pháp_luật về thuế giá_trị gia_tăng ; miễn thuế thu_nhập doanh_nghiệp cho nhà đầu_tư góp vốn bằng sáng_chế , bí_quyết kỹ_thuật , quy_trình công_nghệ , dịch",
+   "tokens": [
+    "Điều",
+    "10",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "khi",
+    "tham_gia",
+    "hoạt_động",
+    "công_nghiệp",
+    "quốc_phòng",
+    "trong",
+    "trường_hợp",
+    "sản_xuất",
+    "sản_phẩm",
+    ",",
+    "chi_tiết",
+    "sản_phẩm",
+    ",",
+    "nghiên_cứu",
+    "khoa_học",
+    "công_nghệ",
+    "hoặc",
+    "chuyển_giao",
+    "công_nghệ",
+    "chế_tạo",
+    "sản_phẩm",
+    "phục_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "thì",
+    "được",
+    "miễn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ";",
+    "miễn",
+    "thuế",
+    "thu_nhập",
+    "doanh_nghiệp",
+    "cho",
+    "nhà",
+    "đầu_tư",
+    "góp",
+    "vốn",
+    "bằng",
+    "sáng_chế",
+    ",",
+    "bí_quyết",
+    "kỹ_thuật",
+    ",",
+    "quy_trình",
+    "công_nghệ",
+    ",",
+    "dịch"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 68,
+     "text": "2 . Tổ_chức , cá_nhân nước_ngoài khi tham_gia hoạt_động công_nghiệp quốc_phòng trong trường_hợp sản_xuất sản_phẩm , chi_tiết sản_phẩm , nghiên_cứu khoa_học công_nghệ hoặc chuyển_giao công_nghệ chế_tạo sản_phẩm phục_vụ quốc_phòng , an_ninh thì được miễn thuế giá_trị gia_tăng theo quy_định của pháp_luật về thuế giá_trị gia_tăng ; miễn thuế thu_nhập doanh_nghiệp cho nhà đầu_tư góp vốn bằng sáng_chế , bí_quyết kỹ_thuật , quy_trình công_nghệ , dịch"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 54,
+     "end": 56,
+     "text": "nhà đầu_tư"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 51,
+     "end": 52,
+     "text": "thu_nhập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_80",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 11 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 27 tháng 6 năm 2009",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    ".",
+    "Nghị_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "27",
+    "tháng",
+    "6",
+    "năm",
+    "2009"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 28,
+     "text": "Điều 11 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 27 tháng 6 năm 2009"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_81",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 46/2009/NĐ-CP . Điều 12 . Trách_nhiệm thi_hành . Bộ_trưởng Bộ Quốc_phòng , các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh và tổ_chức , cá_nhân tham_gia hoạt_động công_nghiệp quốc_phòng chịu trách_nhiệm thi_hành Nghị_định này . / .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Quốc_phòng",
+    ",",
+    "các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoạt_động",
+    "công_nghiệp",
+    "quốc_phòng",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Nghị_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 50,
+     "text": "Điều 12 . Trách_nhiệm thi_hành . Bộ_trưởng Bộ Quốc_phòng , các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh và tổ_chức , cá_nhân tham_gia hoạt_động công_nghiệp quốc_phòng chịu trách_nhiệm thi_hành Nghị_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 15,
+     "text": "Bộ_trưởng Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 28,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 34,
+     "text": "Chủ_tịch Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_82",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 12 . Trách_nhiệm thi_hành",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 12 . Trách_nhiệm thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_83",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP của Chính_phủ trong lĩnh_vực Quốc_phòng . Điều 12 . 1 . Sản_xuất , sửa_chữa vũ_khí , khí_tài ; trang thiết_bị kỹ_thuật ; trang thiết_bị , tài_liệu mật_mã cho quốc_phòng , an_ninh",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Quốc_phòng",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "1",
+    ".",
+    "Sản_xuất",
+    ",",
+    "sửa_chữa",
+    "vũ_khí",
+    ",",
+    "khí_tài",
+    ";",
+    "trang",
+    "thiết_bị",
+    "kỹ_thuật",
+    ";",
+    "trang",
+    "thiết_bị",
+    ",",
+    "tài_liệu",
+    "mật_mã",
+    "cho",
+    "quốc_phòng",
+    ",",
+    "an_ninh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 8,
+     "text": "Quốc_phòng"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 12"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 34,
+     "text": "1 . Sản_xuất , sửa_chữa vũ_khí , khí_tài ; trang thiết_bị kỹ_thuật ; trang thiết_bị , tài_liệu mật_mã cho quốc_phòng , an_ninh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 23,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 27,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_84",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 12 . 1 . Sản_xuất , sửa_chữa vũ_khí , khí_tài ; trang thiết_bị kỹ_thuật ; trang thiết_bị , tài_liệu mật_mã cho quốc_phòng , an_ninh",
+   "tokens": [
+    "Điều",
+    "12",
+    ".",
+    "1",
+    ".",
+    "Sản_xuất",
+    ",",
+    "sửa_chữa",
+    "vũ_khí",
+    ",",
+    "khí_tài",
+    ";",
+    "trang",
+    "thiết_bị",
+    "kỹ_thuật",
+    ";",
+    "trang",
+    "thiết_bị",
+    ",",
+    "tài_liệu",
+    "mật_mã",
+    "cho",
+    "quốc_phòng",
+    ",",
+    "an_ninh"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 12"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 25,
+     "text": "1 . Sản_xuất , sửa_chữa vũ_khí , khí_tài ; trang thiết_bị kỹ_thuật ; trang thiết_bị , tài_liệu mật_mã cho quốc_phòng , an_ninh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 14,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 16,
+     "end": 18,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_85",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 12 . 4 . Thực_hiện nhiệm_vụ quốc_phòng , an_ninh đặc_biệt theo quyết_định của Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "4",
+    ".",
+    "Thực_hiện",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "đặc_biệt",
+    "theo",
+    "quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 12"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 30,
+     "text": "4 . Thực_hiện nhiệm_vụ quốc_phòng , an_ninh đặc_biệt theo quyết_định của Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 18,
+     "end": 23,
+     "text": "Thực_hiện nhiệm_vụ quốc_phòng , an_ninh"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 29,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "TAC_DONG_CHU_THE",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_standalone_86",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 12 . 4 . Thực_hiện nhiệm_vụ quốc_phòng , an_ninh đặc_biệt theo quyết_định của Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Điều",
+    "12",
+    ".",
+    "4",
+    ".",
+    "Thực_hiện",
+    "nhiệm_vụ",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "đặc_biệt",
+    "theo",
+    "quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 12"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "4 . Thực_hiện nhiệm_vụ quốc_phòng , an_ninh đặc_biệt theo quyết_định của Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 5,
+     "end": 10,
+     "text": "Thực_hiện nhiệm_vụ quốc_phòng , an_ninh"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "TAC_DONG_CHU_THE",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#body_context_87",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 46/2009/NĐ-CP ban_hành ngày 13 tháng 05 năm 2009 bởi Chính_phủ . Điều 12 . 1 . Sản_xuất một hoặc một_số chi_tiết sản_phẩm cơ_khí ( đúc , nhiệt_luyện , mạ , gia_công cơ_khí chính_xác ; các chi_tiết nhựa , compozit ) thuộc nhóm 1 và hóa_chất thuộc nhóm 2 của Danh_mục A.",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "46/2009/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "05",
+    "năm",
+    "2009",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "1",
+    ".",
+    "Sản_xuất",
+    "một",
+    "hoặc",
+    "một_số",
+    "chi_tiết",
+    "sản_phẩm",
+    "cơ_khí",
+    "(",
+    "đúc",
+    ",",
+    "nhiệt_luyện",
+    ",",
+    "mạ",
+    ",",
+    "gia_công",
+    "cơ_khí",
+    "chính_xác",
+    ";",
+    "các",
+    "chi_tiết",
+    "nhựa",
+    ",",
+    "compozit",
+    ")",
+    "thuộc",
+    "nhóm",
+    "1",
+    "và",
+    "hóa_chất",
+    "thuộc",
+    "nhóm",
+    "2",
+    "của",
+    "Danh_mục",
+    "A."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "46/2009/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 05 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 12"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 53,
+     "text": "1 . Sản_xuất một hoặc một_số chi_tiết sản_phẩm cơ_khí ( đúc , nhiệt_luyện , mạ , gia_công cơ_khí chính_xác ; các chi_tiết nhựa , compozit ) thuộc nhóm 1 và hóa_chất thuộc nhóm 2 của Danh_mục A."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "46_2009_NĐ-CP_12073#hard_negative_88",
+   "doc": "46_2009_NĐ-CP_12073",
+   "category": "nghi_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

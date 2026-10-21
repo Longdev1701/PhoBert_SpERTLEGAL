@@ -1,0 +1,1688 @@
+{
+ "doc": "02_2007_QĐ-BYT_14537",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 16,
+ "total_entities": 100,
+ "total_relations": 69,
+ "samples": [
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_0",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Căn_cứ Nghị_định số 49/2003/NĐ-CP ngày 15 tháng 5 năm 2003 về việc quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức Bộ Y_tế ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "49/2003/NĐ-CP",
+    "ngày",
+    "15",
+    "tháng",
+    "5",
+    "năm",
+    "2003",
+    "về",
+    "việc",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "Bộ",
+    "Y_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 49/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 15 tháng 5 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 30,
+     "text": "Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_1",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 49/2003/NĐ-CP ngày 15 tháng 5 năm 2003 về việc quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức Bộ Y_tế ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "49/2003/NĐ-CP",
+    "ngày",
+    "15",
+    "tháng",
+    "5",
+    "năm",
+    "2003",
+    "về",
+    "việc",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "Bộ",
+    "Y_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 49/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 15 tháng 5 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_2",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Căn_cứ Pháp_lệnh Vệ_sinh an_toàn thực_phẩm số 12/PL-UBTVQH ngày 26 tháng 7 năm 2003 của Uỷ_ban Thường_vụ Quốc_hội và Nghị_định số 163/2004/NĐ-CP ngày 07/9/2004 của Chính_phủ quy_định chi_tiết một_số điều của Pháp_lệnh vệ_sinh an_toàn thực_phẩm ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Vệ_sinh",
+    "an_toàn",
+    "thực_phẩm",
+    "số",
+    "12/PL-UBTVQH",
+    "ngày",
+    "26",
+    "tháng",
+    "7",
+    "năm",
+    "2003",
+    "của",
+    "Uỷ_ban",
+    "Thường_vụ",
+    "Quốc_hội",
+    "và",
+    "Nghị_định",
+    "số",
+    "163/2004/NĐ-CP",
+    "ngày",
+    "07/9/2004",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "của",
+    "Pháp_lệnh",
+    "vệ_sinh",
+    "an_toàn",
+    "thực_phẩm",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 14,
+     "text": "Pháp_lệnh Vệ_sinh an_toàn thực_phẩm số 12/PL-UBTVQH"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 28,
+     "text": "Nghị_định số 163/2004/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 26 tháng 7 năm 2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 28,
+     "end": 30,
+     "text": "ngày 07/9/2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 24,
+     "text": "Quốc_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 32,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_3",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Pháp_lệnh Vệ_sinh an_toàn thực_phẩm số 12/PL-UBTVQH ngày 26 tháng 7 năm 2003 của Uỷ_ban Thường_vụ Quốc_hội và Nghị_định số 163/2004/NĐ-CP ngày 07/9/2004 của Chính_phủ quy_định chi_tiết một_số điều của Pháp_lệnh vệ_sinh an_toàn thực_phẩm ;",
+   "tokens": [
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Vệ_sinh",
+    "an_toàn",
+    "thực_phẩm",
+    "số",
+    "12/PL-UBTVQH",
+    "ngày",
+    "26",
+    "tháng",
+    "7",
+    "năm",
+    "2003",
+    "của",
+    "Uỷ_ban",
+    "Thường_vụ",
+    "Quốc_hội",
+    "và",
+    "Nghị_định",
+    "số",
+    "163/2004/NĐ-CP",
+    "ngày",
+    "07/9/2004",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "của",
+    "Pháp_lệnh",
+    "vệ_sinh",
+    "an_toàn",
+    "thực_phẩm",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 7,
+     "text": "Pháp_lệnh Vệ_sinh an_toàn thực_phẩm số 12/PL-UBTVQH"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "Nghị_định số 163/2004/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 26 tháng 7 năm 2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 21,
+     "end": 23,
+     "text": "ngày 07/9/2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 17,
+     "text": "Quốc_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 25,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_4",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Căn_cứ Pháp_lệnh Chất_lượng hàng_hóa_số 18/1999/PL-UBTVQH ngày 24 tháng 12 năm 1999 của Uỷ_ban thường_vụ Quốc_hội ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Chất_lượng",
+    "hàng_hóa_số",
+    "18/1999/PL-UBTVQH",
+    "ngày",
+    "24",
+    "tháng",
+    "12",
+    "năm",
+    "1999",
+    "của",
+    "Uỷ_ban",
+    "thường_vụ",
+    "Quốc_hội",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Pháp_lệnh Chất_lượng hàng_hóa_số 18/1999/PL-UBTVQH"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 12,
+     "end": 18,
+     "text": "ngày 24 tháng 12 năm 1999"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_5",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Pháp_lệnh Chất_lượng hàng_hóa_số 18/1999/PL-UBTVQH ngày 24 tháng 12 năm 1999 của Uỷ_ban thường_vụ Quốc_hội ;",
+   "tokens": [
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Chất_lượng",
+    "hàng_hóa_số",
+    "18/1999/PL-UBTVQH",
+    "ngày",
+    "24",
+    "tháng",
+    "12",
+    "năm",
+    "1999",
+    "của",
+    "Uỷ_ban",
+    "thường_vụ",
+    "Quốc_hội",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Pháp_lệnh Chất_lượng hàng_hóa_số 18/1999/PL-UBTVQH"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 24 tháng 12 năm 1999"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_6",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Nghị_định số 179/2004/NĐ-CP ngày 21 tháng 10 năm 2004 của Chính_phủ quy_định quản_lý nhà_nước về chất_lượng sản_phẩm , hàng_hóa ; Nghị_định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính_phủ về nhãn hàng_hoá ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Nghị_định",
+    "số",
+    "179/2004/NĐ-CP",
+    "ngày",
+    "21",
+    "tháng",
+    "10",
+    "năm",
+    "2004",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    "chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    ";",
+    "Nghị_định",
+    "số",
+    "89/2006/NĐ-CP",
+    "ngày",
+    "30",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "về",
+    "nhãn",
+    "hàng_hoá",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Nghị_định số 179/2004/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 30,
+     "text": "Nghị_định số 89/2006/NĐ-CP"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 21 tháng 10 năm 2004"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 30,
+     "end": 36,
+     "text": "ngày 30 tháng 8 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 18,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 38,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_7",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Nghị_định số 179/2004/NĐ-CP ngày 21 tháng 10 năm 2004 của Chính_phủ quy_định quản_lý nhà_nước về chất_lượng sản_phẩm , hàng_hóa ; Nghị_định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính_phủ về nhãn hàng_hoá ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "179/2004/NĐ-CP",
+    "ngày",
+    "21",
+    "tháng",
+    "10",
+    "năm",
+    "2004",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    "chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    ";",
+    "Nghị_định",
+    "số",
+    "89/2006/NĐ-CP",
+    "ngày",
+    "30",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "về",
+    "nhãn",
+    "hàng_hoá",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 0,
+     "end": 3,
+     "text": "Nghị_định số 179/2004/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 23,
+     "text": "Nghị_định số 89/2006/NĐ-CP"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 21 tháng 10 năm 2004"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 23,
+     "end": 29,
+     "text": "ngày 30 tháng 8 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 11,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 31,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_8",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Căn_cứ Nghị_quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính_phủ về Chính_sách quốc_gia phòng_chống tác_hại thuốc_lá trong giai_đoạn 2000 - 2010 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "12/2000/NQ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "8",
+    "năm",
+    "2000",
+    "của",
+    "Chính_phủ",
+    "về",
+    "Chính_sách",
+    "quốc_gia",
+    "phòng_chống",
+    "tác_hại",
+    "thuốc_lá",
+    "trong",
+    "giai_đoạn",
+    "2000",
+    "-",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_quyết số 12/2000/NQ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 14 tháng 8 năm 2000"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_9",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính_phủ về Chính_sách quốc_gia phòng_chống tác_hại thuốc_lá trong giai_đoạn 2000 - 2010 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "12/2000/NQ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "8",
+    "năm",
+    "2000",
+    "của",
+    "Chính_phủ",
+    "về",
+    "Chính_sách",
+    "quốc_gia",
+    "phòng_chống",
+    "tác_hại",
+    "thuốc_lá",
+    "trong",
+    "giai_đoạn",
+    "2000",
+    "-",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_quyết số 12/2000/NQ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 8 năm 2000"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_context_10",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế . Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Đào_tạo , Cục_trưởng Cục An_toàn vệ_sinh thực_phẩm , Bộ Y_tế .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Khoa_học",
+    "và",
+    "Đào_tạo",
+    ",",
+    "Cục_trưởng",
+    "Cục",
+    "An_toàn",
+    "vệ_sinh",
+    "thực_phẩm",
+    ",",
+    "Bộ",
+    "Y_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#preamble_standalone_11",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Đào_tạo , Cục_trưởng Cục An_toàn vệ_sinh thực_phẩm , Bộ Y_tế .",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Khoa_học",
+    "và",
+    "Đào_tạo",
+    ",",
+    "Cục_trưởng",
+    "Cục",
+    "An_toàn",
+    "vệ_sinh",
+    "thực_phẩm",
+    ",",
+    "Bộ",
+    "Y_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "Bộ Y_tế"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#body_context_12",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Y_tế ban_hành Quyết_định số 02/2007/QĐ-BYT . Điều 1 . Ban_hành kèm theo Quyết_định này “ Quy_định vệ_sinh an_toàn đối_với sản_phẩm thuốc_lá ”",
+   "tokens": [
+    "Bộ",
+    "Y_tế",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành",
+    "kèm",
+    "theo",
+    "Quyết_định",
+    "này",
+    "“",
+    "Quy_định",
+    "vệ_sinh",
+    "an_toàn",
+    "đối_với",
+    "sản_phẩm",
+    "thuốc_lá",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 23,
+     "text": "Điều 1 . Ban_hành kèm theo Quyết_định này “ Quy_định vệ_sinh an_toàn đối_với sản_phẩm thuốc_lá ”"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#body_context_13",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT ban_hành ngày 15 tháng 01 năm 2007 bởi Bộ Y_tế . Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày kể từ ngày đăng Công_báo . Bãi_bỏ Quyết_định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ_trưởng Bộ Y_tế về “ Quy_định tạm_thời về vệ_sinh thuốc_lá điếu ” .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "ban_hành",
+    "ngày",
+    "15",
+    "tháng",
+    "01",
+    "năm",
+    "2007",
+    "bởi",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "sau",
+    "15",
+    "ngày",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    ".",
+    "Bãi_bỏ",
+    "Quyết_định",
+    "số",
+    "2019/2000/QĐ-BYT",
+    "ngày",
+    "30/6/2000",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Y_tế",
+    "về",
+    "“",
+    "Quy_định",
+    "tạm_thời",
+    "về",
+    "vệ_sinh",
+    "thuốc_lá",
+    "điếu",
+    "”",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 15 tháng 01 năm 2007"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 50,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày kể từ ngày đăng Công_báo . Bãi_bỏ Quyết_định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ_trưởng Bộ Y_tế về “ Quy_định tạm_thời về vệ_sinh thuốc_lá điếu ” ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 34,
+     "text": "Quyết_định số 2019/2000/QĐ-BYT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 30,
+     "end": 31,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 34,
+     "end": 36,
+     "text": "ngày 30/6/2000"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 21,
+     "end": 24,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 40,
+     "text": "Bộ_trưởng Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#body_standalone_14",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày kể từ ngày đăng Công_báo . Bãi_bỏ Quyết_định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ_trưởng Bộ Y_tế về “ Quy_định tạm_thời về vệ_sinh thuốc_lá điếu ” .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "sau",
+    "15",
+    "ngày",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    ".",
+    "Bãi_bỏ",
+    "Quyết_định",
+    "số",
+    "2019/2000/QĐ-BYT",
+    "ngày",
+    "30/6/2000",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Y_tế",
+    "về",
+    "“",
+    "Quy_định",
+    "tạm_thời",
+    "về",
+    "vệ_sinh",
+    "thuốc_lá",
+    "điếu",
+    "”",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 36,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày kể từ ngày đăng Công_báo . Bãi_bỏ Quyết_định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ_trưởng Bộ Y_tế về “ Quy_định tạm_thời về vệ_sinh thuốc_lá điếu ” ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 20,
+     "text": "Quyết_định số 2019/2000/QĐ-BYT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 16,
+     "end": 17,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 20,
+     "end": 22,
+     "text": "ngày 30/6/2000"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 7,
+     "end": 10,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 26,
+     "text": "Bộ_trưởng Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "02_2007_QĐ-BYT_14537#body_context_15",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 02/2007/QĐ-BYT của Bộ Y_tế trong lĩnh_vực Y_tế . Điều 3 . Các ông , bà : Chánh Văn_phòng , Chánh Thanh_tra Bộ Y_tế , Vụ_trưởng các Vụ : Pháp_chế , Khoa_học và Đào_tạo ; Cục_trưởng Cục An_toàn vệ_sinh thực_phẩm , Giám_đốc Sở Y_tế tỉnh , thành_phố trực_thuộc Trung_ương , Thủ_trưởng các đơn_vị liên_quan thuộc Bộ Y_tế , Thủ_trưởng Y_tế các ngành chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "02/2007/QĐ-BYT",
+    "của",
+    "Bộ",
+    "Y_tế",
+    "trong",
+    "lĩnh_vực",
+    "Y_tế",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Các",
+    "ông",
+    ",",
+    "bà",
+    ":",
+    "Chánh",
+    "Văn_phòng",
+    ",",
+    "Chánh",
+    "Thanh_tra",
+    "Bộ",
+    "Y_tế",
+    ",",
+    "Vụ_trưởng",
+    "các",
+    "Vụ",
+    ":",
+    "Pháp_chế",
+    ",",
+    "Khoa_học",
+    "và",
+    "Đào_tạo",
+    ";",
+    "Cục_trưởng",
+    "Cục",
+    "An_toàn",
+    "vệ_sinh",
+    "thực_phẩm",
+    ",",
+    "Giám_đốc",
+    "Sở",
+    "Y_tế",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "Thủ_trưởng",
+    "các",
+    "đơn_vị",
+    "liên_quan",
+    "thuộc",
+    "Bộ",
+    "Y_tế",
+    ",",
+    "Thủ_trưởng",
+    "Y_tế",
+    "các",
+    "ngành",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Y_tế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 71,
+     "text": "Điều 3 . Các ông , bà : Chánh Văn_phòng , Chánh Thanh_tra Bộ Y_tế , Vụ_trưởng các Vụ : Pháp_chế , Khoa_học và Đào_tạo ; Cục_trưởng Cục An_toàn vệ_sinh thực_phẩm , Giám_đốc Sở Y_tế tỉnh , thành_phố trực_thuộc Trung_ương , Thủ_trưởng các đơn_vị liên_quan thuộc Bộ Y_tế , Thủ_trưởng Y_tế các ngành chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 24,
+     "text": "Chánh Thanh_tra Bộ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 42,
+     "end": 45,
+     "text": "Giám_đốc Sở Y_tế"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 56,
+     "end": 58,
+     "text": "Bộ Y_tế"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  }
+ ]
+}

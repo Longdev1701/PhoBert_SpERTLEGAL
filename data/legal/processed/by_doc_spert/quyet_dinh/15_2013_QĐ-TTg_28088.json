@@ -1,0 +1,6437 @@
+{
+ "doc": "15_2013_QĐ-TTg_28088",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 69,
+ "total_entities": 392,
+ "total_relations": 272,
+ "samples": [
+  {
+   "id": "15_2013_QĐ-TTg_28088#header_0",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 15/2013/QĐ-TTg . Hà_Nội , ngày 23 tháng 02 năm 2013 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_1",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Về tín_dụng đối_với hộ cận nghèo",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Về",
+    "tín_dụng",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 13,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_2",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Về tín_dụng đối_với hộ cận nghèo",
+   "tokens": [
+    "Về",
+    "tín_dụng",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo"
+   ],
+   "entities": [
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 3,
+     "end": 6,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_3",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_4",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_5",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Các tổ_chức tín_dụng ngày 16 tháng 6 năm 2010 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 12,
+     "end": 18,
+     "text": "ngày 16 tháng 6 năm 2010"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_6",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Các tổ_chức tín_dụng ngày 16 tháng 6 năm 2010 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 16 tháng 6 năm 2010"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_7",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Nghị_định số 78/2002/NĐ-CP ngày 04 tháng 10 năm 2002 của Chính_phủ về tín_dụng đối_với người nghèo và các đối_tượng chính_sách khác ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "78/2002/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "10",
+    "năm",
+    "2002",
+    "của",
+    "Chính_phủ",
+    "về",
+    "tín_dụng",
+    "đối_với",
+    "người",
+    "nghèo",
+    "và",
+    "các",
+    "đối_tượng",
+    "chính_sách",
+    "khác",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 78/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 04 tháng 10 năm 2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_8",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 78/2002/NĐ-CP ngày 04 tháng 10 năm 2002 của Chính_phủ về tín_dụng đối_với người nghèo và các đối_tượng chính_sách khác ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "78/2002/NĐ-CP",
+    "ngày",
+    "04",
+    "tháng",
+    "10",
+    "năm",
+    "2002",
+    "của",
+    "Chính_phủ",
+    "về",
+    "tín_dụng",
+    "đối_với",
+    "người",
+    "nghèo",
+    "và",
+    "các",
+    "đối_tượng",
+    "chính_sách",
+    "khác",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 78/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 10 năm 2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_9",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Theo đề_nghị của Thống_đốc Ngân_hàng Nhà_nước Việt_Nam ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Thống_đốc",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 14,
+     "text": "Thống_đốc Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_10",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Thống_đốc Ngân_hàng Nhà_nước Việt_Nam ;",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Thống_đốc",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 7,
+     "text": "Thống_đốc Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_context_11",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Thủ_tướng Chính_phủ ban_hành Quyết_định về tín_dụng đối_với hộ cận nghèo .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "về",
+    "tín_dụng",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 9,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 17,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#preamble_standalone_12",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định về tín_dụng đối_với hộ cận nghèo .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "về",
+    "tín_dụng",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 7,
+     "end": 10,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_13",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 1 . Phạm_vi và đối_tượng áp_dụng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "và",
+    "đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 17,
+     "text": "Điều 1 . Phạm_vi và đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_14",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 1 . 1 . Ngân_hàng Chính_sách xã_hội thực_hiện cho vay hộ cận nghèo đáp_ứng nhu_cầu vốn phục_vụ sản_xuất , kinh_doanh , nhằm góp_phần thực_hiện chính_sách an_sinh xã_hội , giảm nghèo bền_vững .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "cho",
+    "vay",
+    "hộ",
+    "cận",
+    "nghèo",
+    "đáp_ứng",
+    "nhu_cầu",
+    "vốn",
+    "phục_vụ",
+    "sản_xuất",
+    ",",
+    "kinh_doanh",
+    ",",
+    "nhằm",
+    "góp_phần",
+    "thực_hiện",
+    "chính_sách",
+    "an_sinh",
+    "xã_hội",
+    ",",
+    "giảm",
+    "nghèo",
+    "bền_vững",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 43,
+     "text": "1 . Ngân_hàng Chính_sách xã_hội thực_hiện cho vay hộ cận nghèo đáp_ứng nhu_cầu vốn phục_vụ sản_xuất , kinh_doanh , nhằm góp_phần thực_hiện chính_sách an_sinh xã_hội , giảm nghèo bền_vững ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_15",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Ngân_hàng Chính_sách xã_hội thực_hiện cho vay hộ cận nghèo đáp_ứng nhu_cầu vốn phục_vụ sản_xuất , kinh_doanh , nhằm góp_phần thực_hiện chính_sách an_sinh xã_hội , giảm nghèo bền_vững .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "cho",
+    "vay",
+    "hộ",
+    "cận",
+    "nghèo",
+    "đáp_ứng",
+    "nhu_cầu",
+    "vốn",
+    "phục_vụ",
+    "sản_xuất",
+    ",",
+    "kinh_doanh",
+    ",",
+    "nhằm",
+    "góp_phần",
+    "thực_hiện",
+    "chính_sách",
+    "an_sinh",
+    "xã_hội",
+    ",",
+    "giảm",
+    "nghèo",
+    "bền_vững",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "1 . Ngân_hàng Chính_sách xã_hội thực_hiện cho vay hộ cận nghèo đáp_ứng nhu_cầu vốn phục_vụ sản_xuất , kinh_doanh , nhằm góp_phần thực_hiện chính_sách an_sinh xã_hội , giảm nghèo bền_vững ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 8,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 14,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_16",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 1 . 2 . Chuẩn hộ cận nghèo do Thủ_tướng Chính_phủ quy_định trong từng thời_kỳ .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Chuẩn",
+    "hộ",
+    "cận",
+    "nghèo",
+    "do",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quy_định",
+    "trong",
+    "từng",
+    "thời_kỳ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 31,
+     "text": "2 . Chuẩn hộ cận nghèo do Thủ_tướng Chính_phủ quy_định trong từng thời_kỳ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 26,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 23,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_17",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Chuẩn hộ cận nghèo do Thủ_tướng Chính_phủ quy_định trong từng thời_kỳ .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Chuẩn",
+    "hộ",
+    "cận",
+    "nghèo",
+    "do",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quy_định",
+    "trong",
+    "từng",
+    "thời_kỳ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "2 . Chuẩn hộ cận nghèo do Thủ_tướng Chính_phủ quy_định trong từng thời_kỳ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 12,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 6,
+     "end": 9,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_18",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 2 . Mức cho vay . Mức cho vay đối_với hộ cận nghèo do Ngân_hàng Chính_sách xã_hội và hộ cận nghèo thỏa_thuận nhưng không vượt quá mức cho vay tối_đa phục_vụ sản_xuất kinh_doanh áp_dụng đối_với hộ nghèo trong từng thời_kỳ .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Mức",
+    "cho",
+    "vay",
+    ".",
+    "Mức",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "do",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "và",
+    "hộ",
+    "cận",
+    "nghèo",
+    "thỏa_thuận",
+    "nhưng",
+    "không",
+    "vượt",
+    "quá",
+    "mức",
+    "cho",
+    "vay",
+    "tối_đa",
+    "phục_vụ",
+    "sản_xuất",
+    "kinh_doanh",
+    "áp_dụng",
+    "đối_với",
+    "hộ",
+    "nghèo",
+    "trong",
+    "từng",
+    "thời_kỳ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 56,
+     "text": "Điều 2 . Mức cho vay . Mức cho vay đối_với hộ cận nghèo do Ngân_hàng Chính_sách xã_hội và hộ cận nghèo thỏa_thuận nhưng không vượt quá mức cho vay tối_đa phục_vụ sản_xuất kinh_doanh áp_dụng đối_với hộ nghèo trong từng thời_kỳ ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 28,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 32,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 36,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 50,
+     "end": 52,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_19",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 3 . Lãi_suất cho vay",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Lãi_suất",
+    "cho",
+    "vay"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 3 . Lãi_suất cho vay"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_20",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 3 . 1 . Lãi_suất cho vay bằng 130 % lãi_suất cho vay đối_với hộ nghèo quy_định trong từng thời_kỳ .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Lãi_suất",
+    "cho",
+    "vay",
+    "bằng",
+    "130",
+    "%",
+    "lãi_suất",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "nghèo",
+    "quy_định",
+    "trong",
+    "từng",
+    "thời_kỳ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 29,
+     "text": "1 . Lãi_suất cho vay bằng 130 % lãi_suất cho vay đối_với hộ nghèo quy_định trong từng thời_kỳ ."
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 16,
+     "end": 18,
+     "text": "130 %"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_21",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Lãi_suất cho vay bằng 130 % lãi_suất cho vay đối_với hộ nghèo quy_định trong từng thời_kỳ .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Lãi_suất",
+    "cho",
+    "vay",
+    "bằng",
+    "130",
+    "%",
+    "lãi_suất",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "nghèo",
+    "quy_định",
+    "trong",
+    "từng",
+    "thời_kỳ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 22,
+     "text": "1 . Lãi_suất cho vay bằng 130 % lãi_suất cho vay đối_với hộ nghèo quy_định trong từng thời_kỳ ."
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 9,
+     "end": 11,
+     "text": "130 %"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 17,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_22",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 3 . 2 . Lãi_suất nợ quá hạn bằng 130 % lãi_suất cho vay .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Lãi_suất",
+    "nợ",
+    "quá",
+    "hạn",
+    "bằng",
+    "130",
+    "%",
+    "lãi_suất",
+    "cho",
+    "vay",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 30,
+     "text": "2 . Lãi_suất nợ quá hạn bằng 130 % lãi_suất cho vay ."
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 24,
+     "end": 26,
+     "text": "130 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_23",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 4 . Thời_hạn cho vay . Thời_hạn cho vay do Ngân_hàng Chính_sách xã_hội và hộ cận nghèo vay vốn thỏa_thuận phù_hợp với chu_kỳ sản_xuất , kinh_doanh và khả_năng trả nợ của khách_hàng .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Thời_hạn",
+    "cho",
+    "vay",
+    ".",
+    "Thời_hạn",
+    "cho",
+    "vay",
+    "do",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "và",
+    "hộ",
+    "cận",
+    "nghèo",
+    "vay",
+    "vốn",
+    "thỏa_thuận",
+    "phù_hợp",
+    "với",
+    "chu_kỳ",
+    "sản_xuất",
+    ",",
+    "kinh_doanh",
+    "và",
+    "khả_năng",
+    "trả",
+    "nợ",
+    "của",
+    "khách_hàng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 44,
+     "text": "Điều 4 . Thời_hạn cho vay . Thời_hạn cho vay do Ngân_hàng Chính_sách xã_hội và hộ cận nghèo vay vốn thỏa_thuận phù_hợp với chu_kỳ sản_xuất , kinh_doanh và khả_năng trả nợ của khách_hàng ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 28,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 42,
+     "end": 43,
+     "text": "khách_hàng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_24",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 5 . Điều_kiện , hồ_sơ và thủ_tục cho vay",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Điều_kiện",
+    ",",
+    "hồ_sơ",
+    "và",
+    "thủ_tục",
+    "cho",
+    "vay"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 20,
+     "text": "Điều 5 . Điều_kiện , hồ_sơ và thủ_tục cho vay"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_25",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 5 . 1 . Điều_kiện , hồ_sơ , thủ_tục và quy_trình cho vay đối_với hộ cận nghèo được thực_hiện như đối_với cho vay hộ nghèo .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Điều_kiện",
+    ",",
+    "hồ_sơ",
+    ",",
+    "thủ_tục",
+    "và",
+    "quy_trình",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "được",
+    "thực_hiện",
+    "như",
+    "đối_với",
+    "cho",
+    "vay",
+    "hộ",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 37,
+     "text": "1 . Điều_kiện , hồ_sơ , thủ_tục và quy_trình cho vay đối_với hộ cận nghèo được thực_hiện như đối_với cho vay hộ nghèo ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 28,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 36,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_26",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Điều_kiện , hồ_sơ , thủ_tục và quy_trình cho vay đối_với hộ cận nghèo được thực_hiện như đối_với cho vay hộ nghèo .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Điều_kiện",
+    ",",
+    "hồ_sơ",
+    ",",
+    "thủ_tục",
+    "và",
+    "quy_trình",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "được",
+    "thực_hiện",
+    "như",
+    "đối_với",
+    "cho",
+    "vay",
+    "hộ",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "1 . Điều_kiện , hồ_sơ , thủ_tục và quy_trình cho vay đối_với hộ cận nghèo được thực_hiện như đối_với cho vay hộ nghèo ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 24,
+     "end": 26,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_27",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 5 . 2 . Rủi_ro đối_với các khoản nợ của hộ cận nghèo được thực_hiện theo cơ_chế xử_lý nợ bị rủi_ro của Ngân_hàng Chính_sách xã_hội .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Rủi_ro",
+    "đối_với",
+    "các",
+    "khoản",
+    "nợ",
+    "của",
+    "hộ",
+    "cận",
+    "nghèo",
+    "được",
+    "thực_hiện",
+    "theo",
+    "cơ_chế",
+    "xử_lý",
+    "nợ",
+    "bị",
+    "rủi_ro",
+    "của",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 37,
+     "text": "2 . Rủi_ro đối_với các khoản nợ của hộ cận nghèo được thực_hiện theo cơ_chế xử_lý nợ bị rủi_ro của Ngân_hàng Chính_sách xã_hội ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 36,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_28",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Rủi_ro đối_với các khoản nợ của hộ cận nghèo được thực_hiện theo cơ_chế xử_lý nợ bị rủi_ro của Ngân_hàng Chính_sách xã_hội .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Rủi_ro",
+    "đối_với",
+    "các",
+    "khoản",
+    "nợ",
+    "của",
+    "hộ",
+    "cận",
+    "nghèo",
+    "được",
+    "thực_hiện",
+    "theo",
+    "cơ_chế",
+    "xử_lý",
+    "nợ",
+    "bị",
+    "rủi_ro",
+    "của",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "2 . Rủi_ro đối_với các khoản nợ của hộ cận nghèo được thực_hiện theo cơ_chế xử_lý nợ bị rủi_ro của Ngân_hàng Chính_sách xã_hội ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 14,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 26,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_29",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 6 . Trách_nhiệm của đơn_vị có liên_quan",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Trách_nhiệm",
+    "của",
+    "đơn_vị",
+    "có",
+    "liên_quan"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 15,
+     "text": "Điều 6 . Trách_nhiệm của đơn_vị có liên_quan"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_30",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 1 . Ngân_hàng Chính_sách xã_hội :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "1 . Ngân_hàng Chính_sách xã_hội :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_31",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 6 . Khoản 1 . a ) Xây_dựng kế_hoạch nguồn vốn hàng năm để cho vay các chương_trình tín_dụng chính_sách , trong đó có cho vay đối_với hộ cận nghèo , trình cấp có thẩm_quyền phê_duyệt .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Xây_dựng",
+    "kế_hoạch",
+    "nguồn",
+    "vốn",
+    "hàng",
+    "năm",
+    "để",
+    "cho",
+    "vay",
+    "các",
+    "chương_trình",
+    "tín_dụng",
+    "chính_sách",
+    ",",
+    "trong",
+    "đó",
+    "có",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    ",",
+    "trình",
+    "cấp",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 52,
+     "text": "a ) Xây_dựng kế_hoạch nguồn vốn hàng năm để cho vay các chương_trình tín_dụng chính_sách , trong đó có cho vay đối_với hộ cận nghèo , trình cấp có thẩm_quyền phê_duyệt ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 50,
+     "text": "cấp có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 45,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_32",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 1 . a ) Xây_dựng kế_hoạch nguồn vốn hàng năm để cho vay các chương_trình tín_dụng chính_sách , trong đó có cho vay đối_với hộ cận nghèo , trình cấp có thẩm_quyền phê_duyệt .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Xây_dựng",
+    "kế_hoạch",
+    "nguồn",
+    "vốn",
+    "hàng",
+    "năm",
+    "để",
+    "cho",
+    "vay",
+    "các",
+    "chương_trình",
+    "tín_dụng",
+    "chính_sách",
+    ",",
+    "trong",
+    "đó",
+    "có",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    ",",
+    "trình",
+    "cấp",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 38,
+     "text": "a ) Xây_dựng kế_hoạch nguồn vốn hàng năm để cho vay các chương_trình tín_dụng chính_sách , trong đó có cho vay đối_với hộ cận nghèo , trình cấp có thẩm_quyền phê_duyệt ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 36,
+     "text": "cấp có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 31,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_33",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 6 . Khoản 1 . b ) Định_kỳ ngày 15 hàng tháng , Ngân_hàng Chính_sách xã_hội báo_cáo Ngân_hàng Nhà_nước Việt_Nam , Bộ Tài_chính về kết_quả_thực_hiện chính_sách cho vay đối_với hộ cận nghèo .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Định_kỳ",
+    "ngày",
+    "15",
+    "hàng",
+    "tháng",
+    ",",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "báo_cáo",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "về",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 48,
+     "text": "b ) Định_kỳ ngày 15 hàng tháng , Ngân_hàng Chính_sách xã_hội báo_cáo Ngân_hàng Nhà_nước Việt_Nam , Bộ Tài_chính về kết_quả_thực_hiện chính_sách cho vay đối_với hộ cận nghèo ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 35,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 31,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 47,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_34",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 1 . b ) Định_kỳ ngày 15 hàng tháng , Ngân_hàng Chính_sách xã_hội báo_cáo Ngân_hàng Nhà_nước Việt_Nam , Bộ Tài_chính về kết_quả_thực_hiện chính_sách cho vay đối_với hộ cận nghèo .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Định_kỳ",
+    "ngày",
+    "15",
+    "hàng",
+    "tháng",
+    ",",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "báo_cáo",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "về",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "cho",
+    "vay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 34,
+     "text": "b ) Định_kỳ ngày 15 hàng tháng , Ngân_hàng Chính_sách xã_hội báo_cáo Ngân_hàng Nhà_nước Việt_Nam , Bộ Tài_chính về kết_quả_thực_hiện chính_sách cho vay đối_với hộ cận nghèo ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 21,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 17,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 33,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_35",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 2 . Ngân_hàng Nhà_nước Việt_Nam :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "2 . Ngân_hàng Nhà_nước Việt_Nam :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 18,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_36",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 6 . Khoản 2 . a ) Chỉ_đạo Ngân_hàng Chính_sách xã_hội thực_hiện cho vay theo quy_định tại Quyết_định này .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Chỉ_đạo",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "cho",
+    "vay",
+    "theo",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 28,
+     "text": "a ) Chỉ_đạo Ngân_hàng Chính_sách xã_hội thực_hiện cho vay theo quy_định tại Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 27,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 16,
+     "end": 19,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_37",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . a ) Chỉ_đạo Ngân_hàng Chính_sách xã_hội thực_hiện cho vay theo quy_định tại Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Chỉ_đạo",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "cho",
+    "vay",
+    "theo",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 21,
+     "text": "a ) Chỉ_đạo Ngân_hàng Chính_sách xã_hội thực_hiện cho vay theo quy_định tại Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 20,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 15,
+     "end": 18,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 12,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_38",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . Khoản 2 . b ) Chủ_trì , phối_hợp với Bộ Tài_chính trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "việc",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    ",",
+    "đề_xuất",
+    "xử_lý",
+    "các",
+    "vấn_đề",
+    "phát_sinh",
+    "trong",
+    "quá_trình",
+    "thực_hiện",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 39,
+     "text": "b ) Chủ_trì , phối_hợp với Bộ Tài_chính trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_39",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . b ) Chủ_trì , phối_hợp với Bộ Tài_chính trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "việc",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    ",",
+    "đề_xuất",
+    "xử_lý",
+    "các",
+    "vấn_đề",
+    "phát_sinh",
+    "trong",
+    "quá_trình",
+    "thực_hiện",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 29,
+     "text": "b ) Chủ_trì , phối_hợp với Bộ Tài_chính trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_40",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 6 . 3 . Bộ Tài_chính :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 22,
+     "text": "3 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 21,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_41",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 3 . Bộ Tài_chính :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 8,
+     "text": "3 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_42",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . Khoản 3 . a ) Chủ_trì , phối_hợp với các Bộ , ngành có liên_quan_trình Thủ_tướng Chính_phủ về nguồn vốn từ ngân_sách trung_ương dành cho Ngân_hàng Chính_sách xã_hội thựchiện cho vay các chương_trình tín_dụng chính_sách , trong đó có chương_trình chovay đối_với hộ cận nghèo theo quy_định .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "về",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "trung_ương",
+    "dành",
+    "cho",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thựchiện",
+    "cho",
+    "vay",
+    "các",
+    "chương_trình",
+    "tín_dụng",
+    "chính_sách",
+    ",",
+    "trong",
+    "đó",
+    "có",
+    "chương_trình",
+    "chovay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "theo",
+    "quy_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 61,
+     "text": "a ) Chủ_trì , phối_hợp với các Bộ , ngành có liên_quan_trình Thủ_tướng Chính_phủ về nguồn vốn từ ngân_sách trung_ương dành cho Ngân_hàng Chính_sách xã_hội thựchiện cho vay các chương_trình tín_dụng chính_sách , trong đó có chương_trình chovay đối_với hộ cận nghèo theo quy_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 30,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 38,
+     "end": 41,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 55,
+     "end": 58,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 34,
+     "end": 36,
+     "text": "ngân_sách trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_43",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 3 . a ) Chủ_trì , phối_hợp với các Bộ , ngành có liên_quan_trình Thủ_tướng Chính_phủ về nguồn vốn từ ngân_sách trung_ương dành cho Ngân_hàng Chính_sách xã_hội thựchiện cho vay các chương_trình tín_dụng chính_sách , trong đó có chương_trình chovay đối_với hộ cận nghèo theo quy_định .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "về",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "trung_ương",
+    "dành",
+    "cho",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thựchiện",
+    "cho",
+    "vay",
+    "các",
+    "chương_trình",
+    "tín_dụng",
+    "chính_sách",
+    ",",
+    "trong",
+    "đó",
+    "có",
+    "chương_trình",
+    "chovay",
+    "đối_với",
+    "hộ",
+    "cận",
+    "nghèo",
+    "theo",
+    "quy_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 51,
+     "text": "a ) Chủ_trì , phối_hợp với các Bộ , ngành có liên_quan_trình Thủ_tướng Chính_phủ về nguồn vốn từ ngân_sách trung_ương dành cho Ngân_hàng Chính_sách xã_hội thựchiện cho vay các chương_trình tín_dụng chính_sách , trong đó có chương_trình chovay đối_với hộ cận nghèo theo quy_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 31,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 45,
+     "end": 48,
+     "text": "hộ cận nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 26,
+     "text": "ngân_sách trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_44",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . Khoản 3 . b ) Phối_hợp với Ngân_hàng Nhà_nước Việt_Nam trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "việc",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    ",",
+    "đề_xuất",
+    "xử_lý",
+    "các",
+    "vấn_đề",
+    "phát_sinh",
+    "trong",
+    "quá_trình",
+    "thực_hiện",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 38,
+     "text": "b ) Phối_hợp với Ngân_hàng Nhà_nước Việt_Nam trong việc kiểm_tra , giám_sát , đề_xuất xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_45",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 4 . Bộ Lao_động - Thương_binh và Xã_hội :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 22,
+     "text": "4 . Bộ Lao_động - Thương_binh và Xã_hội :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 21,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_46",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 4 . Bộ Lao_động - Thương_binh và Xã_hội :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 12,
+     "text": "4 . Bộ Lao_động - Thương_binh và Xã_hội :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 11,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_47",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 6 . Khoản 4 . a ) Công_bố số hộ nghèo , hộ cận nghèo làm cơ_sở để triển_khai , thực_hiện các chính_sách an_sinh xã_hội .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "a",
+    ")",
+    "Công_bố",
+    "số",
+    "hộ",
+    "nghèo",
+    ",",
+    "hộ",
+    "cận",
+    "nghèo",
+    "làm",
+    "cơ_sở",
+    "để",
+    "triển_khai",
+    ",",
+    "thực_hiện",
+    "các",
+    "chính_sách",
+    "an_sinh",
+    "xã_hội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 34,
+     "text": "a ) Công_bố số hộ nghèo , hộ cận nghèo làm cơ_sở để triển_khai , thực_hiện các chính_sách an_sinh xã_hội ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 19,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 23,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_48",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 4 . a ) Công_bố số hộ nghèo , hộ cận nghèo làm cơ_sở để triển_khai , thực_hiện các chính_sách an_sinh xã_hội .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "a",
+    ")",
+    "Công_bố",
+    "số",
+    "hộ",
+    "nghèo",
+    ",",
+    "hộ",
+    "cận",
+    "nghèo",
+    "làm",
+    "cơ_sở",
+    "để",
+    "triển_khai",
+    ",",
+    "thực_hiện",
+    "các",
+    "chính_sách",
+    "an_sinh",
+    "xã_hội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 27,
+     "text": "a ) Công_bố số hộ nghèo , hộ cận nghèo làm cơ_sở để triển_khai , thực_hiện các chính_sách an_sinh xã_hội ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 12,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 16,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_49",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . Khoản 4 . b ) Quy_định thời_hạn điều_tra , rà_soát hộ nghèo , hộ cận nghèo phù_hợp để tạo điều_kiện thuận_lợi cho các đối_tượng này trong việc tiếp_cận nguồn vốn tín_dụng chính_sách .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "b",
+    ")",
+    "Quy_định",
+    "thời_hạn",
+    "điều_tra",
+    ",",
+    "rà_soát",
+    "hộ",
+    "nghèo",
+    ",",
+    "hộ",
+    "cận",
+    "nghèo",
+    "phù_hợp",
+    "để",
+    "tạo",
+    "điều_kiện",
+    "thuận_lợi",
+    "cho",
+    "các",
+    "đối_tượng",
+    "này",
+    "trong",
+    "việc",
+    "tiếp_cận",
+    "nguồn",
+    "vốn",
+    "tín_dụng",
+    "chính_sách",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 46,
+     "text": "b ) Quy_định thời_hạn điều_tra , rà_soát hộ nghèo , hộ cận nghèo phù_hợp để tạo điều_kiện thuận_lợi cho các đối_tượng này trong việc tiếp_cận nguồn vốn tín_dụng chính_sách ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 29,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_50",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 4 . b ) Quy_định thời_hạn điều_tra , rà_soát hộ nghèo , hộ cận nghèo phù_hợp để tạo điều_kiện thuận_lợi cho các đối_tượng này trong việc tiếp_cận nguồn vốn tín_dụng chính_sách .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "b",
+    ")",
+    "Quy_định",
+    "thời_hạn",
+    "điều_tra",
+    ",",
+    "rà_soát",
+    "hộ",
+    "nghèo",
+    ",",
+    "hộ",
+    "cận",
+    "nghèo",
+    "phù_hợp",
+    "để",
+    "tạo",
+    "điều_kiện",
+    "thuận_lợi",
+    "cho",
+    "các",
+    "đối_tượng",
+    "này",
+    "trong",
+    "việc",
+    "tiếp_cận",
+    "nguồn",
+    "vốn",
+    "tín_dụng",
+    "chính_sách",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 36,
+     "text": "b ) Quy_định thời_hạn điều_tra , rà_soát hộ nghèo , hộ cận nghèo phù_hợp để tạo điều_kiện thuận_lợi cho các đối_tượng này trong việc tiếp_cận nguồn vốn tín_dụng chính_sách ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 15,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 16,
+     "end": 19,
+     "text": "hộ cận nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_51",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 5 . Các Bộ , ngành có liên_quan căn_cứ vào chức_năng , nhiệm_vụ được giao cùng phối_hợp để triển_khai thực_hiện Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan",
+    "căn_cứ",
+    "vào",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "được",
+    "giao",
+    "cùng",
+    "phối_hợp",
+    "để",
+    "triển_khai",
+    "thực_hiện",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 36,
+     "text": "5 . Các Bộ , ngành có liên_quan căn_cứ vào chức_năng , nhiệm_vụ được giao cùng phối_hợp để triển_khai thực_hiện Quyết_định này ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_52",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 5 . Các Bộ , ngành có liên_quan căn_cứ vào chức_năng , nhiệm_vụ được giao cùng phối_hợp để triển_khai thực_hiện Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Các",
+    "Bộ",
+    ",",
+    "ngành",
+    "có",
+    "liên_quan",
+    "căn_cứ",
+    "vào",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "được",
+    "giao",
+    "cùng",
+    "phối_hợp",
+    "để",
+    "triển_khai",
+    "thực_hiện",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 26,
+     "text": "5 . Các Bộ , ngành có liên_quan căn_cứ vào chức_năng , nhiệm_vụ được giao cùng phối_hợp để triển_khai thực_hiện Quyết_định này ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_53",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 6 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan_chức_năng , Ủy_ban nhân_dân các cấp , cùng với các tổ_chức chính_trị - xã_hội ở địa_phương phối_hợp với Ngân_hàng Chính_sách xã_hội thực_hiện Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "6",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chỉ_đạo",
+    "các",
+    "cơ_quan_chức_năng",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    ",",
+    "cùng",
+    "với",
+    "các",
+    "tổ_chức",
+    "chính_trị",
+    "-",
+    "xã_hội",
+    "ở",
+    "địa_phương",
+    "phối_hợp",
+    "với",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 50,
+     "text": "6 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan_chức_năng , Ủy_ban nhân_dân các cấp , cùng với các tổ_chức chính_trị - xã_hội ở địa_phương phối_hợp với Ngân_hàng Chính_sách xã_hội thực_hiện Quyết_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 31,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 39,
+     "text": "tổ_chức chính_trị - xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 43,
+     "end": 46,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_54",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 6 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan_chức_năng , Ủy_ban nhân_dân các cấp , cùng với các tổ_chức chính_trị - xã_hội ở địa_phương phối_hợp với Ngân_hàng Chính_sách xã_hội thực_hiện Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "6",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chỉ_đạo",
+    "các",
+    "cơ_quan_chức_năng",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    ",",
+    "cùng",
+    "với",
+    "các",
+    "tổ_chức",
+    "chính_trị",
+    "-",
+    "xã_hội",
+    "ở",
+    "địa_phương",
+    "phối_hợp",
+    "với",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "thực_hiện",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "6 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan_chức_năng , Ủy_ban nhân_dân các cấp , cùng với các tổ_chức chính_trị - xã_hội ở địa_phương phối_hợp với Ngân_hàng Chính_sách xã_hội thực_hiện Quyết_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 21,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 29,
+     "text": "tổ_chức chính_trị - xã_hội"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 36,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_55",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 7 . Điều_khoản thi_hành",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 7 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_56",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 7 . 1 . Quyết_định này có hiệu_lực thi_hành kể từ ngày 16 tháng 4 năm 2013 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "16",
+    "tháng",
+    "4",
+    "năm",
+    "2013",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 29,
+     "text": "1 . Quyết_định này có hiệu_lực thi_hành kể từ ngày 16 tháng 4 năm 2013 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_57",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg ban_hành ngày 23 tháng 02 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 7 . 2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Chủ_tịch Hội_đồng quản_trị và Tổng_Giám_đốc Ngân_hàng Chính_sách xã_hội chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "23",
+    "tháng",
+    "02",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "2",
+    ".",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "Chủ_tịch",
+    "Hội_đồng",
+    "quản_trị",
+    "và",
+    "Tổng_Giám_đốc",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 23 tháng 02 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 56,
+     "text": "2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Chủ_tịch Hội_đồng quản_trị và Tổng_Giám_đốc Ngân_hàng Chính_sách xã_hội chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 30,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 39,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 43,
+     "text": "Hội_đồng quản_trị"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 45,
+     "end": 48,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 44,
+     "end": 45,
+     "text": "Tổng_Giám_đốc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_58",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Chủ_tịch Hội_đồng quản_trị và Tổng_Giám_đốc Ngân_hàng Chính_sách xã_hội chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "2",
+    ".",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "Chủ_tịch",
+    "Hội_đồng",
+    "quản_trị",
+    "và",
+    "Tổng_Giám_đốc",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 42,
+     "text": "2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Chủ_tịch Hội_đồng quản_trị và Tổng_Giám_đốc Ngân_hàng Chính_sách xã_hội chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 16,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 25,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 29,
+     "text": "Hội_đồng quản_trị"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 34,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 30,
+     "end": 31,
+     "text": "Tổng_Giám_đốc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_59",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 2 . Mức cho vay",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Mức",
+    "cho",
+    "vay"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 16,
+     "text": "Điều 2 . Mức cho vay"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_60",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 3 . Lãi_suất cho vay",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Lãi_suất",
+    "cho",
+    "vay"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 3 . Lãi_suất cho vay"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_61",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 4 . Thời_hạn cho vay",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Thời_hạn",
+    "cho",
+    "vay"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 4 . Thời_hạn cho vay"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_62",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 15/2013/QĐ-TTg . Điều 6 . 1 . Ngân_hàng Chính_sách xã_hội :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "1 . Ngân_hàng Chính_sách xã_hội :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 12,
+     "end": 15,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_63",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Ngân_hàng Chính_sách xã_hội :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ngân_hàng",
+    "Chính_sách",
+    "xã_hội",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "1 . Ngân_hàng Chính_sách xã_hội :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 8,
+     "text": "Ngân_hàng Chính_sách xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_64",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 2 . Ngân_hàng Nhà_nước Việt_Nam :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "2 . Ngân_hàng Nhà_nước Việt_Nam :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 18,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_standalone_65",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Ngân_hàng Nhà_nước Việt_Nam :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "2 . Ngân_hàng Nhà_nước Việt_Nam :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 8,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_66",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 6 . 3 . Bộ Tài_chính :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 18,
+     "text": "3 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#body_context_67",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 15/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Ngân_hàng . Điều 7 . Điều_khoản thi_hành",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "15/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Ngân_hàng",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "15/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Ngân_hàng"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 7 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "15_2013_QĐ-TTg_28088#hard_negative_68",
+   "doc": "15_2013_QĐ-TTg_28088",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

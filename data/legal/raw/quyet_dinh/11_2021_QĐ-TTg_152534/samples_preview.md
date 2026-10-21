@@ -1,0 +1,96 @@
+# BẢN XEM TRƯỚC DỮ LIỆU CẤU TRÚC VĂN BẢN: 11_2021_QĐ-TTg_152534
+- **Thể loại**: `quyet_dinh`
+- **Độ dài văn bản**: 4,114 ký tự (47 đoạn văn)
+- **Tổng số thực thể**: 17 (Metadata: 5, Chương: 0, Mục: 0, Điều: 3, Khoản: 9, Điểm: 0)
+- **Tổng số quan hệ**: 16
+
+---
+
+## I. THỰC THỂ THUỘC TÍNH PHÁP LÝ (METADATA)
+- **LOAI_VB** (`e_loai_vb`): `'Quyết định'` (vị trí: `[0:10]`)
+- **SO_HIEU** (`e_so_hieu`): `'11/2021/QĐ-TTg'` (vị trí: `[14:28]`)
+- **CO_QUAN** (`e_co_quan`): `'THỦ TƯỚNG CHÍNH PHỦ'` (vị trí: `[137:156]`)
+- **NGAY** (`e_ngay_bh`): `'ngày 17 tháng 3 năm 2021'` (vị trí: `[247:271]`)
+- **NGUOI** (`e_nguoi_ky`): `'Nguyễn Xuân Phúc'` (vị trí: `[4097:4113]`)
+
+---
+
+## II. NỘI DUNG TOÀN BỘ CÁC CHƯƠNG, ĐIỀU, KHOẢN, ĐIỂM
+
+### [ĐIỀU 1] Điều 1. Kéo dài thời hạn áp dụng của 08 Quyết định và 01 văn bản của Thủ tướng Chính phủ cho đến khi thực hiện cải cách tiền lương theo Nghị quyết số 27-NQ/TW ngày 21 tháng 5 năm 2018 của Hội nghị lần thứ bảy Ban Chấp hành Trung ương khóa XII về cải cách chính sách tiền lương đối với cán bộ, công chức, viên chức, lực lượng vũ trang và người lao động trong doanh nghiệp, gồm:
+- **ID**: `e_dieu_1` | **Vị trí**: `[788:3028]` (2240 ký tự)
+> **Toàn văn nội dung Điều 1**:
+> ```
+> Điều 1. Kéo dài thời hạn áp dụng của 08 Quyết định và 01 văn bản của Thủ tướng Chính phủ cho đến khi thực hiện cải cách tiền lương theo Nghị quyết số 27-NQ/TW ngày 21 tháng 5 năm 2018 của Hội nghị lần thứ bảy Ban Chấp hành Trung ương khóa XII về cải cách chính sách tiền lương đối với cán bộ, công chức, viên chức, lực lượng vũ trang và người lao động trong doanh nghiệp, gồm:
+> 1. Quyết định số 03/2015/QĐ-TTg ngày 15 tháng 01 năm 2015 của Thủ tướng Chính phủ thí điểm một số cơ chế tài chính đặc thù của Cục Bưu điện Trung ương.
+> 2. Quyết định số 04/2016/QĐ-TTg ngày 04 tháng 02 năm 2016 của Thủ tướng Chính phủ về áp dụng hệ số điều chỉnh mức lương cơ sở tăng thêm đối với công chức, viên chức và người lao động làm việc tại Ban quản lý Khu công nghệ cao Hòa Lạc.
+> 3. Quyết định số 05/2016/QĐ-TTg ngày 05 tháng 02 năm 2016 của Thủ tướng Chính phủ về việc quản lý sử dụng phí cho vay lại và phần trích phí bảo lãnh tại Bộ Tài chính giai đoạn 2016 - 2020.
+> 4. Quyết định số 13/2016/QĐ-TTg ngày 15 tháng 3 năm 2016 của Thủ tướng Chính phủ về việc thực hiện cơ chế quản lý tài chính và biên chế đối với Tổng cục Thuế, Tổng cục Hải quan giai đoạn 2016 - 2020.
+> 5. Quyết định số 32/2019/QĐ-TTg ngày 29 tháng 10 năm 2019 của Thủ tướng Chính phủ về một số chế độ chi đặc thù của Cục Hàng hải Việt Nam.
+> 6. Quyết định số 02/2020/QĐ-TTg ngày 15 tháng 5 năm 2020 của Thủ tướng Chính phủ về việc kéo dài thời hạn thí điểm một số chế độ ưu đãi và cơ chế tài chính đặc thù cho cán bộ kỹ thuật và lực lượng ứng cứu sự cố an toàn thông tin mạng của Bộ Thông tin và Truyền thông.
+> 7. Quyết định số 11/2020/QĐ-TTg ngày 30 tháng 3 năm 2020 của Thủ tướng Chính phủ về chế độ quản lý tài chính đối với cơ quan Cục Quản lý, giám sát bảo hiểm - Bộ Tài chính.
+> 8. Quyết định số 17/2020/QĐ-TTg ngày 29 tháng 5 năm 2020 của Thủ tướng Chính phủ về việc áp dụng cơ chế quản lý tài chính, thu nhập đặc thù đối với Cục Bảo vệ thực vật, Cục Thúy và Cục Quản lý chất lượng nông lâm sản và thủy sản thuộc Bộ Nông nghiệp và Phát triển nông thôn.
+> 9. Công văn số 128/TTg-KTTH ngày 31 tháng 01 năm 2019 của Thủ tướng Chính phủ về thu nhập tăng thêm đối với Cục Viễn thông, Cục Tần số vô tuyến điện, Cục Phát thanh, truyền hình và thông tin điện tử thuộc Bộ Thông tin và Truyền thông.
+> ```
+
+**Các Khoản trong Điều 1** (9 khoản):
+- **Khoản 1** (`e_khoan_1_1`, `[1165:1316]`):
+  > '1. Quyết định số 03/2015/QĐ-TTg ngày 15 tháng 01 năm 2015 của Thủ tướng Chính phủ thí điểm một số cơ chế tài chính đặc thù của Cục Bưu điện '...
+- **Khoản 2** (`e_khoan_1_2`, `[1317:1551]`):
+  > '2. Quyết định số 04/2016/QĐ-TTg ngày 04 tháng 02 năm 2016 của Thủ tướng Chính phủ về áp dụng hệ số điều chỉnh mức lương cơ sở tăng thêm đối '...
+- **Khoản 3** (`e_khoan_1_3`, `[1552:1740]`):
+  > '3. Quyết định số 05/2016/QĐ-TTg ngày 05 tháng 02 năm 2016 của Thủ tướng Chính phủ về việc quản lý sử dụng phí cho vay lại và phần trích phí '...
+- **Khoản 4** (`e_khoan_1_4`, `[1741:1940]`):
+  > '4. Quyết định số 13/2016/QĐ-TTg ngày 15 tháng 3 năm 2016 của Thủ tướng Chính phủ về việc thực hiện cơ chế quản lý tài chính và biên chế đối '...
+- **Khoản 5** (`e_khoan_1_5`, `[1941:2078]`):
+  > '5. Quyết định số 32/2019/QĐ-TTg ngày 29 tháng 10 năm 2019 của Thủ tướng Chính phủ về một số chế độ chi đặc thù của Cục Hàng hải Việt Nam.'...
+- **Khoản 6** (`e_khoan_1_6`, `[2079:2346]`):
+  > '6. Quyết định số 02/2020/QĐ-TTg ngày 15 tháng 5 năm 2020 của Thủ tướng Chính phủ về việc kéo dài thời hạn thí điểm một số chế độ ưu đãi và c'...
+- **Khoản 7** (`e_khoan_1_7`, `[2347:2518]`):
+  > '7. Quyết định số 11/2020/QĐ-TTg ngày 30 tháng 3 năm 2020 của Thủ tướng Chính phủ về chế độ quản lý tài chính đối với cơ quan Cục Quản lý, gi'...
+- **Khoản 8** (`e_khoan_1_8`, `[2519:2793]`):
+  > '8. Quyết định số 17/2020/QĐ-TTg ngày 29 tháng 5 năm 2020 của Thủ tướng Chính phủ về việc áp dụng cơ chế quản lý tài chính, thu nhập đặc thù '...
+- **Khoản 9** (`e_khoan_1_9`, `[2794:3028]`):
+  > '9. Công văn số 128/TTg-KTTH ngày 31 tháng 01 năm 2019 của Thủ tướng Chính phủ về thu nhập tăng thêm đối với Cục Viễn thông, Cục Tần số vô tu'...
+
+---
+
+### [ĐIỀU 2] Điều 2. Quyết định này có hiệu lực từ ngày ký và áp dụng từ năm ngân sách 2021.
+- **ID**: `e_dieu_2` | **Vị trí**: `[3029:3108]` (79 ký tự)
+> **Toàn văn nội dung Điều 2**:
+> ```
+> Điều 2. Quyết định này có hiệu lực từ ngày ký và áp dụng từ năm ngân sách 2021.
+> ```
+
+---
+
+### [ĐIỀU 3] Điều 3. Các Bộ trưởng: Tài chính, Nội vụ, Giao thông vận tải, Thông tin và Truyền thông, Nông nghiệp và Phát triển nông thôn, Khoa học và Công nghệ và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- **ID**: `e_dieu_3` | **Vị trí**: `[3109:3338]` (229 ký tự)
+> **Toàn văn nội dung Điều 3**:
+> ```
+> Điều 3. Các Bộ trưởng: Tài chính, Nội vụ, Giao thông vận tải, Thông tin và Truyền thông, Nông nghiệp và Phát triển nông thôn, Khoa học và Công nghệ và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+> ```
+
+---
+
+## III. DANH SÁCH QUAN HỆ ĐÃ SUY DIỄN
+
+### 1. Quan hệ Thuộc tính Pháp lý:
+- `e_so_hieu` ==[ **LA_LOAI** ]==> `e_loai_vb`
+- `e_so_hieu` ==[ **BAN_HANH_BOI** ]==> `e_co_quan`
+- `e_so_hieu` ==[ **NGAY_BAN_HANH** ]==> `e_ngay_bh`
+- `e_so_hieu` ==[ **KY_BOI** ]==> `e_nguoi_ky`
+
+### 2. Quan hệ Phân cấp Thứ bậc (12 quan hệ THUOC):
+- `e_dieu_1` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_khoan_1_1` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_2` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_3` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_4` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_5` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_6` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_7` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_8` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_9` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_dieu_2` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_dieu_3` ==[ **THUOC** ]==> `e_so_hieu`

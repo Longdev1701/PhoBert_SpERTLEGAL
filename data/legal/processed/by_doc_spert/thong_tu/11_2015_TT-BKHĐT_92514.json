@@ -1,0 +1,6797 @@
+{
+ "doc": "11_2015_TT-BKHĐT_92514",
+ "category": "thong_tu",
+ "split": "dev",
+ "total_samples": 58,
+ "total_entities": 368,
+ "total_relations": 261,
+ "samples": [
+  {
+   "id": "11_2015_TT-BKHĐT_92514#header_0",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 11/2015/TT-BKHĐT . Ngày 27 tháng 10 năm 2015 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "KẾ_HOẠCH",
+    "VÀ",
+    "ĐẦU_TƯ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 20,
+     "end": 21,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "Ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#signature_1",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG . ( Đã ký ) . Bùi Quang_Vinh",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Bùi",
+    "Quang_Vinh"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 9,
+     "text": "Bùi Quang_Vinh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#meta_2",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 11/2015/TT-BKHĐT . Ngày 27 tháng 10 năm 2015 . THÔNG_TƯ . BỘ_TRƯỞNG . ( Đã ký ) . Bùi Quang_Vinh",
+   "tokens": [
+    "BỘ",
+    "KẾ_HOẠCH",
+    "VÀ",
+    "ĐẦU_TƯ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    ".",
+    "THÔNG_TƯ",
+    ".",
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Bùi",
+    "Quang_Vinh"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 20,
+     "end": 21,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 38,
+     "end": 40,
+     "text": "Bùi Quang_Vinh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 31,
+     "end": 32,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_context_3",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Quy_định chi_tiết lập hồ_sơ yêu_cầu đối_với chỉ_định thầu , chào_hàng cạnh_tranh",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 12,
+     "end": 14,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_standalone_4",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Quy_định chi_tiết lập hồ_sơ yêu_cầu đối_với chỉ_định thầu , chào_hàng cạnh_tranh",
+   "tokens": [
+    "Quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh"
+   ],
+   "entities": [
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 3,
+     "end": 5,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_context_5",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Luật đấu_thầu số 43/2013/QH13 ngày 26 tháng 11 năm 2013 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 14,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 26 tháng 11 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_standalone_6",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật đấu_thầu số 43/2013/QH13 ngày 26 tháng 11 năm 2013 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 26 tháng 11 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_context_7",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Nghị_định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật đấu_thầu về lựa_chọn nhà_thầu ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "ngày",
+    "26",
+    "tháng",
+    "6",
+    "năm",
+    "2014",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "đấu_thầu",
+    "về",
+    "lựa_chọn",
+    "nhà_thầu",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 26 tháng 6 năm 2014"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_standalone_8",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật đấu_thầu về lựa_chọn nhà_thầu ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "ngày",
+    "26",
+    "tháng",
+    "6",
+    "năm",
+    "2014",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "đấu_thầu",
+    "về",
+    "lựa_chọn",
+    "nhà_thầu",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 26 tháng 6 năm 2014"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_context_9",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Nghị_định số 116/2008/NĐ-CP ngày 14 tháng 11 năm 2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Kế_hoạch và Đầu_tư ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "116/2008/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_định số 116/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 14 tháng 11 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 35,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_standalone_10",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 116/2008/NĐ-CP ngày 14 tháng 11 năm 2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Kế_hoạch và Đầu_tư ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "116/2008/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 116/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 11 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 26,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_context_11",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Bộ_trưởng Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư quy_định chi_tiết việc lập hồ_sơ yêu_cầu đối_với chỉ_định thầu , chào_hàng cạnh_tranh .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "chi_tiết",
+    "việc",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 14,
+     "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 22,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#preamble_standalone_12",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư quy_định chi_tiết việc lập hồ_sơ yêu_cầu đối_với chỉ_định thầu , chào_hàng cạnh_tranh .",
+   "tokens": [
+    "Bộ_trưởng",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "chi_tiết",
+    "việc",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 5,
+     "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 11,
+     "end": 13,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_13",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ yêu_cầu đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 Luật đấu_thầu số 43/2013/QH13 như sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 46,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ yêu_cầu đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 Luật đấu_thầu số 43/2013/QH13 như sau :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "Điều 1"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 43,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 35,
+     "end": 37,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_14",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ yêu_cầu đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 Luật đấu_thầu số 43/2013/QH13 như sau :",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 30,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ yêu_cầu đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 Luật đấu_thầu số 43/2013/QH13 như sau :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Điều 1"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 27,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 12,
+     "end": 14,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_15",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . 1 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 01 - Hồ_sơ yêu_cầu chỉ_định thầu xây_lắp ) ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "01",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "xây_lắp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 47,
+     "text": "1 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 01 - Hồ_sơ yêu_cầu chỉ_định thầu xây_lắp ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 40,
+     "end": 42,
+     "text": "Hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_16",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 01 - Hồ_sơ yêu_cầu chỉ_định thầu xây_lắp ) ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "01",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "xây_lắp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 31,
+     "text": "1 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 01 - Hồ_sơ yêu_cầu chỉ_định thầu xây_lắp ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 24,
+     "end": 26,
+     "text": "Hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_17",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 1 . 2 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 02 - Hồ_sơ yêu_cầu chỉ_định thầu mua_sắm hàng_hóa ) ;",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "02",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 42,
+     "text": "2 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 02 - Hồ_sơ yêu_cầu chỉ_định thầu mua_sắm hàng_hóa ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 33,
+     "text": "Mẫu_số 02"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 17,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 34,
+     "end": 36,
+     "text": "Hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 39,
+     "end": 40,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_18",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 02 - Hồ_sơ yêu_cầu chỉ_định thầu mua_sắm hàng_hóa ) ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "02",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "2 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chỉ_định thầu trong nước theo quy_trình thông_thường ( Mẫu_số 02 - Hồ_sơ yêu_cầu chỉ_định thầu mua_sắm hàng_hóa ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "Mẫu_số 02"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 25,
+     "end": 27,
+     "text": "Hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 31,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_19",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . 3 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 03 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh xây_lắp ) ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "03",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chào_hàng",
+    "cạnh_tranh",
+    "xây_lắp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 47,
+     "text": "3 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 03 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh xây_lắp ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "Mẫu_số 03"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 40,
+     "end": 42,
+     "text": "Hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_20",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 3 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 03 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh xây_lắp ) ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "03",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chào_hàng",
+    "cạnh_tranh",
+    "xây_lắp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 31,
+     "text": "3 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 03 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh xây_lắp ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Mẫu_số 03"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 24,
+     "end": 26,
+     "text": "Hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_21",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . 4 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 04 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh mua_sắm hàng_hóa ) ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "04",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chào_hàng",
+    "cạnh_tranh",
+    "mua_sắm",
+    "hàng_hóa",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 49,
+     "text": "4 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 04 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh mua_sắm hàng_hóa ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 38,
+     "end": 40,
+     "text": "Mẫu_số 04"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 41,
+     "end": 43,
+     "text": "Hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 29,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 46,
+     "end": 47,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_22",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 4 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 04 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh mua_sắm hàng_hóa ) ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "(",
+    "Mẫu_số",
+    "04",
+    "-",
+    "Hồ_sơ",
+    "yêu_cầu",
+    "chào_hàng",
+    "cạnh_tranh",
+    "mua_sắm",
+    "hàng_hóa",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "4 . Mẫu hồ_sơ yêu_cầu áp_dụng cho gói_thầu mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình thông_thường ( Mẫu_số 04 - Hồ_sơ yêu_cầu chào_hàng cạnh_tranh mua_sắm hàng_hóa ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "Mẫu_số 04"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 25,
+     "end": 27,
+     "text": "Hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 31,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_23",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 1 . 5 . Mẫu bản yêu_cầu báo_giá áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình rút_gọn ( Mẫu_số 05 - Bản yêu_cầu báo_giá ) ;",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Mẫu",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "(",
+    "Mẫu_số",
+    "05",
+    "-",
+    "Bản",
+    "yêu_cầu",
+    "báo_giá",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 42,
+     "text": "5 . Mẫu bản yêu_cầu báo_giá áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình rút_gọn ( Mẫu_số 05 - Bản yêu_cầu báo_giá ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 36,
+     "text": "Mẫu_số 05"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 25,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_24",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 5 . Mẫu bản yêu_cầu báo_giá áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình rút_gọn ( Mẫu_số 05 - Bản yêu_cầu báo_giá ) ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Mẫu",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chào_hàng",
+    "cạnh_tranh",
+    "trong",
+    "nước",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "(",
+    "Mẫu_số",
+    "05",
+    "-",
+    "Bản",
+    "yêu_cầu",
+    "báo_giá",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "5 . Mẫu bản yêu_cầu báo_giá áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chào_hàng cạnh_tranh trong nước theo quy_trình rút_gọn ( Mẫu_số 05 - Bản yêu_cầu báo_giá ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 27,
+     "text": "Mẫu_số 05"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_25",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . 6 . Mẫu dự_thảo hợp_đồng áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thuộc hạn_mức chỉ_định thầu ( Mẫu_số 06 - Dự_thảo hợp_đồng cho chỉ_định thầu rút_gọn ) .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Mẫu",
+    "dự_thảo",
+    "hợp_đồng",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thuộc",
+    "hạn_mức",
+    "chỉ_định",
+    "thầu",
+    "(",
+    "Mẫu_số",
+    "06",
+    "-",
+    "Dự_thảo",
+    "hợp_đồng",
+    "cho",
+    "chỉ_định",
+    "thầu",
+    "rút_gọn",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 47,
+     "text": "6 . Mẫu dự_thảo hợp_đồng áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thuộc hạn_mức chỉ_định thầu ( Mẫu_số 06 - Dự_thảo hợp_đồng cho chỉ_định thầu rút_gọn ) ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 36,
+     "end": 38,
+     "text": "Mẫu_số 06"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 31,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_26",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 6 . Mẫu dự_thảo hợp_đồng áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thuộc hạn_mức chỉ_định thầu ( Mẫu_số 06 - Dự_thảo hợp_đồng cho chỉ_định thầu rút_gọn ) .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Mẫu",
+    "dự_thảo",
+    "hợp_đồng",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thuộc",
+    "hạn_mức",
+    "chỉ_định",
+    "thầu",
+    "(",
+    "Mẫu_số",
+    "06",
+    "-",
+    "Dự_thảo",
+    "hợp_đồng",
+    "cho",
+    "chỉ_định",
+    "thầu",
+    "rút_gọn",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 31,
+     "text": "6 . Mẫu dự_thảo hợp_đồng áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thuộc hạn_mức chỉ_định thầu ( Mẫu_số 06 - Dự_thảo hợp_đồng cho chỉ_định thầu rút_gọn ) ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 22,
+     "text": "Mẫu_số 06"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_27",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư trong lĩnh_vực Đấu_thầu . Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu quy_định tại Điều 1 của Thông_tư này .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trong",
+    "lĩnh_vực",
+    "Đấu_thầu",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoặc",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động",
+    "lựa_chọn",
+    "nhà_thầu",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 11,
+     "text": "Đấu_thầu"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 42,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu quy_định tại Điều 1 của Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 36,
+     "end": 41,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 34,
+     "end": 36,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_28",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu quy_định tại Điều 1 của Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoặc",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động",
+    "lựa_chọn",
+    "nhà_thầu",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 30,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu quy_định tại Điều 1 của Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 29,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_29",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . Áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh và các Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh",
+    "và",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 38,
+     "text": "Điều 3 . Áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh và các Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_30",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . 1 . Hình_thức chỉ_định thầu theo quy_trình thông_thường được áp_dụng đối_với gói_thầu thuộc trường_hợp chỉ_định thầu quy_định tại các điểm b , c , d , đ và g ói thầu cần thực_hiện để bảo_đảm bí_mật nhà_nước quy_định tại điểm a khoản 1 Điều 22 Luật đấu_thầu số 43/2013/QH13 , đồng_thời đáp_ứng các điều_kiện quy_định tại khoản 2 Điều 22 Luật đấu_thầu số 43/2013/QH13 . Hình_thức chỉ_định thầu theo quy_trình rút_gọn được",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Hình_thức",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "trường_hợp",
+    "chỉ_định",
+    "thầu",
+    "quy_định",
+    "tại",
+    "các",
+    "điểm",
+    "b",
+    ",",
+    "c",
+    ",",
+    "d",
+    ",",
+    "đ",
+    "và",
+    "g",
+    "ói",
+    "thầu",
+    "cần",
+    "thực_hiện",
+    "để",
+    "bảo_đảm",
+    "bí_mật",
+    "nhà_nước",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "1",
+    "Điều",
+    "22",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    ",",
+    "đồng_thời",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    "Điều",
+    "22",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    ".",
+    "Hình_thức",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "được"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 91,
+     "text": "1 . Hình_thức chỉ_định thầu theo quy_trình thông_thường được áp_dụng đối_với gói_thầu thuộc trường_hợp chỉ_định thầu quy_định tại các điểm b , c , d , đ và g ói thầu cần thực_hiện để bảo_đảm bí_mật nhà_nước quy_định tại điểm a khoản 1 Điều 22 Luật đấu_thầu số 43/2013/QH13 , đồng_thời đáp_ứng các điều_kiện quy_định tại khoản 2 Điều 22 Luật đấu_thầu số 43/2013/QH13 . Hình_thức chỉ_định thầu theo quy_trình rút_gọn được"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 48,
+     "text": "các điểm b , c , d , đ và g"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 58,
+     "end": 64,
+     "text": "điểm a khoản 1 Điều 22"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 68,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 75,
+     "end": 79,
+     "text": "khoản 2 Điều 22"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 79,
+     "end": 83,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 35,
+     "end": 37,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 56,
+     "end": 58,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 73,
+     "end": 75,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 12,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 12,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 13,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 13,
+     "tail": 10
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_31",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Hình_thức chỉ_định thầu theo quy_trình thông_thường được áp_dụng đối_với gói_thầu thuộc trường_hợp chỉ_định thầu quy_định tại các điểm b , c , d , đ và g ói thầu cần thực_hiện để bảo_đảm bí_mật nhà_nước quy_định tại điểm a khoản 1 Điều 22 Luật đấu_thầu số 43/2013/QH13 , đồng_thời đáp_ứng các điều_kiện quy_định tại khoản 2 Điều 22 Luật đấu_thầu số 43/2013/QH13 . Hình_thức chỉ_định thầu theo quy_trình rút_gọn được",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Hình_thức",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "trường_hợp",
+    "chỉ_định",
+    "thầu",
+    "quy_định",
+    "tại",
+    "các",
+    "điểm",
+    "b",
+    ",",
+    "c",
+    ",",
+    "d",
+    ",",
+    "đ",
+    "và",
+    "g",
+    "ói",
+    "thầu",
+    "cần",
+    "thực_hiện",
+    "để",
+    "bảo_đảm",
+    "bí_mật",
+    "nhà_nước",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "1",
+    "Điều",
+    "22",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    ",",
+    "đồng_thời",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    "Điều",
+    "22",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    ".",
+    "Hình_thức",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "được"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 75,
+     "text": "1 . Hình_thức chỉ_định thầu theo quy_trình thông_thường được áp_dụng đối_với gói_thầu thuộc trường_hợp chỉ_định thầu quy_định tại các điểm b , c , d , đ và g ói thầu cần thực_hiện để bảo_đảm bí_mật nhà_nước quy_định tại điểm a khoản 1 Điều 22 Luật đấu_thầu số 43/2013/QH13 , đồng_thời đáp_ứng các điều_kiện quy_định tại khoản 2 Điều 22 Luật đấu_thầu số 43/2013/QH13 . Hình_thức chỉ_định thầu theo quy_trình rút_gọn được"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 32,
+     "text": "các điểm b , c , d , đ và g"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 48,
+     "text": "điểm a khoản 1 Điều 22"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 48,
+     "end": 52,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 59,
+     "end": 63,
+     "text": "khoản 2 Điều 22"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 63,
+     "end": 67,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 40,
+     "end": 42,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 57,
+     "end": 59,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_32",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 3 . 2 . Hình_thức chào_hàng cạnh_tranh theo quy_trình thông_thường được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP . Hình_thức chào_hàng cạnh_tranh theo quy_trình rút_gọn được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "23",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "khoản",
+    "1",
+    "Điều",
+    "57",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    ".",
+    "Hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "23",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "khoản",
+    "2",
+    "Điều",
+    "57",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 68,
+     "text": "2 . Hình_thức chào_hàng cạnh_tranh theo quy_trình thông_thường được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP . Hình_thức chào_hàng cạnh_tranh theo quy_trình rút_gọn được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 26,
+     "end": 28,
+     "text": "Điều 23"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 32,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 33,
+     "end": 40,
+     "text": "khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 53,
+     "end": 55,
+     "text": "Điều 23"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 59,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 60,
+     "end": 67,
+     "text": "khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 51,
+     "end": 53,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 12,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 12,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 12,
+     "tail": 10
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_33",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Hình_thức chào_hàng cạnh_tranh theo quy_trình thông_thường được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP . Hình_thức chào_hàng cạnh_tranh theo quy_trình rút_gọn được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "23",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "khoản",
+    "1",
+    "Điều",
+    "57",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    ".",
+    "Hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    "theo",
+    "quy_trình",
+    "rút_gọn",
+    "được",
+    "áp_dụng",
+    "đối_với",
+    "gói_thầu",
+    "quy_định",
+    "tại",
+    "Điều",
+    "23",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "khoản",
+    "2",
+    "Điều",
+    "57",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 59,
+     "text": "2 . Hình_thức chào_hàng cạnh_tranh theo quy_trình thông_thường được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP . Hình_thức chào_hàng cạnh_tranh theo quy_trình rút_gọn được áp_dụng đối_với gói_thầu quy_định tại Điều 23 Luật đấu_thầu số 43/2013/QH13 và khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 23"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 23,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 31,
+     "text": "khoản 1 Điều 57 Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 44,
+     "end": 46,
+     "text": "Điều 23"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 46,
+     "end": 50,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 51,
+     "end": 58,
+     "text": "khoản 2 Điều 57 Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 15,
+     "end": 17,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_34",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 3 . 3 . Khi lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chỉ_định thầu theo quy_trình thông_thường , tổ_chức , cá_nhân phải áp_dụng tương_ứng Mẫu_số 01 hoặc Mẫu_số 02 ban_hành kèm theo Thông_tư này và căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc công_khai , minh_bạch và hiệu_quả kinh",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Khi",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "phải",
+    "áp_dụng",
+    "tương_ứng",
+    "Mẫu_số",
+    "01",
+    "hoặc",
+    "Mẫu_số",
+    "02",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "và",
+    "căn_cứ",
+    "vào",
+    "quy_mô",
+    ",",
+    "tính_chất",
+    "của",
+    "từng",
+    "gói_thầu",
+    "cụ_thể",
+    "để",
+    "đưa",
+    "ra",
+    "các",
+    "yêu_cầu",
+    "phù_hợp",
+    "trên",
+    "cơ_sở",
+    "bảo_đảm",
+    "nguyên_tắc",
+    "công_khai",
+    ",",
+    "minh_bạch",
+    "và",
+    "hiệu_quả",
+    "kinh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 78,
+     "text": "3 . Khi lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chỉ_định thầu theo quy_trình thông_thường , tổ_chức , cá_nhân phải áp_dụng tương_ứng Mẫu_số 01 hoặc Mẫu_số 02 ban_hành kèm theo Thông_tư này và căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc công_khai , minh_bạch và hiệu_quả kinh"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 45,
+     "end": 52,
+     "text": "Mẫu_số 02 ban_hành kèm theo Thông_tư này"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 22,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 29,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_35",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 3 . Khi lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chỉ_định thầu theo quy_trình thông_thường , tổ_chức , cá_nhân phải áp_dụng tương_ứng Mẫu_số 01 hoặc Mẫu_số 02 ban_hành kèm theo Thông_tư này và căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc công_khai , minh_bạch và hiệu_quả kinh",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Khi",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "xây_lắp",
+    ",",
+    "mua_sắm",
+    "hàng_hóa",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "theo",
+    "quy_trình",
+    "thông_thường",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "phải",
+    "áp_dụng",
+    "tương_ứng",
+    "Mẫu_số",
+    "01",
+    "hoặc",
+    "Mẫu_số",
+    "02",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "và",
+    "căn_cứ",
+    "vào",
+    "quy_mô",
+    ",",
+    "tính_chất",
+    "của",
+    "từng",
+    "gói_thầu",
+    "cụ_thể",
+    "để",
+    "đưa",
+    "ra",
+    "các",
+    "yêu_cầu",
+    "phù_hợp",
+    "trên",
+    "cơ_sở",
+    "bảo_đảm",
+    "nguyên_tắc",
+    "công_khai",
+    ",",
+    "minh_bạch",
+    "và",
+    "hiệu_quả",
+    "kinh"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 69,
+     "text": "3 . Khi lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu áp_dụng cho gói_thầu xây_lắp , mua_sắm hàng_hóa thực_hiện chỉ_định thầu theo quy_trình thông_thường , tổ_chức , cá_nhân phải áp_dụng tương_ứng Mẫu_số 01 hoặc Mẫu_số 02 ban_hành kèm theo Thông_tư này và căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc công_khai , minh_bạch và hiệu_quả kinh"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 33,
+     "end": 35,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 36,
+     "end": 43,
+     "text": "Mẫu_số 02 ban_hành kèm theo Thông_tư này"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 11,
+     "end": 13,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 20,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_36",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 3 . 4 . Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ và không trái với quy_định của pháp_luật về đấu_thầu . Trong tờ_trình đề_nghị phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "có",
+    "chỉnh_sửa",
+    "các",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "thì",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "thực_hiện",
+    "việc",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "phải",
+    "bảo_đảm",
+    "việc",
+    "chỉnh_sửa",
+    "đó",
+    "là",
+    "phù_hợp",
+    ",",
+    "khoa_học",
+    ",",
+    "chặt_chẽ",
+    "và",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "đấu_thầu",
+    ".",
+    "Trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 82,
+     "text": "4 . Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ và không trái với quy_định của pháp_luật về đấu_thầu . Trong tờ_trình đề_nghị phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 42,
+     "end": 44,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 76,
+     "end": 78,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_37",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 4 . Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ và không trái với quy_định của pháp_luật về đấu_thầu . Trong tờ_trình đề_nghị phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "có",
+    "chỉnh_sửa",
+    "các",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "thì",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "thực_hiện",
+    "việc",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "phải",
+    "bảo_đảm",
+    "việc",
+    "chỉnh_sửa",
+    "đó",
+    "là",
+    "phù_hợp",
+    ",",
+    "khoa_học",
+    ",",
+    "chặt_chẽ",
+    "và",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "đấu_thầu",
+    ".",
+    "Trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 73,
+     "text": "4 . Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ và không trái với quy_định của pháp_luật về đấu_thầu . Trong tờ_trình đề_nghị phê_duyệt hồ_sơ yêu_cầu , bản yêu_cầu báo"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 13,
+     "end": 15,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 33,
+     "end": 35,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 67,
+     "end": 69,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_38",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 3 . 5 . Đối_với gói_thầu dịch_vụ phi tư_vấn khi áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh , việc lập hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thực_hiện trên cơ_sở vận_dụng các Mẫu tương_ứng ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "5",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "dịch_vụ",
+    "phi",
+    "tư_vấn",
+    "khi",
+    "áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh",
+    ",",
+    "việc",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "thực_hiện",
+    "trên",
+    "cơ_sở",
+    "vận_dụng",
+    "các",
+    "Mẫu",
+    "tương_ứng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 52,
+     "text": "5 . Đối_với gói_thầu dịch_vụ phi tư_vấn khi áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh , việc lập hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thực_hiện trên cơ_sở vận_dụng các Mẫu tương_ứng ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 30,
+     "end": 32,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_39",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 5 . Đối_với gói_thầu dịch_vụ phi tư_vấn khi áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh , việc lập hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thực_hiện trên cơ_sở vận_dụng các Mẫu tương_ứng ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "5",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "dịch_vụ",
+    "phi",
+    "tư_vấn",
+    "khi",
+    "áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "chào_hàng",
+    "cạnh_tranh",
+    ",",
+    "việc",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "thực_hiện",
+    "trên",
+    "cơ_sở",
+    "vận_dụng",
+    "các",
+    "Mẫu",
+    "tương_ứng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 43,
+     "text": "5 . Đối_với gói_thầu dịch_vụ phi tư_vấn khi áp_dụng hình_thức chỉ_định thầu , chào_hàng cạnh_tranh , việc lập hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng thực_hiện trên cơ_sở vận_dụng các Mẫu tương_ứng ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 21,
+     "end": 23,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_40",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . 6 . Đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này khi thực_hiện chỉ_định thầu hoặc chào_hàng cạnh_tranh quốc_tế , căn_cứ quy_mô , tính_chất của gói_thầu , chủ đầu_tư , bên mời_thầu chỉnh_sửa quy_định về ngôn_ngữ , đồng_tiền , thời_gian trong đấu_thầu và các nội_dung liên_quan khác cho phù_hợp với quy_định của Luật đấu_thầu số 43/2013/QH13 và Nghị_định số 63/2014/NĐ-CP .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "6",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "khi",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "hoặc",
+    "chào_hàng",
+    "cạnh_tranh",
+    "quốc_tế",
+    ",",
+    "căn_cứ",
+    "quy_mô",
+    ",",
+    "tính_chất",
+    "của",
+    "gói_thầu",
+    ",",
+    "chủ",
+    "đầu_tư",
+    ",",
+    "bên",
+    "mời_thầu",
+    "chỉnh_sửa",
+    "quy_định",
+    "về",
+    "ngôn_ngữ",
+    ",",
+    "đồng_tiền",
+    ",",
+    "thời_gian",
+    "trong",
+    "đấu_thầu",
+    "và",
+    "các",
+    "nội_dung",
+    "liên_quan",
+    "khác",
+    "cho",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "của",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 83,
+     "text": "6 . Đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này khi thực_hiện chỉ_định thầu hoặc chào_hàng cạnh_tranh quốc_tế , căn_cứ quy_mô , tính_chất của gói_thầu , chủ đầu_tư , bên mời_thầu chỉnh_sửa quy_định về ngôn_ngữ , đồng_tiền , thời_gian trong đấu_thầu và các nội_dung liên_quan khác cho phù_hợp với quy_định của Luật đấu_thầu số 43/2013/QH13 và Nghị_định số 63/2014/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 33,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 74,
+     "end": 78,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 79,
+     "end": 82,
+     "text": "Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 26,
+     "end": 28,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 49,
+     "end": 51,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_41",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 6 . Đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này khi thực_hiện chỉ_định thầu hoặc chào_hàng cạnh_tranh quốc_tế , căn_cứ quy_mô , tính_chất của gói_thầu , chủ đầu_tư , bên mời_thầu chỉnh_sửa quy_định về ngôn_ngữ , đồng_tiền , thời_gian trong đấu_thầu và các nội_dung liên_quan khác cho phù_hợp với quy_định của Luật đấu_thầu số 43/2013/QH13 và Nghị_định số 63/2014/NĐ-CP .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "6",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "khi",
+    "thực_hiện",
+    "chỉ_định",
+    "thầu",
+    "hoặc",
+    "chào_hàng",
+    "cạnh_tranh",
+    "quốc_tế",
+    ",",
+    "căn_cứ",
+    "quy_mô",
+    ",",
+    "tính_chất",
+    "của",
+    "gói_thầu",
+    ",",
+    "chủ",
+    "đầu_tư",
+    ",",
+    "bên",
+    "mời_thầu",
+    "chỉnh_sửa",
+    "quy_định",
+    "về",
+    "ngôn_ngữ",
+    ",",
+    "đồng_tiền",
+    ",",
+    "thời_gian",
+    "trong",
+    "đấu_thầu",
+    "và",
+    "các",
+    "nội_dung",
+    "liên_quan",
+    "khác",
+    "cho",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "của",
+    "Luật",
+    "đấu_thầu",
+    "số",
+    "43/2013/QH13",
+    "và",
+    "Nghị_định",
+    "số",
+    "63/2014/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 67,
+     "text": "6 . Đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này khi thực_hiện chỉ_định thầu hoặc chào_hàng cạnh_tranh quốc_tế , căn_cứ quy_mô , tính_chất của gói_thầu , chủ đầu_tư , bên mời_thầu chỉnh_sửa quy_định về ngôn_ngữ , đồng_tiền , thời_gian trong đấu_thầu và các nội_dung liên_quan khác cho phù_hợp với quy_định của Luật đấu_thầu số 43/2013/QH13 và Nghị_định số 63/2014/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 58,
+     "end": 62,
+     "text": "Luật đấu_thầu số 43/2013/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 63,
+     "end": 66,
+     "text": "Nghị_định số 63/2014/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 12,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 33,
+     "end": 35,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_42",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 3 . 7 . Đối_với các gói_thầu thuộc dự_án có sử_dụng vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi phát_sinh từ điều_ước quốc_tế , thỏa_thuận quốc_tế giữa Việt_Nam với nhà tài_trợ , trường_hợp được nhà tài_trợ chấp_thuận thì áp_dụng các mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "7",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "dự_án",
+    "có",
+    "sử_dụng",
+    "vốn",
+    "hỗ_trợ",
+    "phát_triển",
+    "chính_thức",
+    ",",
+    "vốn",
+    "vay",
+    "ưu_đãi",
+    "phát_sinh",
+    "từ",
+    "điều_ước",
+    "quốc_tế",
+    ",",
+    "thỏa_thuận",
+    "quốc_tế",
+    "giữa",
+    "Việt_Nam",
+    "với",
+    "nhà",
+    "tài_trợ",
+    ",",
+    "trường_hợp",
+    "được",
+    "nhà",
+    "tài_trợ",
+    "chấp_thuận",
+    "thì",
+    "áp_dụng",
+    "các",
+    "mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 66,
+     "text": "7 . Đối_với các gói_thầu thuộc dự_án có sử_dụng vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi phát_sinh từ điều_ước quốc_tế , thỏa_thuận quốc_tế giữa Việt_Nam với nhà tài_trợ , trường_hợp được nhà tài_trợ chấp_thuận thì áp_dụng các mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 51,
+     "end": 53,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_43",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 7 . Đối_với các gói_thầu thuộc dự_án có sử_dụng vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi phát_sinh từ điều_ước quốc_tế , thỏa_thuận quốc_tế giữa Việt_Nam với nhà tài_trợ , trường_hợp được nhà tài_trợ chấp_thuận thì áp_dụng các mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "7",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "dự_án",
+    "có",
+    "sử_dụng",
+    "vốn",
+    "hỗ_trợ",
+    "phát_triển",
+    "chính_thức",
+    ",",
+    "vốn",
+    "vay",
+    "ưu_đãi",
+    "phát_sinh",
+    "từ",
+    "điều_ước",
+    "quốc_tế",
+    ",",
+    "thỏa_thuận",
+    "quốc_tế",
+    "giữa",
+    "Việt_Nam",
+    "với",
+    "nhà",
+    "tài_trợ",
+    ",",
+    "trường_hợp",
+    "được",
+    "nhà",
+    "tài_trợ",
+    "chấp_thuận",
+    "thì",
+    "áp_dụng",
+    "các",
+    "mẫu",
+    "hồ_sơ",
+    "yêu_cầu",
+    ",",
+    "bản",
+    "yêu_cầu",
+    "báo_giá",
+    ",",
+    "dự_thảo",
+    "hợp_đồng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 57,
+     "text": "7 . Đối_với các gói_thầu thuộc dự_án có sử_dụng vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi phát_sinh từ điều_ước quốc_tế , thỏa_thuận quốc_tế giữa Việt_Nam với nhà tài_trợ , trường_hợp được nhà tài_trợ chấp_thuận thì áp_dụng các mẫu hồ_sơ yêu_cầu , bản yêu_cầu báo_giá , dự_thảo hợp_đồng ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 42,
+     "end": 44,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_44",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư trong lĩnh_vực Đấu_thầu . Điều 4 . Yêu_cầu về nhãn_hiệu , xuất_xứ hàng_hóa",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trong",
+    "lĩnh_vực",
+    "Đấu_thầu",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Yêu_cầu",
+    "về",
+    "nhãn_hiệu",
+    ",",
+    "xuất_xứ",
+    "hàng_hóa"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 11,
+     "text": "Đấu_thầu"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 21,
+     "text": "Điều 4 . Yêu_cầu về nhãn_hiệu , xuất_xứ hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_45",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư trong lĩnh_vực Đấu_thầu . Điều 4 . 1 . Đối_với gói_thầu áp_dụng hình_thức chỉ_định thầu , có_thể nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hóa trong hồ_sơ yêu_cầu .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trong",
+    "lĩnh_vực",
+    "Đấu_thầu",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "có_thể",
+    "nêu",
+    "nhãn_hiệu",
+    ",",
+    "xuất_xứ",
+    "cụ_thể",
+    "của",
+    "hàng_hóa",
+    "trong",
+    "hồ_sơ",
+    "yêu_cầu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 11,
+     "text": "Đấu_thầu"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 36,
+     "text": "1 . Đối_với gói_thầu áp_dụng hình_thức chỉ_định thầu , có_thể nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hóa trong hồ_sơ yêu_cầu ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 33,
+     "end": 35,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 31,
+     "end": 32,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_46",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 1 . Đối_với gói_thầu áp_dụng hình_thức chỉ_định thầu , có_thể nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hóa trong hồ_sơ yêu_cầu .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "có_thể",
+    "nêu",
+    "nhãn_hiệu",
+    ",",
+    "xuất_xứ",
+    "cụ_thể",
+    "của",
+    "hàng_hóa",
+    "trong",
+    "hồ_sơ",
+    "yêu_cầu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 24,
+     "text": "1 . Đối_với gói_thầu áp_dụng hình_thức chỉ_định thầu , có_thể nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hóa trong hồ_sơ yêu_cầu ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 21,
+     "end": 23,
+     "text": "hồ_sơ yêu_cầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 20,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_47",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 4 . 2 . Đối_với gói_thầu áp_dụng hình_thức chào_hàng cạnh_tranh , khi đưa ra yêu_cầu đối_với hàng_hóa cần quy_định đặc_tính kỹ_thuật , tiêu_chuẩn sản_xuất , tiêu_chuẩn chế_tạo , công_nghệ mang tính_chất trung_tính , không đưa ra các đặc_tính kỹ_thuật , tiêu_chuẩn mang tính cá_biệt_hóa mà không phải là đặc_tính cơ_bản của sản_phẩm để chỉ một hoặc một_số_ít nhà_thầu đáp_ứng yêu_cầu làm hạn_chế sự tham_gia của các nhà",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "áp_dụng",
+    "hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    ",",
+    "khi",
+    "đưa",
+    "ra",
+    "yêu_cầu",
+    "đối_với",
+    "hàng_hóa",
+    "cần",
+    "quy_định",
+    "đặc_tính",
+    "kỹ_thuật",
+    ",",
+    "tiêu_chuẩn",
+    "sản_xuất",
+    ",",
+    "tiêu_chuẩn",
+    "chế_tạo",
+    ",",
+    "công_nghệ",
+    "mang",
+    "tính_chất",
+    "trung_tính",
+    ",",
+    "không",
+    "đưa",
+    "ra",
+    "các",
+    "đặc_tính",
+    "kỹ_thuật",
+    ",",
+    "tiêu_chuẩn",
+    "mang",
+    "tính",
+    "cá_biệt_hóa",
+    "mà",
+    "không",
+    "phải",
+    "là",
+    "đặc_tính",
+    "cơ_bản",
+    "của",
+    "sản_phẩm",
+    "để",
+    "chỉ",
+    "một",
+    "hoặc",
+    "một_số_ít",
+    "nhà_thầu",
+    "đáp_ứng",
+    "yêu_cầu",
+    "làm",
+    "hạn_chế",
+    "sự",
+    "tham_gia",
+    "của",
+    "các",
+    "nhà"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 84,
+     "text": "2 . Đối_với gói_thầu áp_dụng hình_thức chào_hàng cạnh_tranh , khi đưa ra yêu_cầu đối_với hàng_hóa cần quy_định đặc_tính kỹ_thuật , tiêu_chuẩn sản_xuất , tiêu_chuẩn chế_tạo , công_nghệ mang tính_chất trung_tính , không đưa ra các đặc_tính kỹ_thuật , tiêu_chuẩn mang tính cá_biệt_hóa mà không phải là đặc_tính cơ_bản của sản_phẩm để chỉ một hoặc một_số_ít nhà_thầu đáp_ứng yêu_cầu làm hạn_chế sự tham_gia của các nhà"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 33,
+     "end": 34,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_48",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 2 . Đối_với gói_thầu áp_dụng hình_thức chào_hàng cạnh_tranh , khi đưa ra yêu_cầu đối_với hàng_hóa cần quy_định đặc_tính kỹ_thuật , tiêu_chuẩn sản_xuất , tiêu_chuẩn chế_tạo , công_nghệ mang tính_chất trung_tính , không đưa ra các đặc_tính kỹ_thuật , tiêu_chuẩn mang tính cá_biệt_hóa mà không phải là đặc_tính cơ_bản của sản_phẩm để chỉ một hoặc một_số_ít nhà_thầu đáp_ứng yêu_cầu làm hạn_chế sự tham_gia của các nhà",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "áp_dụng",
+    "hình_thức",
+    "chào_hàng",
+    "cạnh_tranh",
+    ",",
+    "khi",
+    "đưa",
+    "ra",
+    "yêu_cầu",
+    "đối_với",
+    "hàng_hóa",
+    "cần",
+    "quy_định",
+    "đặc_tính",
+    "kỹ_thuật",
+    ",",
+    "tiêu_chuẩn",
+    "sản_xuất",
+    ",",
+    "tiêu_chuẩn",
+    "chế_tạo",
+    ",",
+    "công_nghệ",
+    "mang",
+    "tính_chất",
+    "trung_tính",
+    ",",
+    "không",
+    "đưa",
+    "ra",
+    "các",
+    "đặc_tính",
+    "kỹ_thuật",
+    ",",
+    "tiêu_chuẩn",
+    "mang",
+    "tính",
+    "cá_biệt_hóa",
+    "mà",
+    "không",
+    "phải",
+    "là",
+    "đặc_tính",
+    "cơ_bản",
+    "của",
+    "sản_phẩm",
+    "để",
+    "chỉ",
+    "một",
+    "hoặc",
+    "một_số_ít",
+    "nhà_thầu",
+    "đáp_ứng",
+    "yêu_cầu",
+    "làm",
+    "hạn_chế",
+    "sự",
+    "tham_gia",
+    "của",
+    "các",
+    "nhà"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 68,
+     "text": "2 . Đối_với gói_thầu áp_dụng hình_thức chào_hàng cạnh_tranh , khi đưa ra yêu_cầu đối_với hàng_hóa cần quy_định đặc_tính kỹ_thuật , tiêu_chuẩn sản_xuất , tiêu_chuẩn chế_tạo , công_nghệ mang tính_chất trung_tính , không đưa ra các đặc_tính kỹ_thuật , tiêu_chuẩn mang tính cá_biệt_hóa mà không phải là đặc_tính cơ_bản của sản_phẩm để chỉ một hoặc một_số_ít nhà_thầu đáp_ứng yêu_cầu làm hạn_chế sự tham_gia của các nhà"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 17,
+     "end": 18,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_49",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư trong lĩnh_vực Đấu_thầu . Điều 5 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trong",
+    "lĩnh_vực",
+    "Đấu_thầu",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 11,
+     "text": "Đấu_thầu"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 5 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_50",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư trong lĩnh_vực Đấu_thầu . Điều 5 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 22 tháng 12 năm 2015 . Thông_tư này thay_thế Thông_tư số 04/2010/TT-BKH ngày 01/02/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết lập hồ_sơ yêu_cầu chỉ_định thầu xây_lắp , Thông_tư số 11/2010/TT-BKH ngày 27/5/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết về chào_hàng cạnh_tranh .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trong",
+    "lĩnh_vực",
+    "Đấu_thầu",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "22",
+    "tháng",
+    "12",
+    "năm",
+    "2015",
+    ".",
+    "Thông_tư",
+    "này",
+    "thay_thế",
+    "Thông_tư",
+    "số",
+    "04/2010/TT-BKH",
+    "ngày",
+    "01/02/2010",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "xây_lắp",
+    ",",
+    "Thông_tư",
+    "số",
+    "11/2010/TT-BKH",
+    "ngày",
+    "27/5/2010",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "chào_hàng",
+    "cạnh_tranh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 11,
+     "text": "Đấu_thầu"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 69,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 22 tháng 12 năm 2015 . Thông_tư này thay_thế Thông_tư số 04/2010/TT-BKH ngày 01/02/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết lập hồ_sơ yêu_cầu chỉ_định thầu xây_lắp , Thông_tư số 11/2010/TT-BKH ngày 27/5/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết về chào_hàng cạnh_tranh ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 37,
+     "text": "Thông_tư số 04/2010/TT-BKH"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 53,
+     "end": 56,
+     "text": "Thông_tư số 11/2010/TT-BKH"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 37,
+     "end": 39,
+     "text": "ngày 01/02/2010"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 56,
+     "end": 58,
+     "text": "ngày 27/5/2010"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 40,
+     "end": 44,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 59,
+     "end": 63,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 47,
+     "end": 49,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 7,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_51",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 22 tháng 12 năm 2015 . Thông_tư này thay_thế Thông_tư số 04/2010/TT-BKH ngày 01/02/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết lập hồ_sơ yêu_cầu chỉ_định thầu xây_lắp , Thông_tư số 11/2010/TT-BKH ngày 27/5/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết về chào_hàng cạnh_tranh .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "22",
+    "tháng",
+    "12",
+    "năm",
+    "2015",
+    ".",
+    "Thông_tư",
+    "này",
+    "thay_thế",
+    "Thông_tư",
+    "số",
+    "04/2010/TT-BKH",
+    "ngày",
+    "01/02/2010",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "yêu_cầu",
+    "chỉ_định",
+    "thầu",
+    "xây_lắp",
+    ",",
+    "Thông_tư",
+    "số",
+    "11/2010/TT-BKH",
+    "ngày",
+    "27/5/2010",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "chào_hàng",
+    "cạnh_tranh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 57,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 22 tháng 12 năm 2015 . Thông_tư này thay_thế Thông_tư số 04/2010/TT-BKH ngày 01/02/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết lập hồ_sơ yêu_cầu chỉ_định thầu xây_lắp , Thông_tư số 11/2010/TT-BKH ngày 27/5/2010 của Bộ Kế_hoạch và Đầu_tư quy_định chi_tiết về chào_hàng cạnh_tranh ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "Thông_tư số 04/2010/TT-BKH"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 41,
+     "end": 44,
+     "text": "Thông_tư số 11/2010/TT-BKH"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 25,
+     "end": 27,
+     "text": "ngày 01/02/2010"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 44,
+     "end": 46,
+     "text": "ngày 27/5/2010"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 32,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 51,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 35,
+     "end": 37,
+     "text": "hồ_sơ yêu_cầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_52",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 11/2015/TT-BKHĐT ban_hành ngày 27 tháng 10 năm 2015 bởi Bộ Kế_hoạch và Đầu_tư . Điều 5 . 2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2015",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "cơ_quan",
+    "khác",
+    "ở",
+    "Trung_ương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Thông_tư",
+    "này",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    ",",
+    "nếu",
+    "có",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "các",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "cơ_quan",
+    "khác",
+    "ở",
+    "Trung_ương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "gửi",
+    "ý_kiến",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 10 năm 2015"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 95,
+     "text": "2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 31,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 41,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 71,
+     "end": 72,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 78,
+     "end": 82,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 91,
+     "end": 95,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_standalone_53",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "cơ_quan",
+    "khác",
+    "ở",
+    "Trung_ương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Thông_tư",
+    "này",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    ",",
+    "nếu",
+    "có",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "các",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "cơ_quan",
+    "khác",
+    "ở",
+    "Trung_ương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "cấp",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "gửi",
+    "ý_kiến",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 79,
+     "text": "2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các cấp và tổ_chức , cá_nhân có liên_quan gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 25,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 55,
+     "end": 56,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 62,
+     "end": 66,
+     "text": "Ủy_ban nhân_dân các cấp"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 75,
+     "end": 79,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_54",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 1 . Phạm_vi điều_chỉnh",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_55",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 2 . Đối_tượng áp_dụng",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 2 . Đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#body_context_56",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 11/2015/TT-BKHĐT . Điều 5 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "11/2015/TT-BKHĐT",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "11/2015/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 5 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "11_2015_TT-BKHĐT_92514#hard_negative_57",
+   "doc": "11_2015_TT-BKHĐT_92514",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

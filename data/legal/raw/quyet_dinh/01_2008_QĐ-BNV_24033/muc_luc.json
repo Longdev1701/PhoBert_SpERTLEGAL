@@ -1,0 +1,234 @@
+[
+  {
+    "level": "Điều",
+    "number": "1",
+    "title": "Điều 1. Ban hành chức danh và mã số các ngạch viên chức ngành tài nguyên và môi trường, gồm:",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Trắc địa bản đồ viên chính",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Trắc địa bản đồ viên",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Trắc địa bản đồ viên cao đẳng",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "4",
+        "title": "4. Trắc địa bản đồ viên trung cấp",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "5",
+        "title": "5. Địa chính viên chính",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "6",
+        "title": "6. Địa chính viên",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "7",
+        "title": "7. Địa chính viên cao đẳng",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "8",
+        "title": "8. Địa chính viên trung cấp",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "9",
+        "title": "9. Điều tra viên cao cấp tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "10",
+        "title": "10. Điều tra viên chính tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "11",
+        "title": "11. Điều tra viên tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "12",
+        "title": "12. Điều tra viên cao đẳng tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "13",
+        "title": "13. Điều tra viên trung cấp tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "14",
+        "title": "14. Dự báo viên cao cấp khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "15",
+        "title": "15. Dự báo viên chính khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "16",
+        "title": "16. Dự báo viên khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "17",
+        "title": "17. Dự báo viên cao đẳng khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "18",
+        "title": "18. Dự báo viên trung cấp khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "19",
+        "title": "19. Kiểm soát viên cao cấp khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "20",
+        "title": "20. Kiểm soát viên chính khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "21",
+        "title": "21. Kiểm soát viên khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "22",
+        "title": "22. Kiểm soát viên cao đẳng khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "23",
+        "title": "23. Kiểm soát viên trung cấp khí tượng thuỷ văn",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "24",
+        "title": "24. Quan trắc viên chính tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "25",
+        "title": "25. Quan trắc viên tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "26",
+        "title": "26. Quan trắc viên cao đẳng tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "27",
+        "title": "27. Quan trắc viên trung cấp tài nguyên môi trường",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "28",
+        "title": "28. Quan trắc viên sơ cấp tài nguyên môi trường",
+        "content": "- Mã số ngạch 14.233\n- Mã số ngạch 14.234\n- Mã số ngạch 14.235\n- Mã số ngạch 14.236\n- Mã số ngạch 14.237\n- Mã số ngạch 14.238\n- Mã số ngạch 14.239\n- Mã số ngạch 14.240\n- Mã số ngạch 14.241\n- Mã số ngạch 14.242\n- Mã số ngạch 14.243\n- Mã số ngạch 14.244\n- Mã số ngạch 14.245\n- Mã số ngạch 14.246\n- Mã số ngạch 14.247\n- Mã số ngạch 14.248\n- Mã số ngạch 14.249\n- Mã số ngạch 14.250\n- Mã số ngạch 14.251\n- Mã số ngạch 14.252\n- Mã số ngạch 14.253\n- Mã số ngạch 14.254\n- Mã số ngạch 14.255\n- Mã số ngạch 14.256\n- Mã số ngạch 14.257\n- Mã số ngạch 14.258\n- Mã số ngạch 14.259\n- Mã số ngạch 14.260",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "2",
+    "title": "Điều 2. Chức danh và mã số ngạch các ngạch viên chức ngành tài nguyên và môi trường là căn cứ để Bộ Tài nguyên và Môi trường ban hành tiêu chuẩn nghiệp vụ các ngạch viên chức ngành tài nguyên và môi trường.",
+    "content": "",
+    "children": []
+  },
+  {
+    "level": "Điều",
+    "number": "3",
+    "title": "Điều 3. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+    "content": "",
+    "children": []
+  },
+  {
+    "level": "Điều",
+    "number": "4",
+    "title": "Điều 4. Bãi bỏ ngạch dự báo viên cao cấp (mã số 14.103), dự báo viên chính (mã số 14.104), dự báo viên (mã số 14.105), quan trắc viên chính (mã số 14.106), quan trắc viên (mã số 14.107), quan trắc viên sơ cấp (mã số 14.108) thuộc Danh mục các ngạch viên chức ban hành kèm theo Quyết định số 78/2004/QĐ-BNV ngày 03 tháng 11 năm 2004 của Bộ trưởng Bộ Nội vụ về việc ban hành danh mục các ngạch công chức và các ngạch viên chức.",
+    "content": "",
+    "children": []
+  },
+  {
+    "level": "Điều",
+    "number": "5",
+    "title": "Điều 5. Bộ trưởng, thủ trưởng cơ quan ngang Bộ, thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành quyết định này./.",
+    "content": "",
+    "children": []
+  }
+]

@@ -1,0 +1,10231 @@
+{
+ "doc": "80_2012_NĐ-CP_27790",
+ "category": "nghi_dinh",
+ "split": "train",
+ "total_samples": 88,
+ "total_entities": 556,
+ "total_relations": 389,
+ "samples": [
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_context_0",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_standalone_1",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_context_2",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ . Căn_cứ Luật_Thủy_sản ngày 26 tháng 11 năm 2003 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật_Thủy_sản",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Luật_Thủy_sản"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 8,
+     "end": 14,
+     "text": "ngày 26 tháng 11 năm 2003"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_standalone_3",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật_Thủy_sản ngày 26 tháng 11 năm 2003 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật_Thủy_sản",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 2,
+     "text": "Luật_Thủy_sản"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 2,
+     "end": 8,
+     "text": "ngày 26 tháng 11 năm 2003"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_context_4",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ . Theo đề_nghị của Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn ,",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 15,
+     "text": "Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_standalone_5",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn ,",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 9,
+     "text": "Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_context_6",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ . Chính_phủ ban_hành Nghị_định về quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "về",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 7,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#preamble_standalone_7",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Chính_phủ ban_hành Nghị_định về quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "về",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_8",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 1 . Phạm_vi điều_chỉnh , đối_tượng áp_dụng",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ",",
+    "đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 14,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh , đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_9",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 1 . 2 . Nghị_định này áp_dụng đối_với tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài có hoạt_động liên_quan đến cảng cá , khu neo đậu tránh trú bão cho tàu cá tại Việt_Nam . Trường h ợ p Điều_ước quốc_tế mà nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam là thành_viên có quy_định khác với quy_định của Nghị_định này thì áp_dụng quy_định của Điều_ước quốc_tế đó .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Nghị_định",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "có",
+    "hoạt_động",
+    "liên_quan",
+    "đến",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "tại",
+    "Việt_Nam",
+    ".",
+    "Trường",
+    "h",
+    "ợ",
+    "p",
+    "Điều_ước",
+    "quốc_tế",
+    "mà",
+    "nước",
+    "Cộng_hòa",
+    "xã_hội",
+    "chủ_nghĩa",
+    "Việt_Nam",
+    "là",
+    "thành_viên",
+    "có",
+    "quy_định",
+    "khác",
+    "với",
+    "quy_định",
+    "của",
+    "Nghị_định",
+    "này",
+    "thì",
+    "áp_dụng",
+    "quy_định",
+    "của",
+    "Điều_ước",
+    "quốc_tế",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 80,
+     "text": "2 . Nghị_định này áp_dụng đối_với tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài có hoạt_động liên_quan đến cảng cá , khu neo đậu tránh trú bão cho tàu cá tại Việt_Nam . Trường h ợ p Điều_ước quốc_tế mà nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam là thành_viên có quy_định khác với quy_định của Nghị_định này thì áp_dụng quy_định của Điều_ước quốc_tế đó ."
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 47,
+     "end": 49,
+     "text": "tại Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_10",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 2 . 1 . Việc xây_dựng cảng cá , khu neo đậu tránh tr ú bão phải phù_hợp với quy_hoạch phát_triển cảng cá , khu neo đậu tránh trú bão cho tàu cá đã được Thủ_tư ớ ng Chính_phủ phê_duyệt ; phù_hợp với đi ề u_kiện địa_lý tự_nhiên của từng vùng , từng địa_phương ; bảo_đảm đ á p ứng tiêu_chuẩn , quy chu ẩ n kỹ_thuật xây_dựng cảng cá , khu neo đậu tránh trú bão cho tàu cá , đ ồ ng thời tính đ",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Việc",
+    "xây_dựng",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "tr",
+    "ú",
+    "bão",
+    "phải",
+    "phù_hợp",
+    "với",
+    "quy_hoạch",
+    "phát_triển",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "đã",
+    "được",
+    "Thủ_tư",
+    "ớ",
+    "ng",
+    "Chính_phủ",
+    "phê_duyệt",
+    ";",
+    "phù_hợp",
+    "với",
+    "đi",
+    "ề",
+    "u_kiện",
+    "địa_lý",
+    "tự_nhiên",
+    "của",
+    "từng",
+    "vùng",
+    ",",
+    "từng",
+    "địa_phương",
+    ";",
+    "bảo_đảm",
+    "đ",
+    "á",
+    "p",
+    "ứng",
+    "tiêu_chuẩn",
+    ",",
+    "quy",
+    "chu",
+    "ẩ",
+    "n",
+    "kỹ_thuật",
+    "xây_dựng",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    ",",
+    "đ",
+    "ồ",
+    "ng",
+    "thời",
+    "tính",
+    "đ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 101,
+     "text": "1 . Việc xây_dựng cảng cá , khu neo đậu tránh tr ú bão phải phù_hợp với quy_hoạch phát_triển cảng cá , khu neo đậu tránh trú bão cho tàu cá đã được Thủ_tư ớ ng Chính_phủ phê_duyệt ; phù_hợp với đi ề u_kiện địa_lý tự_nhiên của từng vùng , từng địa_phương ; bảo_đảm đ á p ứng tiêu_chuẩn , quy chu ẩ n kỹ_thuật xây_dựng cảng cá , khu neo đậu tránh trú bão cho tàu cá , đ ồ ng thời tính đ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 52,
+     "end": 53,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_11",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 3 . 1 . Phá_hủy , tháo_gỡ gây hư_hại các công_trình , trang thiết_bị của cảng cá , khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Phá_hủy",
+    ",",
+    "tháo_gỡ",
+    "gây",
+    "hư_hại",
+    "các",
+    "công_trình",
+    ",",
+    "trang",
+    "thiết_bị",
+    "của",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 35,
+     "text": "1 . Phá_hủy , tháo_gỡ gây hư_hại các công_trình , trang thiết_bị của cảng cá , khu neo đậu tránh trú bão cho tàu cá ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 21,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_12",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 3 . 4 . Thực_hiện các hành_vi gây cản_trở cho việc quản_lý , khai_thác , sử_dụng , bảo_vệ cảng cá , khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Thực_hiện",
+    "các",
+    "hành_vi",
+    "gây",
+    "cản_trở",
+    "cho",
+    "việc",
+    "quản_lý",
+    ",",
+    "khai_thác",
+    ",",
+    "sử_dụng",
+    ",",
+    "bảo_vệ",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 44,
+     "text": "4 . Thực_hiện các hành_vi gây cản_trở cho việc quản_lý , khai_thác , sử_dụng , bảo_vệ cảng cá , khu neo đậu tránh trú bão cho tàu cá ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_13",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 3 . 5 . Điều_khiển tàu cá và phương_tiện khác sai quy_định gây ảnh_hưởng đến công_trình cảng cá , khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "5",
+    ".",
+    "Điều_khiển",
+    "tàu",
+    "cá",
+    "và",
+    "phương_tiện",
+    "khác",
+    "sai",
+    "quy_định",
+    "gây",
+    "ảnh_hưởng",
+    "đến",
+    "công_trình",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 43,
+     "text": "5 . Điều_khiển tàu cá và phương_tiện khác sai quy_định gây ảnh_hưởng đến công_trình cảng cá , khu neo đậu tránh trú bão cho tàu cá ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_14",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 4 . Khoản 1 . a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông lớn , vùng vịnh hoặc hải_đảo ; thu_hút tàu cá của nhiều địa_phương , kể_cả tàu cá_nước_ngoài , đến bốc_dỡ th_ủy_sản và thực_hiện các dịch_vụ nghề cá khác ; là đầu_mối phân_phối hàng thủy_sản tại khu_vực hoặc gắn với trung_tâm dịch_vụ hậu_cần nghề cá , chợ cá của địa_phương ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Vị_trí",
+    ":",
+    "Cảng",
+    "cá",
+    "xây_dựng",
+    "tại",
+    "các",
+    "cửa_sông",
+    "lớn",
+    ",",
+    "vùng",
+    "vịnh",
+    "hoặc",
+    "hải_đảo",
+    ";",
+    "thu_hút",
+    "tàu",
+    "cá",
+    "của",
+    "nhiều",
+    "địa_phương",
+    ",",
+    "kể_cả",
+    "tàu",
+    "cá_nước_ngoài",
+    ",",
+    "đến",
+    "bốc_dỡ",
+    "th_ủy_sản",
+    "và",
+    "thực_hiện",
+    "các",
+    "dịch_vụ",
+    "nghề",
+    "cá",
+    "khác",
+    ";",
+    "là",
+    "đầu_mối",
+    "phân_phối",
+    "hàng",
+    "thủy_sản",
+    "tại",
+    "khu_vực",
+    "hoặc",
+    "gắn",
+    "với",
+    "trung_tâm",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    ",",
+    "chợ",
+    "cá",
+    "của",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 79,
+     "text": "a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông lớn , vùng vịnh hoặc hải_đảo ; thu_hút tàu cá của nhiều địa_phương , kể_cả tàu cá_nước_ngoài , đến bốc_dỡ th_ủy_sản và thực_hiện các dịch_vụ nghề cá khác ; là đầu_mối phân_phối hàng thủy_sản tại khu_vực hoặc gắn với trung_tâm dịch_vụ hậu_cần nghề cá , chợ cá của địa_phương ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 68,
+     "end": 73,
+     "text": "trung_tâm dịch_vụ hậu_cần nghề cá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 61,
+     "end": 63,
+     "text": "hàng thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_15",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khoản 1 . a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông lớn , vùng vịnh hoặc hải_đảo ; thu_hút tàu cá của nhiều địa_phương , kể_cả tàu cá_nước_ngoài , đến bốc_dỡ th_ủy_sản và thực_hiện các dịch_vụ nghề cá khác ; là đầu_mối phân_phối hàng thủy_sản tại khu_vực hoặc gắn với trung_tâm dịch_vụ hậu_cần nghề cá , chợ cá của địa_phương ;",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Vị_trí",
+    ":",
+    "Cảng",
+    "cá",
+    "xây_dựng",
+    "tại",
+    "các",
+    "cửa_sông",
+    "lớn",
+    ",",
+    "vùng",
+    "vịnh",
+    "hoặc",
+    "hải_đảo",
+    ";",
+    "thu_hút",
+    "tàu",
+    "cá",
+    "của",
+    "nhiều",
+    "địa_phương",
+    ",",
+    "kể_cả",
+    "tàu",
+    "cá_nước_ngoài",
+    ",",
+    "đến",
+    "bốc_dỡ",
+    "th_ủy_sản",
+    "và",
+    "thực_hiện",
+    "các",
+    "dịch_vụ",
+    "nghề",
+    "cá",
+    "khác",
+    ";",
+    "là",
+    "đầu_mối",
+    "phân_phối",
+    "hàng",
+    "thủy_sản",
+    "tại",
+    "khu_vực",
+    "hoặc",
+    "gắn",
+    "với",
+    "trung_tâm",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    ",",
+    "chợ",
+    "cá",
+    "của",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 66,
+     "text": "a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông lớn , vùng vịnh hoặc hải_đảo ; thu_hút tàu cá của nhiều địa_phương , kể_cả tàu cá_nước_ngoài , đến bốc_dỡ th_ủy_sản và thực_hiện các dịch_vụ nghề cá khác ; là đầu_mối phân_phối hàng thủy_sản tại khu_vực hoặc gắn với trung_tâm dịch_vụ hậu_cần nghề cá , chợ cá của địa_phương ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 55,
+     "end": 60,
+     "text": "trung_tâm dịch_vụ hậu_cần nghề cá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 48,
+     "end": 50,
+     "text": "hàng thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_16",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 4 . Khoản 1 . b ) Các trang thiết_bị chủ_yếu , dây_chuyền xếp_dỡ hàng_hóa của cảng được cơ_giới_hóa 100 % ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Các",
+    "trang",
+    "thiết_bị",
+    "chủ_yếu",
+    ",",
+    "dây_chuyền",
+    "xếp_dỡ",
+    "hàng_hóa",
+    "của",
+    "cảng",
+    "được",
+    "cơ_giới_hóa",
+    "100",
+    "%",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 29,
+     "text": "b ) Các trang thiết_bị chủ_yếu , dây_chuyền xếp_dỡ hàng_hóa của cảng được cơ_giới_hóa 100 % ;"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 26,
+     "end": 28,
+     "text": "100 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 17,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_17",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khoản 1 . b ) Các trang thiết_bị chủ_yếu , dây_chuyền xếp_dỡ hàng_hóa của cảng được cơ_giới_hóa 100 % ;",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Các",
+    "trang",
+    "thiết_bị",
+    "chủ_yếu",
+    ",",
+    "dây_chuyền",
+    "xếp_dỡ",
+    "hàng_hóa",
+    "của",
+    "cảng",
+    "được",
+    "cơ_giới_hóa",
+    "100",
+    "%",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 23,
+     "text": "b ) Các trang thiết_bị chủ_yếu , dây_chuyền xếp_dỡ hàng_hóa của cảng được cơ_giới_hóa 100 % ;"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 20,
+     "end": 22,
+     "text": "100 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 11,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_18",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 4 . Khoản 1 . c ) Có diện_tích vùng_đất cảng cá từ 04 ha trở lên ( đối_với cảng cá tại đảo có diện_tích từ 01 ha trở lên ) ; có các cơ_sở dịch_vụ hậu_cần nghề cá , nhà làm_việc và các công_trình phụ_trợ đáp_ứng quy_định về b ả o vệ môi_trường , an_toàn thực_phẩm tại cảng , phòng_chống cháy nổ ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Có",
+    "diện_tích",
+    "vùng_đất",
+    "cảng",
+    "cá",
+    "từ",
+    "04",
+    "ha",
+    "trở",
+    "lên",
+    "(",
+    "đối_với",
+    "cảng",
+    "cá",
+    "tại",
+    "đảo",
+    "có",
+    "diện_tích",
+    "từ",
+    "01",
+    "ha",
+    "trở",
+    "lên",
+    ")",
+    ";",
+    "có",
+    "các",
+    "cơ_sở",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    ",",
+    "nhà",
+    "làm_việc",
+    "và",
+    "các",
+    "công_trình",
+    "phụ_trợ",
+    "đáp_ứng",
+    "quy_định",
+    "về",
+    "b",
+    "ả",
+    "o",
+    "vệ",
+    "môi_trường",
+    ",",
+    "an_toàn",
+    "thực_phẩm",
+    "tại",
+    "cảng",
+    ",",
+    "phòng_chống",
+    "cháy",
+    "nổ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 71,
+     "text": "c ) Có diện_tích vùng_đất cảng cá từ 04 ha trở lên ( đối_với cảng cá tại đảo có diện_tích từ 01 ha trở lên ) ; có các cơ_sở dịch_vụ hậu_cần nghề cá , nhà làm_việc và các công_trình phụ_trợ đáp_ứng quy_định về b ả o vệ môi_trường , an_toàn thực_phẩm tại cảng , phòng_chống cháy nổ ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 46,
+     "text": "cơ_sở dịch_vụ hậu_cần nghề cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_19",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 4 . Khoản 2 . a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông , kênh , rạch , eo vịnh , đầm ven biển hoặc hải_đảo ; thu_hút tàu cá của địa_phương và một_số tỉnh lân_cận đến bốc_dỡ th_ủy_sản và thực_hiện các d ịch vụ nghề cá khác ; là đầu_mối tập_trung hàng thủy_sản , gắn với trung_tâm dịch_vụ hậu_cần nghề cá của địa_phương ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Vị_trí",
+    ":",
+    "Cảng",
+    "cá",
+    "xây_dựng",
+    "tại",
+    "các",
+    "cửa_sông",
+    ",",
+    "kênh",
+    ",",
+    "rạch",
+    ",",
+    "eo",
+    "vịnh",
+    ",",
+    "đầm",
+    "ven",
+    "biển",
+    "hoặc",
+    "hải_đảo",
+    ";",
+    "thu_hút",
+    "tàu",
+    "cá",
+    "của",
+    "địa_phương",
+    "và",
+    "một_số",
+    "tỉnh",
+    "lân_cận",
+    "đến",
+    "bốc_dỡ",
+    "th_ủy_sản",
+    "và",
+    "thực_hiện",
+    "các",
+    "d",
+    "ịch",
+    "vụ",
+    "nghề",
+    "cá",
+    "khác",
+    ";",
+    "là",
+    "đầu_mối",
+    "tập_trung",
+    "hàng",
+    "thủy_sản",
+    ",",
+    "gắn",
+    "với",
+    "trung_tâm",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    "của",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 80,
+     "text": "a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông , kênh , rạch , eo vịnh , đầm ven biển hoặc hải_đảo ; thu_hút tàu cá của địa_phương và một_số tỉnh lân_cận đến bốc_dỡ th_ủy_sản và thực_hiện các d ịch vụ nghề cá khác ; là đầu_mối tập_trung hàng thủy_sản , gắn với trung_tâm dịch_vụ hậu_cần nghề cá của địa_phương ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 72,
+     "end": 77,
+     "text": "trung_tâm dịch_vụ hậu_cần nghề cá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 67,
+     "end": 69,
+     "text": "hàng thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_20",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khoản 2 . a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông , kênh , rạch , eo vịnh , đầm ven biển hoặc hải_đảo ; thu_hút tàu cá của địa_phương và một_số tỉnh lân_cận đến bốc_dỡ th_ủy_sản và thực_hiện các d ịch vụ nghề cá khác ; là đầu_mối tập_trung hàng thủy_sản , gắn với trung_tâm dịch_vụ hậu_cần nghề cá của địa_phương ;",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Vị_trí",
+    ":",
+    "Cảng",
+    "cá",
+    "xây_dựng",
+    "tại",
+    "các",
+    "cửa_sông",
+    ",",
+    "kênh",
+    ",",
+    "rạch",
+    ",",
+    "eo",
+    "vịnh",
+    ",",
+    "đầm",
+    "ven",
+    "biển",
+    "hoặc",
+    "hải_đảo",
+    ";",
+    "thu_hút",
+    "tàu",
+    "cá",
+    "của",
+    "địa_phương",
+    "và",
+    "một_số",
+    "tỉnh",
+    "lân_cận",
+    "đến",
+    "bốc_dỡ",
+    "th_ủy_sản",
+    "và",
+    "thực_hiện",
+    "các",
+    "d",
+    "ịch",
+    "vụ",
+    "nghề",
+    "cá",
+    "khác",
+    ";",
+    "là",
+    "đầu_mối",
+    "tập_trung",
+    "hàng",
+    "thủy_sản",
+    ",",
+    "gắn",
+    "với",
+    "trung_tâm",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    "của",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 68,
+     "text": "a ) Vị_trí : Cảng cá xây_dựng tại các cửa_sông , kênh , rạch , eo vịnh , đầm ven biển hoặc hải_đảo ; thu_hút tàu cá của địa_phương và một_số tỉnh lân_cận đến bốc_dỡ th_ủy_sản và thực_hiện các d ịch vụ nghề cá khác ; là đầu_mối tập_trung hàng thủy_sản , gắn với trung_tâm dịch_vụ hậu_cần nghề cá của địa_phương ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 60,
+     "end": 65,
+     "text": "trung_tâm dịch_vụ hậu_cần nghề cá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 55,
+     "end": 57,
+     "text": "hàng thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_21",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 4 . Khoản 2 . b ) Một_số trang thiết_bị , dây_chuyền xếp_dỡ hàng_hóa của cảng đã được cơ_giới_hóa ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Một_số",
+    "trang",
+    "thiết_bị",
+    ",",
+    "dây_chuyền",
+    "xếp_dỡ",
+    "hàng_hóa",
+    "của",
+    "cảng",
+    "đã",
+    "được",
+    "cơ_giới_hóa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 34,
+     "text": "b ) Một_số trang thiết_bị , dây_chuyền xếp_dỡ hàng_hóa của cảng đã được cơ_giới_hóa ;"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 24,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_22",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khoản 2 . b ) Một_số trang thiết_bị , dây_chuyền xếp_dỡ hàng_hóa của cảng đã được cơ_giới_hóa ;",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Một_số",
+    "trang",
+    "thiết_bị",
+    ",",
+    "dây_chuyền",
+    "xếp_dỡ",
+    "hàng_hóa",
+    "của",
+    "cảng",
+    "đã",
+    "được",
+    "cơ_giới_hóa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 21,
+     "text": "b ) Một_số trang thiết_bị , dây_chuyền xếp_dỡ hàng_hóa của cảng đã được cơ_giới_hóa ;"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 11,
+     "text": "trang thiết_bị"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_23",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 4 . Khoản 2 . c ) Có diện_tích vùng_đất cảng cá từ 2,5 ha trở lên ( đối_với cảng cá ở đảo có diện_tích từ 0,5 ha trở lên ) ; có các cơ_sở dịch_vụ hậu_cần nghề cá , nhà làm_việc và các công_trình phụ_trợ đáp_ứng quy_định về bảo_vệ môi_trường , an_toàn thực_phẩm , phòng_chống cháy nổ tại cảng ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Có",
+    "diện_tích",
+    "vùng_đất",
+    "cảng",
+    "cá",
+    "từ",
+    "2,5",
+    "ha",
+    "trở",
+    "lên",
+    "(",
+    "đối_với",
+    "cảng",
+    "cá",
+    "ở",
+    "đảo",
+    "có",
+    "diện_tích",
+    "từ",
+    "0,5",
+    "ha",
+    "trở",
+    "lên",
+    ")",
+    ";",
+    "có",
+    "các",
+    "cơ_sở",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    ",",
+    "nhà",
+    "làm_việc",
+    "và",
+    "các",
+    "công_trình",
+    "phụ_trợ",
+    "đáp_ứng",
+    "quy_định",
+    "về",
+    "bảo_vệ",
+    "môi_trường",
+    ",",
+    "an_toàn",
+    "thực_phẩm",
+    ",",
+    "phòng_chống",
+    "cháy",
+    "nổ",
+    "tại",
+    "cảng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 75,
+     "text": "c ) Có diện_tích vùng_đất cảng cá từ 2,5 ha trở lên ( đối_với cảng cá ở đảo có diện_tích từ 0,5 ha trở lên ) ; có các cơ_sở dịch_vụ hậu_cần nghề cá , nhà làm_việc và các công_trình phụ_trợ đáp_ứng quy_định về bảo_vệ môi_trường , an_toàn thực_phẩm , phòng_chống cháy nổ tại cảng ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 48,
+     "end": 53,
+     "text": "cơ_sở dịch_vụ hậu_cần nghề cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_24",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 5 . 1 . Tại c ác cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đ ơn vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Tại",
+    "c",
+    "ác",
+    "cảng",
+    "cá",
+    "do",
+    "Nhà_nước",
+    "đầu_tư",
+    "hoặc",
+    "có",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "là",
+    "đ",
+    "ơn",
+    "vị",
+    "sự_nghiệp",
+    "công_lập",
+    "hoặc",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 64,
+     "text": "1 . Tại c ác cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đ ơn vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 59,
+     "end": 62,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 45,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 55,
+     "end": 56,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 32,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_25",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Tại c ác cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đ ơn vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Tại",
+    "c",
+    "ác",
+    "cảng",
+    "cá",
+    "do",
+    "Nhà_nước",
+    "đầu_tư",
+    "hoặc",
+    "có",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "là",
+    "đ",
+    "ơn",
+    "vị",
+    "sự_nghiệp",
+    "công_lập",
+    "hoặc",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 52,
+     "text": "1 . Tại c ác cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đ ơn vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 50,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 33,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 43,
+     "end": 44,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 20,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_26",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 5 . 2 . Tại các cảng cá do các tổ_chức , cá_nhân đầu_tư xây_dựng , Ban quản_lý cảng cá l à doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do chủ đầu_tư quyết_định .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Tại",
+    "các",
+    "cảng",
+    "cá",
+    "do",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "đầu_tư",
+    "xây_dựng",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "l",
+    "à",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "chủ",
+    "đầu_tư",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 54,
+     "text": "2 . Tại các cảng cá do các tổ_chức , cá_nhân đầu_tư xây_dựng , Ban quản_lý cảng cá l à doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do chủ đầu_tư quyết_định ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 36,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 46,
+     "end": 47,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 50,
+     "end": 52,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_27",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Tại các cảng cá do các tổ_chức , cá_nhân đầu_tư xây_dựng , Ban quản_lý cảng cá l à doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do chủ đầu_tư quyết_định .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Tại",
+    "các",
+    "cảng",
+    "cá",
+    "do",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "đầu_tư",
+    "xây_dựng",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "l",
+    "à",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "chủ",
+    "đầu_tư",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 42,
+     "text": "2 . Tại các cảng cá do các tổ_chức , cá_nhân đầu_tư xây_dựng , Ban quản_lý cảng cá l à doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do chủ đầu_tư quyết_định ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 24,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 34,
+     "end": 35,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 38,
+     "end": 40,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_28",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Chương II . Điều 6 . Điều_kiện mở , đóng cảng cá",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "II",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Điều_kiện",
+    "mở",
+    ",",
+    "đóng",
+    "cảng",
+    "cá"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương II"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 25,
+     "text": "Điều 6 . Điều_kiện mở , đóng cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_29",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 6 . Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau : a ) Điều_kiện về địa_hình , th_ủy văn biến_động không bảo_đảm an_toàn cho hoạt_động của cảng cá ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Việc",
+    "quyết_định",
+    "đóng",
+    "cảng",
+    "cá",
+    "khi",
+    "xảy",
+    "ra",
+    "một",
+    "trong",
+    "những",
+    "trường_hợp",
+    "sau",
+    ":",
+    "a",
+    ")",
+    "Điều_kiện",
+    "về",
+    "địa_hình",
+    ",",
+    "th_ủy",
+    "văn",
+    "biến_động",
+    "không",
+    "bảo_đảm",
+    "an_toàn",
+    "cho",
+    "hoạt_động",
+    "của",
+    "cảng",
+    "cá",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 31,
+     "text": "Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau"
+    },
+    {
+     "type": "DIEM",
+     "start": 32,
+     "end": 50,
+     "text": "a ) Điều_kiện về địa_hình , th_ủy văn biến_động không bảo_đảm an_toàn cho hoạt_động của cảng cá ;"
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 41,
+     "end": 49,
+     "text": "không bảo_đảm an_toàn cho hoạt_động của cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 7,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_30",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 6 . Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau : b ) Công_trình cảng cá xuống_cấp nghiêm tr ọng không bảo_đảm điều_kiện an_toàn theo quy_định ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Việc",
+    "quyết_định",
+    "đóng",
+    "cảng",
+    "cá",
+    "khi",
+    "xảy",
+    "ra",
+    "một",
+    "trong",
+    "những",
+    "trường_hợp",
+    "sau",
+    ":",
+    "b",
+    ")",
+    "Công_trình",
+    "cảng",
+    "cá",
+    "xuống_cấp",
+    "nghiêm",
+    "tr",
+    "ọng",
+    "không",
+    "bảo_đảm",
+    "điều_kiện",
+    "an_toàn",
+    "theo",
+    "quy_định",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 31,
+     "text": "Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau"
+    },
+    {
+     "type": "DIEM",
+     "start": 32,
+     "end": 48,
+     "text": "b ) Công_trình cảng cá xuống_cấp nghiêm tr ọng không bảo_đảm điều_kiện an_toàn theo quy_định ;"
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 41,
+     "end": 45,
+     "text": "không bảo_đảm điều_kiện an_toàn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 7,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_31",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau : b ) Công_trình cảng cá xuống_cấp nghiêm tr ọng không bảo_đảm điều_kiện an_toàn theo quy_định ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Việc",
+    "quyết_định",
+    "đóng",
+    "cảng",
+    "cá",
+    "khi",
+    "xảy",
+    "ra",
+    "một",
+    "trong",
+    "những",
+    "trường_hợp",
+    "sau",
+    ":",
+    "b",
+    ")",
+    "Công_trình",
+    "cảng",
+    "cá",
+    "xuống_cấp",
+    "nghiêm",
+    "tr",
+    "ọng",
+    "không",
+    "bảo_đảm",
+    "điều_kiện",
+    "an_toàn",
+    "theo",
+    "quy_định",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 19,
+     "text": "Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 36,
+     "text": "b ) Công_trình cảng cá xuống_cấp nghiêm tr ọng không bảo_đảm điều_kiện an_toàn theo quy_định ;"
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 29,
+     "end": 33,
+     "text": "không bảo_đảm điều_kiện an_toàn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_32",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 6 . Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau : c ) Ban quản_lý cảng cá bị đình_chỉ hoạt_động hoặc tự chấm_dứt hoạt_động theo quy_định của pháp_luật .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Việc",
+    "quyết_định",
+    "đóng",
+    "cảng",
+    "cá",
+    "khi",
+    "xảy",
+    "ra",
+    "một",
+    "trong",
+    "những",
+    "trường_hợp",
+    "sau",
+    ":",
+    "c",
+    ")",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "bị",
+    "đình_chỉ",
+    "hoạt_động",
+    "hoặc",
+    "tự",
+    "chấm_dứt",
+    "hoạt_động",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 31,
+     "text": "Khoản 2 . Việc quyết_định đóng cảng cá khi xảy ra một trong những trường_hợp sau"
+    },
+    {
+     "type": "DIEM",
+     "start": 32,
+     "end": 50,
+     "text": "c ) Ban quản_lý cảng cá bị đình_chỉ hoạt_động hoặc tự chấm_dứt hoạt_động theo quy_định của pháp_luật ."
+    },
+    {
+     "type": "BIEN_PHAP_KHAC_PHUC",
+     "start": 39,
+     "end": 41,
+     "text": "đình_chỉ hoạt_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 7,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_33",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 7 . 1 . Sau khi hoàn_thành việc xây_dựng hoặc nâng_cấp cảng cá , Ban qu ả n lý cảng cá gửi hồ_sơ đề_nghị cơ_quan có thẩm_quyền công_bố mở cảng cá . Hồ_sơ một ( 01 ) bộ gồm :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Sau",
+    "khi",
+    "hoàn_thành",
+    "việc",
+    "xây_dựng",
+    "hoặc",
+    "nâng_cấp",
+    "cảng",
+    "cá",
+    ",",
+    "Ban",
+    "qu",
+    "ả",
+    "n",
+    "lý",
+    "cảng",
+    "cá",
+    "gửi",
+    "hồ_sơ",
+    "đề_nghị",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 47,
+     "text": "1 . Sau khi hoàn_thành việc xây_dựng hoặc nâng_cấp cảng cá , Ban qu ả n lý cảng cá gửi hồ_sơ đề_nghị cơ_quan có thẩm_quyền công_bố mở cảng cá . Hồ_sơ một ( 01 ) bộ gồm :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 34,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "hồ_sơ đề_nghị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_34",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 1 . Sau khi hoàn_thành việc xây_dựng hoặc nâng_cấp cảng cá , Ban qu ả n lý cảng cá gửi hồ_sơ đề_nghị cơ_quan có thẩm_quyền công_bố mở cảng cá . Hồ_sơ một ( 01 ) bộ gồm :",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Sau",
+    "khi",
+    "hoàn_thành",
+    "việc",
+    "xây_dựng",
+    "hoặc",
+    "nâng_cấp",
+    "cảng",
+    "cá",
+    ",",
+    "Ban",
+    "qu",
+    "ả",
+    "n",
+    "lý",
+    "cảng",
+    "cá",
+    "gửi",
+    "hồ_sơ",
+    "đề_nghị",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 41,
+     "text": "1 . Sau khi hoàn_thành việc xây_dựng hoặc nâng_cấp cảng cá , Ban qu ả n lý cảng cá gửi hồ_sơ đề_nghị cơ_quan có thẩm_quyền công_bố mở cảng cá . Hồ_sơ một ( 01 ) bộ gồm :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 23,
+     "end": 25,
+     "text": "hồ_sơ đề_nghị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_35",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : a ) Đơn đề_nghị công_bố mở cảng cá ( theo mẫu quy_định tại Phụ_lục I ) ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "a",
+    ")",
+    "Đơn",
+    "đề_nghị",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "(",
+    "theo",
+    "mẫu",
+    "quy_định",
+    "tại",
+    "Phụ_lục",
+    "I",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 25,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 26,
+     "end": 43,
+     "text": "a ) Đơn đề_nghị công_bố mở cảng cá ( theo mẫu quy_định tại Phụ_lục I ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 41,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 34,
+     "text": "Đơn đề_nghị công_bố mở cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_36",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : a ) Đơn đề_nghị công_bố mở cảng cá ( theo mẫu quy_định tại Phụ_lục I ) ;",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "a",
+    ")",
+    "Đơn",
+    "đề_nghị",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "(",
+    "theo",
+    "mẫu",
+    "quy_định",
+    "tại",
+    "Phụ_lục",
+    "I",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 13,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 31,
+     "text": "a ) Đơn đề_nghị công_bố mở cảng cá ( theo mẫu quy_định tại Phụ_lục I ) ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 27,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 22,
+     "text": "Đơn đề_nghị công_bố mở cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_37",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : d ) Quyết_định thành_lập Ban quản_lý cảng cá ( bản_sao_chụp ) ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "d",
+    ")",
+    "Quyết_định",
+    "thành_lập",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "(",
+    "bản_sao_chụp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 26,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 27,
+     "end": 39,
+     "text": "d ) Quyết_định thành_lập Ban quản_lý cảng cá ( bản_sao_chụp ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "Quyết_định thành_lập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_38",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : d ) Quyết_định thành_lập Ban quản_lý cảng cá ( bản_sao_chụp ) ;",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "d",
+    ")",
+    "Quyết_định",
+    "thành_lập",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "(",
+    "bản_sao_chụp",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 13,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 26,
+     "text": "d ) Quyết_định thành_lập Ban quản_lý cảng cá ( bản_sao_chụp ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "Quyết_định thành_lập"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_39",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : đ ) Biên_bản nghiệm_thu công_trình cảng cá đã hoàn_thành xây_dựng đưa vào sử_dụng kèm theo bản_vẽ hoàn_công ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "đ",
+    ")",
+    "Biên_bản",
+    "nghiệm_thu",
+    "công_trình",
+    "cảng",
+    "cá",
+    "đã",
+    "hoàn_thành",
+    "xây_dựng",
+    "đưa",
+    "vào",
+    "sử_dụng",
+    "kèm",
+    "theo",
+    "bản_vẽ",
+    "hoàn_công",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 26,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 27,
+     "end": 49,
+     "text": "đ ) Biên_bản nghiệm_thu công_trình cảng cá đã hoàn_thành xây_dựng đưa vào sử_dụng kèm theo bản_vẽ hoàn_công ( bản_sao chứng_thực ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "Biên_bản nghiệm_thu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_40",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : e ) Thông_báo hàng_hải về luồng của cảng và vùng nước trước cầu_cảng ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "e",
+    ")",
+    "Thông_báo",
+    "hàng_hải",
+    "về",
+    "luồng",
+    "của",
+    "cảng",
+    "và",
+    "vùng",
+    "nước",
+    "trước",
+    "cầu_cảng",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 25,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 26,
+     "end": 44,
+     "text": "e ) Thông_báo hàng_hải về luồng của cảng và vùng nước trước cầu_cảng ( bản_sao chứng_thực ) ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_41",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : g ) Văn_bản ki ể m tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "g",
+    ")",
+    "Văn_bản",
+    "ki",
+    "ể",
+    "m",
+    "tra",
+    ",",
+    "xác_nhận",
+    "việc",
+    "đã",
+    "thực_hiện",
+    "các",
+    "nội_dung",
+    "của",
+    "báo_cáo",
+    "và",
+    "yêu_cầu",
+    "của",
+    "quyết_định",
+    "phê_duyệt",
+    "báo_cáo",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 26,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 27,
+     "end": 57,
+     "text": "g ) Văn_bản ki ể m tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 46,
+     "end": 48,
+     "text": "quyết_định phê_duyệt"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 48,
+     "end": 52,
+     "text": "báo_cáo đánh_giá tác_động môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_42",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm : g ) Văn_bản ki ể m tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Hồ_sơ",
+    "một",
+    "(",
+    "01",
+    ")",
+    "bộ",
+    "gồm",
+    ":",
+    "g",
+    ")",
+    "Văn_bản",
+    "ki",
+    "ể",
+    "m",
+    "tra",
+    ",",
+    "xác_nhận",
+    "việc",
+    "đã",
+    "thực_hiện",
+    "các",
+    "nội_dung",
+    "của",
+    "báo_cáo",
+    "và",
+    "yêu_cầu",
+    "của",
+    "quyết_định",
+    "phê_duyệt",
+    "báo_cáo",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 13,
+     "text": "Khoản 1 . Hồ_sơ một ( 01 ) bộ gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 44,
+     "text": "g ) Văn_bản ki ể m tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 33,
+     "end": 35,
+     "text": "quyết_định phê_duyệt"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 35,
+     "end": 39,
+     "text": "báo_cáo đánh_giá tác_động môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_43",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 7 . 2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận đủ hồ_sơ theo quy_định , cơ_quan có thẩm_quyền xem_xét , quyết_định công_bố mở cảng cá . Trường h ợ p không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "2",
+    ".",
+    "Trong",
+    "thời_hạn",
+    "(",
+    "07",
+    ")",
+    "bảy",
+    "ngày",
+    "làm_việc",
+    ",",
+    "kể",
+    "từ",
+    "khi",
+    "nhận",
+    "đủ",
+    "hồ_sơ",
+    "theo",
+    "quy_định",
+    ",",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "xem_xét",
+    ",",
+    "quyết_định",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ".",
+    "Trường",
+    "h",
+    "ợ",
+    "p",
+    "không",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ",",
+    "phải",
+    "trả_lời",
+    "bằng",
+    "văn_bản",
+    "và",
+    "nêu",
+    "rõ",
+    "lý_do",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 59,
+     "text": "2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận đủ hồ_sơ theo quy_định , cơ_quan có thẩm_quyền xem_xét , quyết_định công_bố mở cảng cá . Trường h ợ p không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do ."
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 44,
+     "end": 58,
+     "text": "không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 32,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_44",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận đủ hồ_sơ theo quy_định , cơ_quan có thẩm_quyền xem_xét , quyết_định công_bố mở cảng cá . Trường h ợ p không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "2",
+    ".",
+    "Trong",
+    "thời_hạn",
+    "(",
+    "07",
+    ")",
+    "bảy",
+    "ngày",
+    "làm_việc",
+    ",",
+    "kể",
+    "từ",
+    "khi",
+    "nhận",
+    "đủ",
+    "hồ_sơ",
+    "theo",
+    "quy_định",
+    ",",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "xem_xét",
+    ",",
+    "quyết_định",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ".",
+    "Trường",
+    "h",
+    "ợ",
+    "p",
+    "không",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    ",",
+    "phải",
+    "trả_lời",
+    "bằng",
+    "văn_bản",
+    "và",
+    "nêu",
+    "rõ",
+    "lý_do",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 53,
+     "text": "2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận đủ hồ_sơ theo quy_định , cơ_quan có thẩm_quyền xem_xét , quyết_định công_bố mở cảng cá . Trường h ợ p không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do ."
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 38,
+     "end": 52,
+     "text": "không công_bố mở cảng cá , phải trả_lời bằng văn_bản và nêu rõ lý_do"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 26,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_45",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 7 . 3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá có trách_nhiệm thông_báo v ề nội_dung quy ế t_định công_bố mở cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "có",
+    "trách_nhiệm",
+    "thông_báo",
+    "v",
+    "ề",
+    "nội_dung",
+    "quy",
+    "ế",
+    "t_định",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "trên",
+    "các",
+    "phương_tiện",
+    "thông_tin",
+    "đại_chúng",
+    "của",
+    "Trung_ương",
+    "và",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 48,
+     "text": "3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá có trách_nhiệm thông_báo v ề nội_dung quy ế t_định công_bố mở cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 21,
+     "text": "Cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_46",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá có trách_nhiệm thông_báo v ề nội_dung quy ế t_định công_bố mở cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "có",
+    "trách_nhiệm",
+    "thông_báo",
+    "v",
+    "ề",
+    "nội_dung",
+    "quy",
+    "ế",
+    "t_định",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "trên",
+    "các",
+    "phương_tiện",
+    "thông_tin",
+    "đại_chúng",
+    "của",
+    "Trung_ương",
+    "và",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 35,
+     "text": "3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá có trách_nhiệm thông_báo v ề nội_dung quy ế t_định công_bố mở cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 8,
+     "text": "Cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_47",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 8 . 1 . Giám_đốc cảng cá hoặc chủ đầu_tư cảng cá có đơn đề_nghị đóng cảng cá ( theo mẫu Phụ_lục II ) hoặc văn_bản đề_nghị của tổ_chức , cá_nhân có liên_quan g ử i cơ_quan nhà_nước có thẩm_quyền .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "hoặc",
+    "chủ",
+    "đầu_tư",
+    "cảng",
+    "cá",
+    "có",
+    "đơn",
+    "đề_nghị",
+    "đóng",
+    "cảng",
+    "cá",
+    "(",
+    "theo",
+    "mẫu",
+    "Phụ_lục",
+    "II",
+    ")",
+    "hoặc",
+    "văn_bản",
+    "đề_nghị",
+    "của",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "g",
+    "ử",
+    "i",
+    "cơ_quan",
+    "nhà_nước",
+    "có",
+    "thẩm_quyền",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 48,
+     "text": "1 . Giám_đốc cảng cá hoặc chủ đầu_tư cảng cá có đơn đề_nghị đóng cảng cá ( theo mẫu Phụ_lục II ) hoặc văn_bản đề_nghị của tổ_chức , cá_nhân có liên_quan g ử i cơ_quan nhà_nước có thẩm_quyền ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "Phụ_lục II"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 43,
+     "end": 47,
+     "text": "cơ_quan nhà_nước có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 32,
+     "end": 34,
+     "text": "văn_bản đề_nghị"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 11,
+     "end": 12,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 15,
+     "end": 17,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 25,
+     "text": "đơn đề_nghị đóng cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_48",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 1 . Giám_đốc cảng cá hoặc chủ đầu_tư cảng cá có đơn đề_nghị đóng cảng cá ( theo mẫu Phụ_lục II ) hoặc văn_bản đề_nghị của tổ_chức , cá_nhân có liên_quan g ử i cơ_quan nhà_nước có thẩm_quyền .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "hoặc",
+    "chủ",
+    "đầu_tư",
+    "cảng",
+    "cá",
+    "có",
+    "đơn",
+    "đề_nghị",
+    "đóng",
+    "cảng",
+    "cá",
+    "(",
+    "theo",
+    "mẫu",
+    "Phụ_lục",
+    "II",
+    ")",
+    "hoặc",
+    "văn_bản",
+    "đề_nghị",
+    "của",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "g",
+    "ử",
+    "i",
+    "cơ_quan",
+    "nhà_nước",
+    "có",
+    "thẩm_quyền",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 42,
+     "text": "1 . Giám_đốc cảng cá hoặc chủ đầu_tư cảng cá có đơn đề_nghị đóng cảng cá ( theo mẫu Phụ_lục II ) hoặc văn_bản đề_nghị của tổ_chức , cá_nhân có liên_quan g ử i cơ_quan nhà_nước có thẩm_quyền ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "Phụ_lục II"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 41,
+     "text": "cơ_quan nhà_nước có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 26,
+     "end": 28,
+     "text": "văn_bản đề_nghị"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 5,
+     "end": 6,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 9,
+     "end": 11,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 14,
+     "end": 19,
+     "text": "đơn đề_nghị đóng cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_49",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 8 . 2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận được yêu_cầu , cơ_quan có thẩm_quyền xem_xét và trả_lời bằng văn_bản cho các tổ_chức , cá_nhân đ ề nghị .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Trong",
+    "thời_hạn",
+    "(",
+    "07",
+    ")",
+    "bảy",
+    "ngày",
+    "làm_việc",
+    ",",
+    "kể",
+    "từ",
+    "khi",
+    "nhận",
+    "được",
+    "yêu_cầu",
+    ",",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "xem_xét",
+    "và",
+    "trả_lời",
+    "bằng",
+    "văn_bản",
+    "cho",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "đ",
+    "ề",
+    "nghị",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 44,
+     "text": "2 . Trong thời_hạn ( 07 ) bảy ngày làm_việc , kể từ khi nhận được yêu_cầu , cơ_quan có thẩm_quyền xem_xét và trả_lời bằng văn_bản cho các tổ_chức , cá_nhân đ ề nghị ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_50",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 8 . 3 . Cơ_quan có thẩm_quyền công_bố đóng cảng cá có trách_nhiệm thông_báo về nội_dung quyết_định công_bố đóng cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "đóng",
+    "cảng",
+    "cá",
+    "có",
+    "trách_nhiệm",
+    "thông_báo",
+    "về",
+    "nội_dung",
+    "quyết_định",
+    "công_bố",
+    "đóng",
+    "cảng",
+    "cá",
+    "trên",
+    "các",
+    "phương_tiện",
+    "thông_tin",
+    "đại_chúng",
+    "của",
+    "Trung_ương",
+    "và",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 44,
+     "text": "3 . Cơ_quan có thẩm_quyền công_bố đóng cảng cá có trách_nhiệm thông_báo về nội_dung quyết_định công_bố đóng cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 20,
+     "text": "Cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 36,
+     "end": 37,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_51",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 3 . Cơ_quan có thẩm_quyền công_bố đóng cảng cá có trách_nhiệm thông_báo về nội_dung quyết_định công_bố đóng cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "đóng",
+    "cảng",
+    "cá",
+    "có",
+    "trách_nhiệm",
+    "thông_báo",
+    "về",
+    "nội_dung",
+    "quyết_định",
+    "công_bố",
+    "đóng",
+    "cảng",
+    "cá",
+    "trên",
+    "các",
+    "phương_tiện",
+    "thông_tin",
+    "đại_chúng",
+    "của",
+    "Trung_ương",
+    "và",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 32,
+     "text": "3 . Cơ_quan có thẩm_quyền công_bố đóng cảng cá có trách_nhiệm thông_báo về nội_dung quyết_định công_bố đóng cảng cá trên các phương_tiện thông_tin đại_chúng của Trung_ương và địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 8,
+     "text": "Cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 25,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_52",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 9 . 1 . Bộ Nông_nghiệp và Phát_triển nông_thôn công_bố mở cảng cá loại I.",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "1",
+    ".",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "loại",
+    "I."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 22,
+     "text": "1 . Bộ Nông_nghiệp và Phát_triển nông_thôn công_bố mở cảng cá loại I."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 16,
+     "text": "Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_53",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 9 . 3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá đồng_thời là cơ_quan có th ẩ m quy ề n công b ố đóng cảng cá .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "3",
+    ".",
+    "Cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "công_bố",
+    "mở",
+    "cảng",
+    "cá",
+    "đồng_thời",
+    "là",
+    "cơ_quan",
+    "có",
+    "th",
+    "ẩ",
+    "m",
+    "quy",
+    "ề",
+    "n",
+    "công",
+    "b",
+    "ố",
+    "đóng",
+    "cảng",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 35,
+     "text": "3 . Cơ_quan có thẩm_quyền công_bố mở cảng cá đồng_thời là cơ_quan có th ẩ m quy ề n công b ố đóng cảng cá ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 14,
+     "text": "Cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_54",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 10 . 4 . Độ sâu vùng nước đậu tàu , chiều dài cầu_cảng ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "10",
+    ".",
+    "4",
+    ".",
+    "Độ",
+    "sâu",
+    "vùng",
+    "nước",
+    "đậu",
+    "tàu",
+    ",",
+    "chiều",
+    "dài",
+    "cầu_cảng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 28,
+     "text": "4 . Độ sâu vùng nước đậu tàu , chiều dài cầu_cảng ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_55",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 11 . 4 . Thời_gian bắt_đầu đóng cảng cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "4",
+    ".",
+    "Thời_gian",
+    "bắt_đầu",
+    "đóng",
+    "cảng",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 24,
+     "text": "4 . Thời_gian bắt_đầu đóng cảng cá ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_56",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 13 . 1 . Tàu cá_nước_ngoài chỉ được vào các cảng cá đã quy_định trong giấy_phép hoạt_động th_ủy_sản .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "13",
+    ".",
+    "1",
+    ".",
+    "Tàu",
+    "cá_nước_ngoài",
+    "chỉ",
+    "được",
+    "vào",
+    "các",
+    "cảng",
+    "cá",
+    "đã",
+    "quy_định",
+    "trong",
+    "giấy_phép",
+    "hoạt_động",
+    "th_ủy_sản",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 32,
+     "text": "1 . Tàu cá_nước_ngoài chỉ được vào các cảng cá đã quy_định trong giấy_phép hoạt_động th_ủy_sản ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 31,
+     "text": "giấy_phép hoạt_động th_ủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_57",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 13 . 1 . Tàu cá_nước_ngoài chỉ được vào các cảng cá đã quy_định trong giấy_phép hoạt_động th_ủy_sản .",
+   "tokens": [
+    "Điều",
+    "13",
+    ".",
+    "1",
+    ".",
+    "Tàu",
+    "cá_nước_ngoài",
+    "chỉ",
+    "được",
+    "vào",
+    "các",
+    "cảng",
+    "cá",
+    "đã",
+    "quy_định",
+    "trong",
+    "giấy_phép",
+    "hoạt_động",
+    "th_ủy_sản",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 20,
+     "text": "1 . Tàu cá_nước_ngoài chỉ được vào các cảng cá đã quy_định trong giấy_phép hoạt_động th_ủy_sản ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 19,
+     "text": "giấy_phép hoạt_động th_ủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_58",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 13 . Khoản 3 . b ) Giấy_phép hoạt_động thủy_sản ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "13",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Giấy_phép",
+    "hoạt_động",
+    "thủy_sản",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 18,
+     "text": "b ) Giấy_phép hoạt_động thủy_sản ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 14,
+     "end": 17,
+     "text": "Giấy_phép hoạt_động thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_59",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 13 . Khoản 3 . b ) Giấy_phép hoạt_động thủy_sản ;",
+   "tokens": [
+    "Điều",
+    "13",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Giấy_phép",
+    "hoạt_động",
+    "thủy_sản",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 12,
+     "text": "b ) Giấy_phép hoạt_động thủy_sản ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 8,
+     "end": 11,
+     "text": "Giấy_phép hoạt_động thủy_sản"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_60",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 13 . Khoản 6 . b ) Thực_hiện các quy_định tại các Khoản 3 , 4 , 5 Điều này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "13",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "b",
+    ")",
+    "Thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "các",
+    "Khoản",
+    "3",
+    ",",
+    "4",
+    ",",
+    "5",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 34,
+     "text": "b ) Thực_hiện các quy_định tại các Khoản 3 , 4 , 5 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 33,
+     "text": "các Khoản 3 , 4 , 5 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_61",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 13 . Khoản 6 . b ) Thực_hiện các quy_định tại các Khoản 3 , 4 , 5 Điều này .",
+   "tokens": [
+    "Điều",
+    "13",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "b",
+    ")",
+    "Thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "các",
+    "Khoản",
+    "3",
+    ",",
+    "4",
+    ",",
+    "5",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 13"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 22,
+     "text": "b ) Thực_hiện các quy_định tại các Khoản 3 , 4 , 5 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 21,
+     "text": "các Khoản 3 , 4 , 5 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 12,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_62",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 14 . 3 . Tổ_chức lực_lượng nhân_viên của cảng đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường và phòn g chống cháy nổ trong khu_vực cảng cá ; thường_xuyên cung c ấ p thông_tin v ề tình_hình thời_tiết trên hệ_thống truyền_thanh của cảng ; chủ_động kh ắ c phục , giải_quyết tại_chỗ hậu_quả tai_nạn , ô_nhiễm môi_trường ; xác_nhận ngu ồ n g ố c , xu ấ t xứ thủy_sản khai_thác cho các tổ_chức , cá_nhân có",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "14",
+    ".",
+    "3",
+    ".",
+    "Tổ_chức",
+    "lực_lượng",
+    "nhân_viên",
+    "của",
+    "cảng",
+    "đảm_bảo_an_ninh",
+    "trật_tự",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    "và",
+    "phòn",
+    "g",
+    "chống",
+    "cháy",
+    "nổ",
+    "trong",
+    "khu_vực",
+    "cảng",
+    "cá",
+    ";",
+    "thường_xuyên",
+    "cung",
+    "c",
+    "ấ",
+    "p",
+    "thông_tin",
+    "v",
+    "ề",
+    "tình_hình",
+    "thời_tiết",
+    "trên",
+    "hệ_thống",
+    "truyền_thanh",
+    "của",
+    "cảng",
+    ";",
+    "chủ_động",
+    "kh",
+    "ắ",
+    "c",
+    "phục",
+    ",",
+    "giải_quyết",
+    "tại_chỗ",
+    "hậu_quả",
+    "tai_nạn",
+    ",",
+    "ô_nhiễm",
+    "môi_trường",
+    ";",
+    "xác_nhận",
+    "ngu",
+    "ồ",
+    "n",
+    "g",
+    "ố",
+    "c",
+    ",",
+    "xu",
+    "ấ",
+    "t",
+    "xứ",
+    "thủy_sản",
+    "khai_thác",
+    "cho",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 14"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 82,
+     "text": "3 . Tổ_chức lực_lượng nhân_viên của cảng đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường và phòn g chống cháy nổ trong khu_vực cảng cá ; thường_xuyên cung c ấ p thông_tin v ề tình_hình thời_tiết trên hệ_thống truyền_thanh của cảng ; chủ_động kh ắ c phục , giải_quyết tại_chỗ hậu_quả tai_nạn , ô_nhiễm môi_trường ; xác_nhận ngu ồ n g ố c , xu ấ t xứ thủy_sản khai_thác cho các tổ_chức , cá_nhân có"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_63",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 14 . 9 . Ban quản_lý cảng cá có quyền :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "14",
+    ".",
+    "9",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "có",
+    "quyền",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 14"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 24,
+     "text": "9 . Ban quản_lý cảng cá có quyền :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_64",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 5 . 1 . Tại các cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đơn_vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Tại",
+    "các",
+    "cảng",
+    "cá",
+    "do",
+    "Nhà_nước",
+    "đầu_tư",
+    "hoặc",
+    "có",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "là",
+    "đơn_vị",
+    "sự_nghiệp",
+    "công_lập",
+    "hoặc",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 55,
+     "text": "1 . Tại các cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đơn_vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 53,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 34,
+     "text": "đơn_vị sự_nghiệp công_lập"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 36,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 46,
+     "end": 47,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_65",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Tại các cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đơn_vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Tại",
+    "các",
+    "cảng",
+    "cá",
+    "do",
+    "Nhà_nước",
+    "đầu_tư",
+    "hoặc",
+    "có",
+    "nguồn",
+    "vốn",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    ",",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "là",
+    "đơn_vị",
+    "sự_nghiệp",
+    "công_lập",
+    "hoặc",
+    "doanh_nghiệp",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "Giám_đốc",
+    "cảng",
+    "cá",
+    "do",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 49,
+     "text": "1 . Tại các cảng cá do Nhà_nước đầu_tư hoặc có nguồn vốn từ ngân_sách nhà_nước , Ban quản_lý cảng cá là đơn_vị sự_nghiệp công_lập hoặc doanh_nghiệp theo quy_định của pháp_luật . Ban quản_lý cảng cá , Giám_đốc cảng cá do cơ_quan có thẩm_quyền quyết_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 44,
+     "end": 47,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 28,
+     "text": "đơn_vị sự_nghiệp công_lập"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 30,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 40,
+     "end": 41,
+     "text": "Giám_đốc"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 17,
+     "end": 19,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_66",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Chương II . Điều 6 . Điều_kiện mở , đóng cảng cá",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "II",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Điều_kiện",
+    "mở",
+    ",",
+    "đóng",
+    "cảng",
+    "cá"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương II"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 25,
+     "text": "Điều 6 . Điều_kiện mở , đóng cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_67",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 6 . Khoản 2 . Điều_kiện đóng cảng cá : a ) Điều_kiện về địa_hình , thủy_văn biến_động không bảo_đảm an_toàn cho hoạt_động của cảng cá ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Điều_kiện",
+    "đóng",
+    "cảng",
+    "cá",
+    ":",
+    "a",
+    ")",
+    "Điều_kiện",
+    "về",
+    "địa_hình",
+    ",",
+    "thủy_văn",
+    "biến_động",
+    "không",
+    "bảo_đảm",
+    "an_toàn",
+    "cho",
+    "hoạt_động",
+    "của",
+    "cảng",
+    "cá",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 23,
+     "text": "Khoản 2 . Điều_kiện đóng cảng cá"
+    },
+    {
+     "type": "DIEM",
+     "start": 24,
+     "end": 41,
+     "text": "a ) Điều_kiện về địa_hình , thủy_văn biến_động không bảo_đảm an_toàn cho hoạt_động của cảng cá ;"
+    },
+    {
+     "type": "HANH_VI_VI_PHAM",
+     "start": 32,
+     "end": 40,
+     "text": "không bảo_đảm an_toàn cho hoạt_động của cảng cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_68",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 80/2012/NĐ-CP . Điều 7 . Khoản 1 . g ) Văn_bản kiểm_tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "g",
+    ")",
+    "Văn_bản",
+    "kiểm_tra",
+    ",",
+    "xác_nhận",
+    "việc",
+    "đã",
+    "thực_hiện",
+    "các",
+    "nội_dung",
+    "của",
+    "báo_cáo",
+    "và",
+    "yêu_cầu",
+    "của",
+    "quyết_định",
+    "phê_duyệt",
+    "báo_cáo",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 11,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 12,
+     "end": 39,
+     "text": "g ) Văn_bản kiểm_tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "quyết_định phê_duyệt"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 30,
+     "end": 34,
+     "text": "báo_cáo đánh_giá tác_động môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_69",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . Khoản 1 . g ) Văn_bản kiểm_tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "g",
+    ")",
+    "Văn_bản",
+    "kiểm_tra",
+    ",",
+    "xác_nhận",
+    "việc",
+    "đã",
+    "thực_hiện",
+    "các",
+    "nội_dung",
+    "của",
+    "báo_cáo",
+    "và",
+    "yêu_cầu",
+    "của",
+    "quyết_định",
+    "phê_duyệt",
+    "báo_cáo",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    "(",
+    "bản_sao",
+    "chứng_thực",
+    ")",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 33,
+     "text": "g ) Văn_bản kiểm_tra , xác_nhận việc đã thực_hiện các nội_dung của báo_cáo và yêu_cầu của quyết_định phê_duyệt báo_cáo đánh_giá tác_động môi_trường ( bản_sao chứng_thực ) ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "quyết_định phê_duyệt"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 24,
+     "end": 28,
+     "text": "báo_cáo đánh_giá tác_động môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_70",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 11 . 4 . Thời_gian bắt_đầu đóng cảng cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "4",
+    ".",
+    "Thời_gian",
+    "bắt_đầu",
+    "đóng",
+    "cảng",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 24,
+     "text": "4 . Thời_gian bắt_đầu đóng cảng cá ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_71",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 15 . 1 . Tổ_chức , cá_nhân hoạt_động dịch_vụ hậu_cần nghề cá phải ký hợp_đồng thuê cơ_sở hạ_tầng tại vùng_đất cảng với Ban quản_lý cảng cá ; nộp phí , lệ_phí theo quy_định pháp_luật ; tuân_thủ nội_quy của cảng cá , quy_định pháp_luật có liên_quan và sự điều_động của Ban quản_lý cảng cá trong các trường_hợp cần_thiết .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "15",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "hoạt_động",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    "phải",
+    "ký",
+    "hợp_đồng",
+    "thuê",
+    "cơ_sở",
+    "hạ_tầng",
+    "tại",
+    "vùng_đất",
+    "cảng",
+    "với",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ";",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "theo",
+    "quy_định",
+    "pháp_luật",
+    ";",
+    "tuân_thủ",
+    "nội_quy",
+    "của",
+    "cảng",
+    "cá",
+    ",",
+    "quy_định",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "và",
+    "sự",
+    "điều_động",
+    "của",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "trong",
+    "các",
+    "trường_hợp",
+    "cần_thiết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 15"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 72,
+     "text": "1 . Tổ_chức , cá_nhân hoạt_động dịch_vụ hậu_cần nghề cá phải ký hợp_đồng thuê cơ_sở hạ_tầng tại vùng_đất cảng với Ban quản_lý cảng cá ; nộp phí , lệ_phí theo quy_định pháp_luật ; tuân_thủ nội_quy của cảng cá , quy_định pháp_luật có liên_quan và sự điều_động của Ban quản_lý cảng cá trong các trường_hợp cần_thiết ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "hợp_đồng thuê"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_72",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 15 . 1 . Tổ_chức , cá_nhân hoạt_động dịch_vụ hậu_cần nghề cá phải ký hợp_đồng thuê cơ_sở hạ_tầng tại vùng_đất cảng với Ban quản_lý cảng cá ; nộp phí , lệ_phí theo quy_định pháp_luật ; tuân_thủ nội_quy của cảng cá , quy_định pháp_luật có liên_quan và sự điều_động của Ban quản_lý cảng cá trong các trường_hợp cần_thiết .",
+   "tokens": [
+    "Điều",
+    "15",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "hoạt_động",
+    "dịch_vụ",
+    "hậu_cần",
+    "nghề",
+    "cá",
+    "phải",
+    "ký",
+    "hợp_đồng",
+    "thuê",
+    "cơ_sở",
+    "hạ_tầng",
+    "tại",
+    "vùng_đất",
+    "cảng",
+    "với",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ";",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "theo",
+    "quy_định",
+    "pháp_luật",
+    ";",
+    "tuân_thủ",
+    "nội_quy",
+    "của",
+    "cảng",
+    "cá",
+    ",",
+    "quy_định",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "và",
+    "sự",
+    "điều_động",
+    "của",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "trong",
+    "các",
+    "trường_hợp",
+    "cần_thiết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 15"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 59,
+     "text": "1 . Tổ_chức , cá_nhân hoạt_động dịch_vụ hậu_cần nghề cá phải ký hợp_đồng thuê cơ_sở hạ_tầng tại vùng_đất cảng với Ban quản_lý cảng cá ; nộp phí , lệ_phí theo quy_định pháp_luật ; tuân_thủ nội_quy của cảng cá , quy_định pháp_luật có liên_quan và sự điều_động của Ban quản_lý cảng cá trong các trường_hợp cần_thiết ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 17,
+     "text": "hợp_đồng thuê"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_73",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 16 . 2 . Đối_tượng thu , khung mức thu , chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí cảng cá do Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định và theo hướng_dẫn của Bộ Tài_chính .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "16",
+    ".",
+    "2",
+    ".",
+    "Đối_tượng",
+    "thu",
+    ",",
+    "khung",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    "và",
+    "quản_lý",
+    "sử_dụng",
+    "phí",
+    ",",
+    "lệ_phí",
+    "cảng",
+    "cá",
+    "do",
+    "Hội_đồng",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "quyết_định",
+    "và",
+    "theo",
+    "hướng_dẫn",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 16"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 52,
+     "text": "2 . Đối_tượng thu , khung mức thu , chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí cảng cá do Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định và theo hướng_dẫn của Bộ Tài_chính ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 44,
+     "text": "Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 49,
+     "end": 51,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_74",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 16 . 2 . Đối_tượng thu , khung mức thu , chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí cảng cá do Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định và theo hướng_dẫn của Bộ Tài_chính .",
+   "tokens": [
+    "Điều",
+    "16",
+    ".",
+    "2",
+    ".",
+    "Đối_tượng",
+    "thu",
+    ",",
+    "khung",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    "và",
+    "quản_lý",
+    "sử_dụng",
+    "phí",
+    ",",
+    "lệ_phí",
+    "cảng",
+    "cá",
+    "do",
+    "Hội_đồng",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "quyết_định",
+    "và",
+    "theo",
+    "hướng_dẫn",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 16"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "2 . Đối_tượng thu , khung mức thu , chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí cảng cá do Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định và theo hướng_dẫn của Bộ Tài_chính ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 32,
+     "text": "Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 39,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_75",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 17 . Khoản 2 . a ) Khu_neo đậu tránh trú bão nằm trong vùng nước quản_lý của cảng cá giao Ban quản_lý cảng cá quản_lý , sử_dụng ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "17",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Khu_neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "nằm",
+    "trong",
+    "vùng",
+    "nước",
+    "quản_lý",
+    "của",
+    "cảng",
+    "cá",
+    "giao",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    "quản_lý",
+    ",",
+    "sử_dụng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 17"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 43,
+     "text": "a ) Khu_neo đậu tránh trú bão nằm trong vùng nước quản_lý của cảng cá giao Ban quản_lý cảng cá quản_lý , sử_dụng ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_76",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 17 . Khoản 2 . c ) Được thu phí theo quy_định của Điều 16 của Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "17",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Được",
+    "thu",
+    "phí",
+    "theo",
+    "quy_định",
+    "của",
+    "Điều",
+    "16",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 17"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 33,
+     "text": "c ) Được thu phí theo quy_định của Điều 16 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 32,
+     "text": "Điều 16 của Nghị_định này"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_77",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Chương III . Điều 19 . Công_bố Danh_sách khu neo đậu tránh trú bão cho tàu cá",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "III",
+    ".",
+    "Điều",
+    "19",
+    ".",
+    "Công_bố",
+    "Danh_sách",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương III"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 30,
+     "text": "Điều 19 . Công_bố Danh_sách khu neo đậu tránh trú bão cho tàu cá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_78",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 19 . Khoản 2 . Nội_dung công_bố : g ) Số điện_thoại , tần_số liên_lạc của thường_trực Ban chỉ_huy phòng_chống lụt bão tìm_kiếm cứu nạn của địa_phương tại khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "19",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Nội_dung",
+    "công_bố",
+    ":",
+    "g",
+    ")",
+    "Số",
+    "điện_thoại",
+    ",",
+    "tần_số",
+    "liên_lạc",
+    "của",
+    "thường_trực",
+    "Ban",
+    "chỉ_huy",
+    "phòng_chống",
+    "lụt",
+    "bão",
+    "tìm_kiếm",
+    "cứu",
+    "nạn",
+    "của",
+    "địa_phương",
+    "tại",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 19"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 20,
+     "text": "Khoản 2 . Nội_dung công_bố"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 51,
+     "text": "g ) Số điện_thoại , tần_số liên_lạc của thường_trực Ban chỉ_huy phòng_chống lụt bão tìm_kiếm cứu nạn của địa_phương tại khu neo đậu tránh trú bão cho tàu cá ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_79",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 20 . 4 . Kiểm_tra , thanh_tra cảng cá , khu neo đậu tránh trú bão cho tàu cá trong việc thực_hiện các quy_định pháp_luật đảm_bảo_an_toàn của các công_trình , đảm_bảo đáp_ứng các quy_định về bảo_vệ môi_trường , an_toàn thực_phẩm , phòng_chống cháy nổ và các quy_định pháp_luật có liên_quan .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "20",
+    ".",
+    "4",
+    ".",
+    "Kiểm_tra",
+    ",",
+    "thanh_tra",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "trong",
+    "việc",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "pháp_luật",
+    "đảm_bảo_an_toàn",
+    "của",
+    "các",
+    "công_trình",
+    ",",
+    "đảm_bảo",
+    "đáp_ứng",
+    "các",
+    "quy_định",
+    "về",
+    "bảo_vệ",
+    "môi_trường",
+    ",",
+    "an_toàn",
+    "thực_phẩm",
+    ",",
+    "phòng_chống",
+    "cháy",
+    "nổ",
+    "và",
+    "các",
+    "quy_định",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 20"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 64,
+     "text": "4 . Kiểm_tra , thanh_tra cảng cá , khu neo đậu tránh trú bão cho tàu cá trong việc thực_hiện các quy_định pháp_luật đảm_bảo_an_toàn của các công_trình , đảm_bảo đáp_ứng các quy_định về bảo_vệ môi_trường , an_toàn thực_phẩm , phòng_chống cháy nổ và các quy_định pháp_luật có liên_quan ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_80",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 21 . 6 . Ban_hành quy_chế mẫu v ề quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá ; biểu_mẫu giấy_tờ sử_dụng trong quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá theo quy_định .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "21",
+    ".",
+    "6",
+    ".",
+    "Ban_hành",
+    "quy_chế",
+    "mẫu",
+    "v",
+    "ề",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    ";",
+    "biểu_mẫu",
+    "giấy_tờ",
+    "sử_dụng",
+    "trong",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "theo",
+    "quy_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 21"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 57,
+     "text": "6 . Ban_hành quy_chế mẫu v ề quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá ; biểu_mẫu giấy_tờ sử_dụng trong quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá theo quy_định ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 22,
+     "text": "mẫu v"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_81",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 22 . 1 . Chỉ_đạo các cơ_quan_chức_năng tổ_chức quản_lý , hướng_dẫn và kiểm_tra hoạt_động của các cảng cá , bến cá , khu neo đậu tránh trú bão trên địa_bàn của địa_phương .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "22",
+    ".",
+    "1",
+    ".",
+    "Chỉ_đạo",
+    "các",
+    "cơ_quan_chức_năng",
+    "tổ_chức",
+    "quản_lý",
+    ",",
+    "hướng_dẫn",
+    "và",
+    "kiểm_tra",
+    "hoạt_động",
+    "của",
+    "các",
+    "cảng",
+    "cá",
+    ",",
+    "bến",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "trên",
+    "địa_bàn",
+    "của",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 46,
+     "text": "1 . Chỉ_đạo các cơ_quan_chức_năng tổ_chức quản_lý , hướng_dẫn và kiểm_tra hoạt_động của các cảng cá , bến cá , khu neo đậu tránh trú bão trên địa_bàn của địa_phương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_82",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP của Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 22 . 4 . Chỉ_đạo các cơ_quan_chức_năng xây_dựng quy_chế phối_hợp giữa các ngành , các cấp có liên_quan tại địa_phương trong việc đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường , phòng_chống cháy nổ trong khu_vực cảng cá , bến cá và khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "22",
+    ".",
+    "4",
+    ".",
+    "Chỉ_đạo",
+    "các",
+    "cơ_quan_chức_năng",
+    "xây_dựng",
+    "quy_chế",
+    "phối_hợp",
+    "giữa",
+    "các",
+    "ngành",
+    ",",
+    "các",
+    "cấp",
+    "có",
+    "liên_quan",
+    "tại",
+    "địa_phương",
+    "trong",
+    "việc",
+    "đảm_bảo_an_ninh",
+    "trật_tự",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    ",",
+    "phòng_chống",
+    "cháy",
+    "nổ",
+    "trong",
+    "khu_vực",
+    "cảng",
+    "cá",
+    ",",
+    "bến",
+    "cá",
+    "và",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 11,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 62,
+     "text": "4 . Chỉ_đạo các cơ_quan_chức_năng xây_dựng quy_chế phối_hợp giữa các ngành , các cấp có liên_quan tại địa_phương trong việc đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường , phòng_chống cháy nổ trong khu_vực cảng cá , bến cá và khu neo đậu tránh trú bão cho tàu cá ."
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 31,
+     "end": 33,
+     "text": "tại địa_phương"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 21,
+     "end": 26,
+     "text": "quy_chế phối_hợp giữa các ngành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_83",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 22 . 4 . Chỉ_đạo các cơ_quan_chức_năng xây_dựng quy_chế phối_hợp giữa các ngành , các cấp có liên_quan tại địa_phương trong việc đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường , phòng_chống cháy nổ trong khu_vực cảng cá , bến cá và khu neo đậu tránh trú bão cho tàu cá .",
+   "tokens": [
+    "Điều",
+    "22",
+    ".",
+    "4",
+    ".",
+    "Chỉ_đạo",
+    "các",
+    "cơ_quan_chức_năng",
+    "xây_dựng",
+    "quy_chế",
+    "phối_hợp",
+    "giữa",
+    "các",
+    "ngành",
+    ",",
+    "các",
+    "cấp",
+    "có",
+    "liên_quan",
+    "tại",
+    "địa_phương",
+    "trong",
+    "việc",
+    "đảm_bảo_an_ninh",
+    "trật_tự",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    ",",
+    "phòng_chống",
+    "cháy",
+    "nổ",
+    "trong",
+    "khu_vực",
+    "cảng",
+    "cá",
+    ",",
+    "bến",
+    "cá",
+    "và",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 50,
+     "text": "4 . Chỉ_đạo các cơ_quan_chức_năng xây_dựng quy_chế phối_hợp giữa các ngành , các cấp có liên_quan tại địa_phương trong việc đảm_bảo_an_ninh trật_tự , bảo_vệ môi_trường , phòng_chống cháy nổ trong khu_vực cảng cá , bến cá và khu neo đậu tránh trú bão cho tàu cá ."
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 19,
+     "end": 21,
+     "text": "tại địa_phương"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 9,
+     "end": 14,
+     "text": "quy_chế phối_hợp giữa các ngành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_84",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 22 . 5 . Hướng_dẫn cụ_thể đối_tượng thu , mức thu và trích nộp đối_với cảng cá và từng loại hoạt_động dịch_vụ tại cảng cá ; bố_trí ngân_sách của địa_phương để xây_dựng , duy_tu bảo_dưỡng các công_trình được đầu_tư từ ngân_sách nhà_nước và kinh_phí hoạt_động của Ban quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá là các đơn_vị sự_nghiệp ; bố_trí đất xây_dựng cảng cá , khu neo đậu tránh trú bão cho",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "22",
+    ".",
+    "5",
+    ".",
+    "Hướng_dẫn",
+    "cụ_thể",
+    "đối_tượng",
+    "thu",
+    ",",
+    "mức",
+    "thu",
+    "và",
+    "trích",
+    "nộp",
+    "đối_với",
+    "cảng",
+    "cá",
+    "và",
+    "từng",
+    "loại",
+    "hoạt_động",
+    "dịch_vụ",
+    "tại",
+    "cảng",
+    "cá",
+    ";",
+    "bố_trí",
+    "ngân_sách",
+    "của",
+    "địa_phương",
+    "để",
+    "xây_dựng",
+    ",",
+    "duy_tu",
+    "bảo_dưỡng",
+    "các",
+    "công_trình",
+    "được",
+    "đầu_tư",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    "và",
+    "kinh_phí",
+    "hoạt_động",
+    "của",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "là",
+    "các",
+    "đơn_vị",
+    "sự_nghiệp",
+    ";",
+    "bố_trí",
+    "đất",
+    "xây_dựng",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 92,
+     "text": "5 . Hướng_dẫn cụ_thể đối_tượng thu , mức thu và trích nộp đối_với cảng cá và từng loại hoạt_động dịch_vụ tại cảng cá ; bố_trí ngân_sách của địa_phương để xây_dựng , duy_tu bảo_dưỡng các công_trình được đầu_tư từ ngân_sách nhà_nước và kinh_phí hoạt_động của Ban quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá là các đơn_vị sự_nghiệp ; bố_trí đất xây_dựng cảng cá , khu neo đậu tránh trú bão cho"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 76,
+     "end": 78,
+     "text": "đơn_vị sự_nghiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 54,
+     "end": 56,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_85",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 22 . 5 . Hướng_dẫn cụ_thể đối_tượng thu , mức thu và trích nộp đối_với cảng cá và từng loại hoạt_động dịch_vụ tại cảng cá ; bố_trí ngân_sách của địa_phương để xây_dựng , duy_tu bảo_dưỡng các công_trình được đầu_tư từ ngân_sách nhà_nước và kinh_phí hoạt_động của Ban quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá là các đơn_vị sự_nghiệp ; bố_trí đất xây_dựng cảng cá , khu neo đậu tránh trú bão cho",
+   "tokens": [
+    "Điều",
+    "22",
+    ".",
+    "5",
+    ".",
+    "Hướng_dẫn",
+    "cụ_thể",
+    "đối_tượng",
+    "thu",
+    ",",
+    "mức",
+    "thu",
+    "và",
+    "trích",
+    "nộp",
+    "đối_với",
+    "cảng",
+    "cá",
+    "và",
+    "từng",
+    "loại",
+    "hoạt_động",
+    "dịch_vụ",
+    "tại",
+    "cảng",
+    "cá",
+    ";",
+    "bố_trí",
+    "ngân_sách",
+    "của",
+    "địa_phương",
+    "để",
+    "xây_dựng",
+    ",",
+    "duy_tu",
+    "bảo_dưỡng",
+    "các",
+    "công_trình",
+    "được",
+    "đầu_tư",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    "và",
+    "kinh_phí",
+    "hoạt_động",
+    "của",
+    "Ban",
+    "quản_lý",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho",
+    "tàu",
+    "cá",
+    "là",
+    "các",
+    "đơn_vị",
+    "sự_nghiệp",
+    ";",
+    "bố_trí",
+    "đất",
+    "xây_dựng",
+    "cảng",
+    "cá",
+    ",",
+    "khu",
+    "neo",
+    "đậu",
+    "tránh",
+    "trú",
+    "bão",
+    "cho"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 79,
+     "text": "5 . Hướng_dẫn cụ_thể đối_tượng thu , mức thu và trích nộp đối_với cảng cá và từng loại hoạt_động dịch_vụ tại cảng cá ; bố_trí ngân_sách của địa_phương để xây_dựng , duy_tu bảo_dưỡng các công_trình được đầu_tư từ ngân_sách nhà_nước và kinh_phí hoạt_động của Ban quản_lý cảng cá , khu neo đậu tránh trú bão cho tàu cá là các đơn_vị sự_nghiệp ; bố_trí đất xây_dựng cảng cá , khu neo đậu tránh trú bão cho"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 63,
+     "end": 65,
+     "text": "đơn_vị sự_nghiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 41,
+     "end": 43,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_context_86",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 80/2012/NĐ-CP ban_hành ngày 08 tháng 10 năm 2012 bởi Chính_phủ . Điều 22 . 6 . Căn_cứ quy_định tại Nghị_định này và tình_hình thực_tế của địa_phương , Ủy_ban nhân_dân các tỉnh , thành_phố ven biển trực_thuộc Trung_ương ban_hành quy_chế xây_dựng và quản_lý các bến cá tại địa_phương , bảo_đảm huy_động vốn đầu_tư , sự tham_gia quản_lý của các thành_phần kinh_tế và của cộng_đồng .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "80/2012/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "10",
+    "năm",
+    "2012",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "22",
+    ".",
+    "6",
+    ".",
+    "Căn_cứ",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "và",
+    "tình_hình",
+    "thực_tế",
+    "của",
+    "địa_phương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "ven",
+    "biển",
+    "trực_thuộc",
+    "Trung_ương",
+    "ban_hành",
+    "quy_chế",
+    "xây_dựng",
+    "và",
+    "quản_lý",
+    "các",
+    "bến",
+    "cá",
+    "tại",
+    "địa_phương",
+    ",",
+    "bảo_đảm",
+    "huy_động",
+    "vốn",
+    "đầu_tư",
+    ",",
+    "sự",
+    "tham_gia",
+    "quản_lý",
+    "của",
+    "các",
+    "thành_phần",
+    "kinh_tế",
+    "và",
+    "của",
+    "cộng_đồng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "80/2012/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 10 năm 2012"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 66,
+     "text": "6 . Căn_cứ quy_định tại Nghị_định này và tình_hình thực_tế của địa_phương , Ủy_ban nhân_dân các tỉnh , thành_phố ven biển trực_thuộc Trung_ương ban_hành quy_chế xây_dựng và quản_lý các bến cá tại địa_phương , bảo_đảm huy_động vốn đầu_tư , sự tham_gia quản_lý của các thành_phần kinh_tế và của cộng_đồng ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 47,
+     "end": 49,
+     "text": "tại địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "80_2012_NĐ-CP_27790#body_standalone_87",
+   "doc": "80_2012_NĐ-CP_27790",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 22 . 6 . Căn_cứ quy_định tại Nghị_định này và tình_hình thực_tế của địa_phương , Ủy_ban nhân_dân các tỉnh , thành_phố ven biển trực_thuộc Trung_ương ban_hành quy_chế xây_dựng và quản_lý các bến cá tại địa_phương , bảo_đảm huy_động vốn đầu_tư , sự tham_gia quản_lý của các thành_phần kinh_tế và của cộng_đồng .",
+   "tokens": [
+    "Điều",
+    "22",
+    ".",
+    "6",
+    ".",
+    "Căn_cứ",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "và",
+    "tình_hình",
+    "thực_tế",
+    "của",
+    "địa_phương",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "ven",
+    "biển",
+    "trực_thuộc",
+    "Trung_ương",
+    "ban_hành",
+    "quy_chế",
+    "xây_dựng",
+    "và",
+    "quản_lý",
+    "các",
+    "bến",
+    "cá",
+    "tại",
+    "địa_phương",
+    ",",
+    "bảo_đảm",
+    "huy_động",
+    "vốn",
+    "đầu_tư",
+    ",",
+    "sự",
+    "tham_gia",
+    "quản_lý",
+    "của",
+    "các",
+    "thành_phần",
+    "kinh_tế",
+    "và",
+    "của",
+    "cộng_đồng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 22"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 53,
+     "text": "6 . Căn_cứ quy_định tại Nghị_định này và tình_hình thực_tế của địa_phương , Ủy_ban nhân_dân các tỉnh , thành_phố ven biển trực_thuộc Trung_ương ban_hành quy_chế xây_dựng và quản_lý các bến cá tại địa_phương , bảo_đảm huy_động vốn đầu_tư , sự tham_gia quản_lý của các thành_phần kinh_tế và của cộng_đồng ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 10,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 8,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 34,
+     "end": 36,
+     "text": "tại địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  }
+ ]
+}

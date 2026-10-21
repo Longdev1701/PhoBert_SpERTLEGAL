@@ -1,0 +1,233 @@
+{
+ "doc_id": "10_2006_QĐ-BGTVT_16426",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 10/2006/QĐ-BGTVT Ban hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\"\nBỘ GIAO THÔNG VẬN TẢI\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 10/2006/QĐ-BGTVT\nNgày 20 tháng 2 năm 2006\nQUYẾT ĐỊNH\nBan hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất,\nđá dăm trong phòng thí nghiệm\"\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Luật Giao thông đường bộ ngày 29 tháng 6 năm 2001;\nCăn cứ Pháp lệnh Chất lượng hàng hóa ngày 24 tháng 12 năm 1999;\nCăn cứ Nghị định số 34/2003/NĐ-CP ngày 04 tháng 4 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Giao thông vận tải;\nXét đề nghị của Viện trưởng Viện Khoa khoc công nghệ giao thông vận tải, Vụ trưởng Vụ Khoa học - Công nghệ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".\nSố đăng ký: 22 TCN 332 - 06\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến\n",
+ "total_chars": 1580,
+ "total_paras": 20,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 30,
+   "text": "10/2006/QĐ-BGTVT"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 139,
+   "end": 160,
+   "text": "BỘ GIAO THÔNG VẬN TẢI"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 245,
+   "end": 269,
+   "text": "Ngày 20 tháng 2 năm 2006"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".",
+   "parent": "e_so_hieu",
+   "start": 1000,
+   "end": 1168,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".\nSố đăng ký: 22 TCN 332 - 06"
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 1169,
+   "end": 1251,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến",
+   "parent": "e_so_hieu",
+   "start": 1252,
+   "end": 1579,
+   "text": "Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến"
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1563,
+   "end": 1579,
+   "text": "Nguyễn Việt Tiến"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "10_2006_QĐ-BGTVT_16426",
+ "doc": "10_2006_QĐ-BGTVT_16426",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "10_2006_QĐ-BGTVT_16426",
+   "doc": "10_2006_QĐ-BGTVT_16426",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 10/2006/QĐ-BGTVT Ban hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\"\nBỘ GIAO THÔNG VẬN TẢI\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 10/2006/QĐ-BGTVT\nNgày 20 tháng 2 năm 2006\nQUYẾT ĐỊNH\nBan hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất,\nđá dăm trong phòng thí nghiệm\"\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Luật Giao thông đường bộ ngày 29 tháng 6 năm 2001;\nCăn cứ Pháp lệnh Chất lượng hàng hóa ngày 24 tháng 12 năm 1999;\nCăn cứ Nghị định số 34/2003/NĐ-CP ngày 04 tháng 4 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Giao thông vận tải;\nXét đề nghị của Viện trưởng Viện Khoa khoc công nghệ giao thông vận tải, Vụ trưởng Vụ Khoa học - Công nghệ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".\nSố đăng ký: 22 TCN 332 - 06\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến\n",
+   "full_text": "Quyết định số 10/2006/QĐ-BGTVT Ban hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\"\nBỘ GIAO THÔNG VẬN TẢI\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 10/2006/QĐ-BGTVT\nNgày 20 tháng 2 năm 2006\nQUYẾT ĐỊNH\nBan hành Tiêu chuẩn ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất,\nđá dăm trong phòng thí nghiệm\"\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 16 tháng 12 năm 2002;\nCăn cứ Luật Giao thông đường bộ ngày 29 tháng 6 năm 2001;\nCăn cứ Pháp lệnh Chất lượng hàng hóa ngày 24 tháng 12 năm 1999;\nCăn cứ Nghị định số 34/2003/NĐ-CP ngày 04 tháng 4 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Giao thông vận tải;\nXét đề nghị của Viện trưởng Viện Khoa khoc công nghệ giao thông vận tải, Vụ trưởng Vụ Khoa học - Công nghệ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".\nSố đăng ký: 22 TCN 332 - 06\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến\n",
+   "total_chars": 1580,
+   "total_paras": 20,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 30,
+     "text": "10/2006/QĐ-BGTVT"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 139,
+     "end": 160,
+     "text": "BỘ GIAO THÔNG VẬN TẢI"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 245,
+     "end": 269,
+     "text": "Ngày 20 tháng 2 năm 2006"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".",
+     "parent": "e_so_hieu",
+     "start": 1000,
+     "end": 1168,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn Ngành \"Quy trình thí nghiệm xác định chỉ số CBR của đất, đá dăm trong phòng thí nghiệm\".\nSố đăng ký: 22 TCN 332 - 06"
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 1169,
+     "end": 1251,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến",
+     "parent": "e_so_hieu",
+     "start": 1252,
+     "end": 1579,
+     "text": "Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ, Viện trưởng Viện Khoa học và công nghệ giao thông vận tải, Giám đốc Sở Giao thông vận tải, Sở Giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Nguyễn Việt Tiến"
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1563,
+     "end": 1579,
+     "text": "Nguyễn Việt Tiến"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

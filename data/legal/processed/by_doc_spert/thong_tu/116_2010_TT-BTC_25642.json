@@ -1,0 +1,3661 @@
+{
+ "doc": "116_2010_TT-BTC_25642",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 30,
+ "total_entities": 192,
+ "total_relations": 145,
+ "samples": [
+  {
+   "id": "116_2010_TT-BTC_25642#header_0",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ TÀI_CHÍNH . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 116/2010/TT-BTC . Hà_Nội , ngày 04 tháng 8 năm 2010 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "TÀI_CHÍNH",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "116/2010/TT-BTC",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "04",
+    "tháng",
+    "8",
+    "năm",
+    "2010",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 04 tháng 8 năm 2010"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ TÀI_CHÍNH"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#signature_1",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "KT. BỘ_TRƯỞNG THỨ_TRƯỞNG . ( Đã ký ) . Đỗ Hoàng_Anh Tuấn",
+   "tokens": [
+    "KT.",
+    "BỘ_TRƯỞNG",
+    "THỨ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Đỗ",
+    "Hoàng_Anh",
+    "Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 9,
+     "end": 12,
+     "text": "Đỗ Hoàng_Anh Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 2,
+     "end": 3,
+     "text": "THỨ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#meta_2",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "BỘ TÀI_CHÍNH . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 116/2010/TT-BTC . Hà_Nội , ngày 04 tháng 8 năm 2010 . THÔNG_TƯ . KT. BỘ_TRƯỞNG THỨ_TRƯỞNG . ( Đã ký ) . Đỗ Hoàng_Anh Tuấn",
+   "tokens": [
+    "BỘ",
+    "TÀI_CHÍNH",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "116/2010/TT-BTC",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "04",
+    "tháng",
+    "8",
+    "năm",
+    "2010",
+    ".",
+    "THÔNG_TƯ",
+    ".",
+    "KT.",
+    "BỘ_TRƯỞNG",
+    "THỨ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Đỗ",
+    "Hoàng_Anh",
+    "Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ TÀI_CHÍNH"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 40,
+     "end": 43,
+     "text": "Đỗ Hoàng_Anh Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 33,
+     "end": 34,
+     "text": "THỨ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_context_3",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính . Sửa_đổi , bổ_sung Thông_tư số 137/2009/TT-BTC ngày 03/7/2009 của Bộ Tài_chính hướng_dẫn thực_hiện một_số điều của Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "ngày",
+    "03/7/2009",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "một_số",
+    "điều",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 26,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 15,
+     "text": "ngày 03/7/2009"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 26,
+     "end": 28,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 18,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_standalone_4",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Sửa_đổi , bổ_sung Thông_tư số 137/2009/TT-BTC ngày 03/7/2009 của Bộ Tài_chính hướng_dẫn thực_hiện một_số điều của Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu",
+   "tokens": [
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "ngày",
+    "03/7/2009",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "một_số",
+    "điều",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 3,
+     "end": 6,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 16,
+     "end": 19,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 3,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 6,
+     "end": 8,
+     "text": "ngày 03/7/2009"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 19,
+     "end": 21,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 11,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_context_5",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 29/2008/NĐ-CP ngày 14/3/2008 của Chính_phủ quy_định về khu công_nghiệp , khu chế_xuất và khu kinh_tế ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "29/2008/NĐ-CP",
+    "ngày",
+    "14/3/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "khu",
+    "công_nghiệp",
+    ",",
+    "khu",
+    "chế_xuất",
+    "và",
+    "khu",
+    "kinh_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 29/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 14/3/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 17,
+     "end": 22,
+     "text": "khu công_nghiệp , khu chế_xuất"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_standalone_6",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 29/2008/NĐ-CP ngày 14/3/2008 của Chính_phủ quy_định về khu công_nghiệp , khu chế_xuất và khu kinh_tế ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "29/2008/NĐ-CP",
+    "ngày",
+    "14/3/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "khu",
+    "công_nghiệp",
+    ",",
+    "khu",
+    "chế_xuất",
+    "và",
+    "khu",
+    "kinh_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 29/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 14/3/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 8,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 10,
+     "end": 15,
+     "text": "khu công_nghiệp , khu chế_xuất"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_context_7",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính . Căn_cứ Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_standalone_8",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu ;",
+   "tokens": [
+    "Căn_cứ",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 9,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_context_9",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 118/2008/NĐ-CP ngày 27/11/2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "118/2008/NĐ-CP",
+    "ngày",
+    "27/11/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 118/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 27/11/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_standalone_10",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 118/2008/NĐ-CP ngày 27/11/2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "118/2008/NĐ-CP",
+    "ngày",
+    "27/11/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 118/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 27/11/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 8,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_context_11",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính . Thực_hiện chỉ_đạo của Thủ_tướng Chính_phủ tại công_văn số 2956/VPCP-KTTH ngày 7/5/2010 của Văn_phòng Chính_phủ , Bộ Tài_chính hướng_dẫn sửa_đổi , bổ_sung Thông_tư số 137/2009/TT-BTC ngày 03/7/2009 của Bộ Tài_chính hướng_dẫn thực_hiện một_số điều của Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu ( sau đây gọi là Thông_tư số 137/2009/TT-BTC ) như sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Thực_hiện",
+    "chỉ_đạo",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "tại",
+    "công_văn",
+    "số",
+    "2956/VPCP-KTTH",
+    "ngày",
+    "7/5/2010",
+    "của",
+    "Văn_phòng",
+    "Chính_phủ",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "ngày",
+    "03/7/2009",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "một_số",
+    "điều",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    ")",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 31,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 41,
+     "end": 44,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 63,
+     "end": 66,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 28,
+     "text": "sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 31,
+     "end": 33,
+     "text": "ngày 03/7/2009"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 44,
+     "end": 46,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 12,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 21,
+     "text": "Văn_phòng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 34,
+     "end": 36,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 49,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 7
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#preamble_standalone_12",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Thực_hiện chỉ_đạo của Thủ_tướng Chính_phủ tại công_văn số 2956/VPCP-KTTH ngày 7/5/2010 của Văn_phòng Chính_phủ , Bộ Tài_chính hướng_dẫn sửa_đổi , bổ_sung Thông_tư số 137/2009/TT-BTC ngày 03/7/2009 của Bộ Tài_chính hướng_dẫn thực_hiện một_số điều của Quyết_định số 33/2009/QĐ-TTg ngày 02/3/2009 của Thủ_tướng Chính_phủ ban_hành cơ_chế , chính_sách tài_chính đối_với khu kinh_tế cửa_khẩu ( sau đây gọi là Thông_tư số 137/2009/TT-BTC ) như sau :",
+   "tokens": [
+    "Thực_hiện",
+    "chỉ_đạo",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "tại",
+    "công_văn",
+    "số",
+    "2956/VPCP-KTTH",
+    "ngày",
+    "7/5/2010",
+    "của",
+    "Văn_phòng",
+    "Chính_phủ",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "ngày",
+    "03/7/2009",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "một_số",
+    "điều",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "ngày",
+    "02/3/2009",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "cơ_chế",
+    ",",
+    "chính_sách",
+    "tài_chính",
+    "đối_với",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    ")",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 24,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 37,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 56,
+     "end": 59,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 24,
+     "end": 26,
+     "text": "ngày 03/7/2009"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 37,
+     "end": 39,
+     "text": "ngày 02/3/2009"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 5,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Văn_phòng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 29,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 40,
+     "end": 42,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_13",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính trong lĩnh_vực Quản_lý thuế , phí và lệ_phí . Điều 1 . Sửa_đổi , bổ_sung Điều 1 Thông_tư số 137/2009/TT-BTC như sau : . \" Điều 1 . Quản_lý hải_quan , quản_lý thuế",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Quản_lý",
+    "thuế",
+    ",",
+    "phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Điều",
+    "1",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "\"",
+    "Điều",
+    "1",
+    ".",
+    "Quản_lý",
+    "hải_quan",
+    ",",
+    "quản_lý",
+    "thuế"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Quản_lý thuế , phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 39,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung Điều 1 Thông_tư số 137/2009/TT-BTC như sau : . \" Điều 1 . Quản_lý hải_quan , quản_lý thuế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 26,
+     "text": "Điều 1 Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "Sửa_đổi , bổ_sung"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_14",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Sửa_đổi , bổ_sung Điều 1 Thông_tư số 137/2009/TT-BTC như sau : . \" Điều 1 . Quản_lý hải_quan , quản_lý thuế",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "Điều",
+    "1",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "\"",
+    "Điều",
+    "1",
+    ".",
+    "Quản_lý",
+    "hải_quan",
+    ",",
+    "quản_lý",
+    "thuế"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 24,
+     "text": "Điều 1 . Sửa_đổi , bổ_sung Điều 1 Thông_tư số 137/2009/TT-BTC như sau : . \" Điều 1 . Quản_lý hải_quan , quản_lý thuế"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 11,
+     "text": "Điều 1 Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 3,
+     "end": 6,
+     "text": "Sửa_đổi , bổ_sung"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_15",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC ban_hành ngày 04 tháng 08 năm 2010 bởi Bộ Tài_chính . Điều 1 . 1 . Hàng_hoá từ nội_địa Việt_Nam hoặc từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu không được mở tờ khai hải_quan hàng_hoá xuất_khẩu , bao_gồm : bia các loại ; nước_giải_khát , rượu và thức uống có cồn rượu ; thuốc_lá điếu các loại , xì_gà ; điện_thoại_di_động , thẻ cào điện_thoại_di_động ; ô_tô các loại ; xe gắn_máy các loại ; xăng dầu . Cơ_sở kinh_doanh kê",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2010",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Hàng_hoá",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "từ",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "không",
+    "được",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    ",",
+    "bao_gồm",
+    ":",
+    "bia",
+    "các",
+    "loại",
+    ";",
+    "nước_giải_khát",
+    ",",
+    "rượu",
+    "và",
+    "thức",
+    "uống",
+    "có",
+    "cồn",
+    "rượu",
+    ";",
+    "thuốc_lá",
+    "điếu",
+    "các",
+    "loại",
+    ",",
+    "xì_gà",
+    ";",
+    "điện_thoại_di_động",
+    ",",
+    "thẻ",
+    "cào",
+    "điện_thoại_di_động",
+    ";",
+    "ô_tô",
+    "các",
+    "loại",
+    ";",
+    "xe",
+    "gắn_máy",
+    "các",
+    "loại",
+    ";",
+    "xăng",
+    "dầu",
+    ".",
+    "Cơ_sở",
+    "kinh_doanh",
+    "kê"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2010"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 95,
+     "text": "1 . Hàng_hoá từ nội_địa Việt_Nam hoặc từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu không được mở tờ khai hải_quan hàng_hoá xuất_khẩu , bao_gồm : bia các loại ; nước_giải_khát , rượu và thức uống có cồn rượu ; thuốc_lá điếu các loại , xì_gà ; điện_thoại_di_động , thẻ cào điện_thoại_di_động ; ô_tô các loại ; xe gắn_máy các loại ; xăng dầu . Cơ_sở kinh_doanh kê"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 45,
+     "end": 50,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 92,
+     "end": 95,
+     "text": "Cơ_sở kinh_doanh kê"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_16",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Hàng_hoá từ nội_địa Việt_Nam hoặc từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu không được mở tờ khai hải_quan hàng_hoá xuất_khẩu , bao_gồm : bia các loại ; nước_giải_khát , rượu và thức uống có cồn rượu ; thuốc_lá điếu các loại , xì_gà ; điện_thoại_di_động , thẻ cào điện_thoại_di_động ; ô_tô các loại ; xe gắn_máy các loại ; xăng dầu . Cơ_sở kinh_doanh kê",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Hàng_hoá",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "từ",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "không",
+    "được",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    ",",
+    "bao_gồm",
+    ":",
+    "bia",
+    "các",
+    "loại",
+    ";",
+    "nước_giải_khát",
+    ",",
+    "rượu",
+    "và",
+    "thức",
+    "uống",
+    "có",
+    "cồn",
+    "rượu",
+    ";",
+    "thuốc_lá",
+    "điếu",
+    "các",
+    "loại",
+    ",",
+    "xì_gà",
+    ";",
+    "điện_thoại_di_động",
+    ",",
+    "thẻ",
+    "cào",
+    "điện_thoại_di_động",
+    ";",
+    "ô_tô",
+    "các",
+    "loại",
+    ";",
+    "xe",
+    "gắn_máy",
+    "các",
+    "loại",
+    ";",
+    "xăng",
+    "dầu",
+    ".",
+    "Cơ_sở",
+    "kinh_doanh",
+    "kê"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 81,
+     "text": "1 . Hàng_hoá từ nội_địa Việt_Nam hoặc từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu không được mở tờ khai hải_quan hàng_hoá xuất_khẩu , bao_gồm : bia các loại ; nước_giải_khát , rượu và thức uống có cồn rượu ; thuốc_lá điếu các loại , xì_gà ; điện_thoại_di_động , thẻ cào điện_thoại_di_động ; ô_tô các loại ; xe gắn_máy các loại ; xăng dầu . Cơ_sở kinh_doanh kê"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 31,
+     "end": 36,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 78,
+     "end": 81,
+     "text": "Cơ_sở kinh_doanh kê"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_17",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2010/TT-BTC . Điều 1 . 2 . Hàng_hóa từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu thực_hiện mở tờ khai hải_quan hàng_hoá xuất_khẩu , được áp_dụng thuế_suất thuế GTGT 0 % nếu đáp_ứng các điều_kiện theo quy_định của pháp_luật về thuế GTGT nhưng phải kiểm_tra trước khi hoàn thuế giá_trị gia_tăng , bao_gồm : mỳ , miến , cháo , phở ăn_liền ; bánh kẹo các loại ; xà_phòng ,",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Hàng_hóa",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "thực_hiện",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    ",",
+    "được",
+    "áp_dụng",
+    "thuế_suất",
+    "thuế",
+    "GTGT",
+    "0",
+    "%",
+    "nếu",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "GTGT",
+    "nhưng",
+    "phải",
+    "kiểm_tra",
+    "trước",
+    "khi",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "bao_gồm",
+    ":",
+    "mỳ",
+    ",",
+    "miến",
+    ",",
+    "cháo",
+    ",",
+    "phở",
+    "ăn_liền",
+    ";",
+    "bánh",
+    "kẹo",
+    "các",
+    "loại",
+    ";",
+    "xà_phòng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 88,
+     "text": "2 . Hàng_hóa từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu thực_hiện mở tờ khai hải_quan hàng_hoá xuất_khẩu , được áp_dụng thuế_suất thuế GTGT 0 % nếu đáp_ứng các điều_kiện theo quy_định của pháp_luật về thuế GTGT nhưng phải kiểm_tra trước khi hoàn thuế giá_trị gia_tăng , bao_gồm : mỳ , miến , cháo , phở ăn_liền ; bánh kẹo các loại ; xà_phòng ,"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 47,
+     "end": 49,
+     "text": "0 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "Hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 36,
+     "end": 41,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_18",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Hàng_hóa từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu thực_hiện mở tờ khai hải_quan hàng_hoá xuất_khẩu , được áp_dụng thuế_suất thuế GTGT 0 % nếu đáp_ứng các điều_kiện theo quy_định của pháp_luật về thuế GTGT nhưng phải kiểm_tra trước khi hoàn thuế giá_trị gia_tăng , bao_gồm : mỳ , miến , cháo , phở ăn_liền ; bánh kẹo các loại ; xà_phòng ,",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Hàng_hóa",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "thực_hiện",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    ",",
+    "được",
+    "áp_dụng",
+    "thuế_suất",
+    "thuế",
+    "GTGT",
+    "0",
+    "%",
+    "nếu",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "GTGT",
+    "nhưng",
+    "phải",
+    "kiểm_tra",
+    "trước",
+    "khi",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "bao_gồm",
+    ":",
+    "mỳ",
+    ",",
+    "miến",
+    ",",
+    "cháo",
+    ",",
+    "phở",
+    "ăn_liền",
+    ";",
+    "bánh",
+    "kẹo",
+    "các",
+    "loại",
+    ";",
+    "xà_phòng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 81,
+     "text": "2 . Hàng_hóa từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu thực_hiện mở tờ khai hải_quan hàng_hoá xuất_khẩu , được áp_dụng thuế_suất thuế GTGT 0 % nếu đáp_ứng các điều_kiện theo quy_định của pháp_luật về thuế GTGT nhưng phải kiểm_tra trước khi hoàn thuế giá_trị gia_tăng , bao_gồm : mỳ , miến , cháo , phở ăn_liền ; bánh kẹo các loại ; xà_phòng ,"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 40,
+     "end": 42,
+     "text": "0 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 5,
+     "end": 6,
+     "text": "Hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 34,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_19",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính trong lĩnh_vực Quản_lý thuế , phí và lệ_phí . Điều 1 . 3 . Hàng_hóa ngoài các mặt_hàng quy_định tại khoản 1 và khoản 2 Điều này từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được mở tờ khai hải_quan hàng_hoá xuất_khẩu và áp_dụng thủ_tục kiểm_tra , hoàn các loại thuế theo quy_định của pháp_luật hải_quan và pháp_luật về thuế hiện_hành .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Quản_lý",
+    "thuế",
+    ",",
+    "phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Hàng_hóa",
+    "ngoài",
+    "các",
+    "mặt_hàng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "và",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "được",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    "và",
+    "áp_dụng",
+    "thủ_tục",
+    "kiểm_tra",
+    ",",
+    "hoàn",
+    "các",
+    "loại",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "hải_quan",
+    "và",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "hiện_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Quản_lý thuế , phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 81,
+     "text": "3 . Hàng_hóa ngoài các mặt_hàng quy_định tại khoản 1 và khoản 2 Điều này từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được mở tờ khai hải_quan hàng_hoá xuất_khẩu và áp_dụng thủ_tục kiểm_tra , hoàn các loại thuế theo quy_định của pháp_luật hải_quan và pháp_luật về thuế hiện_hành ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 26,
+     "end": 33,
+     "text": "khoản 1 và khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "Hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 56,
+     "end": 61,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_20",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 3 . Hàng_hóa ngoài các mặt_hàng quy_định tại khoản 1 và khoản 2 Điều này từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được mở tờ khai hải_quan hàng_hoá xuất_khẩu và áp_dụng thủ_tục kiểm_tra , hoàn các loại thuế theo quy_định của pháp_luật hải_quan và pháp_luật về thuế hiện_hành .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Hàng_hóa",
+    "ngoài",
+    "các",
+    "mặt_hàng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "và",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "hoặc",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "được",
+    "mở",
+    "tờ",
+    "khai",
+    "hải_quan",
+    "hàng_hoá",
+    "xuất_khẩu",
+    "và",
+    "áp_dụng",
+    "thủ_tục",
+    "kiểm_tra",
+    ",",
+    "hoàn",
+    "các",
+    "loại",
+    "thuế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "hải_quan",
+    "và",
+    "pháp_luật",
+    "về",
+    "thuế",
+    "hiện_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 66,
+     "text": "3 . Hàng_hóa ngoài các mặt_hàng quy_định tại khoản 1 và khoản 2 Điều này từ nội_địa Việt_Nam hoặc các khu chức_năng khác trong khu kinh_tế cửa_khẩu đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được mở tờ khai hải_quan hàng_hoá xuất_khẩu và áp_dụng thủ_tục kiểm_tra , hoàn các loại thuế theo quy_định của pháp_luật hải_quan và pháp_luật về thuế hiện_hành ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 18,
+     "text": "khoản 1 và khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 5,
+     "end": 6,
+     "text": "Hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 41,
+     "end": 46,
+     "text": "tờ khai hải_quan hàng_hoá xuất_khẩu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_21",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính trong lĩnh_vực Quản_lý thuế , phí và lệ_phí . Điều 1 . 4 . Ủy_ban nhân_dân các tỉnh có khu kinh_tế cửa_khẩu và khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu ( sau đây gọi là khu kinh_tế cửa_khẩu ) thuộc phạm_vi điều_chỉnh của Quyết_định số 33/2009/QĐ-TTg có trách_nhiệm chỉ_đạo tổ_chức , thực_hiện quản_lý hải_quan , quản_lý thu thuế , hoàn thuế giá_trị gia_tăng đối_với các mặt_hàng quy_định tại khoản 1 , khoản 2 và khoản 3 Điều này \"",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Quản_lý",
+    "thuế",
+    ",",
+    "phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    "có",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "và",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    ")",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "có",
+    "trách_nhiệm",
+    "chỉ_đạo",
+    "tổ_chức",
+    ",",
+    "thực_hiện",
+    "quản_lý",
+    "hải_quan",
+    ",",
+    "quản_lý",
+    "thu",
+    "thuế",
+    ",",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đối_với",
+    "các",
+    "mặt_hàng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "và",
+    "khoản",
+    "3",
+    "Điều",
+    "này",
+    "\""
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Quản_lý thuế , phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 85,
+     "text": "4 . Ủy_ban nhân_dân các tỉnh có khu kinh_tế cửa_khẩu và khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu ( sau đây gọi là khu kinh_tế cửa_khẩu ) thuộc phạm_vi điều_chỉnh của Quyết_định số 33/2009/QĐ-TTg có trách_nhiệm chỉ_đạo tổ_chức , thực_hiện quản_lý hải_quan , quản_lý thu thuế , hoàn thuế giá_trị gia_tăng đối_với các mặt_hàng quy_định tại khoản 1 , khoản 2 và khoản 3 Điều này \""
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 49,
+     "end": 52,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 74,
+     "end": 84,
+     "text": "khoản 1 , khoản 2 và khoản 3 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 72,
+     "end": 74,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_22",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 4 . Ủy_ban nhân_dân các tỉnh có khu kinh_tế cửa_khẩu và khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu ( sau đây gọi là khu kinh_tế cửa_khẩu ) thuộc phạm_vi điều_chỉnh của Quyết_định số 33/2009/QĐ-TTg có trách_nhiệm chỉ_đạo tổ_chức , thực_hiện quản_lý hải_quan , quản_lý thu thuế , hoàn thuế giá_trị gia_tăng đối_với các mặt_hàng quy_định tại khoản 1 , khoản 2 và khoản 3 Điều này \"",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    "có",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "và",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    ")",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Quyết_định",
+    "số",
+    "33/2009/QĐ-TTg",
+    "có",
+    "trách_nhiệm",
+    "chỉ_đạo",
+    "tổ_chức",
+    ",",
+    "thực_hiện",
+    "quản_lý",
+    "hải_quan",
+    ",",
+    "quản_lý",
+    "thu",
+    "thuế",
+    ",",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đối_với",
+    "các",
+    "mặt_hàng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "và",
+    "khoản",
+    "3",
+    "Điều",
+    "này",
+    "\""
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 70,
+     "text": "4 . Ủy_ban nhân_dân các tỉnh có khu kinh_tế cửa_khẩu và khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu ( sau đây gọi là khu kinh_tế cửa_khẩu ) thuộc phạm_vi điều_chỉnh của Quyết_định số 33/2009/QĐ-TTg có trách_nhiệm chỉ_đạo tổ_chức , thực_hiện quản_lý hải_quan , quản_lý thu thuế , hoàn thuế giá_trị gia_tăng đối_với các mặt_hàng quy_định tại khoản 1 , khoản 2 và khoản 3 Điều này \""
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 37,
+     "text": "Quyết_định số 33/2009/QĐ-TTg"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 59,
+     "end": 69,
+     "text": "khoản 1 , khoản 2 và khoản 3 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 57,
+     "end": 59,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_23",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC ban_hành ngày 04 tháng 08 năm 2010 bởi Bộ Tài_chính . Điều 2 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2010",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2010"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 19,
+     "text": "Điều 2 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_24",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính trong lĩnh_vực Quản_lý thuế , phí và lệ_phí . Điều 2 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày ký .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Quản_lý",
+    "thuế",
+    ",",
+    "phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "ký",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Quản_lý thuế , phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 30,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày ký ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_25",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2010/TT-BTC của Bộ Tài_chính trong lĩnh_vực Quản_lý thuế , phí và lệ_phí . Điều 2 . 2 . Bãi_bỏ Phụ_lục I Danh_mục hàng_hoá kiểm_tra trước khi hoàn thuế giá_trị gia_tăng áp_dụng đối_với hàng_hoá , dịch_vụ từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu và hàng_hoá , dịch_vụ từ nội_địa Việt_Nam đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được áp_dụng mức thuế_suất thuế giá_trị gia_tăng là 0 % ban_hành kèm theo Thông_tư số 137/2009/TT-BTC .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Quản_lý",
+    "thuế",
+    ",",
+    "phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Bãi_bỏ",
+    "Phụ_lục",
+    "I",
+    "Danh_mục",
+    "hàng_hoá",
+    "kiểm_tra",
+    "trước",
+    "khi",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "áp_dụng",
+    "đối_với",
+    "hàng_hoá",
+    ",",
+    "dịch_vụ",
+    "từ",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "và",
+    "hàng_hoá",
+    ",",
+    "dịch_vụ",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "được",
+    "áp_dụng",
+    "mức",
+    "thuế_suất",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "là",
+    "0",
+    "%",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Quản_lý thuế , phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 79,
+     "text": "2 . Bãi_bỏ Phụ_lục I Danh_mục hàng_hoá kiểm_tra trước khi hoàn thuế giá_trị gia_tăng áp_dụng đối_với hàng_hoá , dịch_vụ từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu và hàng_hoá , dịch_vụ từ nội_địa Việt_Nam đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được áp_dụng mức thuế_suất thuế giá_trị gia_tăng là 0 % ban_hành kèm theo Thông_tư số 137/2009/TT-BTC ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 75,
+     "end": 78,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 20,
+     "end": 21,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 70,
+     "end": 72,
+     "text": "0 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_standalone_26",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Bãi_bỏ Phụ_lục I Danh_mục hàng_hoá kiểm_tra trước khi hoàn thuế giá_trị gia_tăng áp_dụng đối_với hàng_hoá , dịch_vụ từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu và hàng_hoá , dịch_vụ từ nội_địa Việt_Nam đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được áp_dụng mức thuế_suất thuế giá_trị gia_tăng là 0 % ban_hành kèm theo Thông_tư số 137/2009/TT-BTC .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Bãi_bỏ",
+    "Phụ_lục",
+    "I",
+    "Danh_mục",
+    "hàng_hoá",
+    "kiểm_tra",
+    "trước",
+    "khi",
+    "hoàn",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "áp_dụng",
+    "đối_với",
+    "hàng_hoá",
+    ",",
+    "dịch_vụ",
+    "từ",
+    "các",
+    "khu",
+    "chức_năng",
+    "khác",
+    "trong",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "và",
+    "hàng_hoá",
+    ",",
+    "dịch_vụ",
+    "từ",
+    "nội_địa",
+    "Việt_Nam",
+    "đưa",
+    "vào",
+    "khu",
+    "phi",
+    "thuế_quan",
+    "thuộc",
+    "khu",
+    "kinh_tế",
+    "cửa_khẩu",
+    "được",
+    "áp_dụng",
+    "mức",
+    "thuế_suất",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "là",
+    "0",
+    "%",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "số",
+    "137/2009/TT-BTC",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 64,
+     "text": "2 . Bãi_bỏ Phụ_lục I Danh_mục hàng_hoá kiểm_tra trước khi hoàn thuế giá_trị gia_tăng áp_dụng đối_với hàng_hoá , dịch_vụ từ các khu chức_năng khác trong khu kinh_tế cửa_khẩu và hàng_hoá , dịch_vụ từ nội_địa Việt_Nam đưa vào khu phi thuế_quan thuộc khu kinh_tế cửa_khẩu được áp_dụng mức thuế_suất thuế giá_trị gia_tăng là 0 % ban_hành kèm theo Thông_tư số 137/2009/TT-BTC ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 8,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 60,
+     "end": 63,
+     "text": "Thông_tư số 137/2009/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 5,
+     "end": 6,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 55,
+     "end": 57,
+     "text": "0 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_27",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2010/TT-BTC . Điều 2 . 3 . Trong quá_trình thực_hiện nếu có vướng_mắc đề_nghị các tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Tài_chính để nghiên_cứu , xử_lý . / .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    "nếu",
+    "có",
+    "vướng_mắc",
+    "đề_nghị",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "kịp_thời",
+    "phản_ánh",
+    "về",
+    "Bộ",
+    "Tài_chính",
+    "để",
+    "nghiên_cứu",
+    ",",
+    "xử_lý",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 37,
+     "text": "3 . Trong quá_trình thực_hiện nếu có vướng_mắc đề_nghị các tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Tài_chính để nghiên_cứu , xử_lý . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 30,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#body_context_28",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2010/TT-BTC . Điều 2 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2010/TT-BTC",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2010/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 2 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2010_TT-BTC_25642#hard_negative_29",
+   "doc": "116_2010_TT-BTC_25642",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

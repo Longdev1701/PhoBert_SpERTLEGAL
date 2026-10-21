@@ -1,0 +1,917 @@
+{
+ "doc": "1371_2006_QĐ-CTN_14154",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 11,
+ "total_entities": 44,
+ "total_relations": 31,
+ "samples": [
+  {
+   "id": "1371_2006_QĐ-CTN_14154#header_0",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "CHỦ_TỊCH NƯỚC . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 1371/2006/QĐ-CTN . Hà_Nội , ngày 18 tháng 12 năm 2006 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "CHỦ_TỊCH",
+    "NƯỚC",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1371/2006/QĐ-CTN",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "18",
+    "tháng",
+    "12",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 18 tháng 12 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "CHỦ_TỊCH NƯỚC"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#meta_1",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "CHỦ_TỊCH NƯỚC . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 1371/2006/QĐ-CTN . Hà_Nội , ngày 18 tháng 12 năm 2006 . QUYẾT_ĐỊNH . NƯỚC CỘNG_HOÀ XÃ_HỘI CHỦ_NGHĨA . VIỆT NAM ( Đã ký ) Nguyễn_Minh_Triết",
+   "tokens": [
+    "CHỦ_TỊCH",
+    "NƯỚC",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1371/2006/QĐ-CTN",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "18",
+    "tháng",
+    "12",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "NƯỚC",
+    "CỘNG_HOÀ",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    ".",
+    "VIỆT",
+    "NAM",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    "Nguyễn_Minh_Triết"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "CHỦ_TỊCH NƯỚC"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 42,
+     "end": 43,
+     "text": "Nguyễn_Minh_Triết"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_context_2",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1371/2006/QĐ-CTN của Chủ_tịch nước . Căn_cứ Điều 103 và Điều 106 của Hiến_pháp nước Cộng_hoà xã_hội chủ_nghĩa Việt_Nam năm 1992 đã được sửa_đổi , bổ_sung theo Nghị_quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc_hội khoá X , kỳ họp thứ 10 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1371/2006/QĐ-CTN",
+    "của",
+    "Chủ_tịch",
+    "nước",
+    ".",
+    "Căn_cứ",
+    "Điều",
+    "103",
+    "và",
+    "Điều",
+    "106",
+    "của",
+    "Hiến_pháp",
+    "nước",
+    "Cộng_hoà",
+    "xã_hội",
+    "chủ_nghĩa",
+    "Việt_Nam",
+    "năm",
+    "1992",
+    "đã",
+    "được",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "theo",
+    "Nghị_quyết",
+    "số",
+    "51/2001/QH10",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    "của",
+    "Quốc_hội",
+    "khoá",
+    "X",
+    ",",
+    "kỳ",
+    "họp",
+    "thứ",
+    "10",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Chủ_tịch nước"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 13,
+     "text": "Điều 103 và Điều 106"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 31,
+     "text": "Nghị_quyết số 51/2001/QH10"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 31,
+     "end": 37,
+     "text": "ngày 25 tháng 12 năm 2001"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 39,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_standalone_3",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Điều 103 và Điều 106 của Hiến_pháp nước Cộng_hoà xã_hội chủ_nghĩa Việt_Nam năm 1992 đã được sửa_đổi , bổ_sung theo Nghị_quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc_hội khoá X , kỳ họp thứ 10 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Điều",
+    "103",
+    "và",
+    "Điều",
+    "106",
+    "của",
+    "Hiến_pháp",
+    "nước",
+    "Cộng_hoà",
+    "xã_hội",
+    "chủ_nghĩa",
+    "Việt_Nam",
+    "năm",
+    "1992",
+    "đã",
+    "được",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "theo",
+    "Nghị_quyết",
+    "số",
+    "51/2001/QH10",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    "của",
+    "Quốc_hội",
+    "khoá",
+    "X",
+    ",",
+    "kỳ",
+    "họp",
+    "thứ",
+    "10",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 6,
+     "text": "Điều 103 và Điều 106"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 24,
+     "text": "Nghị_quyết số 51/2001/QH10"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 24,
+     "end": 30,
+     "text": "ngày 25 tháng 12 năm 2001"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 32,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_context_4",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1371/2006/QĐ-CTN của Chủ_tịch nước . Căn_cứ Luật_Quốc_tịch Việt_Nam năm 1998 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1371/2006/QĐ-CTN",
+    "của",
+    "Chủ_tịch",
+    "nước",
+    ".",
+    "Căn_cứ",
+    "Luật_Quốc_tịch",
+    "Việt_Nam",
+    "năm",
+    "1998",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Chủ_tịch nước"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Luật_Quốc_tịch Việt_Nam năm 1998"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_standalone_5",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật_Quốc_tịch Việt_Nam năm 1998 .",
+   "tokens": [
+    "Căn_cứ",
+    "Luật_Quốc_tịch",
+    "Việt_Nam",
+    "năm",
+    "1998",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật_Quốc_tịch Việt_Nam năm 1998"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_context_6",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1371/2006/QĐ-CTN của Chủ_tịch nước . Xét đề_nghị của Chính_phủ tại Tờ_trình số 131/TTr-CP ngày 12 tháng 10 năm 2006 ,",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1371/2006/QĐ-CTN",
+    "của",
+    "Chủ_tịch",
+    "nước",
+    ".",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Chính_phủ",
+    "tại",
+    "Tờ_trình",
+    "số",
+    "131/TTr-CP",
+    "ngày",
+    "12",
+    "tháng",
+    "10",
+    "năm",
+    "2006",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Chủ_tịch nước"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 11,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#preamble_standalone_7",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Xét đề_nghị của Chính_phủ tại Tờ_trình số 131/TTr-CP ngày 12 tháng 10 năm 2006 ,",
+   "tokens": [
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Chính_phủ",
+    "tại",
+    "Tờ_trình",
+    "số",
+    "131/TTr-CP",
+    "ngày",
+    "12",
+    "tháng",
+    "10",
+    "năm",
+    "2006",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 4,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#body_context_8",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1371/2006/QĐ-CTN của Chủ_tịch nước . Điều 1 . Cho thôi quốc_tịch Việt_Nam đối_với : 102 công_dân hiện đang cư_trú tại Hàn_Quốc ; 245 công_dân hiện đang cư_trú tại Cộng_hoà liên_bang Đức ; 270 công_dân hiện đang cư_trú tại Cộng_hoà dân_chủ_nhân_dân Lào ; 24 công_dân hiện đang cư_trú tại Cộng_hoà Ba_Lan ; 13 công_dân hiện đang cư_trú tại Cộng_hoà Séc ; 29 công_dân hiện đang cư_trú tại Cộng_hoà Áo ; 1 công_dân hiện đang cư_trú tại Canada ; 1 công_dân hiện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1371/2006/QĐ-CTN",
+    "của",
+    "Chủ_tịch",
+    "nước",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Cho",
+    "thôi",
+    "quốc_tịch",
+    "Việt_Nam",
+    "đối_với",
+    ":",
+    "102",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Hàn_Quốc",
+    ";",
+    "245",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Cộng_hoà",
+    "liên_bang",
+    "Đức",
+    ";",
+    "270",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Cộng_hoà",
+    "dân_chủ_nhân_dân",
+    "Lào",
+    ";",
+    "24",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Cộng_hoà",
+    "Ba_Lan",
+    ";",
+    "13",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Cộng_hoà",
+    "Séc",
+    ";",
+    "29",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Cộng_hoà",
+    "Áo",
+    ";",
+    "1",
+    "công_dân",
+    "hiện",
+    "đang",
+    "cư_trú",
+    "tại",
+    "Canada",
+    ";",
+    "1",
+    "công_dân",
+    "hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Chủ_tịch nước"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 82,
+     "text": "Điều 1 . Cho thôi quốc_tịch Việt_Nam đối_với : 102 công_dân hiện đang cư_trú tại Hàn_Quốc ; 245 công_dân hiện đang cư_trú tại Cộng_hoà liên_bang Đức ; 270 công_dân hiện đang cư_trú tại Cộng_hoà dân_chủ_nhân_dân Lào ; 24 công_dân hiện đang cư_trú tại Cộng_hoà Ba_Lan ; 13 công_dân hiện đang cư_trú tại Cộng_hoà Séc ; 29 công_dân hiện đang cư_trú tại Cộng_hoà Áo ; 1 công_dân hiện đang cư_trú tại Canada ; 1 công_dân hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#body_context_9",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Chủ_tịch nước ban_hành Quyết_định số 1371/2006/QĐ-CTN . Điều 2 . Quyết_định có hiệu_lực kể từ ngày ký . Thủ_tướng Chính_phủ , Bộ_trưởng Bộ Tư_pháp , Chủ_nhiệm Văn_phòng Chủ_tịch nước và những công_dân có tên trong danh_sách tại Điều 1 chịu trách_nhiệm thi_hành Quyết_định này .",
+   "tokens": [
+    "Chủ_tịch",
+    "nước",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1371/2006/QĐ-CTN",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "có",
+    "hiệu_lực",
+    "kể",
+    "từ",
+    "ngày",
+    "ký",
+    ".",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ",",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tư_pháp",
+    ",",
+    "Chủ_nhiệm",
+    "Văn_phòng",
+    "Chủ_tịch",
+    "nước",
+    "và",
+    "những",
+    "công_dân",
+    "có",
+    "tên",
+    "trong",
+    "danh_sách",
+    "tại",
+    "Điều",
+    "1",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "1371/2006/QĐ-CTN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Chủ_tịch nước"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 45,
+     "text": "Điều 2 . Quyết_định có hiệu_lực kể từ ngày ký . Thủ_tướng Chính_phủ , Bộ_trưởng Bộ Tư_pháp , Chủ_nhiệm Văn_phòng Chủ_tịch nước và những công_dân có tên trong danh_sách tại Điều 1 chịu trách_nhiệm thi_hành Quyết_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 24,
+     "text": "Bộ_trưởng Bộ Tư_pháp"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 29,
+     "text": "Văn_phòng Chủ_tịch nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "1371_2006_QĐ-CTN_14154#hard_negative_10",
+   "doc": "1371_2006_QĐ-CTN_14154",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

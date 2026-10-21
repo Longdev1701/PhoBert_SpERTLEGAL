@@ -1,0 +1,8250 @@
+{
+ "doc": "102_2009_QĐ-TTg_11665",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 80,
+ "total_entities": 493,
+ "total_relations": 334,
+ "samples": [
+  {
+   "id": "102_2009_QĐ-TTg_11665#header_0",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 102/2009/QĐ-TTg . Hà_Nội , ngày 07 tháng 8 năm 2009 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "07",
+    "tháng",
+    "8",
+    "năm",
+    "2009",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 07 tháng 8 năm 2009"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#signature_1",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "signature",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . ( Đã ký ) . Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 8,
+     "end": 9,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#meta_2",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 102/2009/QĐ-TTg . Hà_Nội , ngày 07 tháng 8 năm 2009 . QUYẾT_ĐỊNH . THỦ_TƯỚNG CHÍNH_PHỦ . ( Đã ký ) . Nguyễn_Tấn_Dũng",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "07",
+    "tháng",
+    "8",
+    "năm",
+    "2009",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Tấn_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 39,
+     "end": 40,
+     "text": "Nguyễn_Tấn_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 31,
+     "end": 32,
+     "text": "THỦ_TƯỚNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_context_3",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ . Về chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Về",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 17,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_standalone_4",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Về chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn",
+   "tokens": [
+    "Về",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn"
+   ],
+   "entities": [
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 10,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_context_5",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_standalone_6",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_context_7",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Nghị_quyết số 20/2007/NQ-CP ngày 11 tháng 4 năm 2007 về phiên_họp Chính_phủ thường_kỳ tháng 3 năm 2007 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "20/2007/NQ-CP",
+    "ngày",
+    "11",
+    "tháng",
+    "4",
+    "năm",
+    "2007",
+    "về",
+    "phiên_họp",
+    "Chính_phủ",
+    "thường_kỳ",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_quyết số 20/2007/NQ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 11 tháng 4 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 20,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_standalone_8",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_quyết số 20/2007/NQ-CP ngày 11 tháng 4 năm 2007 về phiên_họp Chính_phủ thường_kỳ tháng 3 năm 2007 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "20/2007/NQ-CP",
+    "ngày",
+    "11",
+    "tháng",
+    "4",
+    "năm",
+    "2007",
+    "về",
+    "phiên_họp",
+    "Chính_phủ",
+    "thường_kỳ",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_quyết số 20/2007/NQ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 11 tháng 4 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 13,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_context_9",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ . Xét đề_nghị của Bộ_trưởng , Chủ_nhiệm Ủy ban Dân_tộc ,",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    ",",
+    "Chủ_nhiệm",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#preamble_standalone_10",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Xét đề_nghị của Bộ_trưởng , Chủ_nhiệm Ủy ban Dân_tộc ,",
+   "tokens": [
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    ",",
+    "Chủ_nhiệm",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 9,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_11",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 1 . Ban_hành chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 24,
+     "text": "Điều 1 . Ban_hành chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 20,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_12",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 1 . 1 . Đối_tượng hỗ_trợ là người dân thuộc hộ nghèo theo chuẩn nghèo của Nhà_nước thuộc vùng khó_khăn quy_định tại Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Đối_tượng",
+    "hỗ_trợ",
+    "là",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "theo",
+    "chuẩn",
+    "nghèo",
+    "của",
+    "Nhà_nước",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "số",
+    "30/2007/QĐ-TTg",
+    "ngày",
+    "05",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Danh_mục",
+    "các",
+    "đơn_vị",
+    "hành_chính",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 54,
+     "text": "1 . Đối_tượng hỗ_trợ là người dân thuộc hộ nghèo theo chuẩn nghèo của Nhà_nước thuộc vùng khó_khăn quy_định tại Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 33,
+     "end": 36,
+     "text": "Quyết_định số 30/2007/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 31,
+     "end": 33,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 36,
+     "end": 42,
+     "text": "ngày 05 tháng 3 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 43,
+     "end": 45,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 23,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_13",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Đối_tượng hỗ_trợ là người dân thuộc hộ nghèo theo chuẩn nghèo của Nhà_nước thuộc vùng khó_khăn quy_định tại Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Đối_tượng",
+    "hỗ_trợ",
+    "là",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "theo",
+    "chuẩn",
+    "nghèo",
+    "của",
+    "Nhà_nước",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "số",
+    "30/2007/QĐ-TTg",
+    "ngày",
+    "05",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Danh_mục",
+    "các",
+    "đơn_vị",
+    "hành_chính",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 44,
+     "text": "1 . Đối_tượng hỗ_trợ là người dân thuộc hộ nghèo theo chuẩn nghèo của Nhà_nước thuộc vùng khó_khăn quy_định tại Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 26,
+     "text": "Quyết_định số 30/2007/QĐ-TTg"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 26,
+     "end": 32,
+     "text": "ngày 05 tháng 3 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 35,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 13,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_14",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 1 . 2 . Mục_tiêu của chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Mục_tiêu",
+    "của",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 26,
+     "text": "2 . Mục_tiêu của chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 23,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_15",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 1 . Khoản 2 . a ) Hỗ_trợ đời_sống của người dân , góp_phần xóa_đói , giảm nghèo , phát_triển kinh_tế - xã_hội ở vùng khó_khăn ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Hỗ_trợ",
+    "đời_sống",
+    "của",
+    "người",
+    "dân",
+    ",",
+    "góp_phần",
+    "xóa_đói",
+    ",",
+    "giảm",
+    "nghèo",
+    ",",
+    "phát_triển",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 38,
+     "text": "a ) Hỗ_trợ đời_sống của người dân , góp_phần xóa_đói , giảm nghèo , phát_triển kinh_tế - xã_hội ở vùng khó_khăn ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_16",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 1 . Khoản 2 . b ) Hỗ_trợ người dân nâng cao năng_suất , chất_lượng nông_sản và từng bước tiếp_cận với sản_xuất hàng_hóa , thông_qua hỗ_trợ giống cây_trồng , vật_nuôi có chất_lượng cao .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Hỗ_trợ",
+    "người",
+    "dân",
+    "nâng",
+    "cao",
+    "năng_suất",
+    ",",
+    "chất_lượng",
+    "nông_sản",
+    "và",
+    "từng",
+    "bước",
+    "tiếp_cận",
+    "với",
+    "sản_xuất",
+    "hàng_hóa",
+    ",",
+    "thông_qua",
+    "hỗ_trợ",
+    "giống",
+    "cây_trồng",
+    ",",
+    "vật_nuôi",
+    "có",
+    "chất_lượng",
+    "cao",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 49,
+     "text": "b ) Hỗ_trợ người dân nâng cao năng_suất , chất_lượng nông_sản và từng bước tiếp_cận với sản_xuất hàng_hóa , thông_qua hỗ_trợ giống cây_trồng , vật_nuôi có chất_lượng cao ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 37,
+     "end": 38,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_17",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 1 . 3 . Nguyên_tắc hỗ_trợ : đúng đối_tượng , kịp_thời ; công_khai , dân_chủ , khách_quan và có hiệu_quả thiết_thực .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Nguyên_tắc",
+    "hỗ_trợ",
+    ":",
+    "đúng",
+    "đối_tượng",
+    ",",
+    "kịp_thời",
+    ";",
+    "công_khai",
+    ",",
+    "dân_chủ",
+    ",",
+    "khách_quan",
+    "và",
+    "có",
+    "hiệu_quả",
+    "thiết_thực",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 33,
+     "text": "3 . Nguyên_tắc hỗ_trợ : đúng đối_tượng , kịp_thời ; công_khai , dân_chủ , khách_quan và có hiệu_quả thiết_thực ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_18",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 2 . Phương_thức , hình_thức hỗ_trợ",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Phương_thức",
+    ",",
+    "hình_thức",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 21,
+     "text": "Điều 2 . Phương_thức , hình_thức hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_19",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 2 . 1 . Phương_thức hỗ_trợ : hỗ_trợ trực_tiếp .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Phương_thức",
+    "hỗ_trợ",
+    ":",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 25,
+     "text": "1 . Phương_thức hỗ_trợ : hỗ_trợ trực_tiếp ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_20",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 1 . Phương_thức hỗ_trợ : hỗ_trợ trực_tiếp .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Phương_thức",
+    "hỗ_trợ",
+    ":",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 11,
+     "text": "1 . Phương_thức hỗ_trợ : hỗ_trợ trực_tiếp ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_21",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 2 . 2 . Hình_thức hỗ_trợ : hỗ_trợ bằng tiền hoặc hiện_vật",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Hình_thức",
+    "hỗ_trợ",
+    ":",
+    "hỗ_trợ",
+    "bằng",
+    "tiền",
+    "hoặc",
+    "hiện_vật"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 27,
+     "text": "2 . Hình_thức hỗ_trợ : hỗ_trợ bằng tiền hoặc hiện_vật"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_22",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 2 . a ) Hỗ_trợ bằng tiền_mặt theo định_mức quy_định tại Điều 5 Quyết_định này để các đối_tượng thụ_hưởng chính_sách chủ_động mua_sắm nguyên_liệu , vật_tư phục_vụ sản_xuất và đời_sống phù_hợp với thực_tế của từng hộ ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Hỗ_trợ",
+    "bằng",
+    "tiền_mặt",
+    "theo",
+    "định_mức",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "Quyết_định",
+    "này",
+    "để",
+    "các",
+    "đối_tượng",
+    "thụ_hưởng",
+    "chính_sách",
+    "chủ_động",
+    "mua_sắm",
+    "nguyên_liệu",
+    ",",
+    "vật_tư",
+    "phục_vụ",
+    "sản_xuất",
+    "và",
+    "đời_sống",
+    "phù_hợp",
+    "với",
+    "thực_tế",
+    "của",
+    "từng",
+    "hộ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 54,
+     "text": "a ) Hỗ_trợ bằng tiền_mặt theo định_mức quy_định tại Điều 5 Quyết_định này để các đối_tượng thụ_hưởng chính_sách chủ_động mua_sắm nguyên_liệu , vật_tư phục_vụ sản_xuất và đời_sống phù_hợp với thực_tế của từng hộ ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 33,
+     "text": "Điều 5 Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_23",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 2 . a ) Hỗ_trợ bằng tiền_mặt theo định_mức quy_định tại Điều 5 Quyết_định này để các đối_tượng thụ_hưởng chính_sách chủ_động mua_sắm nguyên_liệu , vật_tư phục_vụ sản_xuất và đời_sống phù_hợp với thực_tế của từng hộ ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Hỗ_trợ",
+    "bằng",
+    "tiền_mặt",
+    "theo",
+    "định_mức",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "Quyết_định",
+    "này",
+    "để",
+    "các",
+    "đối_tượng",
+    "thụ_hưởng",
+    "chính_sách",
+    "chủ_động",
+    "mua_sắm",
+    "nguyên_liệu",
+    ",",
+    "vật_tư",
+    "phục_vụ",
+    "sản_xuất",
+    "và",
+    "đời_sống",
+    "phù_hợp",
+    "với",
+    "thực_tế",
+    "của",
+    "từng",
+    "hộ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 40,
+     "text": "a ) Hỗ_trợ bằng tiền_mặt theo định_mức quy_định tại Điều 5 Quyết_định này để các đối_tượng thụ_hưởng chính_sách chủ_động mua_sắm nguyên_liệu , vật_tư phục_vụ sản_xuất và đời_sống phù_hợp với thực_tế của từng hộ ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 15,
+     "end": 19,
+     "text": "Điều 5 Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 13,
+     "end": 15,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_24",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 2 . b ) Hỗ_trợ bằng hiện_vật cho sản_xuất và đời_sống của các hộ nghèo ; có_thể lựa_chọn trong danh_mục sau : giống cây_trồng ; giống vật_nuôi ; thuốc thú_y ; muối iốt .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Hỗ_trợ",
+    "bằng",
+    "hiện_vật",
+    "cho",
+    "sản_xuất",
+    "và",
+    "đời_sống",
+    "của",
+    "các",
+    "hộ",
+    "nghèo",
+    ";",
+    "có_thể",
+    "lựa_chọn",
+    "trong",
+    "danh_mục",
+    "sau",
+    ":",
+    "giống",
+    "cây_trồng",
+    ";",
+    "giống",
+    "vật_nuôi",
+    ";",
+    "thuốc",
+    "thú_y",
+    ";",
+    "muối",
+    "iốt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 52,
+     "text": "b ) Hỗ_trợ bằng hiện_vật cho sản_xuất và đời_sống của các hộ nghèo ; có_thể lựa_chọn trong danh_mục sau : giống cây_trồng ; giống vật_nuôi ; thuốc thú_y ; muối iốt ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 33,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_25",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 2 . 3 . Căn_cứ danh_sách người nghèo do Ủy_ban nhân_dân cấp xã vùng khó_khăn lập , xác_nhận và các quy_định tại khoản 1 , khoản 2 Điều này , Ủy_ban nhân_dân cấp huyện tổng_hợp , trình Ủy_ban nhân_dân cấp tỉnh quyết_định hình_thức hỗ_trợ và danh_mục hỗ_trợ cho phù_hợp với yêu_cầu và điều_kiện thực_tế của địa_phương .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Căn_cứ",
+    "danh_sách",
+    "người",
+    "nghèo",
+    "do",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "xã",
+    "vùng",
+    "khó_khăn",
+    "lập",
+    ",",
+    "xác_nhận",
+    "và",
+    "các",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "huyện",
+    "tổng_hợp",
+    ",",
+    "trình",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "quyết_định",
+    "hình_thức",
+    "hỗ_trợ",
+    "và",
+    "danh_mục",
+    "hỗ_trợ",
+    "cho",
+    "phù_hợp",
+    "với",
+    "yêu_cầu",
+    "và",
+    "điều_kiện",
+    "thực_tế",
+    "của",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 65,
+     "text": "3 . Căn_cứ danh_sách người nghèo do Ủy_ban nhân_dân cấp xã vùng khó_khăn lập , xác_nhận và các quy_định tại khoản 1 , khoản 2 Điều này , Ủy_ban nhân_dân cấp huyện tổng_hợp , trình Ủy_ban nhân_dân cấp tỉnh quyết_định hình_thức hỗ_trợ và danh_mục hỗ_trợ cho phù_hợp với yêu_cầu và điều_kiện thực_tế của địa_phương ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 30,
+     "end": 37,
+     "text": "khoản 1 , khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 21,
+     "text": "Ủy_ban nhân_dân cấp xã"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 42,
+     "text": "Ủy_ban nhân_dân cấp huyện"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 49,
+     "text": "Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_26",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 3 . Căn_cứ danh_sách người nghèo do Ủy_ban nhân_dân cấp xã vùng khó_khăn lập , xác_nhận và các quy_định tại khoản 1 , khoản 2 Điều này , Ủy_ban nhân_dân cấp huyện tổng_hợp , trình Ủy_ban nhân_dân cấp tỉnh quyết_định hình_thức hỗ_trợ và danh_mục hỗ_trợ cho phù_hợp với yêu_cầu và điều_kiện thực_tế của địa_phương .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Căn_cứ",
+    "danh_sách",
+    "người",
+    "nghèo",
+    "do",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "xã",
+    "vùng",
+    "khó_khăn",
+    "lập",
+    ",",
+    "xác_nhận",
+    "và",
+    "các",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    ",",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "huyện",
+    "tổng_hợp",
+    ",",
+    "trình",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "quyết_định",
+    "hình_thức",
+    "hỗ_trợ",
+    "và",
+    "danh_mục",
+    "hỗ_trợ",
+    "cho",
+    "phù_hợp",
+    "với",
+    "yêu_cầu",
+    "và",
+    "điều_kiện",
+    "thực_tế",
+    "của",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 58,
+     "text": "3 . Căn_cứ danh_sách người nghèo do Ủy_ban nhân_dân cấp xã vùng khó_khăn lập , xác_nhận và các quy_định tại khoản 1 , khoản 2 Điều này , Ủy_ban nhân_dân cấp huyện tổng_hợp , trình Ủy_ban nhân_dân cấp tỉnh quyết_định hình_thức hỗ_trợ và danh_mục hỗ_trợ cho phù_hợp với yêu_cầu và điều_kiện thực_tế của địa_phương ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 30,
+     "text": "khoản 1 , khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 14,
+     "text": "Ủy_ban nhân_dân cấp xã"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 35,
+     "text": "Ủy_ban nhân_dân cấp huyện"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 42,
+     "text": "Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_27",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 3 . Định_mức kinh_phí hỗ_trợ",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Định_mức",
+    "kinh_phí",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 20,
+     "text": "Điều 3 . Định_mức kinh_phí hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_28",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 3 . 1 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực II , xã biên_giới , xã bãi ngang , hải_đảo vùng khó_khăn là 80.000 đồng / người / năm .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    "khu_vực",
+    "II",
+    ",",
+    "xã",
+    "biên_giới",
+    ",",
+    "xã",
+    "bãi",
+    "ngang",
+    ",",
+    "hải_đảo",
+    "vùng",
+    "khó_khăn",
+    "là",
+    "80.000",
+    "đồng",
+    "/",
+    "người",
+    "/",
+    "năm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 48,
+     "text": "1 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực II , xã biên_giới , xã bãi ngang , hải_đảo vùng khó_khăn là 80.000 đồng / người / năm ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 41,
+     "end": 43,
+     "text": "80.000 đồng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_29",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực II , xã biên_giới , xã bãi ngang , hải_đảo vùng khó_khăn là 80.000 đồng / người / năm .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    "khu_vực",
+    "II",
+    ",",
+    "xã",
+    "biên_giới",
+    ",",
+    "xã",
+    "bãi",
+    "ngang",
+    ",",
+    "hải_đảo",
+    "vùng",
+    "khó_khăn",
+    "là",
+    "80.000",
+    "đồng",
+    "/",
+    "người",
+    "/",
+    "năm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 34,
+     "text": "1 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực II , xã biên_giới , xã bãi ngang , hải_đảo vùng khó_khăn là 80.000 đồng / người / năm ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 27,
+     "end": 29,
+     "text": "80.000 đồng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_30",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 3 . 2 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực III vùng khó_khăn là 100.000 đồng / người / năm .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    "khu_vực",
+    "III",
+    "vùng",
+    "khó_khăn",
+    "là",
+    "100.000",
+    "đồng",
+    "/",
+    "người",
+    "/",
+    "năm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 32,
+     "text": "2 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực III vùng khó_khăn là 100.000 đồng / người / năm ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 25,
+     "end": 27,
+     "text": "100.000 đồng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 16,
+     "end": 18,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_31",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực III vùng khó_khăn là 100.000 đồng / người / năm .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    "khu_vực",
+    "III",
+    "vùng",
+    "khó_khăn",
+    "là",
+    "100.000",
+    "đồng",
+    "/",
+    "người",
+    "/",
+    "năm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 25,
+     "text": "2 . Đối_với người dân thuộc hộ nghèo ở xã khu_vực III vùng khó_khăn là 100.000 đồng / người / năm ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 18,
+     "end": 20,
+     "text": "100.000 đồng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_32",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 4 . Nguồn kinh_phí",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Nguồn",
+    "kinh_phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 4 . Nguồn kinh_phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_33",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 4 . 1 . Kinh_phí hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn được cân_đối trong chi thường_xuyên của ngân_sách địa_phương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Kinh_phí",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "được",
+    "cân_đối",
+    "trong",
+    "chi",
+    "thường_xuyên",
+    "của",
+    "ngân_sách",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 39,
+     "text": "1 . Kinh_phí hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn được cân_đối trong chi thường_xuyên của ngân_sách địa_phương ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 28,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 36,
+     "end": 38,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_34",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 1 . Kinh_phí hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn được cân_đối trong chi thường_xuyên của ngân_sách địa_phương .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Kinh_phí",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "được",
+    "cân_đối",
+    "trong",
+    "chi",
+    "thường_xuyên",
+    "của",
+    "ngân_sách",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 25,
+     "text": "1 . Kinh_phí hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn được cân_đối trong chi thường_xuyên của ngân_sách địa_phương ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 12,
+     "end": 14,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 24,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_35",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 4 . 2 . Riêng năm 2010 thuộc thời_kỳ ổn_định ngân_sách địa_phương 2007 - 2010 , vì_vậy số kinh_phí tăng thêm so với kinh_phí thực_hiện chính_sách trợ_giá , trợ cước cân_đối trong ngân_sách địa_phương trước đây được ngân_sách trung_ương cấp bổ_sung có mục_tiêu cho ngân_sách địa_phương .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Riêng",
+    "năm",
+    "2010",
+    "thuộc",
+    "thời_kỳ",
+    "ổn_định",
+    "ngân_sách",
+    "địa_phương",
+    "2007",
+    "-",
+    "2010",
+    ",",
+    "vì_vậy",
+    "số",
+    "kinh_phí",
+    "tăng",
+    "thêm",
+    "so",
+    "với",
+    "kinh_phí",
+    "thực_hiện",
+    "chính_sách",
+    "trợ_giá",
+    ",",
+    "trợ",
+    "cước",
+    "cân_đối",
+    "trong",
+    "ngân_sách",
+    "địa_phương",
+    "trước",
+    "đây",
+    "được",
+    "ngân_sách",
+    "trung_ương",
+    "cấp",
+    "bổ_sung",
+    "có",
+    "mục_tiêu",
+    "cho",
+    "ngân_sách",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 55,
+     "text": "2 . Riêng năm 2010 thuộc thời_kỳ ổn_định ngân_sách địa_phương 2007 - 2010 , vì_vậy số kinh_phí tăng thêm so với kinh_phí thực_hiện chính_sách trợ_giá , trợ cước cân_đối trong ngân_sách địa_phương trước đây được ngân_sách trung_ương cấp bổ_sung có mục_tiêu cho ngân_sách địa_phương ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 20,
+     "text": "ngân_sách địa_phương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 42,
+     "text": "ngân_sách địa_phương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 45,
+     "end": 47,
+     "text": "ngân_sách trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 52,
+     "end": 54,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_36",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 2 . Riêng năm 2010 thuộc thời_kỳ ổn_định ngân_sách địa_phương 2007 - 2010 , vì_vậy số kinh_phí tăng thêm so với kinh_phí thực_hiện chính_sách trợ_giá , trợ cước cân_đối trong ngân_sách địa_phương trước đây được ngân_sách trung_ương cấp bổ_sung có mục_tiêu cho ngân_sách địa_phương .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Riêng",
+    "năm",
+    "2010",
+    "thuộc",
+    "thời_kỳ",
+    "ổn_định",
+    "ngân_sách",
+    "địa_phương",
+    "2007",
+    "-",
+    "2010",
+    ",",
+    "vì_vậy",
+    "số",
+    "kinh_phí",
+    "tăng",
+    "thêm",
+    "so",
+    "với",
+    "kinh_phí",
+    "thực_hiện",
+    "chính_sách",
+    "trợ_giá",
+    ",",
+    "trợ",
+    "cước",
+    "cân_đối",
+    "trong",
+    "ngân_sách",
+    "địa_phương",
+    "trước",
+    "đây",
+    "được",
+    "ngân_sách",
+    "trung_ương",
+    "cấp",
+    "bổ_sung",
+    "có",
+    "mục_tiêu",
+    "cho",
+    "ngân_sách",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 48,
+     "text": "2 . Riêng năm 2010 thuộc thời_kỳ ổn_định ngân_sách địa_phương 2007 - 2010 , vì_vậy số kinh_phí tăng thêm so với kinh_phí thực_hiện chính_sách trợ_giá , trợ cước cân_đối trong ngân_sách địa_phương trước đây được ngân_sách trung_ương cấp bổ_sung có mục_tiêu cho ngân_sách địa_phương ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 11,
+     "end": 13,
+     "text": "ngân_sách địa_phương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 33,
+     "end": 35,
+     "text": "ngân_sách địa_phương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 38,
+     "end": 40,
+     "text": "ngân_sách trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 45,
+     "end": 47,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_37",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 5 . Thời_gian thực_hiện chính_sách hỗ_trợ . Chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn quy_định tại Quyết_định này thực_hiện từ ngày 01 tháng 01 năm 2010 .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Thời_gian",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    ".",
+    "Chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "thực_hiện",
+    "từ",
+    "ngày",
+    "01",
+    "tháng",
+    "01",
+    "năm",
+    "2010",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 39,
+     "text": "Điều 5 . Thời_gian thực_hiện chính_sách hỗ_trợ . Chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn quy_định tại Quyết_định này thực_hiện từ ngày 01 tháng 01 năm 2010 ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 26,
+     "end": 28,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 32,
+     "end": 38,
+     "text": "ngày 01 tháng 01 năm 2010"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_38",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Thời_gian thực_hiện chính_sách hỗ_trợ . Chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn quy_định tại Quyết_định này thực_hiện từ ngày 01 tháng 01 năm 2010 .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Thời_gian",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    ".",
+    "Chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "thực_hiện",
+    "từ",
+    "ngày",
+    "01",
+    "tháng",
+    "01",
+    "năm",
+    "2010",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 32,
+     "text": "Điều 5 . Thời_gian thực_hiện chính_sách hỗ_trợ . Chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo vùng khó_khăn quy_định tại Quyết_định này thực_hiện từ ngày 01 tháng 01 năm 2010 ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 25,
+     "end": 31,
+     "text": "ngày 01 tháng 01 năm 2010"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 17,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_39",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 6 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_40",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . 1 . Ủy ban Dân_tộc :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "1 . Ủy ban Dân_tộc :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 15,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_41",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . Khoản 1 . a ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan hướng_dẫn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 42,
+     "text": "a ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan hướng_dẫn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 41,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 37,
+     "end": 39,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 34,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_42",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 1 . a ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan hướng_dẫn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 35,
+     "text": "a ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan hướng_dẫn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 30,
+     "end": 32,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_43",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . Khoản 1 . b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Thủ_tướng Chính_phủ kết_quả_thực_hiện chính_sách của các địa_phương về sử_dụng nguồn vốn hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn theo các quy_định hiện_hành ;",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Kiểm_tra",
+    ",",
+    "đánh_giá",
+    ",",
+    "tổng_hợp",
+    "báo_cáo",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "của",
+    "các",
+    "địa_phương",
+    "về",
+    "sử_dụng",
+    "nguồn",
+    "vốn",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "các",
+    "quy_định",
+    "hiện_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 47,
+     "text": "b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Thủ_tướng Chính_phủ kết_quả_thực_hiện chính_sách của các địa_phương về sử_dụng nguồn vốn hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn theo các quy_định hiện_hành ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 37,
+     "end": 39,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_44",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 1 . b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Thủ_tướng Chính_phủ kết_quả_thực_hiện chính_sách của các địa_phương về sử_dụng nguồn vốn hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn theo các quy_định hiện_hành ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Kiểm_tra",
+    ",",
+    "đánh_giá",
+    ",",
+    "tổng_hợp",
+    "báo_cáo",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "của",
+    "các",
+    "địa_phương",
+    "về",
+    "sử_dụng",
+    "nguồn",
+    "vốn",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "các",
+    "quy_định",
+    "hiện_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 40,
+     "text": "b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Thủ_tướng Chính_phủ kết_quả_thực_hiện chính_sách của các địa_phương về sử_dụng nguồn vốn hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn theo các quy_định hiện_hành ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 32,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_45",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . Khoản 1 . c ) Căn_cứ yêu_cầu phát_triển kinh_tế - xã_hội vùng khó_khăn , đề_nghị của Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Ủy ban Dân_tộc chủ_trì , phối_hợp với các cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định điều_chỉnh định mức kinh_phí hỗ_trợ cho phù_hợp với tình_hình thực_tế .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Căn_cứ",
+    "yêu_cầu",
+    "phát_triển",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "vùng",
+    "khó_khăn",
+    ",",
+    "đề_nghị",
+    "của",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "điều_chỉnh",
+    "định",
+    "mức",
+    "kinh_phí",
+    "hỗ_trợ",
+    "cho",
+    "phù_hợp",
+    "với",
+    "tình_hình",
+    "thực_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 59,
+     "text": "c ) Căn_cứ yêu_cầu phát_triển kinh_tế - xã_hội vùng khó_khăn , đề_nghị của Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Ủy ban Dân_tộc chủ_trì , phối_hợp với các cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định điều_chỉnh định mức kinh_phí hỗ_trợ cho phù_hợp với tình_hình thực_tế ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 34,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 47,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_46",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 1 . c ) Căn_cứ yêu_cầu phát_triển kinh_tế - xã_hội vùng khó_khăn , đề_nghị của Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Ủy ban Dân_tộc chủ_trì , phối_hợp với các cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định điều_chỉnh định mức kinh_phí hỗ_trợ cho phù_hợp với tình_hình thực_tế .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Căn_cứ",
+    "yêu_cầu",
+    "phát_triển",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "vùng",
+    "khó_khăn",
+    ",",
+    "đề_nghị",
+    "của",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "cơ_quan",
+    "liên_quan_trình",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "quyết_định",
+    "điều_chỉnh",
+    "định",
+    "mức",
+    "kinh_phí",
+    "hỗ_trợ",
+    "cho",
+    "phù_hợp",
+    "với",
+    "tình_hình",
+    "thực_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 52,
+     "text": "c ) Căn_cứ yêu_cầu phát_triển kinh_tế - xã_hội vùng khó_khăn , đề_nghị của Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , Ủy ban Dân_tộc chủ_trì , phối_hợp với các cơ_quan liên_quan_trình Thủ_tướng Chính_phủ quyết_định điều_chỉnh định mức kinh_phí hỗ_trợ cho phù_hợp với tình_hình thực_tế ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 27,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 40,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_47",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 15,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_48",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 8,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_49",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Khoản 2 . a ) Hướng_dẫn địa_phương trong việc lập dự_toán , quản_lý , cấp_phát , thanh quyết_toán kinh_phí hỗ_trợ trực_tiếp ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Hướng_dẫn",
+    "địa_phương",
+    "trong",
+    "việc",
+    "lập",
+    "dự_toán",
+    ",",
+    "quản_lý",
+    ",",
+    "cấp_phát",
+    ",",
+    "thanh",
+    "quyết_toán",
+    "kinh_phí",
+    "hỗ_trợ",
+    "trực_tiếp",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 35,
+     "text": "a ) Hướng_dẫn địa_phương trong việc lập dự_toán , quản_lý , cấp_phát , thanh quyết_toán kinh_phí hỗ_trợ trực_tiếp ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_50",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Khoản 2 . b ) Chủ_trì , phối_hợp với Bộ Kế_hoạch và Đầu_tư trình cơ_quan có thẩm_quyền bố_trí kinh_phí cho các tỉnh thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo vùng khó_khăn theo quy_định tại Điều 4 Quyết_định này ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trình",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "bố_trí",
+    "kinh_phí",
+    "cho",
+    "các",
+    "tỉnh",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "4",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 54,
+     "text": "b ) Chủ_trì , phối_hợp với Bộ Kế_hoạch và Đầu_tư trình cơ_quan có thẩm_quyền bố_trí kinh_phí cho các tỉnh thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo vùng khó_khăn theo quy_định tại Điều 4 Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 49,
+     "end": 53,
+     "text": "Điều 4 Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 46,
+     "end": 49,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 26,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 44,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_51",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . b ) Chủ_trì , phối_hợp với Bộ Kế_hoạch và Đầu_tư trình cơ_quan có thẩm_quyền bố_trí kinh_phí cho các tỉnh thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo vùng khó_khăn theo quy_định tại Điều 4 Quyết_định này ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "trình",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "bố_trí",
+    "kinh_phí",
+    "cho",
+    "các",
+    "tỉnh",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "4",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 44,
+     "text": "b ) Chủ_trì , phối_hợp với Bộ Kế_hoạch và Đầu_tư trình cơ_quan có thẩm_quyền bố_trí kinh_phí cho các tỉnh thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo vùng khó_khăn theo quy_định tại Điều 4 Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 43,
+     "text": "Điều 4 Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 36,
+     "end": 39,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 16,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 20,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 34,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_52",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Khoản 2 . c ) Phối_hợp với Ủy ban Dân_tộc , Bộ Kế_hoạch và Đầu_tư và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của địa_phương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "và",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "kiểm_tra",
+    "việc",
+    "sử_dụng",
+    "kinh_phí",
+    "của",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 41,
+     "text": "c ) Phối_hợp với Ủy ban Dân_tộc , Bộ Kế_hoạch và Đầu_tư và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 28,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_53",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . c ) Phối_hợp với Ủy ban Dân_tộc , Bộ Kế_hoạch và Đầu_tư và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của địa_phương .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "và",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "kiểm_tra",
+    "việc",
+    "sử_dụng",
+    "kinh_phí",
+    "của",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 31,
+     "text": "c ) Phối_hợp với Ủy ban Dân_tộc , Bộ Kế_hoạch và Đầu_tư và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 18,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_54",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 6 . 3 . Bộ Kế_hoạch và Đầu_tư :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 24,
+     "text": "3 . Bộ Kế_hoạch và Đầu_tư :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 23,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_55",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Khoản 3 . a ) Phối_hợp với Bộ Tài_chính bố_trí đủ nguồn vốn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn từ ngân_sách trung_ương theo phương_thức cân_đối trong dự_toán ngân_sách địa_phương ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "bố_trí",
+    "đủ",
+    "nguồn",
+    "vốn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "từ",
+    "ngân_sách",
+    "trung_ương",
+    "theo",
+    "phương_thức",
+    "cân_đối",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 49,
+     "text": "a ) Phối_hợp với Bộ Tài_chính bố_trí đủ nguồn vốn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn từ ngân_sách trung_ương theo phương_thức cân_đối trong dự_toán ngân_sách địa_phương ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 22,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 35,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 39,
+     "end": 41,
+     "text": "ngân_sách trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 46,
+     "end": 48,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_56",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 3 . a ) Phối_hợp với Bộ Tài_chính bố_trí đủ nguồn vốn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn từ ngân_sách trung_ương theo phương_thức cân_đối trong dự_toán ngân_sách địa_phương ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "bố_trí",
+    "đủ",
+    "nguồn",
+    "vốn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "từ",
+    "ngân_sách",
+    "trung_ương",
+    "theo",
+    "phương_thức",
+    "cân_đối",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "địa_phương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 39,
+     "text": "a ) Phối_hợp với Bộ Tài_chính bố_trí đủ nguồn vốn thực_hiện chính_sách hỗ_trợ trực_tiếp người dân thuộc hộ nghèo ở vùng khó_khăn từ ngân_sách trung_ương theo phương_thức cân_đối trong dự_toán ngân_sách địa_phương ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 12,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "hộ nghèo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 31,
+     "text": "ngân_sách trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 36,
+     "end": 38,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_57",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . Khoản 3 . b ) Phối_hợp với Ủy ban Dân_tộc , Bộ Tài_chính và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "và",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "kiểm_tra",
+    "việc",
+    "sử_dụng",
+    "kinh_phí",
+    "của",
+    "các",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 37,
+     "text": "b ) Phối_hợp với Ủy ban Dân_tộc , Bộ Tài_chính và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_58",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 3 . b ) Phối_hợp với Ủy ban Dân_tộc , Bộ Tài_chính và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "và",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "kiểm_tra",
+    "việc",
+    "sử_dụng",
+    "kinh_phí",
+    "của",
+    "các",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 30,
+     "text": "b ) Phối_hợp với Ủy ban Dân_tộc , Bộ Tài_chính và các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_59",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 6 . 4 . Bộ Lao_động - Thương_binh và Xã_hội , Bộ Công_Thương , Bộ Nông_nghiệp và Phát_triển nông_thôn theo chức_năng , nhiệm_vụ được giao , có trách_nhiệm phối_hợp với Ủy ban Dân_tộc chỉ_đạo thực_hiện những nhiệm_vụ liên_quan được quy_định tại Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ",",
+    "Bộ",
+    "Công_Thương",
+    ",",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    "theo",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "được",
+    "giao",
+    ",",
+    "có",
+    "trách_nhiệm",
+    "phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    "chỉ_đạo",
+    "thực_hiện",
+    "những",
+    "nhiệm_vụ",
+    "liên_quan",
+    "được",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 59,
+     "text": "4 . Bộ Lao_động - Thương_binh và Xã_hội , Bộ Công_Thương , Bộ Nông_nghiệp và Phát_triển nông_thôn theo chức_năng , nhiệm_vụ được giao , có trách_nhiệm phối_hợp với Ủy ban Dân_tộc chỉ_đạo thực_hiện những nhiệm_vụ liên_quan được quy_định tại Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 56,
+     "end": 58,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 54,
+     "end": 56,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 25,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 28,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 34,
+     "text": "Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 46,
+     "end": 48,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_60",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 4 . Bộ Lao_động - Thương_binh và Xã_hội , Bộ Công_Thương , Bộ Nông_nghiệp và Phát_triển nông_thôn theo chức_năng , nhiệm_vụ được giao , có trách_nhiệm phối_hợp với Ủy ban Dân_tộc chỉ_đạo thực_hiện những nhiệm_vụ liên_quan được quy_định tại Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ",",
+    "Bộ",
+    "Công_Thương",
+    ",",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    "theo",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "được",
+    "giao",
+    ",",
+    "có",
+    "trách_nhiệm",
+    "phối_hợp",
+    "với",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    "chỉ_đạo",
+    "thực_hiện",
+    "những",
+    "nhiệm_vụ",
+    "liên_quan",
+    "được",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 45,
+     "text": "4 . Bộ Lao_động - Thương_binh và Xã_hội , Bộ Công_Thương , Bộ Nông_nghiệp và Phát_triển nông_thôn theo chức_năng , nhiệm_vụ được giao , có trách_nhiệm phối_hợp với Ủy ban Dân_tộc chỉ_đạo thực_hiện những nhiệm_vụ liên_quan được quy_định tại Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 40,
+     "end": 42,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 11,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 20,
+     "text": "Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_61",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 6 . 5 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có xã thuộc vùng khó_khăn theo Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn có trách_nhiệm :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "có",
+    "xã",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "Quyết_định",
+    "số",
+    "30/2007/QĐ-TTg",
+    "ngày",
+    "05",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Danh_mục",
+    "các",
+    "đơn_vị",
+    "hành_chính",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "có",
+    "trách_nhiệm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 55,
+     "text": "5 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có xã thuộc vùng khó_khăn theo Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn có trách_nhiệm :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "Quyết_định số 30/2007/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 35,
+     "end": 41,
+     "text": "ngày 05 tháng 3 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 26,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 42,
+     "end": 44,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_62",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 5 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có xã thuộc vùng khó_khăn theo Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn có trách_nhiệm :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "có",
+    "xã",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "theo",
+    "Quyết_định",
+    "số",
+    "30/2007/QĐ-TTg",
+    "ngày",
+    "05",
+    "tháng",
+    "3",
+    "năm",
+    "2007",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Danh_mục",
+    "các",
+    "đơn_vị",
+    "hành_chính",
+    "thuộc",
+    "vùng",
+    "khó_khăn",
+    "có",
+    "trách_nhiệm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 41,
+     "text": "5 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có xã thuộc vùng khó_khăn theo Quyết_định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ_tướng Chính_phủ ban_hành Danh_mục các đơn_vị hành_chính thuộc vùng khó_khăn có trách_nhiệm :"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "Quyết_định số 30/2007/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 05 tháng 3 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 12,
+     "text": "Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 30,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_63",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 6 . Khoản 5 . a ) Chỉ_đạo , tổ_chức thực_hiện hỗ_trợ cho người dân đúng mục_đích , đúng đối_tượng , đúng nội_dung hỗ_trợ theo quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Chỉ_đạo",
+    ",",
+    "tổ_chức",
+    "thực_hiện",
+    "hỗ_trợ",
+    "cho",
+    "người",
+    "dân",
+    "đúng",
+    "mục_đích",
+    ",",
+    "đúng",
+    "đối_tượng",
+    ",",
+    "đúng",
+    "nội_dung",
+    "hỗ_trợ",
+    "theo",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 38,
+     "text": "a ) Chỉ_đạo , tổ_chức thực_hiện hỗ_trợ cho người dân đúng mục_đích , đúng đối_tượng , đúng nội_dung hỗ_trợ theo quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 37,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_64",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 5 . a ) Chỉ_đạo , tổ_chức thực_hiện hỗ_trợ cho người dân đúng mục_đích , đúng đối_tượng , đúng nội_dung hỗ_trợ theo quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Chỉ_đạo",
+    ",",
+    "tổ_chức",
+    "thực_hiện",
+    "hỗ_trợ",
+    "cho",
+    "người",
+    "dân",
+    "đúng",
+    "mục_đích",
+    ",",
+    "đúng",
+    "đối_tượng",
+    ",",
+    "đúng",
+    "nội_dung",
+    "hỗ_trợ",
+    "theo",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 31,
+     "text": "a ) Chỉ_đạo , tổ_chức thực_hiện hỗ_trợ cho người dân đúng mục_đích , đúng đối_tượng , đúng nội_dung hỗ_trợ theo quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 28,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_65",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 6 . Khoản 5 . b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Ủy ban Dân_tộc , Bộ Tài_chính , Bộ Kế_hoạch và Đầu_tư kết_quả_thực_hiện chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn của địa_phương theo các quy_định hiện_hành .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "b",
+    ")",
+    "Kiểm_tra",
+    ",",
+    "đánh_giá",
+    ",",
+    "tổng_hợp",
+    "báo_cáo",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    ",",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "của",
+    "địa_phương",
+    "theo",
+    "các",
+    "quy_định",
+    "hiện_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 59,
+     "text": "b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Ủy ban Dân_tộc , Bộ Tài_chính , Bộ Kế_hoạch và Đầu_tư kết_quả_thực_hiện chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn của địa_phương theo các quy_định hiện_hành ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 39,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 47,
+     "end": 49,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_66",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 5 . b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Ủy ban Dân_tộc , Bộ Tài_chính , Bộ Kế_hoạch và Đầu_tư kết_quả_thực_hiện chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn của địa_phương theo các quy_định hiện_hành .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "b",
+    ")",
+    "Kiểm_tra",
+    ",",
+    "đánh_giá",
+    ",",
+    "tổng_hợp",
+    "báo_cáo",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    ",",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "kết_quả_thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "trực_tiếp",
+    "cho",
+    "người",
+    "dân",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "vùng",
+    "khó_khăn",
+    "của",
+    "địa_phương",
+    "theo",
+    "các",
+    "quy_định",
+    "hiện_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 45,
+     "text": "b ) Kiểm_tra , đánh_giá , tổng_hợp báo_cáo Ủy ban Dân_tộc , Bộ Tài_chính , Bộ Kế_hoạch và Đầu_tư kết_quả_thực_hiện chính_sách hỗ_trợ trực_tiếp cho người dân thuộc hộ nghèo ở vùng khó_khăn của địa_phương theo các quy_định hiện_hành ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 17,
+     "text": "ban Dân_tộc"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 25,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 35,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_67",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 7 . Hiệu_lực thi_hành . Quyết_định này có hiệu_lực thi_hành kể từ ngày 20 tháng 09 năm 2009 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "20",
+    "tháng",
+    "09",
+    "năm",
+    "2009",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 34,
+     "text": "Điều 7 . Hiệu_lực thi_hành . Quyết_định này có hiệu_lực thi_hành kể từ ngày 20 tháng 09 năm 2009 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_68",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 8 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 49,
+     "text": "Điều 8 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 32,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 41,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_69",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 3 . Định_mức kinh_phí hỗ_trợ",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Định_mức",
+    "kinh_phí",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 3 . Định_mức kinh_phí hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_70",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 4 . Nguồn kinh_phí",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Nguồn",
+    "kinh_phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 19,
+     "text": "Điều 4 . Nguồn kinh_phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_71",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 6 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_72",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . 1 . Ủy ban Dân_tộc :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "1 . Ủy ban Dân_tộc :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 18,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_73",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Ủy ban Dân_tộc :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Ủy",
+    "ban",
+    "Dân_tộc",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "1 . Ủy ban Dân_tộc :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 8,
+     "text": "ban Dân_tộc"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_74",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 6 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 22,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 21,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_standalone_75",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 8,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_76",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Dân_tộc . Điều 6 . 3 . Bộ Kế_hoạch và Đầu_tư :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Dân_tộc",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Dân_tộc"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 20,
+     "text": "3 . Bộ Kế_hoạch và Đầu_tư :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 19,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_77",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 102/2009/QĐ-TTg . Điều 7 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 7 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#body_context_78",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 102/2009/QĐ-TTg ban_hành ngày 07 tháng 08 năm 2009 bởi Thủ_tướng Chính_phủ . Điều 8 . Trách_nhiệm thi_hành",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "102/2009/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "07",
+    "tháng",
+    "08",
+    "năm",
+    "2009",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "102/2009/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 07 tháng 08 năm 2009"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 19,
+     "text": "Điều 8 . Trách_nhiệm thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "102_2009_QĐ-TTg_11665#hard_negative_79",
+   "doc": "102_2009_QĐ-TTg_11665",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

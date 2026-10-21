@@ -1,0 +1,203 @@
+{
+ "doc_id": "07_2018_TT-BCT_128982",
+ "category": "thong_tu",
+ "full_text": "Thông tư số 07/2018/TT-BCT Sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may\nBỘ CÔNG THƯƠNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2018/TT-BCT\nHà Nội, Ngày 26 tháng 4 năm 2018\nTHÔNG TƯ\nSỬA ĐỔI THÔNG TƯ SỐ 21/2017/TT-BCT NGÀY 23 THÁNG 10 NĂM 2017 CỦA BỘ TRƯỞNG BỘ CÔNG THƯƠNG BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ MỨC GIỚI HẠN HÀM LƯỢNG FORMALDEHYT VÀ CÁC AMIN THƠM CHUYỂN HÓA TỪ THUỐC NHUỘM AZO TRONG SẢN PHẨM DỆT MAY\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;\nCăn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;\nCăn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;\nCăn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Công nghệ,\nBộ trưởng Bộ Công Thương ban hành Thông tư sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may.\nĐiều 1. Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\".\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày ký./.\nBỘ TRƯỞNG\n(Đã ký)\nTrần Tuấn Anh\n",
+ "total_chars": 1811,
+ "total_paras": 21,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 8,
+   "text": "Thông tư"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 12,
+   "end": 26,
+   "text": "07/2018/TT-BCT"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 62,
+   "end": 87,
+   "text": "ngày 23 tháng 10 năm 2017"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 102,
+   "end": 116,
+   "text": "Bộ Công Thương"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\".",
+   "parent": "e_so_hieu",
+   "start": 1569,
+   "end": 1701,
+   "text": "Điều 1. Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\"."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Hiệu lực thi hành",
+   "parent": "e_so_hieu",
+   "start": 1702,
+   "end": 1778,
+   "text": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày ký./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1797,
+   "end": 1810,
+   "text": "Trần Tuấn Anh"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "07_2018_TT-BCT_128982",
+ "doc": "07_2018_TT-BCT_128982",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "07_2018_TT-BCT_128982",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "document",
+   "text": "Thông tư số 07/2018/TT-BCT Sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may\nBỘ CÔNG THƯƠNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2018/TT-BCT\nHà Nội, Ngày 26 tháng 4 năm 2018\nTHÔNG TƯ\nSỬA ĐỔI THÔNG TƯ SỐ 21/2017/TT-BCT NGÀY 23 THÁNG 10 NĂM 2017 CỦA BỘ TRƯỞNG BỘ CÔNG THƯƠNG BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ MỨC GIỚI HẠN HÀM LƯỢNG FORMALDEHYT VÀ CÁC AMIN THƠM CHUYỂN HÓA TỪ THUỐC NHUỘM AZO TRONG SẢN PHẨM DỆT MAY\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;\nCăn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;\nCăn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;\nCăn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Công nghệ,\nBộ trưởng Bộ Công Thương ban hành Thông tư sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may.\nĐiều 1. Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\".\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày ký./.\nBỘ TRƯỞNG\n(Đã ký)\nTrần Tuấn Anh\n",
+   "full_text": "Thông tư số 07/2018/TT-BCT Sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may\nBỘ CÔNG THƯƠNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2018/TT-BCT\nHà Nội, Ngày 26 tháng 4 năm 2018\nTHÔNG TƯ\nSỬA ĐỔI THÔNG TƯ SỐ 21/2017/TT-BCT NGÀY 23 THÁNG 10 NĂM 2017 CỦA BỘ TRƯỞNG BỘ CÔNG THƯƠNG BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ MỨC GIỚI HẠN HÀM LƯỢNG FORMALDEHYT VÀ CÁC AMIN THƠM CHUYỂN HÓA TỪ THUỐC NHUỘM AZO TRONG SẢN PHẨM DỆT MAY\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;\nCăn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;\nCăn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;\nCăn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;\nCăn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Công nghệ,\nBộ trưởng Bộ Công Thương ban hành Thông tư sửa đổi Thông tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ trưởng Bộ Công thương ban hành Quy chuẩn kỹ thuật quốc gia về mức giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may.\nĐiều 1. Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\".\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày ký./.\nBỘ TRƯỞNG\n(Đã ký)\nTrần Tuấn Anh\n",
+   "total_chars": 1811,
+   "total_paras": 21,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 8,
+     "text": "Thông tư"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 12,
+     "end": 26,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 62,
+     "end": 87,
+     "text": "ngày 23 tháng 10 năm 2017"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 102,
+     "end": 116,
+     "text": "Bộ Công Thương"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\".",
+     "parent": "e_so_hieu",
+     "start": 1569,
+     "end": 1701,
+     "text": "Điều 1. Điều 2 Thông tư số 21/2017/TT-BCT được sửa đổi như sau: \"Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019\"."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Hiệu lực thi hành",
+     "parent": "e_so_hieu",
+     "start": 1702,
+     "end": 1778,
+     "text": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày ký./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1797,
+     "end": 1810,
+     "text": "Trần Tuấn Anh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

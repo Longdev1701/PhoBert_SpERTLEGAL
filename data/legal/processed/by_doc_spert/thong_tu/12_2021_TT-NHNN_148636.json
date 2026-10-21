@@ -1,0 +1,9565 @@
+{
+ "doc": "12_2021_TT-NHNN_148636",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 87,
+ "total_entities": 589,
+ "total_relations": 352,
+ "samples": [
+  {
+   "id": "12_2021_TT-NHNN_148636#header_0",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "NGÂN_HÀNG NHÀ_NƯỚC . VIỆT NAM . Số : 12 / 2021/TT-NHNN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập - Tự_do - Hạnh_phúc . Hà_Nội , ngày 30 tháng 7 năm 2021 . THÔNG_TƯ",
+   "tokens": [
+    "NGÂN_HÀNG",
+    "NHÀ_NƯỚC",
+    ".",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Số",
+    ":",
+    "12",
+    "/",
+    "2021/TT-NHNN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "30",
+    "tháng",
+    "7",
+    "năm",
+    "2021",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 8,
+     "end": 11,
+     "text": "12 / 2021/TT-NHNN"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 27,
+     "end": 33,
+     "text": "ngày 30 tháng 7 năm 2021"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 34,
+     "end": 35,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#signature_1",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "THỐNG_ĐỐC . ( Đã ký ) . Nguyễn_Thị_Hồng",
+   "tokens": [
+    "THỐNG_ĐỐC",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Thị_Hồng"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 8,
+     "text": "Nguyễn_Thị_Hồng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "THỐNG_ĐỐC"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#meta_2",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "NGÂN_HÀNG NHÀ_NƯỚC . VIỆT NAM . Số : 12 / 2021/TT-NHNN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập - Tự_do - Hạnh_phúc . Hà_Nội , ngày 30 tháng 7 năm 2021 . THỐNG_ĐỐC . ( Đã ký ) . Nguyễn_Thị_Hồng",
+   "tokens": [
+    "NGÂN_HÀNG",
+    "NHÀ_NƯỚC",
+    ".",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Số",
+    ":",
+    "12",
+    "/",
+    "2021/TT-NHNN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "30",
+    "tháng",
+    "7",
+    "năm",
+    "2021",
+    ".",
+    "THỐNG_ĐỐC",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Thị_Hồng"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 8,
+     "end": 11,
+     "text": "12 / 2021/TT-NHNN"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 41,
+     "end": 42,
+     "text": "Nguyễn_Thị_Hồng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 34,
+     "end": 35,
+     "text": "THỐNG_ĐỐC"
+    }
+   ],
+   "relations": [
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_3",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . Quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua ,",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Quy_định",
+    "về",
+    "việc",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 17,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_4",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua ,",
+   "tokens": [
+    "Quy_định",
+    "về",
+    "việc",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 3,
+     "end": 9,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_5",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng ,",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "bán",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 13,
+     "end": 16,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 17,
+     "end": 18,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_6",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng ,",
+   "tokens": [
+    "bán",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 5,
+     "end": 8,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 13,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 10,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_7",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "khác",
+    "phát_hành",
+    "trong",
+    "nước"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 15,
+     "text": "chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_8",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước",
+   "tokens": [
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "khác",
+    "phát_hành",
+    "trong",
+    "nước"
+   ],
+   "entities": [
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 0,
+     "end": 7,
+     "text": "chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_9",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . Căn_cứ Luật Ngân_hàng Nhà_nước Việt_Nam ngày 16 tháng 6 năm 2010 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 13,
+     "text": "Luật Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 9,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 16 tháng 6 năm 2010"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_10",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Ngân_hàng Nhà_nước Việt_Nam ngày 16 tháng 6 năm 2010 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 16 tháng 6 năm 2010"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_11",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . Căn_cứ Luật Các tổ_chức tín_dụng ngày 16 tháng 6 năm 2010 và Luật sửa_đổi , bổ_sung một_số điều của Luật Các tổ_chức tín_dụng ngày 20 tháng 11 năm 2017 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2017",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 13,
+     "text": "Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 31,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 9,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 16 tháng 6 năm 2010"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 31,
+     "end": 37,
+     "text": "ngày 20 tháng 11 năm 2017"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_12",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Các tổ_chức tín_dụng ngày 16 tháng 6 năm 2010 và Luật sửa_đổi , bổ_sung một_số điều của Luật Các tổ_chức tín_dụng ngày 20 tháng 11 năm 2017 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "16",
+    "tháng",
+    "6",
+    "năm",
+    "2010",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2017",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 23,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Các tổ_chức tín_dụng"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 16 tháng 6 năm 2010"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 23,
+     "end": 29,
+     "text": "ngày 20 tháng 11 năm 2017"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_13",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . Căn_cứ Luật_Chứng_khoán ngày 26 tháng 11 năm 2019 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Căn_cứ",
+    "Luật_Chứng_khoán",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Luật_Chứng_khoán"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 9,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 26 tháng 11 năm 2019"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_14",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật_Chứng_khoán ngày 26 tháng 11 năm 2019 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật_Chứng_khoán",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 2,
+     "text": "Luật_Chứng_khoán"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 2,
+     "end": 8,
+     "text": "ngày 26 tháng 11 năm 2019"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_context_15",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam . Căn_cứ Nghị_định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "16/2017/NĐ-CP",
+    "ngày",
+    "17",
+    "tháng",
+    "02",
+    "năm",
+    "2017",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 12,
+     "text": "Nghị_định số 16/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 9,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 12,
+     "end": 18,
+     "text": "ngày 17 tháng 02 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 31,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#preamble_standalone_16",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "16/2017/NĐ-CP",
+    "ngày",
+    "17",
+    "tháng",
+    "02",
+    "năm",
+    "2017",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 16/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 17 tháng 02 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_17",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 1 . Phạm_vi điều_chỉnh",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 13,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_18",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 1 . 1 . Thông_tư này quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước ( sau đây gọi là giấy_tờ có_giá ) chưa đến hạn thanh_toán mà bên mua nhận chuyển_giao quyền sở_hữu và không kèm theo cam_kết bán , mua lại giấy_tờ có_giá hoặc bảo_lưu quyền truy đòi ( sau đây gọi là mua ,",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "về",
+    "việc",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ",",
+    "bán",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "khác",
+    "phát_hành",
+    "trong",
+    "nước",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "giấy_tờ",
+    "có_giá",
+    ")",
+    "chưa",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "mà",
+    "bên",
+    "mua",
+    "nhận",
+    "chuyển_giao",
+    "quyền",
+    "sở_hữu",
+    "và",
+    "không",
+    "kèm",
+    "theo",
+    "cam_kết",
+    "bán",
+    ",",
+    "mua",
+    "lại",
+    "giấy_tờ",
+    "có_giá",
+    "hoặc",
+    "bảo_lưu",
+    "quyền",
+    "truy",
+    "đòi",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "mua",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 93,
+     "text": "1 . Thông_tư này quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước ( sau đây gọi là giấy_tờ có_giá ) chưa đến hạn thanh_toán mà bên mua nhận chuyển_giao quyền sở_hữu và không kèm theo cam_kết bán , mua lại giấy_tờ có_giá hoặc bảo_lưu quyền truy đòi ( sau đây gọi là mua ,"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 51,
+     "text": "chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 28,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 56,
+     "end": 58,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 79,
+     "end": 81,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 35,
+     "end": 38,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 43,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 39,
+     "end": 40,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_19",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Thông_tư này quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước ( sau đây gọi là giấy_tờ có_giá ) chưa đến hạn thanh_toán mà bên mua nhận chuyển_giao quyền sở_hữu và không kèm theo cam_kết bán , mua lại giấy_tờ có_giá hoặc bảo_lưu quyền truy đòi ( sau đây gọi là mua ,",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "về",
+    "việc",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ",",
+    "bán",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "khác",
+    "phát_hành",
+    "trong",
+    "nước",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "giấy_tờ",
+    "có_giá",
+    ")",
+    "chưa",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "mà",
+    "bên",
+    "mua",
+    "nhận",
+    "chuyển_giao",
+    "quyền",
+    "sở_hữu",
+    "và",
+    "không",
+    "kèm",
+    "theo",
+    "cam_kết",
+    "bán",
+    ",",
+    "mua",
+    "lại",
+    "giấy_tờ",
+    "có_giá",
+    "hoặc",
+    "bảo_lưu",
+    "quyền",
+    "truy",
+    "đòi",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "mua",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 81,
+     "text": "1 . Thông_tư này quy_định về việc tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu do tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước ( sau đây gọi là giấy_tờ có_giá ) chưa đến hạn thanh_toán mà bên mua nhận chuyển_giao quyền sở_hữu và không kèm theo cam_kết bán , mua lại giấy_tờ có_giá hoặc bảo_lưu quyền truy đòi ( sau đây gọi là mua ,"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 39,
+     "text": "chi_nhánh ngân_hàng nước_ngoài khác phát_hành trong nước"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 16,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 46,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 67,
+     "end": 69,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 23,
+     "end": 26,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 31,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_20",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 1 . 2 . Thông_tư này không điều_chỉnh đối_với các hoạt_động sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "không",
+    "điều_chỉnh",
+    "đối_với",
+    "các",
+    "hoạt_động",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 26,
+     "text": "2 . Thông_tư này không điều_chỉnh đối_với các hoạt_động sau :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_21",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 1 . Khoản 2 . a ) Mua , bán giấy_tờ có_giá của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài trên thị_trường quốc_tế ;",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "trên",
+    "thị_trường",
+    "quốc_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 13,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 32,
+     "text": "a ) Mua , bán giấy_tờ có_giá của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài trên thị_trường quốc_tế ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 28,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_22",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . a ) Mua , bán giấy_tờ có_giá của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài trên thị_trường quốc_tế ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "trên",
+    "thị_trường",
+    "quốc_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "a ) Mua , bán giấy_tờ có_giá của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài trên thị_trường quốc_tế ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 20,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 13,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_23",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 1 . Khoản 2 . b ) Mua , bán trái_phiếu do tổ_chức tín_dụng phát_hành được Chính_phủ bảo_lãnh ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    "phát_hành",
+    "được",
+    "Chính_phủ",
+    "bảo_lãnh",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 32,
+     "text": "b ) Mua , bán trái_phiếu do tổ_chức tín_dụng phát_hành được Chính_phủ bảo_lãnh ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 30,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 24,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 28,
+     "text": "tổ_chức tín_dụng phát_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_24",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . b ) Mua , bán trái_phiếu do tổ_chức tín_dụng phát_hành được Chính_phủ bảo_lãnh ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "do",
+    "tổ_chức",
+    "tín_dụng",
+    "phát_hành",
+    "được",
+    "Chính_phủ",
+    "bảo_lãnh",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 20,
+     "text": "b ) Mua , bán trái_phiếu do tổ_chức tín_dụng phát_hành được Chính_phủ bảo_lãnh ;"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 18,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 11,
+     "end": 12,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 16,
+     "text": "tổ_chức tín_dụng phát_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_25",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 1 . Khoản 2 . c ) Phát_hành giấy_tờ có_giá trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ; mua lại và hoán_đổi trái_phiếu do chính tổ_chức tín_dụng phát_hành ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Phát_hành",
+    "giấy_tờ",
+    "có_giá",
+    "trong",
+    "nước",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ";",
+    "mua",
+    "lại",
+    "và",
+    "hoán_đổi",
+    "trái_phiếu",
+    "do",
+    "chính",
+    "tổ_chức",
+    "tín_dụng",
+    "phát_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 47,
+     "text": "c ) Phát_hành giấy_tờ có_giá trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ; mua lại và hoán_đổi trái_phiếu do chính tổ_chức tín_dụng phát_hành ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 35,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 24,
+     "end": 26,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 43,
+     "end": 46,
+     "text": "tổ_chức tín_dụng phát_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_26",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . c ) Phát_hành giấy_tờ có_giá trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ; mua lại và hoán_đổi trái_phiếu do chính tổ_chức tín_dụng phát_hành ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Phát_hành",
+    "giấy_tờ",
+    "có_giá",
+    "trong",
+    "nước",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ";",
+    "mua",
+    "lại",
+    "và",
+    "hoán_đổi",
+    "trái_phiếu",
+    "do",
+    "chính",
+    "tổ_chức",
+    "tín_dụng",
+    "phát_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 32,
+     "text": "c ) Phát_hành giấy_tờ có_giá trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ; mua lại và hoán_đổi trái_phiếu do chính tổ_chức tín_dụng phát_hành ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 20,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 31,
+     "text": "tổ_chức tín_dụng phát_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_27",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 1 . Khoản 2 . d ) Mua , bán có kỳ_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "có",
+    "kỳ_hạn",
+    "giấy_tờ",
+    "có_giá",
+    "giữa",
+    "các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 36,
+     "text": "d ) Mua , bán có kỳ_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 35,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_28",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . d ) Mua , bán có kỳ_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Mua",
+    ",",
+    "bán",
+    "có",
+    "kỳ_hạn",
+    "giấy_tờ",
+    "có_giá",
+    "giữa",
+    "các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "d ) Mua , bán có kỳ_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 23,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 15,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_29",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 1 . Khoản 2 . đ ) Chuyển quyền sở_hữu giấy_tờ có_giá do xử_lý tài_sản bảo_đảm . Việc chuyển quyền sở_hữu trong trường_hợp này thực_hiện theo pháp_luật về giao_dịch bảo_đảm .",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "đ",
+    ")",
+    "Chuyển",
+    "quyền",
+    "sở_hữu",
+    "giấy_tờ",
+    "có_giá",
+    "do",
+    "xử_lý",
+    "tài_sản",
+    "bảo_đảm",
+    ".",
+    "Việc",
+    "chuyển",
+    "quyền",
+    "sở_hữu",
+    "trong",
+    "trường_hợp",
+    "này",
+    "thực_hiện",
+    "theo",
+    "pháp_luật",
+    "về",
+    "giao_dịch",
+    "bảo_đảm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 13,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 40,
+     "text": "đ ) Chuyển quyền sở_hữu giấy_tờ có_giá do xử_lý tài_sản bảo_đảm . Việc chuyển quyền sở_hữu trong trường_hợp này thực_hiện theo pháp_luật về giao_dịch bảo_đảm ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "tài_sản bảo_đảm"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_30",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . đ ) Chuyển quyền sở_hữu giấy_tờ có_giá do xử_lý tài_sản bảo_đảm . Việc chuyển quyền sở_hữu trong trường_hợp này thực_hiện theo pháp_luật về giao_dịch bảo_đảm .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "đ",
+    ")",
+    "Chuyển",
+    "quyền",
+    "sở_hữu",
+    "giấy_tờ",
+    "có_giá",
+    "do",
+    "xử_lý",
+    "tài_sản",
+    "bảo_đảm",
+    ".",
+    "Việc",
+    "chuyển",
+    "quyền",
+    "sở_hữu",
+    "trong",
+    "trường_hợp",
+    "này",
+    "thực_hiện",
+    "theo",
+    "pháp_luật",
+    "về",
+    "giao_dịch",
+    "bảo_đảm",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 32,
+     "text": "đ ) Chuyển quyền sở_hữu giấy_tờ có_giá do xử_lý tài_sản bảo_đảm . Việc chuyển quyền sở_hữu trong trường_hợp này thực_hiện theo pháp_luật về giao_dịch bảo_đảm ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 13,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 17,
+     "text": "tài_sản bảo_đảm"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_31",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 2 . Đối_tượng áp_dụng . Bên bán , Bên mua giấy_tờ có_giá bao_gồm các đối_tượng sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Bên",
+    "bán",
+    ",",
+    "Bên",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "bao_gồm",
+    "các",
+    "đối_tượng",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 33,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Bên bán , Bên mua giấy_tờ có_giá bao_gồm các đối_tượng sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 28,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_32",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 2 . 1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được thành_lập và hoạt_động theo quy_định của Luật Các tổ_chức tín_dụng bao_gồm : ngân_hàng thương_mại , ngân_hàng hợp_tác_xã , chi_nhánh ngân_hàng nước_ngoài , công_ty tài_chính ( sau đây gọi là tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "được",
+    "thành_lập",
+    "và",
+    "hoạt_động",
+    "theo",
+    "quy_định",
+    "của",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "bao_gồm",
+    ":",
+    "ngân_hàng",
+    "thương_mại",
+    ",",
+    "ngân_hàng",
+    "hợp_tác_xã",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ",",
+    "công_ty",
+    "tài_chính",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 64,
+     "text": "1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được thành_lập và hoạt_động theo quy_định của Luật Các tổ_chức tín_dụng bao_gồm : ngân_hàng thương_mại , ngân_hàng hợp_tác_xã , chi_nhánh ngân_hàng nước_ngoài , công_ty tài_chính ( sau đây gọi là tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 26,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 56,
+     "end": 62,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 49,
+     "end": 51,
+     "text": "công_ty tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 37,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 39,
+     "end": 41,
+     "text": "ngân_hàng thương_mại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 44,
+     "text": "ngân_hàng hợp_tác_xã"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 45,
+     "end": 48,
+     "text": "chi_nhánh ngân_hàng nước_ngoài"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_33",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được thành_lập và hoạt_động theo quy_định của Luật Các tổ_chức tín_dụng bao_gồm : ngân_hàng thương_mại , ngân_hàng hợp_tác_xã , chi_nhánh ngân_hàng nước_ngoài , công_ty tài_chính ( sau đây gọi là tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "được",
+    "thành_lập",
+    "và",
+    "hoạt_động",
+    "theo",
+    "quy_định",
+    "của",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    "bao_gồm",
+    ":",
+    "ngân_hàng",
+    "thương_mại",
+    ",",
+    "ngân_hàng",
+    "hợp_tác_xã",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ",",
+    "công_ty",
+    "tài_chính",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 49,
+     "text": "1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được thành_lập và hoạt_động theo quy_định của Luật Các tổ_chức tín_dụng bao_gồm : ngân_hàng thương_mại , ngân_hàng hợp_tác_xã , chi_nhánh ngân_hàng nước_ngoài , công_ty tài_chính ( sau đây gọi là tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 11,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 47,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 36,
+     "text": "công_ty tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 22,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 24,
+     "end": 26,
+     "text": "ngân_hàng thương_mại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 29,
+     "text": "ngân_hàng hợp_tác_xã"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 33,
+     "text": "chi_nhánh ngân_hàng nước_ngoài"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_34",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 2 . 2 . Tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài thực_hiện mua , bán giấy_tờ có_giá với tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "thực_hiện",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "với",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 40,
+     "text": "2 . Tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài thực_hiện mua , bán giấy_tờ có_giá với tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 39,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 32,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_35",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài thực_hiện mua , bán giấy_tờ có_giá với tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    "thực_hiện",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "với",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 28,
+     "text": "2 . Tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài thực_hiện mua , bán giấy_tờ có_giá với tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 27,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 20,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_36",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 3 . Nguyên_tắc mua , bán giấy_tờ có_giá",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Nguyên_tắc",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 24,
+     "text": "Điều 3 . Nguyên_tắc mua , bán giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_37",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 3 . 1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được mua , bán giấy_tờ có_giá phù_hợp với nội_dung mua , bán trái_phiếu doanh_nghiệp và / hoặc giấy_tờ có_giá khác ghi trong Giấy_phép do Ngân_hàng Nhà_nước Việt_Nam cấp .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "nội_dung",
+    "mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "doanh_nghiệp",
+    "và",
+    "/",
+    "hoặc",
+    "giấy_tờ",
+    "có_giá",
+    "khác",
+    "ghi",
+    "trong",
+    "Giấy_phép",
+    "do",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "cấp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 55,
+     "text": "1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được mua , bán giấy_tờ có_giá phù_hợp với nội_dung mua , bán trái_phiếu doanh_nghiệp và / hoặc giấy_tờ có_giá khác ghi trong Giấy_phép do Ngân_hàng Nhà_nước Việt_Nam cấp ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 26,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 32,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 43,
+     "end": 45,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 53,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 38,
+     "end": 40,
+     "text": "trái_phiếu doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_38",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được mua , bán giấy_tờ có_giá phù_hợp với nội_dung mua , bán trái_phiếu doanh_nghiệp và / hoặc giấy_tờ có_giá khác ghi trong Giấy_phép do Ngân_hàng Nhà_nước Việt_Nam cấp .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "nội_dung",
+    "mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "doanh_nghiệp",
+    "và",
+    "/",
+    "hoặc",
+    "giấy_tờ",
+    "có_giá",
+    "khác",
+    "ghi",
+    "trong",
+    "Giấy_phép",
+    "do",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "cấp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "1 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được mua , bán giấy_tờ có_giá phù_hợp với nội_dung mua , bán trái_phiếu doanh_nghiệp và / hoặc giấy_tờ có_giá khác ghi trong Giấy_phép do Ngân_hàng Nhà_nước Việt_Nam cấp ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 11,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 17,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 30,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 38,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "trái_phiếu doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_39",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 3 . 2 . Bên mua , Bên bán_chịu trách_nhiệm trước pháp_luật về việc mua , bán giấy_tờ có_giá phù_hợp với quy_định tại Thông_tư này và quy_định của pháp_luật có liên_quan .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Bên",
+    "mua",
+    ",",
+    "Bên",
+    "bán_chịu",
+    "trách_nhiệm",
+    "trước",
+    "pháp_luật",
+    "về",
+    "việc",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 45,
+     "text": "2 . Bên mua , Bên bán_chịu trách_nhiệm trước pháp_luật về việc mua , bán giấy_tờ có_giá phù_hợp với quy_định tại Thông_tư này và quy_định của pháp_luật có liên_quan ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 32,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 36,
+     "end": 38,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 34,
+     "end": 36,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_40",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Bên mua , Bên bán_chịu trách_nhiệm trước pháp_luật về việc mua , bán giấy_tờ có_giá phù_hợp với quy_định tại Thông_tư này và quy_định của pháp_luật có liên_quan .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Bên",
+    "mua",
+    ",",
+    "Bên",
+    "bán_chịu",
+    "trách_nhiệm",
+    "trước",
+    "pháp_luật",
+    "về",
+    "việc",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "2 . Bên mua , Bên bán_chịu trách_nhiệm trước pháp_luật về việc mua , bán giấy_tờ có_giá phù_hợp với quy_định tại Thông_tư này và quy_định của pháp_luật có liên_quan ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 20,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_41",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 3 . 3 . Đồng_tiền thực_hiện trong giao_dịch mua , bán giấy_tờ có_giá là đồng Việt_Nam .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Đồng_tiền",
+    "thực_hiện",
+    "trong",
+    "giao_dịch",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "đồng",
+    "Việt_Nam",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 33,
+     "text": "3 . Đồng_tiền thực_hiện trong giao_dịch mua , bán giấy_tờ có_giá là đồng Việt_Nam ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 29,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_42",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 3 . 4 . Giấy_tờ có_giá được mua , bán thuộc quyền sở_hữu hợp_pháp của Bên bán và chưa đến hạn thanh_toán hết gốc và lãi ; Bên bán có cam_kết giấy_tờ có_giá không có tranh_chấp , được phép giao_dịch theo quy_định của pháp_luật , không trong tình_trạng đang được chiết_khấu , tái chiết_khấu .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Giấy_tờ",
+    "có_giá",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "thuộc",
+    "quyền",
+    "sở_hữu",
+    "hợp_pháp",
+    "của",
+    "Bên",
+    "bán",
+    "và",
+    "chưa",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    "và",
+    "lãi",
+    ";",
+    "Bên",
+    "bán",
+    "có",
+    "cam_kết",
+    "giấy_tờ",
+    "có_giá",
+    "không",
+    "có",
+    "tranh_chấp",
+    ",",
+    "được",
+    "phép",
+    "giao_dịch",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ",",
+    "không",
+    "trong",
+    "tình_trạng",
+    "đang",
+    "được",
+    "chiết_khấu",
+    ",",
+    "tái",
+    "chiết_khấu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 71,
+     "text": "4 . Giấy_tờ có_giá được mua , bán thuộc quyền sở_hữu hợp_pháp của Bên bán và chưa đến hạn thanh_toán hết gốc và lãi ; Bên bán có cam_kết giấy_tờ có_giá không có tranh_chấp , được phép giao_dịch theo quy_định của pháp_luật , không trong tình_trạng đang được chiết_khấu , tái chiết_khấu ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 22,
+     "text": "Giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 47,
+     "end": 49,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_43",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 4 . Giấy_tờ có_giá được mua , bán thuộc quyền sở_hữu hợp_pháp của Bên bán và chưa đến hạn thanh_toán hết gốc và lãi ; Bên bán có cam_kết giấy_tờ có_giá không có tranh_chấp , được phép giao_dịch theo quy_định của pháp_luật , không trong tình_trạng đang được chiết_khấu , tái chiết_khấu .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Giấy_tờ",
+    "có_giá",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "thuộc",
+    "quyền",
+    "sở_hữu",
+    "hợp_pháp",
+    "của",
+    "Bên",
+    "bán",
+    "và",
+    "chưa",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    "và",
+    "lãi",
+    ";",
+    "Bên",
+    "bán",
+    "có",
+    "cam_kết",
+    "giấy_tờ",
+    "có_giá",
+    "không",
+    "có",
+    "tranh_chấp",
+    ",",
+    "được",
+    "phép",
+    "giao_dịch",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ",",
+    "không",
+    "trong",
+    "tình_trạng",
+    "đang",
+    "được",
+    "chiết_khấu",
+    ",",
+    "tái",
+    "chiết_khấu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 56,
+     "text": "4 . Giấy_tờ có_giá được mua , bán thuộc quyền sở_hữu hợp_pháp của Bên bán và chưa đến hạn thanh_toán hết gốc và lãi ; Bên bán có cam_kết giấy_tờ có_giá không có tranh_chấp , được phép giao_dịch theo quy_định của pháp_luật , không trong tình_trạng đang được chiết_khấu , tái chiết_khấu ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 7,
+     "text": "Giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 34,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_44",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 3 . 5 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán trái_phiếu phù_hợp với quy_định tại Luật Các tổ_chức tín_dụng , Luật Chứng_khoán , Nghị_định của Chính_phủ quy_định về phát_hành trái_phiếu doanh_nghiệp , các văn_bản khác hướng_dẫn Luật Chứng_khoán , quy_định của pháp_luật có liên_quan và quy_định tại Thông_tư này .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "5",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "tại",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "Luật",
+    "Chứng_khoán",
+    ",",
+    "Nghị_định",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "phát_hành",
+    "trái_phiếu",
+    "doanh_nghiệp",
+    ",",
+    "các",
+    "văn_bản",
+    "khác",
+    "hướng_dẫn",
+    "Luật",
+    "Chứng_khoán",
+    ",",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "và",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 66,
+     "text": "5 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán trái_phiếu phù_hợp với quy_định tại Luật Các tổ_chức tín_dụng , Luật Chứng_khoán , Nghị_định của Chính_phủ quy_định về phát_hành trái_phiếu doanh_nghiệp , các văn_bản khác hướng_dẫn Luật Chứng_khoán , quy_định của pháp_luật có liên_quan và quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 23,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 63,
+     "end": 65,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 31,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 61,
+     "end": 63,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 41,
+     "end": 42,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 35,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 37,
+     "end": 38,
+     "text": "Chứng_khoán"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 45,
+     "end": 47,
+     "text": "trái_phiếu doanh_nghiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 53,
+     "end": 54,
+     "text": "Chứng_khoán"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_45",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 5 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán trái_phiếu phù_hợp với quy_định tại Luật Các tổ_chức tín_dụng , Luật Chứng_khoán , Nghị_định của Chính_phủ quy_định về phát_hành trái_phiếu doanh_nghiệp , các văn_bản khác hướng_dẫn Luật Chứng_khoán , quy_định của pháp_luật có liên_quan và quy_định tại Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "5",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "mua",
+    ",",
+    "bán",
+    "trái_phiếu",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "tại",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "Luật",
+    "Chứng_khoán",
+    ",",
+    "Nghị_định",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "phát_hành",
+    "trái_phiếu",
+    "doanh_nghiệp",
+    ",",
+    "các",
+    "văn_bản",
+    "khác",
+    "hướng_dẫn",
+    "Luật",
+    "Chứng_khoán",
+    ",",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "và",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 54,
+     "text": "5 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài mua , bán trái_phiếu phù_hợp với quy_định tại Luật Các tổ_chức tín_dụng , Luật Chứng_khoán , Nghị_định của Chính_phủ quy_định về phát_hành trái_phiếu doanh_nghiệp , các văn_bản khác hướng_dẫn Luật Chứng_khoán , quy_định của pháp_luật có liên_quan và quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 11,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 51,
+     "end": 53,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 17,
+     "end": 19,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 49,
+     "end": 51,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 30,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 23,
+     "text": "tổ_chức tín_dụng"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "Chứng_khoán"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 33,
+     "end": 35,
+     "text": "trái_phiếu doanh_nghiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 41,
+     "end": 42,
+     "text": "Chứng_khoán"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_46",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 3 . 6 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi có thời_hạn còn lại dưới 12 tháng . Thời_hạn còn lại là khoảng thời_gian được xác_định từ ngày thanh_toán tiền mua giấy_tờ có_giá quy_định tại khoản 3 Điều 4 Thông_tư này đến ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá đó .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "6",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    "có",
+    "thời_hạn",
+    "còn",
+    "lại",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "Thời_hạn",
+    "còn",
+    "lại",
+    "là",
+    "khoảng",
+    "thời_gian",
+    "được",
+    "xác_định",
+    "từ",
+    "ngày",
+    "thanh_toán",
+    "tiền",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "4",
+    "Thông_tư",
+    "này",
+    "đến",
+    "ngày",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    ",",
+    "lãi",
+    "của",
+    "giấy_tờ",
+    "có_giá",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 81,
+     "text": "6 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi có thời_hạn còn lại dưới 12 tháng . Thời_hạn còn lại là khoảng thời_gian được xác_định từ ngày thanh_toán tiền mua giấy_tờ có_giá quy_định tại khoản 3 Điều 4 Thông_tư này đến ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá đó ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 26,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 57,
+     "end": 59,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 77,
+     "end": 79,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 61,
+     "end": 67,
+     "text": "khoản 3 Điều 4 Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 59,
+     "end": 61,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 40,
+     "end": 43,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 33,
+     "end": 36,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_47",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 6 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi có thời_hạn còn lại dưới 12 tháng . Thời_hạn còn lại là khoảng thời_gian được xác_định từ ngày thanh_toán tiền mua giấy_tờ có_giá quy_định tại khoản 3 Điều 4 Thông_tư này đến ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá đó .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "6",
+    ".",
+    "Tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    "có",
+    "thời_hạn",
+    "còn",
+    "lại",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "Thời_hạn",
+    "còn",
+    "lại",
+    "là",
+    "khoảng",
+    "thời_gian",
+    "được",
+    "xác_định",
+    "từ",
+    "ngày",
+    "thanh_toán",
+    "tiền",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "4",
+    "Thông_tư",
+    "này",
+    "đến",
+    "ngày",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    ",",
+    "lãi",
+    "của",
+    "giấy_tờ",
+    "có_giá",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 66,
+     "text": "6 . Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi có thời_hạn còn lại dưới 12 tháng . Thời_hạn còn lại là khoảng thời_gian được xác_định từ ngày thanh_toán tiền mua giấy_tờ có_giá quy_định tại khoản 3 Điều 4 Thông_tư này đến ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá đó ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 11,
+     "text": "Tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 44,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 62,
+     "end": 64,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 46,
+     "end": 52,
+     "text": "khoản 3 Điều 4 Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 44,
+     "end": 46,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 25,
+     "end": 28,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 21,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_48",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 3 . 7 . Chi_nhánh ngân_hàng nước_ngoài không được mua trái_phiếu chuyển_đổi .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "7",
+    ".",
+    "Chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "không",
+    "được",
+    "mua",
+    "trái_phiếu",
+    "chuyển_đổi",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 26,
+     "text": "7 . Chi_nhánh ngân_hàng nước_ngoài không được mua trái_phiếu chuyển_đổi ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 20,
+     "text": "Chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "trái_phiếu chuyển_đổi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_49",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 7 . Chi_nhánh ngân_hàng nước_ngoài không được mua trái_phiếu chuyển_đổi .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "7",
+    ".",
+    "Chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "không",
+    "được",
+    "mua",
+    "trái_phiếu",
+    "chuyển_đổi",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "7 . Chi_nhánh ngân_hàng nước_ngoài không được mua trái_phiếu chuyển_đổi ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 8,
+     "text": "Chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 11,
+     "end": 13,
+     "text": "trái_phiếu chuyển_đổi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_50",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 3 . 8 . Đối_với giấy_tờ có_giá của công_ty tài_chính hoặc công_ty cho thuê tài_chính phát_hành , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua , bán với tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) .",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "8",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "của",
+    "công_ty",
+    "tài_chính",
+    "hoặc",
+    "công_ty",
+    "cho",
+    "thuê",
+    "tài_chính",
+    "phát_hành",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "với",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 50,
+     "text": "8 . Đối_với giấy_tờ có_giá của công_ty tài_chính hoặc công_ty cho thuê tài_chính phát_hành , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua , bán với tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 32,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 42,
+     "end": 48,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 19,
+     "text": "công_ty tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 14,
+     "end": 16,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 20,
+     "end": 24,
+     "text": "công_ty cho thuê tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_51",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 8 . Đối_với giấy_tờ có_giá của công_ty tài_chính hoặc công_ty cho thuê tài_chính phát_hành , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua , bán với tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "8",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "của",
+    "công_ty",
+    "tài_chính",
+    "hoặc",
+    "công_ty",
+    "cho",
+    "thuê",
+    "tài_chính",
+    "phát_hành",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    ",",
+    "bán",
+    "với",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 42,
+     "text": "8 . Đối_với giấy_tờ có_giá của công_ty tài_chính hoặc công_ty cho thuê tài_chính phát_hành , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua , bán với tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 24,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 40,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "công_ty tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 6,
+     "end": 8,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 12,
+     "end": 16,
+     "text": "công_ty cho thuê tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_52",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 4 . Thông_tin giao_dịch . Mọi giao_dịch mua , bán giấy_tờ có_giá phải được thể_hiện bằng hình_thức giao_dịch phù_hợp với quy_định của pháp_luật có liên_quan . Thỏa_thuận về mua , bán giấy_tờ có_giá phải bao_gồm tối_thiểu các nội_dung sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Thông_tin",
+    "giao_dịch",
+    ".",
+    "Mọi",
+    "giao_dịch",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phải",
+    "được",
+    "thể_hiện",
+    "bằng",
+    "hình_thức",
+    "giao_dịch",
+    "phù_hợp",
+    "với",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    ".",
+    "Thỏa_thuận",
+    "về",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phải",
+    "bao_gồm",
+    "tối_thiểu",
+    "các",
+    "nội_dung",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 56,
+     "text": "Điều 4 . Thông_tin giao_dịch . Mọi giao_dịch mua , bán giấy_tờ có_giá phải được thể_hiện bằng hình_thức giao_dịch phù_hợp với quy_định của pháp_luật có liên_quan . Thỏa_thuận về mua , bán giấy_tờ có_giá phải bao_gồm tối_thiểu các nội_dung sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 28,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 47,
+     "end": 49,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_53",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 4 . 1 . Thông_tin về Bên bán , Bên mua .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Thông_tin",
+    "về",
+    "Bên",
+    "bán",
+    ",",
+    "Bên",
+    "mua",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 25,
+     "text": "1 . Thông_tin về Bên bán , Bên mua ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_54",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 4 . 2 . Tên gọi giấy_tờ có_giá ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài phát_hành ; thời_hạn giấy_tờ có_giá ; ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá ; giá_trị theo mệnh_giá giấy_tờ có_giá .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Tên",
+    "gọi",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "phát_hành",
+    ";",
+    "thời_hạn",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "ngày",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    ",",
+    "lãi",
+    "của",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "giá_trị",
+    "theo",
+    "mệnh_giá",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 52,
+     "text": "2 . Tên gọi giấy_tờ có_giá ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài phát_hành ; thời_hạn giấy_tờ có_giá ; ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá ; giá_trị theo mệnh_giá giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 28,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 33,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 43,
+     "end": 45,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 49,
+     "end": 51,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_55",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 2 . Tên gọi giấy_tờ có_giá ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài phát_hành ; thời_hạn giấy_tờ có_giá ; ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá ; giá_trị theo mệnh_giá giấy_tờ có_giá .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Tên",
+    "gọi",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "phát_hành",
+    ";",
+    "thời_hạn",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "ngày",
+    "đến",
+    "hạn",
+    "thanh_toán",
+    "hết",
+    "gốc",
+    ",",
+    "lãi",
+    "của",
+    "giấy_tờ",
+    "có_giá",
+    ";",
+    "giá_trị",
+    "theo",
+    "mệnh_giá",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "2 . Tên gọi giấy_tờ có_giá ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài phát_hành ; thời_hạn giấy_tờ có_giá ; ngày đến hạn thanh_toán hết gốc , lãi của giấy_tờ có_giá ; giá_trị theo mệnh_giá giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 16,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 7,
+     "end": 9,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 33,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 37,
+     "end": 39,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_56",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 4 . 3 . Ngày thanh_toán tiền mua giấy_tờ có_giá .",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Ngày",
+    "thanh_toán",
+    "tiền",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 20,
+     "text": "3 . Ngày thanh_toán tiền mua giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 19,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_57",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 4 . 4 . Số tiền thanh_toán tiền mua giấy_tờ có_giá .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "4",
+    ".",
+    "Số",
+    "tiền",
+    "thanh_toán",
+    "tiền",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 25,
+     "text": "4 . Số tiền thanh_toán tiền mua giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_58",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 4 . 5 . Quyền và nghĩa_vụ của Bên bán , Bên mua .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "5",
+    ".",
+    "Quyền",
+    "và",
+    "nghĩa_vụ",
+    "của",
+    "Bên",
+    "bán",
+    ",",
+    "Bên",
+    "mua",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 30,
+     "text": "5 . Quyền và nghĩa_vụ của Bên bán , Bên mua ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_59",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 5 . Quyền và nghĩa_vụ của Bên bán , Bên mua .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "5",
+    ".",
+    "Quyền",
+    "và",
+    "nghĩa_vụ",
+    "của",
+    "Bên",
+    "bán",
+    ",",
+    "Bên",
+    "mua",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 15,
+     "text": "5 . Quyền và nghĩa_vụ của Bên bán , Bên mua ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_60",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 5 . Quy_định nội_bộ",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Quy_định",
+    "nội_bộ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 5 . Quy_định nội_bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_61",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 5 . 1 . Căn_cứ quy_định tại Luật Các tổ_chức tín_dụng , Thông_tư này và quy_định của pháp_luật có liên_quan , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ban_hành Quy_định nội_bộ về mua , bán giấy_tờ có_giá phù_hợp với mô_hình quản_lý , đặc_điểm , điều_kiện kinh_doanh , đảm_bảo_an_toàn hoạt_động cho tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Căn_cứ",
+    "quy_định",
+    "tại",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "Thông_tư",
+    "này",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "ban_hành",
+    "Quy_định",
+    "nội_bộ",
+    "về",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "mô_hình",
+    "quản_lý",
+    ",",
+    "đặc_điểm",
+    ",",
+    "điều_kiện",
+    "kinh_doanh",
+    ",",
+    "đảm_bảo_an_toàn",
+    "hoạt_động",
+    "cho",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 69,
+     "text": "1 . Căn_cứ quy_định tại Luật Các tổ_chức tín_dụng , Thông_tư này và quy_định của pháp_luật có liên_quan , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ban_hành Quy_định nội_bộ về mua , bán giấy_tờ có_giá phù_hợp với mô_hình quản_lý , đặc_điểm , điều_kiện kinh_doanh , đảm_bảo_an_toàn hoạt_động cho tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 40,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 62,
+     "end": 68,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 47,
+     "end": 49,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 20,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "tổ_chức tín_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_62",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Căn_cứ quy_định tại Luật Các tổ_chức tín_dụng , Thông_tư này và quy_định của pháp_luật có liên_quan , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ban_hành Quy_định nội_bộ về mua , bán giấy_tờ có_giá phù_hợp với mô_hình quản_lý , đặc_điểm , điều_kiện kinh_doanh , đảm_bảo_an_toàn hoạt_động cho tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Căn_cứ",
+    "quy_định",
+    "tại",
+    "Luật",
+    "Các",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "Thông_tư",
+    "này",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "ban_hành",
+    "Quy_định",
+    "nội_bộ",
+    "về",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "phù_hợp",
+    "với",
+    "mô_hình",
+    "quản_lý",
+    ",",
+    "đặc_điểm",
+    ",",
+    "điều_kiện",
+    "kinh_doanh",
+    ",",
+    "đảm_bảo_an_toàn",
+    "hoạt_động",
+    "cho",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 57,
+     "text": "1 . Căn_cứ quy_định tại Luật Các tổ_chức tín_dụng , Thông_tư này và quy_định của pháp_luật có liên_quan , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ban_hành Quy_định nội_bộ về mua , bán giấy_tờ có_giá phù_hợp với mô_hình quản_lý , đặc_điểm , điều_kiện kinh_doanh , đảm_bảo_an_toàn hoạt_động cho tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 28,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 50,
+     "end": 56,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 37,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 8,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 12,
+     "text": "tổ_chức tín_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_63",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 5 . 2 . Quy_định nội_bộ phải quy_định rõ trách_nhiệm và nghĩa_vụ của từng bộ_phận , cá_nhân có liên_quan đến việc thực_hiện giao_dịch mua , bán giấy_tờ có_giá .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Quy_định",
+    "nội_bộ",
+    "phải",
+    "quy_định",
+    "rõ",
+    "trách_nhiệm",
+    "và",
+    "nghĩa_vụ",
+    "của",
+    "từng",
+    "bộ_phận",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "đến",
+    "việc",
+    "thực_hiện",
+    "giao_dịch",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 42,
+     "text": "2 . Quy_định nội_bộ phải quy_định rõ trách_nhiệm và nghĩa_vụ của từng bộ_phận , cá_nhân có liên_quan đến việc thực_hiện giao_dịch mua , bán giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 39,
+     "end": 41,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_64",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 5 . 3 . Quy_định nội_bộ tối_thiểu phải có quy_trình nghiệp_vụ và quy_định quản_lý rủi_ro đối_với hoạt_động mua , bán giấy_tờ có_giá .",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Quy_định",
+    "nội_bộ",
+    "tối_thiểu",
+    "phải",
+    "có",
+    "quy_trình",
+    "nghiệp_vụ",
+    "và",
+    "quy_định",
+    "quản_lý",
+    "rủi_ro",
+    "đối_với",
+    "hoạt_động",
+    "mua",
+    ",",
+    "bán",
+    "giấy_tờ",
+    "có_giá",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 32,
+     "text": "3 . Quy_định nội_bộ tối_thiểu phải có quy_trình nghiệp_vụ và quy_định quản_lý rủi_ro đối_với hoạt_động mua , bán giấy_tờ có_giá ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 31,
+     "text": "giấy_tờ có_giá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_65",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 6 . Điều_khoản thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 6 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_66",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 6 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 27 tháng 10 năm 2021 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "27",
+    "tháng",
+    "10",
+    "năm",
+    "2021",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 27 tháng 10 năm 2021 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_67",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 6 . 2 . Thông_tư này sửa_đổi , bổ_sung một_số điều của Thông_tư 01/2021/TT-NHNN ngày 31 tháng 3 năm 2021 của Thống_đốc Ngân_hàng nhà_nước Việt_Nam quy_định về phát_hành kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài như sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Thông_tư",
+    "01/2021/TT-NHNN",
+    "ngày",
+    "31",
+    "tháng",
+    "3",
+    "năm",
+    "2021",
+    "của",
+    "Thống_đốc",
+    "Ngân_hàng",
+    "nhà_nước",
+    "Việt_Nam",
+    "quy_định",
+    "về",
+    "phát_hành",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "trong",
+    "nước",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 62,
+     "text": "2 . Thông_tư này sửa_đổi , bổ_sung một_số điều của Thông_tư 01/2021/TT-NHNN ngày 31 tháng 3 năm 2021 của Thống_đốc Ngân_hàng nhà_nước Việt_Nam quy_định về phát_hành kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài như sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 53,
+     "end": 59,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 25,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 34,
+     "end": 38,
+     "text": "Thống_đốc Ngân_hàng nhà_nước Việt_Nam"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 45,
+     "end": 48,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 49,
+     "end": 50,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_68",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Thông_tư này sửa_đổi , bổ_sung một_số điều của Thông_tư 01/2021/TT-NHNN ngày 31 tháng 3 năm 2021 của Thống_đốc Ngân_hàng nhà_nước Việt_Nam quy_định về phát_hành kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài như sau :",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Thông_tư",
+    "01/2021/TT-NHNN",
+    "ngày",
+    "31",
+    "tháng",
+    "3",
+    "năm",
+    "2021",
+    "của",
+    "Thống_đốc",
+    "Ngân_hàng",
+    "nhà_nước",
+    "Việt_Nam",
+    "quy_định",
+    "về",
+    "phát_hành",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "trái_phiếu",
+    "trong",
+    "nước",
+    "của",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 50,
+     "text": "2 . Thông_tư này sửa_đổi , bổ_sung một_số điều của Thông_tư 01/2021/TT-NHNN ngày 31 tháng 3 năm 2021 của Thống_đốc Ngân_hàng nhà_nước Việt_Nam quy_định về phát_hành kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , trái_phiếu trong nước của tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài như sau :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 47,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 13,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 26,
+     "text": "Thống_đốc Ngân_hàng nhà_nước Việt_Nam"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 33,
+     "end": 36,
+     "text": "chứng_chỉ tiền gửi"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 37,
+     "end": 38,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_69",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 6 . Khoản 2 . a ) Sửa_đổi , bổ_sung khoản 1 Điều 4 như sau : “ 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "1",
+    "Điều",
+    "4",
+    "như",
+    "sau",
+    ":",
+    "“",
+    "1",
+    ".",
+    "Đối_tượng",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "các",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    ",",
+    "khoản",
+    "3",
+    ",",
+    "khoản",
+    "4",
+    "Điều",
+    "này",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 10,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 11,
+     "end": 13,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 14,
+     "end": 71,
+     "text": "a ) Sửa_đổi , bổ_sung khoản 1 Điều 4 như sau : “ 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 39,
+     "end": 45,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 33,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 23,
+     "text": "khoản 1 Điều 4"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 59,
+     "end": 69,
+     "text": "khoản 2 , khoản 3 , khoản 4 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 16,
+     "end": 19,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 57,
+     "end": 59,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_70",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . a ) Sửa_đổi , bổ_sung khoản 1 Điều 4 như sau : “ 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "khoản",
+    "1",
+    "Điều",
+    "4",
+    "như",
+    "sau",
+    ":",
+    "“",
+    "1",
+    ".",
+    "Đối_tượng",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "các",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    ",",
+    "khoản",
+    "3",
+    ",",
+    "khoản",
+    "4",
+    "Điều",
+    "này",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 63,
+     "text": "a ) Sửa_đổi , bổ_sung khoản 1 Điều 4 như sau : “ 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 37,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 15,
+     "text": "khoản 1 Điều 4"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 51,
+     "end": 61,
+     "text": "khoản 2 , khoản 3 , khoản 4 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 49,
+     "end": 51,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_71",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 6 . Khoản 2 . b ) Bổ_sung khoản 4 vào Điều 4 như sau : “ 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Bổ_sung",
+    "khoản",
+    "4",
+    "vào",
+    "Điều",
+    "4",
+    "như",
+    "sau",
+    ":",
+    "“",
+    "4",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "có",
+    "thời_hạn",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 62,
+     "text": "b ) Bổ_sung khoản 4 vào Điều 4 như sau : “ 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 44,
+     "end": 50,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 35,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 53,
+     "end": 55,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 26,
+     "text": "khoản 4 vào Điều 4"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 20,
+     "end": 21,
+     "text": "Bổ_sung"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 57,
+     "end": 60,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 40,
+     "end": 43,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 10
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_72",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . b ) Bổ_sung khoản 4 vào Điều 4 như sau : “ 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Bổ_sung",
+    "khoản",
+    "4",
+    "vào",
+    "Điều",
+    "4",
+    "như",
+    "sau",
+    ":",
+    "“",
+    "4",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "có",
+    "thời_hạn",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 50,
+     "text": "b ) Bổ_sung khoản 4 vào Điều 4 như sau : “ 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 38,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 23,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 43,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 14,
+     "text": "khoản 4 vào Điều 4"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 9,
+     "text": "Bổ_sung"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 45,
+     "end": 48,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 31,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_73",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 7 . Tổ_chức thực_hiện . Chánh Văn_phòng , Vụ_trưởng Vụ Chính_sách tiền_tệ và Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_Nam ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chịu trách_nhiệm tổ_chức thực_hiện Thông_tư này . / .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Tổ_chức",
+    "thực_hiện",
+    ".",
+    "Chánh",
+    "Văn_phòng",
+    ",",
+    "Vụ_trưởng",
+    "Vụ",
+    "Chính_sách",
+    "tiền_tệ",
+    "và",
+    "Thủ_trưởng",
+    "các",
+    "đơn_vị",
+    "thuộc",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ";",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chịu",
+    "trách_nhiệm",
+    "tổ_chức",
+    "thực_hiện",
+    "Thông_tư",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 52,
+     "text": "Điều 7 . Tổ_chức thực_hiện . Chánh Văn_phòng , Vụ_trưởng Vụ Chính_sách tiền_tệ và Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_Nam ; tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chịu trách_nhiệm tổ_chức thực_hiện Thông_tư này . / ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 37,
+     "end": 43,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 36,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_74",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Ngân_hàng Nhà_nước Việt_Nam ban_hành Thông_tư số 12/2021/TT-NHNN . Điều 1 . Phạm_vi điều_chỉnh",
+   "tokens": [
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 4,
+     "end": 5,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 6,
+     "end": 7,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 3,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "DIEU",
+     "start": 8,
+     "end": 13,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_75",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 2 . Đối_tượng áp_dụng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 2 . Đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_76",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 4 . Thông_tin giao_dịch",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Thông_tin",
+    "giao_dịch"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 4 . Thông_tin giao_dịch"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_77",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 4 . 1 . Thông_tin về Bên bán , Bên mua .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Thông_tin",
+    "về",
+    "Bên",
+    "bán",
+    ",",
+    "Bên",
+    "mua",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 25,
+     "text": "1 . Thông_tin về Bên bán , Bên mua ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_78",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 5 . Quy_định nội_bộ",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Quy_định",
+    "nội_bộ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 5 . Quy_định nội_bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_79",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 6 . Điều_khoản thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 6 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_80",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 6 . 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Đối_tượng",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "các",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    ",",
+    "khoản",
+    "3",
+    ",",
+    "khoản",
+    "4",
+    "Điều",
+    "này",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 62,
+     "text": "1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 30,
+     "end": 36,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 50,
+     "end": 60,
+     "text": "khoản 2 , khoản 3 , khoản 4 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 48,
+     "end": 50,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_81",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Đối_tượng",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "các",
+    "tổ_chức",
+    "(",
+    "bao_gồm",
+    "cả",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    ")",
+    ",",
+    "cá_nhân",
+    "Việt_Nam",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "nước_ngoài",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "quy_định",
+    "tại",
+    "khoản",
+    "2",
+    ",",
+    "khoản",
+    "3",
+    ",",
+    "khoản",
+    "4",
+    "Điều",
+    "này",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 47,
+     "text": "1 . Đối_tượng mua giấy_tờ có_giá là các tổ_chức ( bao_gồm cả tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ) , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài , trừ trường_hợp quy_định tại khoản 2 , khoản 3 , khoản 4 Điều này . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 21,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 7,
+     "end": 9,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 45,
+     "text": "khoản 2 , khoản 3 , khoản 4 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 33,
+     "end": 35,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_82",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN của Ngân_hàng Nhà_nước Việt_Nam trong lĩnh_vực Chính_sách tiền_tệ . Điều 6 . 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "của",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "tiền_tệ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "có",
+    "thời_hạn",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 7,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 11,
+     "text": "Chính_sách tiền_tệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 47,
+     "text": "4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 35,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 20,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 38,
+     "end": 40,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 42,
+     "end": 45,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 25,
+     "end": 28,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_standalone_83",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Đối_với",
+    "giấy_tờ",
+    "có_giá",
+    "là",
+    "kỳ_phiếu",
+    ",",
+    "tín_phiếu",
+    ",",
+    "chứng_chỉ",
+    "tiền",
+    "gửi",
+    ",",
+    "tổ_chức",
+    "tín_dụng",
+    ",",
+    "chi_nhánh",
+    "ngân_hàng",
+    "nước_ngoài",
+    "chỉ",
+    "được",
+    "mua",
+    "giấy_tờ",
+    "có_giá",
+    "có",
+    "thời_hạn",
+    "dưới",
+    "12",
+    "tháng",
+    ".",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 35,
+     "text": "4 . Đối_với giấy_tờ có_giá là kỳ_phiếu , tín_phiếu , chứng_chỉ tiền gửi , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài chỉ được mua giấy_tờ có_giá có thời_hạn dưới 12 tháng . ”"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 23,
+     "text": "tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 6,
+     "end": 8,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 26,
+     "end": 28,
+     "text": "giấy_tờ có_giá"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 30,
+     "end": 33,
+     "text": "dưới 12 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 13,
+     "end": 16,
+     "text": "chứng_chỉ tiền gửi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#body_context_84",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 12/2021/TT-NHNN ban_hành ngày 30 tháng 07 năm 2021 bởi Ngân_hàng Nhà_nước Việt_Nam . Điều 7 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "12/2021/TT-NHNN",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "07",
+    "năm",
+    "2021",
+    "bởi",
+    "Ngân_hàng",
+    "Nhà_nước",
+    "Việt_Nam",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2021/TT-NHNN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 14,
+     "text": "Ngân_hàng Nhà_nước Việt_Nam"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 07 năm 2021"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 7 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#hard_negative_85",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "12_2021_TT-NHNN_148636#hard_negative_86",
+   "doc": "12_2021_TT-NHNN_148636",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "Độc_lập - Tự_do - Hạnh_phúc",
+   "tokens": [
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

@@ -1,0 +1,5876 @@
+{
+ "doc": "17_2017_QĐ-TTg_122169",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 62,
+ "total_entities": 326,
+ "total_relations": 223,
+ "samples": [
+  {
+   "id": "17_2017_QĐ-TTg_122169#header_0",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 17 / 2017/QĐ-TTg . Hà_Nội , Ngày 29 tháng 5 năm 2017 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "17",
+    "/",
+    "2017/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "Ngày",
+    "29",
+    "tháng",
+    "5",
+    "năm",
+    "2017",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 21,
+     "text": "17 / 2017/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 24,
+     "end": 30,
+     "text": "Ngày 29 tháng 5 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 31,
+     "end": 32,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#meta_1",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 17 / 2017/QĐ-TTg . Hà_Nội , Ngày 29 tháng 5 năm 2017 . QUYẾT_ĐỊNH . Điều 6 . Trách_nhiệm thi_hành",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "17",
+    "/",
+    "2017/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "Ngày",
+    "29",
+    "tháng",
+    "5",
+    "năm",
+    "2017",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 21,
+     "text": "17 / 2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 31,
+     "end": 32,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_context_2",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật tổ_chức Chính_phủ ngày 19 tháng 6 năm 2015 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 19 tháng 6 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_standalone_3",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật tổ_chức Chính_phủ ngày 19 tháng 6 năm 2015 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 19 tháng 6 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_context_4",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật_khoa_học và công_nghệ ngày 18 tháng 6 năm 2013 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật_khoa_học",
+    "và",
+    "công_nghệ",
+    "ngày",
+    "18",
+    "tháng",
+    "6",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật_khoa_học và công_nghệ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 18 tháng 6 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_standalone_5",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật_khoa_học và công_nghệ ngày 18 tháng 6 năm 2013 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật_khoa_học",
+    "và",
+    "công_nghệ",
+    "ngày",
+    "18",
+    "tháng",
+    "6",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật_khoa_học và công_nghệ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 18 tháng 6 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_context_6",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật an_toàn , vệ_sinh lao_động ngày 25 tháng 6 năm 2015 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "ngày",
+    "25",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 10,
+     "text": "Luật an_toàn"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 25 tháng 6 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_standalone_7",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật an_toàn , vệ_sinh lao_động ngày 25 tháng 6 năm 2015 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "ngày",
+    "25",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật an_toàn"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 6,
+     "end": 12,
+     "text": "ngày 25 tháng 6 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_context_8",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Theo đề_nghị của Bộ_trưởng Bộ Khoa_học và Công_nghệ , Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Khoa_học",
+    "và",
+    "Công_nghệ",
+    ",",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 15,
+     "text": "Bộ_trưởng Bộ Khoa_học và Công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_standalone_9",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Khoa_học và Công_nghệ , Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ;",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Khoa_học",
+    "và",
+    "Công_nghệ",
+    ",",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 8,
+     "text": "Bộ_trưởng Bộ Khoa_học và Công_nghệ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_context_10",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Thủ_tướng Chính_phủ ban_hành Quyết_định về tổ_chức và hoạt_động của Viện Khoa_học An_toàn và Vệ_sinh lao_động thuộc Tổng_Liên_đoàn Lao_động Việt_Nam .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "về",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "của",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "thuộc",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 9,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#preamble_standalone_11",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định về tổ_chức và hoạt_động của Viện Khoa_học An_toàn và Vệ_sinh lao_động thuộc Tổng_Liên_đoàn Lao_động Việt_Nam .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "về",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "của",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "thuộc",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_12",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 1 . Vị_trí , chức_năng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Vị_trí",
+    ",",
+    "chức_năng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 1 . Vị_trí , chức_năng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_13",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 1 . 1 . Viện Khoa_học An_toàn và Vệ_sinh lao_động ( được đổi tên từ Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động ) là tổ_chức khoa_học và công_nghệ công_lập thuộc Tổng_Liên_đoàn Lao_động Việt_Nam , có chức_năng nghiên_cứu khoa_học phục_vụ quản_lý , triển_khai , ứng_dụng các kết_quả khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động , môi_trường lao_động theo quy_định của pháp_luật . Viện Khoa_học An_toàn và Vệ_sinh",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "(",
+    "được",
+    "đổi",
+    "tên",
+    "từ",
+    "Viện",
+    "Nghiên_cứu",
+    "khoa_học",
+    "kỹ_thuật",
+    "bảo_hộ",
+    "lao_động",
+    ")",
+    "là",
+    "tổ_chức",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "công_lập",
+    "thuộc",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    ",",
+    "có",
+    "chức_năng",
+    "nghiên_cứu",
+    "khoa_học",
+    "phục_vụ",
+    "quản_lý",
+    ",",
+    "triển_khai",
+    ",",
+    "ứng_dụng",
+    "các",
+    "kết_quả",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "môi_trường",
+    "lao_động",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 74,
+     "text": "1 . Viện Khoa_học An_toàn và Vệ_sinh lao_động ( được đổi tên từ Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động ) là tổ_chức khoa_học và công_nghệ công_lập thuộc Tổng_Liên_đoàn Lao_động Việt_Nam , có chức_năng nghiên_cứu khoa_học phục_vụ quản_lý , triển_khai , ứng_dụng các kết_quả khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động , môi_trường lao_động theo quy_định của pháp_luật . Viện Khoa_học An_toàn và Vệ_sinh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 31,
+     "end": 35,
+     "text": "tổ_chức khoa_học và công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_14",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 1 . 2 . Viện Khoa_học An_toàn và Vệ_sinh lao_động có tư_cách pháp_nhân , con_dấu riêng , được mở tài_khoản tại kho_bạc nhà_nước và ngân_hàng thương_mại để hoạt_động theo quy_định của pháp_luật . Viện có trụ_sở chính đặt tại Thành_phố Hà_Nội .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "có",
+    "tư_cách",
+    "pháp_nhân",
+    ",",
+    "con_dấu",
+    "riêng",
+    ",",
+    "được",
+    "mở",
+    "tài_khoản",
+    "tại",
+    "kho_bạc",
+    "nhà_nước",
+    "và",
+    "ngân_hàng",
+    "thương_mại",
+    "để",
+    "hoạt_động",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Viện",
+    "có",
+    "trụ_sở",
+    "chính",
+    "đặt",
+    "tại",
+    "Thành_phố",
+    "Hà_Nội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 50,
+     "text": "2 . Viện Khoa_học An_toàn và Vệ_sinh lao_động có tư_cách pháp_nhân , con_dấu riêng , được mở tài_khoản tại kho_bạc nhà_nước và ngân_hàng thương_mại để hoạt_động theo quy_định của pháp_luật . Viện có trụ_sở chính đặt tại Thành_phố Hà_Nội ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "kho_bạc nhà_nước"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 34,
+     "text": "ngân_hàng thương_mại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_15",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Viện Khoa_học An_toàn và Vệ_sinh lao_động có tư_cách pháp_nhân , con_dấu riêng , được mở tài_khoản tại kho_bạc nhà_nước và ngân_hàng thương_mại để hoạt_động theo quy_định của pháp_luật . Viện có trụ_sở chính đặt tại Thành_phố Hà_Nội .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "có",
+    "tư_cách",
+    "pháp_nhân",
+    ",",
+    "con_dấu",
+    "riêng",
+    ",",
+    "được",
+    "mở",
+    "tài_khoản",
+    "tại",
+    "kho_bạc",
+    "nhà_nước",
+    "và",
+    "ngân_hàng",
+    "thương_mại",
+    "để",
+    "hoạt_động",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Viện",
+    "có",
+    "trụ_sở",
+    "chính",
+    "đặt",
+    "tại",
+    "Thành_phố",
+    "Hà_Nội",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 43,
+     "text": "2 . Viện Khoa_học An_toàn và Vệ_sinh lao_động có tư_cách pháp_nhân , con_dấu riêng , được mở tài_khoản tại kho_bạc nhà_nước và ngân_hàng thương_mại để hoạt_động theo quy_định của pháp_luật . Viện có trụ_sở chính đặt tại Thành_phố Hà_Nội ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "kho_bạc nhà_nước"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "ngân_hàng thương_mại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_16",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Nhiệm_vụ , quyền_hạn của Viện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "của",
+    "Viện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 22,
+     "text": "Điều 2 . Nhiệm_vụ , quyền_hạn của Viện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_17",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . 1 . Nghiên_cứu khoa_học phục_vụ quản_lý nhà_nước về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Nghiên_cứu",
+    "khoa_học",
+    "phục_vụ",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "bảo_đảm",
+    "an_toàn",
+    "và",
+    "sức_khỏe",
+    "người",
+    "lao_động",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 41,
+     "text": "1 . Nghiên_cứu khoa_học phục_vụ quản_lý nhà_nước về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 34,
+     "end": 36,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_18",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 1 . Nghiên_cứu khoa_học phục_vụ quản_lý nhà_nước về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Nghiên_cứu",
+    "khoa_học",
+    "phục_vụ",
+    "quản_lý",
+    "nhà_nước",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "bảo_đảm",
+    "an_toàn",
+    "và",
+    "sức_khỏe",
+    "người",
+    "lao_động",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "1 . Nghiên_cứu khoa_học phục_vụ quản_lý nhà_nước về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 20,
+     "end": 22,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_19",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 1 . a ) Nghiên_cứu phát_triển và ứng_dụng khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động ; phòng_ngừa , xử_lý ô_nhiễm môi_trường bảo_đảm an_toàn và sức_khỏe người lao_động .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Nghiên_cứu",
+    "phát_triển",
+    "và",
+    "ứng_dụng",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ";",
+    "phòng_ngừa",
+    ",",
+    "xử_lý",
+    "ô_nhiễm",
+    "môi_trường",
+    "bảo_đảm",
+    "an_toàn",
+    "và",
+    "sức_khỏe",
+    "người",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 40,
+     "text": "a ) Nghiên_cứu phát_triển và ứng_dụng khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động ; phòng_ngừa , xử_lý ô_nhiễm môi_trường bảo_đảm an_toàn và sức_khỏe người lao_động ."
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 37,
+     "end": 39,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_20",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 2 . Khoản 1 . b ) Nghiên_cứu xây_dựng phương_pháp , quy_trình đánh_giá hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn ; nghiên_cứu , phát_hiện và kiến_nghị bổ_sung danh_mục bệnh nghề_nghiệp được bảo_hiểm tại Việt_Nam .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Nghiên_cứu",
+    "xây_dựng",
+    "phương_pháp",
+    ",",
+    "quy_trình",
+    "đánh_giá",
+    "hợp",
+    "chuẩn",
+    ",",
+    "hợp",
+    "quy",
+    "các",
+    "phương_tiện",
+    "bảo_vệ",
+    "cá_nhân",
+    ",",
+    "trang",
+    "thiết_bị",
+    "an_toàn",
+    ";",
+    "nghiên_cứu",
+    ",",
+    "phát_hiện",
+    "và",
+    "kiến_nghị",
+    "bổ_sung",
+    "danh_mục",
+    "bệnh",
+    "nghề_nghiệp",
+    "được",
+    "bảo_hiểm",
+    "tại",
+    "Việt_Nam",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 49,
+     "text": "b ) Nghiên_cứu xây_dựng phương_pháp , quy_trình đánh_giá hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn ; nghiên_cứu , phát_hiện và kiến_nghị bổ_sung danh_mục bệnh nghề_nghiệp được bảo_hiểm tại Việt_Nam ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 31,
+     "end": 34,
+     "text": "trang thiết_bị an_toàn"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 46,
+     "end": 48,
+     "text": "tại Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_21",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 1 . b ) Nghiên_cứu xây_dựng phương_pháp , quy_trình đánh_giá hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn ; nghiên_cứu , phát_hiện và kiến_nghị bổ_sung danh_mục bệnh nghề_nghiệp được bảo_hiểm tại Việt_Nam .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Nghiên_cứu",
+    "xây_dựng",
+    "phương_pháp",
+    ",",
+    "quy_trình",
+    "đánh_giá",
+    "hợp",
+    "chuẩn",
+    ",",
+    "hợp",
+    "quy",
+    "các",
+    "phương_tiện",
+    "bảo_vệ",
+    "cá_nhân",
+    ",",
+    "trang",
+    "thiết_bị",
+    "an_toàn",
+    ";",
+    "nghiên_cứu",
+    ",",
+    "phát_hiện",
+    "và",
+    "kiến_nghị",
+    "bổ_sung",
+    "danh_mục",
+    "bệnh",
+    "nghề_nghiệp",
+    "được",
+    "bảo_hiểm",
+    "tại",
+    "Việt_Nam",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 42,
+     "text": "b ) Nghiên_cứu xây_dựng phương_pháp , quy_trình đánh_giá hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn ; nghiên_cứu , phát_hiện và kiến_nghị bổ_sung danh_mục bệnh nghề_nghiệp được bảo_hiểm tại Việt_Nam ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 27,
+     "text": "trang thiết_bị an_toàn"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 39,
+     "end": 41,
+     "text": "tại Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_22",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 2 . 2 . Nghiên_cứu khoa_học phục_vụ hoạt_động của Tổng_Liên_đoàn Lao_động Việt_Nam :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Nghiên_cứu",
+    "khoa_học",
+    "phục_vụ",
+    "hoạt_động",
+    "của",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 21,
+     "text": "2 . Nghiên_cứu khoa_học phục_vụ hoạt_động của Tổng_Liên_đoàn Lao_động Việt_Nam :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_23",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Nghiên_cứu khoa_học phục_vụ hoạt_động của Tổng_Liên_đoàn Lao_động Việt_Nam :",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Nghiên_cứu",
+    "khoa_học",
+    "phục_vụ",
+    "hoạt_động",
+    "của",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "2 . Nghiên_cứu khoa_học phục_vụ hoạt_động của Tổng_Liên_đoàn Lao_động Việt_Nam :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_24",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 2 . a ) Nghiên_cứu , cung_cấp luận_cứ khoa_học để giúp Tổng_Liên_đoàn Lao_động Việt_Nam tham_gia cùng các cơ_quan nhà_nước trong việc xây_dựng chế_độ , chính_sách và các văn_bản quy_phạm_pháp_luật về an_toàn , vệ_sinh lao_động , các chế_độ , chính_sách về bảo_hiểm tai_nạn và bệnh nghề_nghiệp .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Nghiên_cứu",
+    ",",
+    "cung_cấp",
+    "luận_cứ",
+    "khoa_học",
+    "để",
+    "giúp",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "tham_gia",
+    "cùng",
+    "các",
+    "cơ_quan",
+    "nhà_nước",
+    "trong",
+    "việc",
+    "xây_dựng",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "và",
+    "các",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "các",
+    "chế_độ",
+    ",",
+    "chính_sách",
+    "về",
+    "bảo_hiểm",
+    "tai_nạn",
+    "và",
+    "bệnh",
+    "nghề_nghiệp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 57,
+     "text": "a ) Nghiên_cứu , cung_cấp luận_cứ khoa_học để giúp Tổng_Liên_đoàn Lao_động Việt_Nam tham_gia cùng các cơ_quan nhà_nước trong việc xây_dựng chế_độ , chính_sách và các văn_bản quy_phạm_pháp_luật về an_toàn , vệ_sinh lao_động , các chế_độ , chính_sách về bảo_hiểm tai_nạn và bệnh nghề_nghiệp ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_25",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 2 . b ) Nghiên_cứu , cung_cấp luận_cứ khoa_học để giúp Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam trong công_tác chỉ_đạo , nâng cao hiệu_quả hoạt_động , hướng_dẫn , kiểm_tra công_tác an_toàn , vệ_sinh lao_động trong hệ_thống Công_đoàn .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Nghiên_cứu",
+    ",",
+    "cung_cấp",
+    "luận_cứ",
+    "khoa_học",
+    "để",
+    "giúp",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "trong",
+    "công_tác",
+    "chỉ_đạo",
+    ",",
+    "nâng",
+    "cao",
+    "hiệu_quả",
+    "hoạt_động",
+    ",",
+    "hướng_dẫn",
+    ",",
+    "kiểm_tra",
+    "công_tác",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "trong",
+    "hệ_thống",
+    "Công_đoàn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 48,
+     "text": "b ) Nghiên_cứu , cung_cấp luận_cứ khoa_học để giúp Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam trong công_tác chỉ_đạo , nâng cao hiệu_quả hoạt_động , hướng_dẫn , kiểm_tra công_tác an_toàn , vệ_sinh lao_động trong hệ_thống Công_đoàn ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_26",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . 3 . Các nhiệm_vụ khác về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Các",
+    "nhiệm_vụ",
+    "khác",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "bảo_đảm",
+    "an_toàn",
+    "và",
+    "sức_khỏe",
+    "người",
+    "lao_động",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 39,
+     "text": "3 . Các nhiệm_vụ khác về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 32,
+     "end": 34,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_27",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 3 . Các nhiệm_vụ khác về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Các",
+    "nhiệm_vụ",
+    "khác",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "bảo_đảm",
+    "an_toàn",
+    "và",
+    "sức_khỏe",
+    "người",
+    "lao_động",
+    ",",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 25,
+     "text": "3 . Các nhiệm_vụ khác về an_toàn , vệ_sinh lao_động , bảo_đảm an_toàn và sức_khỏe người lao_động , bảo_vệ môi_trường lao_động :"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 18,
+     "end": 20,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_28",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 3 . a ) Thực_hiện các hoạt_động quan_trắc , phân_tích môi_trường lao_động ; đánh_giá , giám_sát , dự_báo ô_nhiễm môi_trường lao_động ; cung_cấp thông_tin khoa_học và kiến_thức về an_toàn , vệ_sinh lao_động .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Thực_hiện",
+    "các",
+    "hoạt_động",
+    "quan_trắc",
+    ",",
+    "phân_tích",
+    "môi_trường",
+    "lao_động",
+    ";",
+    "đánh_giá",
+    ",",
+    "giám_sát",
+    ",",
+    "dự_báo",
+    "ô_nhiễm",
+    "môi_trường",
+    "lao_động",
+    ";",
+    "cung_cấp",
+    "thông_tin",
+    "khoa_học",
+    "và",
+    "kiến_thức",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 51,
+     "text": "a ) Thực_hiện các hoạt_động quan_trắc , phân_tích môi_trường lao_động ; đánh_giá , giám_sát , dự_báo ô_nhiễm môi_trường lao_động ; cung_cấp thông_tin khoa_học và kiến_thức về an_toàn , vệ_sinh lao_động ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_29",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 2 . Khoản 3 . b ) Phối_hợp xây_dựng hệ_thống các chỉ_tiêu , tiêu_chuẩn về an_toàn , vệ_sinh lao_động , đánh_giá tác_động môi_trường ,",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Phối_hợp",
+    "xây_dựng",
+    "hệ_thống",
+    "các",
+    "chỉ_tiêu",
+    ",",
+    "tiêu_chuẩn",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 32,
+     "text": "b ) Phối_hợp xây_dựng hệ_thống các chỉ_tiêu , tiêu_chuẩn về an_toàn , vệ_sinh lao_động , đánh_giá tác_động môi_trường ,"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_30",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 3 . c ) Hợp_tác quốc_tế trong lĩnh_vực khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động và bảo_vệ môi_trường lao_động .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "c",
+    ")",
+    "Hợp_tác",
+    "quốc_tế",
+    "trong",
+    "lĩnh_vực",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "và",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 39,
+     "text": "c ) Hợp_tác quốc_tế trong lĩnh_vực khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động và bảo_vệ môi_trường lao_động ."
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 25,
+     "end": 29,
+     "text": "lĩnh_vực khoa_học và công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 7
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_31",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 3 . d ) Xây_dựng và phát_triển tiềm_lực của Viện để đáp_ứng yêu_cầu phát_triển khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động và bảo_vệ môi_trường lao_động .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "d",
+    ")",
+    "Xây_dựng",
+    "và",
+    "phát_triển",
+    "tiềm_lực",
+    "của",
+    "Viện",
+    "để",
+    "đáp_ứng",
+    "yêu_cầu",
+    "phát_triển",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "về",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "và",
+    "bảo_vệ",
+    "môi_trường",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 45,
+     "text": "d ) Xây_dựng và phát_triển tiềm_lực của Viện để đáp_ứng yêu_cầu phát_triển khoa_học và công_nghệ về an_toàn , vệ_sinh lao_động và bảo_vệ môi_trường lao_động ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_32",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . 4 . Các hoạt_động tư_vấn , dịch_vụ khoa_học và công_nghệ và hợp_tác quốc_tế theo quy_định của pháp_luật :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Các",
+    "hoạt_động",
+    "tư_vấn",
+    ",",
+    "dịch_vụ",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "và",
+    "hợp_tác",
+    "quốc_tế",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 28,
+     "text": "4 . Các hoạt_động tư_vấn , dịch_vụ khoa_học và công_nghệ và hợp_tác quốc_tế theo quy_định của pháp_luật :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_33",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 4 . a ) Huấn_luyện , đào_tạo về an_toàn lao_động , vệ_sinh lao_động và sức_khỏe nghề_nghiệp .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "a",
+    ")",
+    "Huấn_luyện",
+    ",",
+    "đào_tạo",
+    "về",
+    "an_toàn",
+    "lao_động",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "và",
+    "sức_khỏe",
+    "nghề_nghiệp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 28,
+     "text": "a ) Huấn_luyện , đào_tạo về an_toàn lao_động , vệ_sinh lao_động và sức_khỏe nghề_nghiệp ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_34",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 4 . b ) Đánh_giá nguy_cơ rủi_ro về an_toàn và vệ_sinh lao_động , rủi_ro sức_khỏe nghề_nghiệp . Tư_vấn xây_dựng hệ_thống quản_lý an_toàn , vệ_sinh lao_động và sức_khỏe nghề_nghiệp tại doanh_nghiệp .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "b",
+    ")",
+    "Đánh_giá",
+    "nguy_cơ",
+    "rủi_ro",
+    "về",
+    "an_toàn",
+    "và",
+    "vệ_sinh",
+    "lao_động",
+    ",",
+    "rủi_ro",
+    "sức_khỏe",
+    "nghề_nghiệp",
+    ".",
+    "Tư_vấn",
+    "xây_dựng",
+    "hệ_thống",
+    "quản_lý",
+    "an_toàn",
+    ",",
+    "vệ_sinh",
+    "lao_động",
+    "và",
+    "sức_khỏe",
+    "nghề_nghiệp",
+    "tại",
+    "doanh_nghiệp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 42,
+     "text": "b ) Đánh_giá nguy_cơ rủi_ro về an_toàn và vệ_sinh lao_động , rủi_ro sức_khỏe nghề_nghiệp . Tư_vấn xây_dựng hệ_thống quản_lý an_toàn , vệ_sinh lao_động và sức_khỏe nghề_nghiệp tại doanh_nghiệp ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 40,
+     "end": 41,
+     "text": "doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_35",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 4 . c ) Kiểm_định hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn lao_động .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "c",
+    ")",
+    "Kiểm_định",
+    "hợp",
+    "chuẩn",
+    ",",
+    "hợp",
+    "quy",
+    "các",
+    "phương_tiện",
+    "bảo_vệ",
+    "cá_nhân",
+    ",",
+    "trang",
+    "thiết_bị",
+    "an_toàn",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 38,
+     "text": "c ) Kiểm_định hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn lao_động ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 30,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 33,
+     "end": 36,
+     "text": "trang thiết_bị an_toàn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_36",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 4 . c ) Kiểm_định hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn lao_động .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "c",
+    ")",
+    "Kiểm_định",
+    "hợp",
+    "chuẩn",
+    ",",
+    "hợp",
+    "quy",
+    "các",
+    "phương_tiện",
+    "bảo_vệ",
+    "cá_nhân",
+    ",",
+    "trang",
+    "thiết_bị",
+    "an_toàn",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "c ) Kiểm_định hợp chuẩn , hợp quy các phương_tiện bảo_vệ cá_nhân , trang thiết_bị an_toàn lao_động ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 22,
+     "text": "trang thiết_bị an_toàn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_37",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 2 . Khoản 4 . d ) Quan_trắc và phân_tích , đánh_giá tác_động môi_trường ; đo_đạc các chỉ_tiêu ô_nhiễm môi_trường ; vệ_sinh lao_động và nhân trắc_học .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "d",
+    ")",
+    "Quan_trắc",
+    "và",
+    "phân_tích",
+    ",",
+    "đánh_giá",
+    "tác_động",
+    "môi_trường",
+    ";",
+    "đo_đạc",
+    "các",
+    "chỉ_tiêu",
+    "ô_nhiễm",
+    "môi_trường",
+    ";",
+    "vệ_sinh",
+    "lao_động",
+    "và",
+    "nhân",
+    "trắc_học",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 35,
+     "text": "d ) Quan_trắc và phân_tích , đánh_giá tác_động môi_trường ; đo_đạc các chỉ_tiêu ô_nhiễm môi_trường ; vệ_sinh lao_động và nhân trắc_học ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_38",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . Khoản 4 . đ ) Tư_vấn , thiết_kế , thẩm_định , đánh_giá hệ_thống kiểm_soát và xử_lý ô_nhiễm môi_trường lao_động ; cung_ứng trang thiết_bị bảo_hộ lao_động và thiết_bị an_toàn ; đầu_tư , chuyển_giao công_nghệ , cung_ứng hệ_thống kiểm_soát , xử_lý ô_nhiễm môi_trường .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "đ",
+    ")",
+    "Tư_vấn",
+    ",",
+    "thiết_kế",
+    ",",
+    "thẩm_định",
+    ",",
+    "đánh_giá",
+    "hệ_thống",
+    "kiểm_soát",
+    "và",
+    "xử_lý",
+    "ô_nhiễm",
+    "môi_trường",
+    "lao_động",
+    ";",
+    "cung_ứng",
+    "trang",
+    "thiết_bị",
+    "bảo_hộ",
+    "lao_động",
+    "và",
+    "thiết_bị",
+    "an_toàn",
+    ";",
+    "đầu_tư",
+    ",",
+    "chuyển_giao",
+    "công_nghệ",
+    ",",
+    "cung_ứng",
+    "hệ_thống",
+    "kiểm_soát",
+    ",",
+    "xử_lý",
+    "ô_nhiễm",
+    "môi_trường",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 59,
+     "text": "đ ) Tư_vấn , thiết_kế , thẩm_định , đánh_giá hệ_thống kiểm_soát và xử_lý ô_nhiễm môi_trường lao_động ; cung_ứng trang thiết_bị bảo_hộ lao_động và thiết_bị an_toàn ; đầu_tư , chuyển_giao công_nghệ , cung_ứng hệ_thống kiểm_soát , xử_lý ô_nhiễm môi_trường ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 38,
+     "end": 40,
+     "text": "trang thiết_bị"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_39",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 2 . Khoản 4 . e ) Thực_hiện các dịch_vụ khám chữa bệnh nghề_nghiệp , bệnh liên_quan đến sức_khỏe nghề_nghiệp .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "e",
+    ")",
+    "Thực_hiện",
+    "các",
+    "dịch_vụ",
+    "khám",
+    "chữa",
+    "bệnh",
+    "nghề_nghiệp",
+    ",",
+    "bệnh",
+    "liên_quan",
+    "đến",
+    "sức_khỏe",
+    "nghề_nghiệp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 29,
+     "text": "e ) Thực_hiện các dịch_vụ khám chữa bệnh nghề_nghiệp , bệnh liên_quan đến sức_khỏe nghề_nghiệp ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_40",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 2 . 5 . Thực_hiện các nhiệm_vụ khác được giao .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "5",
+    ".",
+    "Thực_hiện",
+    "các",
+    "nhiệm_vụ",
+    "khác",
+    "được",
+    "giao",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 26,
+     "text": "5 . Thực_hiện các nhiệm_vụ khác được giao ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_41",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 3 . Cơ_cấu tổ_chức của Viện",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Viện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 14,
+     "text": "Điều 3 . Cơ_cấu tổ_chức của Viện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_42",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 3 . 1 . Lãnh_đạo Viện gồm Viện_trưởng và không quá 03 Phó_Viện_trưởng . Viện_trưởng , các Phó_Viện_trưởng do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam quyết_định bổ_nhiệm , miễn_nhiệm theo quy_định . Viện_trưởng chịu trách_nhiệm trước pháp_luật , trước Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam về toàn_bộ hoạt_động của Viện . Phó_Viện_trưởng giúp Viện_trưởng theo phân_công của Viện_trưởng và chịu trách_nhiệm trước pháp_luật , trước Viện_trưởng và Đoàn Chủ_tịch",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Lãnh_đạo",
+    "Viện",
+    "gồm",
+    "Viện_trưởng",
+    "và",
+    "không",
+    "quá",
+    "03",
+    "Phó_Viện_trưởng",
+    ".",
+    "Viện_trưởng",
+    ",",
+    "các",
+    "Phó_Viện_trưởng",
+    "do",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "quyết_định",
+    "bổ_nhiệm",
+    ",",
+    "miễn_nhiệm",
+    "theo",
+    "quy_định",
+    ".",
+    "Viện_trưởng",
+    "chịu",
+    "trách_nhiệm",
+    "trước",
+    "pháp_luật",
+    ",",
+    "trước",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "về",
+    "toàn_bộ",
+    "hoạt_động",
+    "của",
+    "Viện",
+    ".",
+    "Phó_Viện_trưởng",
+    "giúp",
+    "Viện_trưởng",
+    "theo",
+    "phân_công",
+    "của",
+    "Viện_trưởng",
+    "và",
+    "chịu",
+    "trách_nhiệm",
+    "trước",
+    "pháp_luật",
+    ",",
+    "trước",
+    "Viện_trưởng",
+    "và",
+    "Đoàn",
+    "Chủ_tịch"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 75,
+     "text": "1 . Lãnh_đạo Viện gồm Viện_trưởng và không quá 03 Phó_Viện_trưởng . Viện_trưởng , các Phó_Viện_trưởng do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam quyết_định bổ_nhiệm , miễn_nhiệm theo quy_định . Viện_trưởng chịu trách_nhiệm trước pháp_luật , trước Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam về toàn_bộ hoạt_động của Viện . Phó_Viện_trưởng giúp Viện_trưởng theo phân_công của Viện_trưởng và chịu trách_nhiệm trước pháp_luật , trước Viện_trưởng và Đoàn Chủ_tịch"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 32,
+     "end": 34,
+     "text": "quyết_định bổ_nhiệm"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_43",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 3 . 2 . Cơ_cấu tổ_chức của Viện do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam quyết_định theo quy_định của pháp_luật .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Viện",
+    "do",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "quyết_định",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 35,
+     "text": "2 . Cơ_cấu tổ_chức của Viện do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam quyết_định theo quy_định của pháp_luật ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_44",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 4 . Cơ_chế hoạt_động , nhân_lực , kinh_phí của Viện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Cơ_chế",
+    "hoạt_động",
+    ",",
+    "nhân_lực",
+    ",",
+    "kinh_phí",
+    "của",
+    "Viện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 18,
+     "text": "Điều 4 . Cơ_chế hoạt_động , nhân_lực , kinh_phí của Viện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_45",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 4 . 1 . Viện thực_hiện cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập theo quy_định tại Nghị_định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính_phủ quy_định về cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập và quy_định của pháp_luật . Viện được tổ_chức và hoạt_động theo Điều_lệ do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ban_hành .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Viện",
+    "thực_hiện",
+    "cơ_chế",
+    "tự_chủ",
+    "của",
+    "tổ_chức",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "công_lập",
+    "theo",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "số",
+    "54/2016/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2016",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "cơ_chế",
+    "tự_chủ",
+    "của",
+    "tổ_chức",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "công_lập",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Viện",
+    "được",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "theo",
+    "Điều_lệ",
+    "do",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "ban_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 66,
+     "text": "1 . Viện thực_hiện cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập theo quy_định tại Nghị_định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính_phủ quy_định về cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập và quy_định của pháp_luật . Viện được tổ_chức và hoạt_động theo Điều_lệ do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ban_hành ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 28,
+     "text": "Nghị_định số 54/2016/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 28,
+     "end": 34,
+     "text": "ngày 14 tháng 6 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 36,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 21,
+     "text": "tổ_chức khoa_học và công_nghệ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 41,
+     "end": 45,
+     "text": "tổ_chức khoa_học và công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_46",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 1 . Viện thực_hiện cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập theo quy_định tại Nghị_định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính_phủ quy_định về cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập và quy_định của pháp_luật . Viện được tổ_chức và hoạt_động theo Điều_lệ do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ban_hành .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Viện",
+    "thực_hiện",
+    "cơ_chế",
+    "tự_chủ",
+    "của",
+    "tổ_chức",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "công_lập",
+    "theo",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "số",
+    "54/2016/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2016",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "cơ_chế",
+    "tự_chủ",
+    "của",
+    "tổ_chức",
+    "khoa_học",
+    "và",
+    "công_nghệ",
+    "công_lập",
+    "và",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    ".",
+    "Viện",
+    "được",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "theo",
+    "Điều_lệ",
+    "do",
+    "Đoàn",
+    "Chủ_tịch",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "ban_hành",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 59,
+     "text": "1 . Viện thực_hiện cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập theo quy_định tại Nghị_định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính_phủ quy_định về cơ_chế tự_chủ của tổ_chức khoa_học và công_nghệ công_lập và quy_định của pháp_luật . Viện được tổ_chức và hoạt_động theo Điều_lệ do Đoàn Chủ_tịch Tổng_Liên_đoàn Lao_động Việt_Nam ban_hành ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 21,
+     "text": "Nghị_định số 54/2016/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 15,
+     "end": 18,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 14 tháng 6 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 29,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 10,
+     "end": 14,
+     "text": "tổ_chức khoa_học và công_nghệ"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 38,
+     "text": "tổ_chức khoa_học và công_nghệ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_47",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 4 . 2 . Biên_chế công_chức , viên_chức , số_lượng người làm_việc của Viện theo đề_án vị_trí việc_làm được cấp có thẩm_quyền phê_duyệt theo quy_định của pháp_luật .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Biên_chế",
+    "công_chức",
+    ",",
+    "viên_chức",
+    ",",
+    "số_lượng",
+    "người",
+    "làm_việc",
+    "của",
+    "Viện",
+    "theo",
+    "đề_án",
+    "vị_trí",
+    "việc_làm",
+    "được",
+    "cấp",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 36,
+     "text": "2 . Biên_chế công_chức , viên_chức , số_lượng người làm_việc của Viện theo đề_án vị_trí việc_làm được cấp có thẩm_quyền phê_duyệt theo quy_định của pháp_luật ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "cấp có thẩm_quyền"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 13,
+     "end": 14,
+     "text": "công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 15,
+     "end": 16,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_48",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 2 . Biên_chế công_chức , viên_chức , số_lượng người làm_việc của Viện theo đề_án vị_trí việc_làm được cấp có thẩm_quyền phê_duyệt theo quy_định của pháp_luật .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Biên_chế",
+    "công_chức",
+    ",",
+    "viên_chức",
+    ",",
+    "số_lượng",
+    "người",
+    "làm_việc",
+    "của",
+    "Viện",
+    "theo",
+    "đề_án",
+    "vị_trí",
+    "việc_làm",
+    "được",
+    "cấp",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 29,
+     "text": "2 . Biên_chế công_chức , viên_chức , số_lượng người làm_việc của Viện theo đề_án vị_trí việc_làm được cấp có thẩm_quyền phê_duyệt theo quy_định của pháp_luật ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "cấp có thẩm_quyền"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 6,
+     "end": 7,
+     "text": "công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 8,
+     "end": 9,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_49",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 4 . 3 . Kinh_phí hoạt_động của Viện bao_gồm : Kinh_phí từ ngân_sách nhà_nước hỗ_trợ phù_hợp với chức_năng , nhiệm_vụ của Viện ; kinh_phí do Tổng_Liên_đoàn Lao_động Việt_Nam cấp và từ các nguồn kinh_phí hợp_pháp khác .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Kinh_phí",
+    "hoạt_động",
+    "của",
+    "Viện",
+    "bao_gồm",
+    ":",
+    "Kinh_phí",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    "hỗ_trợ",
+    "phù_hợp",
+    "với",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "của",
+    "Viện",
+    ";",
+    "kinh_phí",
+    "do",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "cấp",
+    "và",
+    "từ",
+    "các",
+    "nguồn",
+    "kinh_phí",
+    "hợp_pháp",
+    "khác",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 45,
+     "text": "3 . Kinh_phí hoạt_động của Viện bao_gồm : Kinh_phí từ ngân_sách nhà_nước hỗ_trợ phù_hợp với chức_năng , nhiệm_vụ của Viện ; kinh_phí do Tổng_Liên_đoàn Lao_động Việt_Nam cấp và từ các nguồn kinh_phí hợp_pháp khác ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 22,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_50",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 3 . Kinh_phí hoạt_động của Viện bao_gồm : Kinh_phí từ ngân_sách nhà_nước hỗ_trợ phù_hợp với chức_năng , nhiệm_vụ của Viện ; kinh_phí do Tổng_Liên_đoàn Lao_động Việt_Nam cấp và từ các nguồn kinh_phí hợp_pháp khác .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Kinh_phí",
+    "hoạt_động",
+    "của",
+    "Viện",
+    "bao_gồm",
+    ":",
+    "Kinh_phí",
+    "từ",
+    "ngân_sách",
+    "nhà_nước",
+    "hỗ_trợ",
+    "phù_hợp",
+    "với",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "của",
+    "Viện",
+    ";",
+    "kinh_phí",
+    "do",
+    "Tổng_Liên_đoàn",
+    "Lao_động",
+    "Việt_Nam",
+    "cấp",
+    "và",
+    "từ",
+    "các",
+    "nguồn",
+    "kinh_phí",
+    "hợp_pháp",
+    "khác",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 38,
+     "text": "3 . Kinh_phí hoạt_động của Viện bao_gồm : Kinh_phí từ ngân_sách nhà_nước hỗ_trợ phù_hợp với chức_năng , nhiệm_vụ của Viện ; kinh_phí do Tổng_Liên_đoàn Lao_động Việt_Nam cấp và từ các nguồn kinh_phí hợp_pháp khác ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 13,
+     "end": 15,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_51",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 5 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 5 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_52",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 5 . 1 . Quyết_định này có hiệu_lực thi_hành từ ngày 15 tháng 7 năm 2017 .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "từ",
+    "ngày",
+    "15",
+    "tháng",
+    "7",
+    "năm",
+    "2017",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 25,
+     "text": "1 . Quyết_định này có hiệu_lực thi_hành từ ngày 15 tháng 7 năm 2017 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_53",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Quyết_định này có hiệu_lực thi_hành từ ngày 15 tháng 7 năm 2017 .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "từ",
+    "ngày",
+    "15",
+    "tháng",
+    "7",
+    "năm",
+    "2017",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 18,
+     "text": "1 . Quyết_định này có hiệu_lực thi_hành từ ngày 15 tháng 7 năm 2017 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_54",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 5 . 2 . Quyết_định này thay_thế Quyết_định số 141/1998/QĐ-TTg ngày 01 tháng 8 năm 1998 của Thủ_tướng Chính_phủ về việc sắp_xếp tổ_chức và bổ_sung chức_năng , nhiệm_vụ của Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "141/1998/QĐ-TTg",
+    "ngày",
+    "01",
+    "tháng",
+    "8",
+    "năm",
+    "1998",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "sắp_xếp",
+    "tổ_chức",
+    "và",
+    "bổ_sung",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "của",
+    "Viện",
+    "Nghiên_cứu",
+    "khoa_học",
+    "kỹ_thuật",
+    "bảo_hộ",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 44,
+     "text": "2 . Quyết_định này thay_thế Quyết_định số 141/1998/QĐ-TTg ngày 01 tháng 8 năm 1998 của Thủ_tướng Chính_phủ về việc sắp_xếp tổ_chức và bổ_sung chức_năng , nhiệm_vụ của Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 15,
+     "end": 18,
+     "text": "Quyết_định số 141/1998/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 18,
+     "end": 24,
+     "text": "ngày 01 tháng 8 năm 1998"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_standalone_55",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Quyết_định này thay_thế Quyết_định số 141/1998/QĐ-TTg ngày 01 tháng 8 năm 1998 của Thủ_tướng Chính_phủ về việc sắp_xếp tổ_chức và bổ_sung chức_năng , nhiệm_vụ của Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "141/1998/QĐ-TTg",
+    "ngày",
+    "01",
+    "tháng",
+    "8",
+    "năm",
+    "1998",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "sắp_xếp",
+    "tổ_chức",
+    "và",
+    "bổ_sung",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "của",
+    "Viện",
+    "Nghiên_cứu",
+    "khoa_học",
+    "kỹ_thuật",
+    "bảo_hộ",
+    "lao_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 37,
+     "text": "2 . Quyết_định này thay_thế Quyết_định số 141/1998/QĐ-TTg ngày 01 tháng 8 năm 1998 của Thủ_tướng Chính_phủ về việc sắp_xếp tổ_chức và bổ_sung chức_năng , nhiệm_vụ của Viện Nghiên_cứu khoa_học kỹ_thuật bảo_hộ lao_động ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Quyết_định số 141/1998/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 01 tháng 8 năm 1998"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_56",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 6 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và Viện_trưởng Viện Khoa_học An_toàn và Vệ_sinh lao_động chịu trách_nhiệm thi_hành Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "trung_ương",
+    "và",
+    "Viện_trưởng",
+    "Viện",
+    "Khoa_học",
+    "An_toàn",
+    "và",
+    "Vệ_sinh",
+    "lao_động",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 55,
+     "text": "Điều 6 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và Viện_trưởng Viện Khoa_học An_toàn và Vệ_sinh lao_động chịu trách_nhiệm thi_hành Quyết_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 32,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 41,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_57",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg ban_hành ngày 29 tháng 05 năm 2017 bởi Thủ_tướng Chính_phủ . Điều 1 . Vị_trí , chức_năng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "29",
+    "tháng",
+    "05",
+    "năm",
+    "2017",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Vị_trí",
+    ",",
+    "chức_năng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 29 tháng 05 năm 2017"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 20,
+     "text": "Điều 1 . Vị_trí , chức_năng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_58",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 3 . Cơ_cấu tổ_chức của Viện",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Viện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 14,
+     "text": "Điều 3 . Cơ_cấu tổ_chức của Viện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_59",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 17/2017/QĐ-TTg . Điều 5 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 5 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#body_context_60",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 17/2017/QĐ-TTg của Thủ_tướng Chính_phủ . Điều 6 . Trách_nhiệm thi_hành",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2017/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2017/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 6 . Trách_nhiệm thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2017_QĐ-TTg_122169#hard_negative_61",
+   "doc": "17_2017_QĐ-TTg_122169",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

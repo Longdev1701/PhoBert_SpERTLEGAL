@@ -1,0 +1,233 @@
+{
+ "doc_id": "09_2024_TT-BXD_169706",
+ "category": "thong_tu",
+ "full_text": "Thông tư số 09/2024/TT-BXD Sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng\nBỘ XÂY DỰNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 09/2024/TT-BXD\nHà Nội, ngày 30 tháng 8 năm 2024\nTHÔNG TƯ\nSửa đổi, bổ sung một số định mức xây dựng ban hành tại\nThông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021\ncủa Bộ trưởng Bộ Xây dựng\nCăn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014 (được sửa đổi, bổ sung tại Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020);\nCăn cứ Nghị định số 52/2022/NĐ-CP ngày 08 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;\nCăn cứ Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng (được sửa đổi, bổ sung một số điều tại Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ);\nTheo đề nghị của Cục trưởng Cục Kinh tế xây dựng và Viện trưởng Viện Kinh tế xây dựng;\nBộ trưởng Bộ Xây dựng ban hành Thông tư sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng.\nĐiều 1. Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này.\nĐiều 2. Quy định chuyển tiếp\nViệc chuyển tiếp áp dụng định mức xây dựng sửa đổi, bổ sung ban hành tại Thông tư này thực hiện theo quy định tại khoản 8 Điều 44 của Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng.\nĐiều 3. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2024./.\nNơi nhận:\n- Thủ tướng, các PTT Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương Đảng và các ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Toà án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục kiểm tra văn bản - Bộ Tư pháp;\n- Các Tập đoàn kinh tế, Tổng công ty nhà nước;\n- Sở Xây dựng các tỉnh, thành phố trực thuộc TW;\n- Công báo; Website Chính phủ; Website Bộ Xây dựng;\n- Lưu: VT; Cục KTXD; Viện KTXD.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\n(Đã ký)\nBùi Xuân Dũng\n",
+ "total_chars": 2635,
+ "total_paras": 40,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 8,
+   "text": "Thông tư"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 12,
+   "end": 26,
+   "text": "09/2024/TT-BXD"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 109,
+   "end": 133,
+   "text": "ngày 31 tháng 8 năm 2021"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 148,
+   "end": 159,
+   "text": "Bộ Xây dựng"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này.",
+   "parent": "e_so_hieu",
+   "start": 1206,
+   "end": 1653,
+   "text": "Điều 1. Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quy định chuyển tiếp",
+   "parent": "e_so_hieu",
+   "start": 1654,
+   "end": 1909,
+   "text": "Điều 2. Quy định chuyển tiếp\nViệc chuyển tiếp áp dụng định mức xây dựng sửa đổi, bổ sung ban hành tại Thông tư này thực hiện theo quy định tại khoản 8 Điều 44 của Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Điều khoản thi hành",
+   "parent": "e_so_hieu",
+   "start": 1910,
+   "end": 2006,
+   "text": "Điều 3. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2024./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 2621,
+   "end": 2634,
+   "text": "Bùi Xuân Dũng"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "09_2024_TT-BXD_169706",
+ "doc": "09_2024_TT-BXD_169706",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "09_2024_TT-BXD_169706",
+   "doc": "09_2024_TT-BXD_169706",
+   "category": "thong_tu",
+   "kind": "document",
+   "text": "Thông tư số 09/2024/TT-BXD Sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng\nBỘ XÂY DỰNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 09/2024/TT-BXD\nHà Nội, ngày 30 tháng 8 năm 2024\nTHÔNG TƯ\nSửa đổi, bổ sung một số định mức xây dựng ban hành tại\nThông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021\ncủa Bộ trưởng Bộ Xây dựng\nCăn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014 (được sửa đổi, bổ sung tại Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020);\nCăn cứ Nghị định số 52/2022/NĐ-CP ngày 08 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;\nCăn cứ Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng (được sửa đổi, bổ sung một số điều tại Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ);\nTheo đề nghị của Cục trưởng Cục Kinh tế xây dựng và Viện trưởng Viện Kinh tế xây dựng;\nBộ trưởng Bộ Xây dựng ban hành Thông tư sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng.\nĐiều 1. Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này.\nĐiều 2. Quy định chuyển tiếp\nViệc chuyển tiếp áp dụng định mức xây dựng sửa đổi, bổ sung ban hành tại Thông tư này thực hiện theo quy định tại khoản 8 Điều 44 của Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng.\nĐiều 3. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2024./.\nNơi nhận:\n- Thủ tướng, các PTT Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương Đảng và các ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Toà án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục kiểm tra văn bản - Bộ Tư pháp;\n- Các Tập đoàn kinh tế, Tổng công ty nhà nước;\n- Sở Xây dựng các tỉnh, thành phố trực thuộc TW;\n- Công báo; Website Chính phủ; Website Bộ Xây dựng;\n- Lưu: VT; Cục KTXD; Viện KTXD.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\n(Đã ký)\nBùi Xuân Dũng\n",
+   "full_text": "Thông tư số 09/2024/TT-BXD Sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng\nBỘ XÂY DỰNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 09/2024/TT-BXD\nHà Nội, ngày 30 tháng 8 năm 2024\nTHÔNG TƯ\nSửa đổi, bổ sung một số định mức xây dựng ban hành tại\nThông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021\ncủa Bộ trưởng Bộ Xây dựng\nCăn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014 (được sửa đổi, bổ sung tại Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020);\nCăn cứ Nghị định số 52/2022/NĐ-CP ngày 08 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;\nCăn cứ Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng (được sửa đổi, bổ sung một số điều tại Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ);\nTheo đề nghị của Cục trưởng Cục Kinh tế xây dựng và Viện trưởng Viện Kinh tế xây dựng;\nBộ trưởng Bộ Xây dựng ban hành Thông tư sửa đổi, bổ sung một số định mức xây dựng ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng.\nĐiều 1. Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này.\nĐiều 2. Quy định chuyển tiếp\nViệc chuyển tiếp áp dụng định mức xây dựng sửa đổi, bổ sung ban hành tại Thông tư này thực hiện theo quy định tại khoản 8 Điều 44 của Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng.\nĐiều 3. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2024./.\nNơi nhận:\n- Thủ tướng, các PTT Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương Đảng và các ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Toà án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục kiểm tra văn bản - Bộ Tư pháp;\n- Các Tập đoàn kinh tế, Tổng công ty nhà nước;\n- Sở Xây dựng các tỉnh, thành phố trực thuộc TW;\n- Công báo; Website Chính phủ; Website Bộ Xây dựng;\n- Lưu: VT; Cục KTXD; Viện KTXD.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\n(Đã ký)\nBùi Xuân Dũng\n",
+   "total_chars": 2635,
+   "total_paras": 40,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 8,
+     "text": "Thông tư"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 12,
+     "end": 26,
+     "text": "09/2024/TT-BXD"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 109,
+     "end": 133,
+     "text": "ngày 31 tháng 8 năm 2021"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 148,
+     "end": 159,
+     "text": "Bộ Xây dựng"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này.",
+     "parent": "e_so_hieu",
+     "start": 1206,
+     "end": 1653,
+     "text": "Điều 1. Sửa đổi, bổ sung một số định mức xây dựng gồm: Định mức dự toán xây dựng công trình, Định mức dự toán lắp đặt máy và thiết bị công nghệ, Định mức dự toán sửa chữa và bảo dưỡng công trình xây dựng, Định mức sử dụng vật liệu xây dựng, Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng đã ban hành tại Thông tư số 12/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng. Chi tiết cụ thể tại các Phụ lục kèm theo Thông tư này."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quy định chuyển tiếp",
+     "parent": "e_so_hieu",
+     "start": 1654,
+     "end": 1909,
+     "text": "Điều 2. Quy định chuyển tiếp\nViệc chuyển tiếp áp dụng định mức xây dựng sửa đổi, bổ sung ban hành tại Thông tư này thực hiện theo quy định tại khoản 8 Điều 44 của Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Điều khoản thi hành",
+     "parent": "e_so_hieu",
+     "start": 1910,
+     "end": 2006,
+     "text": "Điều 3. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2024./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 2621,
+     "end": 2634,
+     "text": "Bùi Xuân Dũng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

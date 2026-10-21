@@ -1,0 +1,209 @@
+{
+ "doc_id": "1583_2007_QĐ-BKH_23993",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 1583/2007/QĐ-BKH Ban hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nQUYẾT ĐỊNH\nBan hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Luật Đấu thầu số 61/2005/QH11 ngày 29 tháng 11 năm 2005 của Quốc hội;\nCăn cứ Điều 54 và khoản 4 Điều 63 của Nghị định số 111/2006/NĐ-CP ngày 29 tháng 09 năm 2006 của Chính phủ về hướng dẫn thi hành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng;\nCăn cứ Nghị định số 61/2003/NĐ-CP ngày 06 tháng 06 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư;\nTheo đề nghị của Vụ trưởng Vụ Quản lý Đấu thầu.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n",
+ "total_chars": 977,
+ "total_paras": 12,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 30,
+   "text": "1583/2007/QĐ-BKH"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 138,
+   "end": 159,
+   "text": "BỘ KẾ HOẠCH VÀ ĐẦU TƯ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 197,
+   "end": 222,
+   "text": "ngày 29 tháng 11 năm 2005"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\".",
+   "parent": "e_so_hieu",
+   "start": 630,
+   "end": 707,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\"."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 708,
+   "end": 789,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 790,
+   "end": 976,
+   "text": "Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./."
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "1583_2007_QĐ-BKH_23993",
+ "doc": "1583_2007_QĐ-BKH_23993",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "1583_2007_QĐ-BKH_23993",
+   "doc": "1583_2007_QĐ-BKH_23993",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 1583/2007/QĐ-BKH Ban hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nQUYẾT ĐỊNH\nBan hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Luật Đấu thầu số 61/2005/QH11 ngày 29 tháng 11 năm 2005 của Quốc hội;\nCăn cứ Điều 54 và khoản 4 Điều 63 của Nghị định số 111/2006/NĐ-CP ngày 29 tháng 09 năm 2006 của Chính phủ về hướng dẫn thi hành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng;\nCăn cứ Nghị định số 61/2003/NĐ-CP ngày 06 tháng 06 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư;\nTheo đề nghị của Vụ trưởng Vụ Quản lý Đấu thầu.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n",
+   "full_text": "Quyết định số 1583/2007/QĐ-BKH Ban hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nQUYẾT ĐỊNH\nBan hành Mẫu hồ sơ mời thầu dịch vụ tư vấn\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Luật Đấu thầu số 61/2005/QH11 ngày 29 tháng 11 năm 2005 của Quốc hội;\nCăn cứ Điều 54 và khoản 4 Điều 63 của Nghị định số 111/2006/NĐ-CP ngày 29 tháng 09 năm 2006 của Chính phủ về hướng dẫn thi hành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng;\nCăn cứ Nghị định số 61/2003/NĐ-CP ngày 06 tháng 06 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư;\nTheo đề nghị của Vụ trưởng Vụ Quản lý Đấu thầu.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\".\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n",
+   "total_chars": 977,
+   "total_paras": 12,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 30,
+     "text": "1583/2007/QĐ-BKH"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 138,
+     "end": 159,
+     "text": "BỘ KẾ HOẠCH VÀ ĐẦU TƯ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 197,
+     "end": 222,
+     "text": "ngày 29 tháng 11 năm 2005"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\".",
+     "parent": "e_so_hieu",
+     "start": 630,
+     "end": 707,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này \"Mẫu hồ sơ mời thầu dịch vụ tư vấn\"."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 708,
+     "end": 789,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 790,
+     "end": 976,
+     "text": "Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./."
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

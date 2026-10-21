@@ -1,0 +1,8985 @@
+{
+ "doc": "09_2020_TT-BKHĐT_145176",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 82,
+ "total_entities": 473,
+ "total_relations": 277,
+ "samples": [
+  {
+   "id": "09_2020_TT-BKHĐT_145176#header_0",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ . Số : 09/2020/TT-BKHĐT . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Hà_Nội , ngày 27 tháng 11 năm 2020 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "KẾ_HOẠCH",
+    "VÀ",
+    "ĐẦU_TƯ",
+    ".",
+    "Số",
+    ":",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 23,
+     "end": 29,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 30,
+     "end": 31,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#signature_1",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG . ( Đã ký ) . Nguyễn_Chí_Dũng",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Chí_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 8,
+     "text": "Nguyễn_Chí_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#meta_2",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ . Số : 09/2020/TT-BKHĐT . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc . Hà_Nội , ngày 27 tháng 11 năm 2020 . THÔNG_TƯ . BỘ_TRƯỞNG . ( Đã ký ) . Nguyễn_Chí_Dũng",
+   "tokens": [
+    "BỘ",
+    "KẾ_HOẠCH",
+    "VÀ",
+    "ĐẦU_TƯ",
+    ".",
+    "Số",
+    ":",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    ".",
+    "THÔNG_TƯ",
+    ".",
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Nguyễn_Chí_Dũng"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "BỘ KẾ_HOẠCH VÀ ĐẦU_TƯ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 30,
+     "end": 31,
+     "text": "THÔNG_TƯ"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 39,
+     "end": 40,
+     "text": "Nguyễn_Chí_Dũng"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 32,
+     "end": 33,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_3",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Quy_định chi_tiết lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 12,
+     "end": 16,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_4",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Quy_định chi_tiết lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương",
+   "tokens": [
+    "Quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương"
+   ],
+   "entities": [
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 3,
+     "end": 7,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_5",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Luật_Đấu_thầu ngày 26 tháng 11 năm 2013 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Luật_Đấu_thầu",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Luật_Đấu_thầu"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 26 tháng 11 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_6",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật_Đấu_thầu ngày 26 tháng 11 năm 2013 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật_Đấu_thầu",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2013",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 2,
+     "text": "Luật_Đấu_thầu"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 2,
+     "end": 8,
+     "text": "ngày 26 tháng 11 năm 2013"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_7",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Nghị_quyết số 72/2018/QH14 ngày 12 tháng 11 năm 2018 của Quốc_hội phê_chuẩn Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương cùng các văn_kiện liên_quan ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "72/2018/QH14",
+    "ngày",
+    "12",
+    "tháng",
+    "11",
+    "năm",
+    "2018",
+    "của",
+    "Quốc_hội",
+    "phê_chuẩn",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "cùng",
+    "các",
+    "văn_kiện",
+    "liên_quan",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_quyết số 72/2018/QH14"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 12 tháng 11 năm 2018"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_8",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_quyết số 72/2018/QH14 ngày 12 tháng 11 năm 2018 của Quốc_hội phê_chuẩn Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương cùng các văn_kiện liên_quan ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "72/2018/QH14",
+    "ngày",
+    "12",
+    "tháng",
+    "11",
+    "năm",
+    "2018",
+    "của",
+    "Quốc_hội",
+    "phê_chuẩn",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "cùng",
+    "các",
+    "văn_kiện",
+    "liên_quan",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_quyết số 72/2018/QH14"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 12 tháng 11 năm 2018"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_9",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "ngày",
+    "24",
+    "tháng",
+    "8",
+    "năm",
+    "2020",
+    "của",
+    "Chính_phủ",
+    "hướng_dẫn",
+    "thực_hiện",
+    "về",
+    "đấu_thầu",
+    "mua_sắm",
+    "theo",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 24 tháng 8 năm 2020"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_10",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "ngày",
+    "24",
+    "tháng",
+    "8",
+    "năm",
+    "2020",
+    "của",
+    "Chính_phủ",
+    "hướng_dẫn",
+    "thực_hiện",
+    "về",
+    "đấu_thầu",
+    "mua_sắm",
+    "theo",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 8 năm 2020"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_11",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Căn_cứ Nghị_định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Kế_hoạch và Đầu_tư ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "86/2017/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "7",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_định số 86/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 25 tháng 7 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 35,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_12",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Kế_hoạch và Đầu_tư ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "86/2017/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "7",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 86/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 7 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 26,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_context_13",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Bộ_trưởng Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư quy_định chi_tiết lập hồ_sơ mời_thầu mua_sắm hàng_hóa đối_với gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 14,
+     "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 19,
+     "end": 23,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#preamble_standalone_14",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư quy_định chi_tiết lập hồ_sơ mời_thầu mua_sắm hàng_hóa đối_với gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương .",
+   "tokens": [
+    "Bộ_trưởng",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "quy_định",
+    "chi_tiết",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 5,
+     "text": "Bộ_trưởng Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 10,
+     "end": 14,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hóa"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_15",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Nghị_định số 95/2020/NĐ-CP ) . [ 1 ]",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "ngày",
+    "24",
+    "tháng",
+    "8",
+    "năm",
+    "2020",
+    "của",
+    "Chính_phủ",
+    "hướng_dẫn",
+    "thực_hiện",
+    "về",
+    "đấu_thầu",
+    "mua_sắm",
+    "theo",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    ")",
+    ".",
+    "[",
+    "1",
+    "]"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 72,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Nghị_định số 95/2020/NĐ-CP ) . [ 1 ]"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 38,
+     "text": "Điều 1 của Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 67,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 30,
+     "end": 32,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 38,
+     "end": 44,
+     "text": "ngày 24 tháng 8 năm 2020"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 46,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 21,
+     "end": 25,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_16",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Nghị_định số 95/2020/NĐ-CP ) . [ 1 ]",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "chi_tiết",
+    "về",
+    "lập",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "đối_với",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "ngày",
+    "24",
+    "tháng",
+    "8",
+    "năm",
+    "2020",
+    "của",
+    "Chính_phủ",
+    "hướng_dẫn",
+    "thực_hiện",
+    "về",
+    "đấu_thầu",
+    "mua_sắm",
+    "theo",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    ")",
+    ".",
+    "[",
+    "1",
+    "]"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 63,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Thông_tư này quy_định chi_tiết về lập hồ_sơ mời_thầu mua_sắm hàng_hoá đối_với gói_thầu thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Nghị_định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính_phủ hướng_dẫn thực_hiện về đấu_thầu mua_sắm theo Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Nghị_định số 95/2020/NĐ-CP ) . [ 1 ]"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 29,
+     "text": "Điều 1 của Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 58,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 29,
+     "end": 35,
+     "text": "ngày 24 tháng 8 năm 2020"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 37,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 12,
+     "end": 16,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_17",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu mua_sắm hàng_hoá thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoặc",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động",
+    "lựa_chọn",
+    "nhà_thầu",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 44,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu mua_sắm hàng_hoá thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 38,
+     "end": 43,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 36,
+     "end": 38,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_18",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu mua_sắm hàng_hoá thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "tham_gia",
+    "hoặc",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động",
+    "lựa_chọn",
+    "nhà_thầu",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "của",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 35,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia hoặc có liên_quan đến hoạt_động lựa_chọn nhà_thầu gói_thầu mua_sắm hàng_hoá thuộc phạm_vi điều_chỉnh quy_định tại Điều 1 của Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 34,
+     "text": "Điều 1 của Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_19",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . Áp_dụng Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Áp_dụng",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 25,
+     "text": "Điều 3 . Áp_dụng Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 21,
+     "end": 25,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_20",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 3 . 1 . Áp_dụng Mẫu hồ_sơ mời_thầu :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Áp_dụng",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 19,
+     "text": "1 . Áp_dụng Mẫu hồ_sơ mời_thầu :"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_21",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 3 . Khoản 1 . a ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 01 ( Mẫu_số 01 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn một túi hồ_sơ ;",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "số",
+    "01",
+    "(",
+    "Mẫu_số",
+    "01",
+    ")",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "đấu_thầu",
+    "rộng_rãi",
+    "theo",
+    "phương_thức",
+    "lựa_chọn",
+    "nhà_thầu",
+    "một",
+    "giai_đoạn",
+    "một",
+    "túi",
+    "hồ_sơ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 43,
+     "text": "a ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 01 ( Mẫu_số 01 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn một túi hồ_sơ ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 27,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 24,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá số 01"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_22",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 1 . a ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 01 ( Mẫu_số 01 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn một túi hồ_sơ ;",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "số",
+    "01",
+    "(",
+    "Mẫu_số",
+    "01",
+    ")",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "đấu_thầu",
+    "rộng_rãi",
+    "theo",
+    "phương_thức",
+    "lựa_chọn",
+    "nhà_thầu",
+    "một",
+    "giai_đoạn",
+    "một",
+    "túi",
+    "hồ_sơ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 34,
+     "text": "a ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 01 ( Mẫu_số 01 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn một túi hồ_sơ ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 16,
+     "end": 18,
+     "text": "Mẫu_số 01"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 9,
+     "end": 15,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá số 01"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_23",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . Khoản 1 . b ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 02 ( Mẫu_số 02 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn hai túi hồ_sơ .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "số",
+    "02",
+    "(",
+    "Mẫu_số",
+    "02",
+    ")",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "đấu_thầu",
+    "rộng_rãi",
+    "theo",
+    "phương_thức",
+    "lựa_chọn",
+    "nhà_thầu",
+    "một",
+    "giai_đoạn",
+    "hai",
+    "túi",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 21,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 22,
+     "end": 50,
+     "text": "b ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 02 ( Mẫu_số 02 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn hai túi hồ_sơ ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "Mẫu_số 02"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 25,
+     "end": 31,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá số 02"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_24",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 1 . b ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 02 ( Mẫu_số 02 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn hai túi hồ_sơ .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "số",
+    "02",
+    "(",
+    "Mẫu_số",
+    "02",
+    ")",
+    "áp_dụng",
+    "cho",
+    "gói_thầu",
+    "đấu_thầu",
+    "rộng_rãi",
+    "theo",
+    "phương_thức",
+    "lựa_chọn",
+    "nhà_thầu",
+    "một",
+    "giai_đoạn",
+    "hai",
+    "túi",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 34,
+     "text": "b ) Mẫu hồ_sơ mời_thầu mua_sắm hàng_hoá số 02 ( Mẫu_số 02 ) áp_dụng cho gói_thầu đấu_thầu rộng_rãi theo phương_thức lựa_chọn nhà_thầu một giai_đoạn hai túi hồ_sơ ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 16,
+     "end": 18,
+     "text": "Mẫu_số 02"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 9,
+     "end": 15,
+     "text": "hồ_sơ mời_thầu mua_sắm hàng_hoá số 02"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_25",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 3 . 2 . Khi lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu gói_thầu mua_sắm hàng_hoá , tổ_chức , cá_nhân phải :",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Khi",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "phải",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 31,
+     "text": "2 . Khi lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu gói_thầu mua_sắm hàng_hoá , tổ_chức , cá_nhân phải :"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 25,
+     "text": "hồ_sơ mời_thầu gói_thầu mua_sắm hàng_hoá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_26",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 3 . Khoản 2 . a ) Căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc cạnh_tranh , công_bằng , minh_bạch và hiệu_quả kinh_tế ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Căn_cứ",
+    "vào",
+    "quy_mô",
+    ",",
+    "tính_chất",
+    "của",
+    "từng",
+    "gói_thầu",
+    "cụ_thể",
+    "để",
+    "đưa",
+    "ra",
+    "các",
+    "yêu_cầu",
+    "phù_hợp",
+    "trên",
+    "cơ_sở",
+    "bảo_đảm",
+    "nguyên_tắc",
+    "cạnh_tranh",
+    ",",
+    "công_bằng",
+    ",",
+    "minh_bạch",
+    "và",
+    "hiệu_quả",
+    "kinh_tế",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 45,
+     "text": "a ) Căn_cứ vào quy_mô , tính_chất của từng gói_thầu cụ_thể để đưa ra các yêu_cầu phù_hợp trên cơ_sở bảo_đảm nguyên_tắc cạnh_tranh , công_bằng , minh_bạch và hiệu_quả kinh_tế ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_27",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 3 . Khoản 2 . b ) Căn_cứ nhu_cầu sử_dụng của hàng_hoá để đưa ra các yêu_cầu về kỹ_thuật ( đặc_tính , thông_số kỹ_thuật … ) bảo_đảm đáp_ứng về công_năng , phù_hợp với nhu_cầu sử_dụng thực_tế cũng như điều_kiện của thị_trường ;",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Căn_cứ",
+    "nhu_cầu",
+    "sử_dụng",
+    "của",
+    "hàng_hoá",
+    "để",
+    "đưa",
+    "ra",
+    "các",
+    "yêu_cầu",
+    "về",
+    "kỹ_thuật",
+    "(",
+    "đặc_tính",
+    ",",
+    "thông_số",
+    "kỹ_thuật",
+    "…",
+    ")",
+    "bảo_đảm",
+    "đáp_ứng",
+    "về",
+    "công_năng",
+    ",",
+    "phù_hợp",
+    "với",
+    "nhu_cầu",
+    "sử_dụng",
+    "thực_tế",
+    "cũng",
+    "như",
+    "điều_kiện",
+    "của",
+    "thị_trường",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 52,
+     "text": "b ) Căn_cứ nhu_cầu sử_dụng của hàng_hoá để đưa ra các yêu_cầu về kỹ_thuật ( đặc_tính , thông_số kỹ_thuật … ) bảo_đảm đáp_ứng về công_năng , phù_hợp với nhu_cầu sử_dụng thực_tế cũng như điều_kiện của thị_trường ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_28",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . Khoản 2 . c ) Trường_hợp đấu_thầu nội khối , trong hồ_sơ mời_thầu ghi rõ chỉ cho phép nhà_thầu nội khối chào hàng_hóa có xuất_xứ từ các Nước thành_viên tham_dự_thầu . Nước thành_viên là nước thỏa_mãn các điều_kiện sau : - Ký_kết Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Hiệp_định CPTPP ) ngày 08 tháng 3 năm 2018 ; - Tại thời_điểm phê_duyệt hồ_sơ mời_thầu của gói_thầu , Hiệp",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Trường_hợp",
+    "đấu_thầu",
+    "nội",
+    "khối",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "ghi",
+    "rõ",
+    "chỉ",
+    "cho",
+    "phép",
+    "nhà_thầu",
+    "nội",
+    "khối",
+    "chào",
+    "hàng_hóa",
+    "có",
+    "xuất_xứ",
+    "từ",
+    "các",
+    "Nước",
+    "thành_viên",
+    "tham_dự_thầu",
+    ".",
+    "Nước",
+    "thành_viên",
+    "là",
+    "nước",
+    "thỏa_mãn",
+    "các",
+    "điều_kiện",
+    "sau",
+    ":",
+    "-",
+    "Ký_kết",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Hiệp_định",
+    "CPTPP",
+    ")",
+    "ngày",
+    "08",
+    "tháng",
+    "3",
+    "năm",
+    "2018",
+    ";",
+    "-",
+    "Tại",
+    "thời_điểm",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "của",
+    "gói_thầu",
+    ",",
+    "Hiệp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 21,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 22,
+     "end": 93,
+     "text": "c ) Trường_hợp đấu_thầu nội khối , trong hồ_sơ mời_thầu ghi rõ chỉ cho phép nhà_thầu nội khối chào hàng_hóa có xuất_xứ từ các Nước thành_viên tham_dự_thầu . Nước thành_viên là nước thỏa_mãn các điều_kiện sau : - Ký_kết Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Hiệp_định CPTPP ) ngày 08 tháng 3 năm 2018 ; - Tại thời_điểm phê_duyệt hồ_sơ mời_thầu của gói_thầu , Hiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 41,
+     "end": 42,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 30,
+     "end": 35,
+     "text": "hồ_sơ mời_thầu ghi rõ chỉ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 87,
+     "end": 91,
+     "text": "hồ_sơ mời_thầu của gói_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_29",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 2 . c ) Trường_hợp đấu_thầu nội khối , trong hồ_sơ mời_thầu ghi rõ chỉ cho phép nhà_thầu nội khối chào hàng_hóa có xuất_xứ từ các Nước thành_viên tham_dự_thầu . Nước thành_viên là nước thỏa_mãn các điều_kiện sau : - Ký_kết Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Hiệp_định CPTPP ) ngày 08 tháng 3 năm 2018 ; - Tại thời_điểm phê_duyệt hồ_sơ mời_thầu của gói_thầu , Hiệp",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "c",
+    ")",
+    "Trường_hợp",
+    "đấu_thầu",
+    "nội",
+    "khối",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "ghi",
+    "rõ",
+    "chỉ",
+    "cho",
+    "phép",
+    "nhà_thầu",
+    "nội",
+    "khối",
+    "chào",
+    "hàng_hóa",
+    "có",
+    "xuất_xứ",
+    "từ",
+    "các",
+    "Nước",
+    "thành_viên",
+    "tham_dự_thầu",
+    ".",
+    "Nước",
+    "thành_viên",
+    "là",
+    "nước",
+    "thỏa_mãn",
+    "các",
+    "điều_kiện",
+    "sau",
+    ":",
+    "-",
+    "Ký_kết",
+    "Hiệp_định",
+    "Đối_tác",
+    "Toàn_diện",
+    "và",
+    "Tiến_bộ",
+    "xuyên",
+    "Thái_Bình_Dương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "Hiệp_định",
+    "CPTPP",
+    ")",
+    "ngày",
+    "08",
+    "tháng",
+    "3",
+    "năm",
+    "2018",
+    ";",
+    "-",
+    "Tại",
+    "thời_điểm",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "của",
+    "gói_thầu",
+    ",",
+    "Hiệp"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 77,
+     "text": "c ) Trường_hợp đấu_thầu nội khối , trong hồ_sơ mời_thầu ghi rõ chỉ cho phép nhà_thầu nội khối chào hàng_hóa có xuất_xứ từ các Nước thành_viên tham_dự_thầu . Nước thành_viên là nước thỏa_mãn các điều_kiện sau : - Ký_kết Hiệp_định Đối_tác Toàn_diện và Tiến_bộ xuyên Thái_Bình_Dương ( sau đây gọi là Hiệp_định CPTPP ) ngày 08 tháng 3 năm 2018 ; - Tại thời_điểm phê_duyệt hồ_sơ mời_thầu của gói_thầu , Hiệp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 14,
+     "end": 19,
+     "text": "hồ_sơ mời_thầu ghi rõ chỉ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 71,
+     "end": 75,
+     "text": "hồ_sơ mời_thầu của gói_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_30",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . Khoản 2 . d ) Không được đưa ra các điều_kiện nhằm hạn_chế sự tham_gia của nhà_thầu hoặc nhằm tạo lợi_thế cho một hoặc một_số nhà_thầu gây ra sự cạnh_tranh không bình_đẳng như nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hoá , kể_cả việc nêu tên nước , nhóm nước , vùng lãnh_thổ gây ra sự phân_biệt đối_xử , trừ trường_hợp đấu_thầu nội khối theo quy_định tại Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP và điểm",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Không",
+    "được",
+    "đưa",
+    "ra",
+    "các",
+    "điều_kiện",
+    "nhằm",
+    "hạn_chế",
+    "sự",
+    "tham_gia",
+    "của",
+    "nhà_thầu",
+    "hoặc",
+    "nhằm",
+    "tạo",
+    "lợi_thế",
+    "cho",
+    "một",
+    "hoặc",
+    "một_số",
+    "nhà_thầu",
+    "gây",
+    "ra",
+    "sự",
+    "cạnh_tranh",
+    "không",
+    "bình_đẳng",
+    "như",
+    "nêu",
+    "nhãn_hiệu",
+    ",",
+    "xuất_xứ",
+    "cụ_thể",
+    "của",
+    "hàng_hoá",
+    ",",
+    "kể_cả",
+    "việc",
+    "nêu",
+    "tên",
+    "nước",
+    ",",
+    "nhóm",
+    "nước",
+    ",",
+    "vùng",
+    "lãnh_thổ",
+    "gây",
+    "ra",
+    "sự",
+    "phân_biệt",
+    "đối_xử",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "đấu_thầu",
+    "nội",
+    "khối",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "4",
+    "và",
+    "Điều",
+    "15",
+    "của",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "và",
+    "điểm"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 21,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 22,
+     "end": 96,
+     "text": "d ) Không được đưa ra các điều_kiện nhằm hạn_chế sự tham_gia của nhà_thầu hoặc nhằm tạo lợi_thế cho một hoặc một_số nhà_thầu gây ra sự cạnh_tranh không bình_đẳng như nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hoá , kể_cả việc nêu tên nước , nhóm nước , vùng lãnh_thổ gây ra sự phân_biệt đối_xử , trừ trường_hợp đấu_thầu nội khối theo quy_định tại Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP và điểm"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 85,
+     "end": 94,
+     "text": "Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 82,
+     "end": 85,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_31",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 2 . d ) Không được đưa ra các điều_kiện nhằm hạn_chế sự tham_gia của nhà_thầu hoặc nhằm tạo lợi_thế cho một hoặc một_số nhà_thầu gây ra sự cạnh_tranh không bình_đẳng như nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hoá , kể_cả việc nêu tên nước , nhóm nước , vùng lãnh_thổ gây ra sự phân_biệt đối_xử , trừ trường_hợp đấu_thầu nội khối theo quy_định tại Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP và điểm",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "d",
+    ")",
+    "Không",
+    "được",
+    "đưa",
+    "ra",
+    "các",
+    "điều_kiện",
+    "nhằm",
+    "hạn_chế",
+    "sự",
+    "tham_gia",
+    "của",
+    "nhà_thầu",
+    "hoặc",
+    "nhằm",
+    "tạo",
+    "lợi_thế",
+    "cho",
+    "một",
+    "hoặc",
+    "một_số",
+    "nhà_thầu",
+    "gây",
+    "ra",
+    "sự",
+    "cạnh_tranh",
+    "không",
+    "bình_đẳng",
+    "như",
+    "nêu",
+    "nhãn_hiệu",
+    ",",
+    "xuất_xứ",
+    "cụ_thể",
+    "của",
+    "hàng_hoá",
+    ",",
+    "kể_cả",
+    "việc",
+    "nêu",
+    "tên",
+    "nước",
+    ",",
+    "nhóm",
+    "nước",
+    ",",
+    "vùng",
+    "lãnh_thổ",
+    "gây",
+    "ra",
+    "sự",
+    "phân_biệt",
+    "đối_xử",
+    ",",
+    "trừ",
+    "trường_hợp",
+    "đấu_thầu",
+    "nội",
+    "khối",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "4",
+    "và",
+    "Điều",
+    "15",
+    "của",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "và",
+    "điểm"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 80,
+     "text": "d ) Không được đưa ra các điều_kiện nhằm hạn_chế sự tham_gia của nhà_thầu hoặc nhằm tạo lợi_thế cho một hoặc một_số nhà_thầu gây ra sự cạnh_tranh không bình_đẳng như nêu nhãn_hiệu , xuất_xứ cụ_thể của hàng_hoá , kể_cả việc nêu tên nước , nhóm nước , vùng lãnh_thổ gây ra sự phân_biệt đối_xử , trừ trường_hợp đấu_thầu nội khối theo quy_định tại Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP và điểm"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 69,
+     "end": 78,
+     "text": "Điều 4 và Điều 15 của Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 66,
+     "end": 69,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_32",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 3 . Khoản 2 . đ ) Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ mời_thầu thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ hơn so với quy_định nêu trong Mẫu hồ_sơ mời_thầu và không trái với quy_định của Hiệp_định CPTPP. Trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ các nội_dung chỉnh_sửa so",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "đ",
+    ")",
+    "Trường_hợp",
+    "có",
+    "chỉnh_sửa",
+    "các",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "thực_hiện",
+    "việc",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "bảo_đảm",
+    "việc",
+    "chỉnh_sửa",
+    "đó",
+    "là",
+    "phù_hợp",
+    ",",
+    "khoa_học",
+    ",",
+    "chặt_chẽ",
+    "hơn",
+    "so",
+    "với",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "và",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP.",
+    "Trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "nêu",
+    "rõ",
+    "các",
+    "nội_dung",
+    "chỉnh_sửa",
+    "so"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 14,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 15,
+     "end": 81,
+     "text": "đ ) Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ mời_thầu thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ hơn so với quy_định nêu trong Mẫu hồ_sơ mời_thầu và không trái với quy_định của Hiệp_định CPTPP. Trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ các nội_dung chỉnh_sửa so"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 25,
+     "end": 27,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 38,
+     "end": 40,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 58,
+     "end": 60,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 72,
+     "end": 74,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_33",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 3 . Khoản 2 . đ ) Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ mời_thầu thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ hơn so với quy_định nêu trong Mẫu hồ_sơ mời_thầu và không trái với quy_định của Hiệp_định CPTPP. Trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ các nội_dung chỉnh_sửa so",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "đ",
+    ")",
+    "Trường_hợp",
+    "có",
+    "chỉnh_sửa",
+    "các",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "thực_hiện",
+    "việc",
+    "lập",
+    ",",
+    "thẩm_định",
+    ",",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "bảo_đảm",
+    "việc",
+    "chỉnh_sửa",
+    "đó",
+    "là",
+    "phù_hợp",
+    ",",
+    "khoa_học",
+    ",",
+    "chặt_chẽ",
+    "hơn",
+    "so",
+    "với",
+    "quy_định",
+    "nêu",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "và",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP.",
+    "Trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "nêu",
+    "rõ",
+    "các",
+    "nội_dung",
+    "chỉnh_sửa",
+    "so"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 72,
+     "text": "đ ) Trường_hợp có chỉnh_sửa các quy_định nêu trong Mẫu hồ_sơ mời_thầu thì tổ_chức , cá_nhân thực_hiện việc lập , thẩm_định , phê_duyệt hồ_sơ mời_thầu phải bảo_đảm việc chỉnh_sửa đó là phù_hợp , khoa_học , chặt_chẽ hơn so với quy_định nêu trong Mẫu hồ_sơ mời_thầu và không trái với quy_định của Hiệp_định CPTPP. Trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ các nội_dung chỉnh_sửa so"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 49,
+     "end": 51,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 63,
+     "end": 65,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_34",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 3 . 3 . Đối_với gói_thầu mua_sắm hàng_hoá áp_dụng hình_thức chỉ_định thầu , có_thể tham_khảo , chỉnh_sửa các Mẫu hồ_sơ mời_thầu để áp_dụng cho phù_hợp .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Đối_với",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hoá",
+    "áp_dụng",
+    "hình_thức",
+    "chỉ_định",
+    "thầu",
+    ",",
+    "có_thể",
+    "tham_khảo",
+    ",",
+    "chỉnh_sửa",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "để",
+    "áp_dụng",
+    "cho",
+    "phù_hợp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 43,
+     "text": "3 . Đối_với gói_thầu mua_sắm hàng_hoá áp_dụng hình_thức chỉ_định thầu , có_thể tham_khảo , chỉnh_sửa các Mẫu hồ_sơ mời_thầu để áp_dụng cho phù_hợp ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 36,
+     "end": 38,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_35",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 4 . Giấy_phép bán hàng của nhà sản_xuất",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "của",
+    "nhà",
+    "sản_xuất"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 25,
+     "text": "Điều 4 . Giấy_phép bán hàng của nhà sản_xuất"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 19,
+     "end": 25,
+     "text": "Giấy_phép bán hàng của nhà sản_xuất"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_36",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 4 . 1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa và được bảo_hành theo quy_định của nhà sản_xuất thì không yêu_cầu nhà_thầu phải nộp Giấy_phép hoặc Giấy_ủy_quyền bán hàng của nhà sản_xuất , đại_lý phân_phối hoặc Giấy chứng_nhận quan_hệ đối_tác hoặc tài_liệu khác có giá_trị tương_đương ( sau đây gọi chung là Giấy_phép bán hàng ) .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "thông_thường",
+    ",",
+    "thông_dụng",
+    ",",
+    "sẵn",
+    "có",
+    "trên",
+    "thị_trường",
+    ",",
+    "đã",
+    "được",
+    "tiêu_chuẩn_hóa",
+    "và",
+    "được",
+    "bảo_hành",
+    "theo",
+    "quy_định",
+    "của",
+    "nhà",
+    "sản_xuất",
+    "thì",
+    "không",
+    "yêu_cầu",
+    "nhà_thầu",
+    "phải",
+    "nộp",
+    "Giấy_phép",
+    "hoặc",
+    "Giấy_ủy_quyền",
+    "bán",
+    "hàng",
+    "của",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "đại_lý",
+    "phân_phối",
+    "hoặc",
+    "Giấy",
+    "chứng_nhận",
+    "quan_hệ",
+    "đối_tác",
+    "hoặc",
+    "tài_liệu",
+    "khác",
+    "có",
+    "giá_trị",
+    "tương_đương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "chung",
+    "là",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 75,
+     "text": "1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa và được bảo_hành theo quy_định của nhà sản_xuất thì không yêu_cầu nhà_thầu phải nộp Giấy_phép hoặc Giấy_ủy_quyền bán hàng của nhà sản_xuất , đại_lý phân_phối hoặc Giấy chứng_nhận quan_hệ đối_tác hoặc tài_liệu khác có giá_trị tương_đương ( sau đây gọi chung là Giấy_phép bán hàng ) ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 70,
+     "end": 73,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 44,
+     "end": 45,
+     "text": "Giấy_ủy_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 54,
+     "end": 58,
+     "text": "Giấy chứng_nhận quan_hệ đối_tác"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_37",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa và được bảo_hành theo quy_định của nhà sản_xuất thì không yêu_cầu nhà_thầu phải nộp Giấy_phép hoặc Giấy_ủy_quyền bán hàng của nhà sản_xuất , đại_lý phân_phối hoặc Giấy chứng_nhận quan_hệ đối_tác hoặc tài_liệu khác có giá_trị tương_đương ( sau đây gọi chung là Giấy_phép bán hàng ) .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "thông_thường",
+    ",",
+    "thông_dụng",
+    ",",
+    "sẵn",
+    "có",
+    "trên",
+    "thị_trường",
+    ",",
+    "đã",
+    "được",
+    "tiêu_chuẩn_hóa",
+    "và",
+    "được",
+    "bảo_hành",
+    "theo",
+    "quy_định",
+    "của",
+    "nhà",
+    "sản_xuất",
+    "thì",
+    "không",
+    "yêu_cầu",
+    "nhà_thầu",
+    "phải",
+    "nộp",
+    "Giấy_phép",
+    "hoặc",
+    "Giấy_ủy_quyền",
+    "bán",
+    "hàng",
+    "của",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "đại_lý",
+    "phân_phối",
+    "hoặc",
+    "Giấy",
+    "chứng_nhận",
+    "quan_hệ",
+    "đối_tác",
+    "hoặc",
+    "tài_liệu",
+    "khác",
+    "có",
+    "giá_trị",
+    "tương_đương",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "chung",
+    "là",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 66,
+     "text": "1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa và được bảo_hành theo quy_định của nhà sản_xuất thì không yêu_cầu nhà_thầu phải nộp Giấy_phép hoặc Giấy_ủy_quyền bán hàng của nhà sản_xuất , đại_lý phân_phối hoặc Giấy chứng_nhận quan_hệ đối_tác hoặc tài_liệu khác có giá_trị tương_đương ( sau đây gọi chung là Giấy_phép bán hàng ) ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 61,
+     "end": 64,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 35,
+     "end": 36,
+     "text": "Giấy_ủy_quyền"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 6,
+     "end": 7,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 45,
+     "end": 49,
+     "text": "Giấy chứng_nhận quan_hệ đối_tác"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_38",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 4 . 2 . Đối_với hàng_hóa đặc_thù , phức_tạp cần sự khẳng_định của nhà sản_xuất , nhà cung_cấp để đảm_bảo tính khả_thi trong việc cung_cấp hàng_hóa khi nhà_thầu trúng_thầu và cần_gắn với trách_nhiệm của nhà sản_xuất trong việc cung_cấp các dịch_vụ sau bán hàng như lắp_đặt , bảo_trì , đào_tạo và các dịch_vụ liên_quan khác , trong hồ_sơ mời_thầu có_thể yêu_cầu nhà_thầu tham_dự_thầu phải cung cấp Giấy_phép bán hàng .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    "cần",
+    "sự",
+    "khẳng_định",
+    "của",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "nhà",
+    "cung_cấp",
+    "để",
+    "đảm_bảo",
+    "tính",
+    "khả_thi",
+    "trong",
+    "việc",
+    "cung_cấp",
+    "hàng_hóa",
+    "khi",
+    "nhà_thầu",
+    "trúng_thầu",
+    "và",
+    "cần_gắn",
+    "với",
+    "trách_nhiệm",
+    "của",
+    "nhà",
+    "sản_xuất",
+    "trong",
+    "việc",
+    "cung_cấp",
+    "các",
+    "dịch_vụ",
+    "sau",
+    "bán",
+    "hàng",
+    "như",
+    "lắp_đặt",
+    ",",
+    "bảo_trì",
+    ",",
+    "đào_tạo",
+    "và",
+    "các",
+    "dịch_vụ",
+    "liên_quan",
+    "khác",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "có_thể",
+    "yêu_cầu",
+    "nhà_thầu",
+    "tham_dự_thầu",
+    "phải",
+    "cung",
+    "cấp",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 80,
+     "text": "2 . Đối_với hàng_hóa đặc_thù , phức_tạp cần sự khẳng_định của nhà sản_xuất , nhà cung_cấp để đảm_bảo tính khả_thi trong việc cung_cấp hàng_hóa khi nhà_thầu trúng_thầu và cần_gắn với trách_nhiệm của nhà sản_xuất trong việc cung_cấp các dịch_vụ sau bán hàng như lắp_đặt , bảo_trì , đào_tạo và các dịch_vụ liên_quan khác , trong hồ_sơ mời_thầu có_thể yêu_cầu nhà_thầu tham_dự_thầu phải cung cấp Giấy_phép bán hàng ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 75,
+     "end": 79,
+     "text": "cấp Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 76,
+     "end": 79,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 67,
+     "end": 69,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 35,
+     "end": 36,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 5,
+     "tail": 8
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 5,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_39",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 2 . Đối_với hàng_hóa đặc_thù , phức_tạp cần sự khẳng_định của nhà sản_xuất , nhà cung_cấp để đảm_bảo tính khả_thi trong việc cung_cấp hàng_hóa khi nhà_thầu trúng_thầu và cần_gắn với trách_nhiệm của nhà sản_xuất trong việc cung_cấp các dịch_vụ sau bán hàng như lắp_đặt , bảo_trì , đào_tạo và các dịch_vụ liên_quan khác , trong hồ_sơ mời_thầu có_thể yêu_cầu nhà_thầu tham_dự_thầu phải cung cấp Giấy_phép bán hàng .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    "cần",
+    "sự",
+    "khẳng_định",
+    "của",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "nhà",
+    "cung_cấp",
+    "để",
+    "đảm_bảo",
+    "tính",
+    "khả_thi",
+    "trong",
+    "việc",
+    "cung_cấp",
+    "hàng_hóa",
+    "khi",
+    "nhà_thầu",
+    "trúng_thầu",
+    "và",
+    "cần_gắn",
+    "với",
+    "trách_nhiệm",
+    "của",
+    "nhà",
+    "sản_xuất",
+    "trong",
+    "việc",
+    "cung_cấp",
+    "các",
+    "dịch_vụ",
+    "sau",
+    "bán",
+    "hàng",
+    "như",
+    "lắp_đặt",
+    ",",
+    "bảo_trì",
+    ",",
+    "đào_tạo",
+    "và",
+    "các",
+    "dịch_vụ",
+    "liên_quan",
+    "khác",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "có_thể",
+    "yêu_cầu",
+    "nhà_thầu",
+    "tham_dự_thầu",
+    "phải",
+    "cung",
+    "cấp",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 71,
+     "text": "2 . Đối_với hàng_hóa đặc_thù , phức_tạp cần sự khẳng_định của nhà sản_xuất , nhà cung_cấp để đảm_bảo tính khả_thi trong việc cung_cấp hàng_hóa khi nhà_thầu trúng_thầu và cần_gắn với trách_nhiệm của nhà sản_xuất trong việc cung_cấp các dịch_vụ sau bán hàng như lắp_đặt , bảo_trì , đào_tạo và các dịch_vụ liên_quan khác , trong hồ_sơ mời_thầu có_thể yêu_cầu nhà_thầu tham_dự_thầu phải cung cấp Giấy_phép bán hàng ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 66,
+     "end": 70,
+     "text": "cấp Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 67,
+     "end": 70,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 58,
+     "end": 60,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 6,
+     "end": 7,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 2,
+     "tail": 4
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 2,
+     "tail": 5
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 2,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_40",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 4 . 3 . Trường_hợp nội_dung Giấy_phép bán hàng chưa đáp_ứng đầy_đủ các điều_kiện theo yêu_cầu của hồ_sơ mời_thầu thì bên mời_thầu phải yêu_cầu nhà_thầu làm rõ về các nội_dung này để có đầy_đủ thông_tin phục_vụ_việc trao hợp_đồng , bao_gồm cho phép nhà_thầu thay_thế hoặc bổ_sung thông_tin về Giấy_phép bán hàng .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Trường_hợp",
+    "nội_dung",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "chưa",
+    "đáp_ứng",
+    "đầy_đủ",
+    "các",
+    "điều_kiện",
+    "theo",
+    "yêu_cầu",
+    "của",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "bên",
+    "mời_thầu",
+    "phải",
+    "yêu_cầu",
+    "nhà_thầu",
+    "làm",
+    "rõ",
+    "về",
+    "các",
+    "nội_dung",
+    "này",
+    "để",
+    "có",
+    "đầy_đủ",
+    "thông_tin",
+    "phục_vụ_việc",
+    "trao",
+    "hợp_đồng",
+    ",",
+    "bao_gồm",
+    "cho",
+    "phép",
+    "nhà_thầu",
+    "thay_thế",
+    "hoặc",
+    "bổ_sung",
+    "thông_tin",
+    "về",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 69,
+     "text": "3 . Trường_hợp nội_dung Giấy_phép bán hàng chưa đáp_ứng đầy_đủ các điều_kiện theo yêu_cầu của hồ_sơ mời_thầu thì bên mời_thầu phải yêu_cầu nhà_thầu làm rõ về các nội_dung này để có đầy_đủ thông_tin phục_vụ_việc trao hợp_đồng , bao_gồm cho phép nhà_thầu thay_thế hoặc bổ_sung thông_tin về Giấy_phép bán hàng ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 23,
+     "end": 26,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 65,
+     "end": 68,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 34,
+     "end": 36,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_41",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 3 . Trường_hợp nội_dung Giấy_phép bán hàng chưa đáp_ứng đầy_đủ các điều_kiện theo yêu_cầu của hồ_sơ mời_thầu thì bên mời_thầu phải yêu_cầu nhà_thầu làm rõ về các nội_dung này để có đầy_đủ thông_tin phục_vụ_việc trao hợp_đồng , bao_gồm cho phép nhà_thầu thay_thế hoặc bổ_sung thông_tin về Giấy_phép bán hàng .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Trường_hợp",
+    "nội_dung",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "chưa",
+    "đáp_ứng",
+    "đầy_đủ",
+    "các",
+    "điều_kiện",
+    "theo",
+    "yêu_cầu",
+    "của",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "bên",
+    "mời_thầu",
+    "phải",
+    "yêu_cầu",
+    "nhà_thầu",
+    "làm",
+    "rõ",
+    "về",
+    "các",
+    "nội_dung",
+    "này",
+    "để",
+    "có",
+    "đầy_đủ",
+    "thông_tin",
+    "phục_vụ_việc",
+    "trao",
+    "hợp_đồng",
+    ",",
+    "bao_gồm",
+    "cho",
+    "phép",
+    "nhà_thầu",
+    "thay_thế",
+    "hoặc",
+    "bổ_sung",
+    "thông_tin",
+    "về",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 53,
+     "text": "3 . Trường_hợp nội_dung Giấy_phép bán hàng chưa đáp_ứng đầy_đủ các điều_kiện theo yêu_cầu của hồ_sơ mời_thầu thì bên mời_thầu phải yêu_cầu nhà_thầu làm rõ về các nội_dung này để có đầy_đủ thông_tin phục_vụ_việc trao hợp_đồng , bao_gồm cho phép nhà_thầu thay_thế hoặc bổ_sung thông_tin về Giấy_phép bán hàng ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 7,
+     "end": 10,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 49,
+     "end": 52,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 20,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_42",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 4 . 4 . Trường_hợp các nhà sản_xuất , đại_lý phân_phối trong lãnh_thổ Việt_Nam cố_tình không cung_cấp cho nhà_thầu Giấy_phép bán hàng mà không có_lý_do chính_đáng , không tuân_thủ các quy_định của pháp_luật về thương_mại và cạnh_tranh , dẫn đến tạo lợi_thế hoặc tạo sự độc_quyền cho nhà_thầu khác thì nhà_thầu phản_ánh đến Bộ Công_Thương để kịp_thời xử_lý .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "các",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "đại_lý",
+    "phân_phối",
+    "trong",
+    "lãnh_thổ",
+    "Việt_Nam",
+    "cố_tình",
+    "không",
+    "cung_cấp",
+    "cho",
+    "nhà_thầu",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "mà",
+    "không",
+    "có_lý_do",
+    "chính_đáng",
+    ",",
+    "không",
+    "tuân_thủ",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thương_mại",
+    "và",
+    "cạnh_tranh",
+    ",",
+    "dẫn",
+    "đến",
+    "tạo",
+    "lợi_thế",
+    "hoặc",
+    "tạo",
+    "sự",
+    "độc_quyền",
+    "cho",
+    "nhà_thầu",
+    "khác",
+    "thì",
+    "nhà_thầu",
+    "phản_ánh",
+    "đến",
+    "Bộ",
+    "Công_Thương",
+    "để",
+    "kịp_thời",
+    "xử_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 69,
+     "text": "4 . Trường_hợp các nhà sản_xuất , đại_lý phân_phối trong lãnh_thổ Việt_Nam cố_tình không cung_cấp cho nhà_thầu Giấy_phép bán hàng mà không có_lý_do chính_đáng , không tuân_thủ các quy_định của pháp_luật về thương_mại và cạnh_tranh , dẫn đến tạo lợi_thế hoặc tạo sự độc_quyền cho nhà_thầu khác thì nhà_thầu phản_ánh đến Bộ Công_Thương để kịp_thời xử_lý ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 32,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 63,
+     "end": 65,
+     "text": "Bộ Công_Thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_43",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 4 . Trường_hợp các nhà sản_xuất , đại_lý phân_phối trong lãnh_thổ Việt_Nam cố_tình không cung_cấp cho nhà_thầu Giấy_phép bán hàng mà không có_lý_do chính_đáng , không tuân_thủ các quy_định của pháp_luật về thương_mại và cạnh_tranh , dẫn đến tạo lợi_thế hoặc tạo sự độc_quyền cho nhà_thầu khác thì nhà_thầu phản_ánh đến Bộ Công_Thương để kịp_thời xử_lý .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "các",
+    "nhà",
+    "sản_xuất",
+    ",",
+    "đại_lý",
+    "phân_phối",
+    "trong",
+    "lãnh_thổ",
+    "Việt_Nam",
+    "cố_tình",
+    "không",
+    "cung_cấp",
+    "cho",
+    "nhà_thầu",
+    "Giấy_phép",
+    "bán",
+    "hàng",
+    "mà",
+    "không",
+    "có_lý_do",
+    "chính_đáng",
+    ",",
+    "không",
+    "tuân_thủ",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thương_mại",
+    "và",
+    "cạnh_tranh",
+    ",",
+    "dẫn",
+    "đến",
+    "tạo",
+    "lợi_thế",
+    "hoặc",
+    "tạo",
+    "sự",
+    "độc_quyền",
+    "cho",
+    "nhà_thầu",
+    "khác",
+    "thì",
+    "nhà_thầu",
+    "phản_ánh",
+    "đến",
+    "Bộ",
+    "Công_Thương",
+    "để",
+    "kịp_thời",
+    "xử_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 60,
+     "text": "4 . Trường_hợp các nhà sản_xuất , đại_lý phân_phối trong lãnh_thổ Việt_Nam cố_tình không cung_cấp cho nhà_thầu Giấy_phép bán hàng mà không có_lý_do chính_đáng , không tuân_thủ các quy_định của pháp_luật về thương_mại và cạnh_tranh , dẫn đến tạo lợi_thế hoặc tạo sự độc_quyền cho nhà_thầu khác thì nhà_thầu phản_ánh đến Bộ Công_Thương để kịp_thời xử_lý ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 23,
+     "text": "Giấy_phép bán hàng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 54,
+     "end": 56,
+     "text": "Bộ Công_Thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_44",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 5 . Yêu_cầu về cung_cấp hàng mẫu",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Yêu_cầu",
+    "về",
+    "cung_cấp",
+    "hàng",
+    "mẫu"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 17,
+     "text": "Điều 5 . Yêu_cầu về cung_cấp hàng mẫu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_45",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 5 . 1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa thì không yêu_cầu nhà_thầu cung_cấp hàng mẫu .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "thông_thường",
+    ",",
+    "thông_dụng",
+    ",",
+    "sẵn",
+    "có",
+    "trên",
+    "thị_trường",
+    ",",
+    "đã",
+    "được",
+    "tiêu_chuẩn_hóa",
+    "thì",
+    "không",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 36,
+     "text": "1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa thì không yêu_cầu nhà_thầu cung_cấp hàng mẫu ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_46",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa thì không yêu_cầu nhà_thầu cung_cấp hàng mẫu .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "thông_thường",
+    ",",
+    "thông_dụng",
+    ",",
+    "sẵn",
+    "có",
+    "trên",
+    "thị_trường",
+    ",",
+    "đã",
+    "được",
+    "tiêu_chuẩn_hóa",
+    "thì",
+    "không",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "1 . Đối_với hàng_hóa thông_thường , thông_dụng , sẵn có trên thị_trường , đã được tiêu_chuẩn_hóa thì không yêu_cầu nhà_thầu cung_cấp hàng mẫu ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 6,
+     "end": 7,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_47",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 5 . 2 . Trường_hợp hàng_hóa của gói_thầu là đặc_thù , phức_tạp , chủ đầu_tư , bên mời_thầu không_thể xác_định được cụ_thể hình_dáng , mẫu_mã của hàng_hóa , cần chế_tạo , sản_xuất đơn_lẻ , riêng_biệt thì có_thể yêu_cầu nhà_thầu cung_cấp hàng mẫu để chứng_minh thông_số kỹ_thuật của hàng_hóa . Trường_hợp yêu_cầu nhà_thầu cung_cấp hàng mẫu , trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ lý_do để chủ đầu",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Trường_hợp",
+    "hàng_hóa",
+    "của",
+    "gói_thầu",
+    "là",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    ",",
+    "chủ",
+    "đầu_tư",
+    ",",
+    "bên",
+    "mời_thầu",
+    "không_thể",
+    "xác_định",
+    "được",
+    "cụ_thể",
+    "hình_dáng",
+    ",",
+    "mẫu_mã",
+    "của",
+    "hàng_hóa",
+    ",",
+    "cần",
+    "chế_tạo",
+    ",",
+    "sản_xuất",
+    "đơn_lẻ",
+    ",",
+    "riêng_biệt",
+    "thì",
+    "có_thể",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    "để",
+    "chứng_minh",
+    "thông_số",
+    "kỹ_thuật",
+    "của",
+    "hàng_hóa",
+    ".",
+    "Trường_hợp",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    ",",
+    "trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "nêu",
+    "rõ",
+    "lý_do",
+    "để",
+    "chủ",
+    "đầu"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 86,
+     "text": "2 . Trường_hợp hàng_hóa của gói_thầu là đặc_thù , phức_tạp , chủ đầu_tư , bên mời_thầu không_thể xác_định được cụ_thể hình_dáng , mẫu_mã của hàng_hóa , cần chế_tạo , sản_xuất đơn_lẻ , riêng_biệt thì có_thể yêu_cầu nhà_thầu cung_cấp hàng mẫu để chứng_minh thông_số kỹ_thuật của hàng_hóa . Trường_hợp yêu_cầu nhà_thầu cung_cấp hàng mẫu , trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ lý_do để chủ đầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 77,
+     "end": 79,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 30,
+     "end": 32,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 43,
+     "end": 44,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 64,
+     "end": 65,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_48",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Trường_hợp hàng_hóa của gói_thầu là đặc_thù , phức_tạp , chủ đầu_tư , bên mời_thầu không_thể xác_định được cụ_thể hình_dáng , mẫu_mã của hàng_hóa , cần chế_tạo , sản_xuất đơn_lẻ , riêng_biệt thì có_thể yêu_cầu nhà_thầu cung_cấp hàng mẫu để chứng_minh thông_số kỹ_thuật của hàng_hóa . Trường_hợp yêu_cầu nhà_thầu cung_cấp hàng mẫu , trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ lý_do để chủ đầu",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Trường_hợp",
+    "hàng_hóa",
+    "của",
+    "gói_thầu",
+    "là",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    ",",
+    "chủ",
+    "đầu_tư",
+    ",",
+    "bên",
+    "mời_thầu",
+    "không_thể",
+    "xác_định",
+    "được",
+    "cụ_thể",
+    "hình_dáng",
+    ",",
+    "mẫu_mã",
+    "của",
+    "hàng_hóa",
+    ",",
+    "cần",
+    "chế_tạo",
+    ",",
+    "sản_xuất",
+    "đơn_lẻ",
+    ",",
+    "riêng_biệt",
+    "thì",
+    "có_thể",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    "để",
+    "chứng_minh",
+    "thông_số",
+    "kỹ_thuật",
+    "của",
+    "hàng_hóa",
+    ".",
+    "Trường_hợp",
+    "yêu_cầu",
+    "nhà_thầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    ",",
+    "trong",
+    "tờ_trình",
+    "đề_nghị",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "nêu",
+    "rõ",
+    "lý_do",
+    "để",
+    "chủ",
+    "đầu"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 70,
+     "text": "2 . Trường_hợp hàng_hóa của gói_thầu là đặc_thù , phức_tạp , chủ đầu_tư , bên mời_thầu không_thể xác_định được cụ_thể hình_dáng , mẫu_mã của hàng_hóa , cần chế_tạo , sản_xuất đơn_lẻ , riêng_biệt thì có_thể yêu_cầu nhà_thầu cung_cấp hàng mẫu để chứng_minh thông_số kỹ_thuật của hàng_hóa . Trường_hợp yêu_cầu nhà_thầu cung_cấp hàng mẫu , trong tờ_trình đề_nghị phê_duyệt hồ_sơ mời_thầu phải nêu rõ lý_do để chủ đầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 61,
+     "end": 63,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 16,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 6,
+     "end": 7,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 48,
+     "end": 49,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_49",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 5 . 3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu cung_cấp hàng mẫu , nhà có_thể nộp bổ_sung hàng mẫu sau thời_điểm đóng thầu .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Trường_hợp",
+    "hồ_sơ",
+    "mời_thầu",
+    "có",
+    "yêu_cầu",
+    "cung_cấp",
+    "hàng",
+    "mẫu",
+    ",",
+    "nhà",
+    "có_thể",
+    "nộp",
+    "bổ_sung",
+    "hàng",
+    "mẫu",
+    "sau",
+    "thời_điểm",
+    "đóng",
+    "thầu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 34,
+     "text": "3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu cung_cấp hàng mẫu , nhà có_thể nộp bổ_sung hàng mẫu sau thời_điểm đóng thầu ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 17,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_50",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 6 . Yêu_cầu về huy_động nhân_sự thực_hiện gói_thầu",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Yêu_cầu",
+    "về",
+    "huy_động",
+    "nhân_sự",
+    "thực_hiện",
+    "gói_thầu"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 25,
+     "text": "Điều 6 . Yêu_cầu về huy_động nhân_sự thực_hiện gói_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_51",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 6 . 1 . Đối_với phần công_việc cung_cấp hàng_hóa , hồ_sơ mời_thầu không được đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "phần",
+    "công_việc",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "hồ_sơ",
+    "mời_thầu",
+    "không",
+    "được",
+    "đưa",
+    "ra",
+    "yêu_cầu",
+    "về",
+    "huy_động",
+    "nhân_sự",
+    "chủ_chốt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 39,
+     "text": "1 . Đối_với phần công_việc cung_cấp hàng_hóa , hồ_sơ mời_thầu không được đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 27,
+     "end": 29,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_52",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Đối_với phần công_việc cung_cấp hàng_hóa , hồ_sơ mời_thầu không được đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "phần",
+    "công_việc",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "hồ_sơ",
+    "mời_thầu",
+    "không",
+    "được",
+    "đưa",
+    "ra",
+    "yêu_cầu",
+    "về",
+    "huy_động",
+    "nhân_sự",
+    "chủ_chốt",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 23,
+     "text": "1 . Đối_với phần công_việc cung_cấp hàng_hóa , hồ_sơ mời_thầu không được đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 11,
+     "end": 13,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 10,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_53",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 6 . 2 . Đối_với hàng_hóa thông_dụng , sẵn có trên thị_trường , không đòi_hỏi nhân_sự thực_hiện dịch_vụ liên_quan phải có trình_độ cao thì không yêu_cầu về nhân_sự chủ_chốt . Trường_hợp các dịch_vụ liên_quan có yếu_tố đặc_thù , phức_tạp cần_thiết phải do nhân_sự có hiểu_biết , nhiều kinh_nghiệm đảm_nhận thì có_thể đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt để thực_hiện các công_việc đặc_thù , phức_tạp này . Trường_hợp",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "hàng_hóa",
+    "thông_dụng",
+    ",",
+    "sẵn",
+    "có",
+    "trên",
+    "thị_trường",
+    ",",
+    "không",
+    "đòi_hỏi",
+    "nhân_sự",
+    "thực_hiện",
+    "dịch_vụ",
+    "liên_quan",
+    "phải",
+    "có",
+    "trình_độ",
+    "cao",
+    "thì",
+    "không",
+    "yêu_cầu",
+    "về",
+    "nhân_sự",
+    "chủ_chốt",
+    ".",
+    "Trường_hợp",
+    "các",
+    "dịch_vụ",
+    "liên_quan",
+    "có",
+    "yếu_tố",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    "cần_thiết",
+    "phải",
+    "do",
+    "nhân_sự",
+    "có",
+    "hiểu_biết",
+    ",",
+    "nhiều",
+    "kinh_nghiệm",
+    "đảm_nhận",
+    "thì",
+    "có_thể",
+    "đưa",
+    "ra",
+    "yêu_cầu",
+    "về",
+    "huy_động",
+    "nhân_sự",
+    "chủ_chốt",
+    "để",
+    "thực_hiện",
+    "các",
+    "công_việc",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    "này",
+    ".",
+    "Trường_hợp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 78,
+     "text": "2 . Đối_với hàng_hóa thông_dụng , sẵn có trên thị_trường , không đòi_hỏi nhân_sự thực_hiện dịch_vụ liên_quan phải có trình_độ cao thì không yêu_cầu về nhân_sự chủ_chốt . Trường_hợp các dịch_vụ liên_quan có yếu_tố đặc_thù , phức_tạp cần_thiết phải do nhân_sự có hiểu_biết , nhiều kinh_nghiệm đảm_nhận thì có_thể đưa ra yêu_cầu về huy_động nhân_sự chủ_chốt để thực_hiện các công_việc đặc_thù , phức_tạp này . Trường_hợp"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_54",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 6 . 3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu huy_động nhân_sự chủ_chốt , trong hồ_sơ dự_thầu , nhà_thầu phải chứng_minh khả_năng sẵn_sàng huy_động các nhân_sự chủ_chốt đã đề_xuất để tham_gia thực_hiện gói_thầu đáp_ứng yêu_cầu của hồ_sơ mời_thầu . Nhân_sự chủ_chốt có_thể thuộc biên_chế của nhà_thầu hoặc do nhà_thầu huy_động . Trường_hợp nhân_sự chủ_chốt do nhà_thầu đề_xuất chưa đáp_ứng yêu_cầu của hồ",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Trường_hợp",
+    "hồ_sơ",
+    "mời_thầu",
+    "có",
+    "yêu_cầu",
+    "huy_động",
+    "nhân_sự",
+    "chủ_chốt",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "dự_thầu",
+    ",",
+    "nhà_thầu",
+    "phải",
+    "chứng_minh",
+    "khả_năng",
+    "sẵn_sàng",
+    "huy_động",
+    "các",
+    "nhân_sự",
+    "chủ_chốt",
+    "đã",
+    "đề_xuất",
+    "để",
+    "tham_gia",
+    "thực_hiện",
+    "gói_thầu",
+    "đáp_ứng",
+    "yêu_cầu",
+    "của",
+    "hồ_sơ",
+    "mời_thầu",
+    ".",
+    "Nhân_sự",
+    "chủ_chốt",
+    "có_thể",
+    "thuộc",
+    "biên_chế",
+    "của",
+    "nhà_thầu",
+    "hoặc",
+    "do",
+    "nhà_thầu",
+    "huy_động",
+    ".",
+    "Trường_hợp",
+    "nhân_sự",
+    "chủ_chốt",
+    "do",
+    "nhà_thầu",
+    "đề_xuất",
+    "chưa",
+    "đáp_ứng",
+    "yêu_cầu",
+    "của",
+    "hồ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 71,
+     "text": "3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu huy_động nhân_sự chủ_chốt , trong hồ_sơ dự_thầu , nhà_thầu phải chứng_minh khả_năng sẵn_sàng huy_động các nhân_sự chủ_chốt đã đề_xuất để tham_gia thực_hiện gói_thầu đáp_ứng yêu_cầu của hồ_sơ mời_thầu . Nhân_sự chủ_chốt có_thể thuộc biên_chế của nhà_thầu hoặc do nhà_thầu huy_động . Trường_hợp nhân_sự chủ_chốt do nhà_thầu đề_xuất chưa đáp_ứng yêu_cầu của hồ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 17,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 24,
+     "end": 26,
+     "text": "hồ_sơ dự_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 45,
+     "end": 47,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_55",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu huy_động nhân_sự chủ_chốt , trong hồ_sơ dự_thầu , nhà_thầu phải chứng_minh khả_năng sẵn_sàng huy_động các nhân_sự chủ_chốt đã đề_xuất để tham_gia thực_hiện gói_thầu đáp_ứng yêu_cầu của hồ_sơ mời_thầu . Nhân_sự chủ_chốt có_thể thuộc biên_chế của nhà_thầu hoặc do nhà_thầu huy_động . Trường_hợp nhân_sự chủ_chốt do nhà_thầu đề_xuất chưa đáp_ứng yêu_cầu của hồ",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Trường_hợp",
+    "hồ_sơ",
+    "mời_thầu",
+    "có",
+    "yêu_cầu",
+    "huy_động",
+    "nhân_sự",
+    "chủ_chốt",
+    ",",
+    "trong",
+    "hồ_sơ",
+    "dự_thầu",
+    ",",
+    "nhà_thầu",
+    "phải",
+    "chứng_minh",
+    "khả_năng",
+    "sẵn_sàng",
+    "huy_động",
+    "các",
+    "nhân_sự",
+    "chủ_chốt",
+    "đã",
+    "đề_xuất",
+    "để",
+    "tham_gia",
+    "thực_hiện",
+    "gói_thầu",
+    "đáp_ứng",
+    "yêu_cầu",
+    "của",
+    "hồ_sơ",
+    "mời_thầu",
+    ".",
+    "Nhân_sự",
+    "chủ_chốt",
+    "có_thể",
+    "thuộc",
+    "biên_chế",
+    "của",
+    "nhà_thầu",
+    "hoặc",
+    "do",
+    "nhà_thầu",
+    "huy_động",
+    ".",
+    "Trường_hợp",
+    "nhân_sự",
+    "chủ_chốt",
+    "do",
+    "nhà_thầu",
+    "đề_xuất",
+    "chưa",
+    "đáp_ứng",
+    "yêu_cầu",
+    "của",
+    "hồ"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 62,
+     "text": "3 . Trường_hợp hồ_sơ mời_thầu có yêu_cầu huy_động nhân_sự chủ_chốt , trong hồ_sơ dự_thầu , nhà_thầu phải chứng_minh khả_năng sẵn_sàng huy_động các nhân_sự chủ_chốt đã đề_xuất để tham_gia thực_hiện gói_thầu đáp_ứng yêu_cầu của hồ_sơ mời_thầu . Nhân_sự chủ_chốt có_thể thuộc biên_chế của nhà_thầu hoặc do nhà_thầu huy_động . Trường_hợp nhân_sự chủ_chốt do nhà_thầu đề_xuất chưa đáp_ứng yêu_cầu của hồ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 17,
+     "text": "hồ_sơ dự_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 36,
+     "end": 38,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_56",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 7 . Hợp_đồng",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Hợp_đồng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 13,
+     "text": "Điều 7 . Hợp_đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_57",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 7 . 1 . Loại hợp_đồng áp_dụng chủ_yếu cho gói_thầu mua_sắm hàng_hóa là hợp_đồng trọn_gói . Trường_hợp hàng_hóa có tính đặc_thù , phức_tạp , quy_mô lớn và thời_gian thực_hiện hợp_đồng trên 18 tháng thì có_thể áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh . Khi áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh , hồ_sơ mời_thầu phải quy_định rõ công_thức điều_chỉnh giá ; trong quá_trình thực_hiện hợp_đồng , trường_hợp có thay_đổi",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Loại",
+    "hợp_đồng",
+    "áp_dụng",
+    "chủ_yếu",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "là",
+    "hợp_đồng",
+    "trọn_gói",
+    ".",
+    "Trường_hợp",
+    "hàng_hóa",
+    "có",
+    "tính",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    ",",
+    "quy_mô",
+    "lớn",
+    "và",
+    "thời_gian",
+    "thực_hiện",
+    "hợp_đồng",
+    "trên",
+    "18",
+    "tháng",
+    "thì",
+    "có_thể",
+    "áp_dụng",
+    "loại",
+    "hợp_đồng",
+    "theo",
+    "đơn_giá",
+    "điều_chỉnh",
+    ".",
+    "Khi",
+    "áp_dụng",
+    "loại",
+    "hợp_đồng",
+    "theo",
+    "đơn_giá",
+    "điều_chỉnh",
+    ",",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "quy_định",
+    "rõ",
+    "công_thức",
+    "điều_chỉnh",
+    "giá",
+    ";",
+    "trong",
+    "quá_trình",
+    "thực_hiện",
+    "hợp_đồng",
+    ",",
+    "trường_hợp",
+    "có",
+    "thay_đổi"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 77,
+     "text": "1 . Loại hợp_đồng áp_dụng chủ_yếu cho gói_thầu mua_sắm hàng_hóa là hợp_đồng trọn_gói . Trường_hợp hàng_hóa có tính đặc_thù , phức_tạp , quy_mô lớn và thời_gian thực_hiện hợp_đồng trên 18 tháng thì có_thể áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh . Khi áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh , hồ_sơ mời_thầu phải quy_định rõ công_thức điều_chỉnh giá ; trong quá_trình thực_hiện hợp_đồng , trường_hợp có thay_đổi"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 40,
+     "end": 43,
+     "text": "trên 18 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 60,
+     "end": 62,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_58",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 1 . Loại hợp_đồng áp_dụng chủ_yếu cho gói_thầu mua_sắm hàng_hóa là hợp_đồng trọn_gói . Trường_hợp hàng_hóa có tính đặc_thù , phức_tạp , quy_mô lớn và thời_gian thực_hiện hợp_đồng trên 18 tháng thì có_thể áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh . Khi áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh , hồ_sơ mời_thầu phải quy_định rõ công_thức điều_chỉnh giá ; trong quá_trình thực_hiện hợp_đồng , trường_hợp có thay_đổi",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Loại",
+    "hợp_đồng",
+    "áp_dụng",
+    "chủ_yếu",
+    "cho",
+    "gói_thầu",
+    "mua_sắm",
+    "hàng_hóa",
+    "là",
+    "hợp_đồng",
+    "trọn_gói",
+    ".",
+    "Trường_hợp",
+    "hàng_hóa",
+    "có",
+    "tính",
+    "đặc_thù",
+    ",",
+    "phức_tạp",
+    ",",
+    "quy_mô",
+    "lớn",
+    "và",
+    "thời_gian",
+    "thực_hiện",
+    "hợp_đồng",
+    "trên",
+    "18",
+    "tháng",
+    "thì",
+    "có_thể",
+    "áp_dụng",
+    "loại",
+    "hợp_đồng",
+    "theo",
+    "đơn_giá",
+    "điều_chỉnh",
+    ".",
+    "Khi",
+    "áp_dụng",
+    "loại",
+    "hợp_đồng",
+    "theo",
+    "đơn_giá",
+    "điều_chỉnh",
+    ",",
+    "hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "quy_định",
+    "rõ",
+    "công_thức",
+    "điều_chỉnh",
+    "giá",
+    ";",
+    "trong",
+    "quá_trình",
+    "thực_hiện",
+    "hợp_đồng",
+    ",",
+    "trường_hợp",
+    "có",
+    "thay_đổi"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 68,
+     "text": "1 . Loại hợp_đồng áp_dụng chủ_yếu cho gói_thầu mua_sắm hàng_hóa là hợp_đồng trọn_gói . Trường_hợp hàng_hóa có tính đặc_thù , phức_tạp , quy_mô lớn và thời_gian thực_hiện hợp_đồng trên 18 tháng thì có_thể áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh . Khi áp_dụng loại hợp_đồng theo đơn_giá điều_chỉnh , hồ_sơ mời_thầu phải quy_định rõ công_thức điều_chỉnh giá ; trong quá_trình thực_hiện hợp_đồng , trường_hợp có thay_đổi"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 31,
+     "end": 34,
+     "text": "trên 18 tháng"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 51,
+     "end": 53,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_59",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 7 . 2 . Hồ_sơ mời_thầu phải bao_gồm Mẫu hợp_đồng và quy_định chi_tiết các điều , khoản của hợp_đồng để nhà_thầu làm cơ_sở chào_thầu và để các bên làm cơ_sở thương_thảo , hoàn_thiện , ký_kết_hợp_đồng .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "2",
+    ".",
+    "Hồ_sơ",
+    "mời_thầu",
+    "phải",
+    "bao_gồm",
+    "Mẫu",
+    "hợp_đồng",
+    "và",
+    "quy_định",
+    "chi_tiết",
+    "các",
+    "điều",
+    ",",
+    "khoản",
+    "của",
+    "hợp_đồng",
+    "để",
+    "nhà_thầu",
+    "làm",
+    "cơ_sở",
+    "chào_thầu",
+    "và",
+    "để",
+    "các",
+    "bên",
+    "làm",
+    "cơ_sở",
+    "thương_thảo",
+    ",",
+    "hoàn_thiện",
+    ",",
+    "ký_kết_hợp_đồng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 46,
+     "text": "2 . Hồ_sơ mời_thầu phải bao_gồm Mẫu hợp_đồng và quy_định chi_tiết các điều , khoản của hợp_đồng để nhà_thầu làm cơ_sở chào_thầu và để các bên làm cơ_sở thương_thảo , hoàn_thiện , ký_kết_hợp_đồng ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 14,
+     "end": 16,
+     "text": "Hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_60",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 7 . 3 . Việc chấm_dứt hợp_đồng tùy_ý nêu tại Mục 29.3 Điều_kiện chung của Hợp_đồng trong Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này chỉ được thực_hiện khi được người có thẩm_quyền cho phép với lý_do hợp_lý .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Việc",
+    "chấm_dứt",
+    "hợp_đồng",
+    "tùy_ý",
+    "nêu",
+    "tại",
+    "Mục",
+    "29.3",
+    "Điều_kiện",
+    "chung",
+    "của",
+    "Hợp_đồng",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "chỉ",
+    "được",
+    "thực_hiện",
+    "khi",
+    "được",
+    "người",
+    "có",
+    "thẩm_quyền",
+    "cho",
+    "phép",
+    "với",
+    "lý_do",
+    "hợp_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 49,
+     "text": "3 . Việc chấm_dứt hợp_đồng tùy_ý nêu tại Mục 29.3 Điều_kiện chung của Hợp_đồng trong Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này chỉ được thực_hiện khi được người có thẩm_quyền cho phép với lý_do hợp_lý ."
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 20,
+     "text": "nêu tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_61",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 3 . Việc chấm_dứt hợp_đồng tùy_ý nêu tại Mục 29.3 Điều_kiện chung của Hợp_đồng trong Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này chỉ được thực_hiện khi được người có thẩm_quyền cho phép với lý_do hợp_lý .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Việc",
+    "chấm_dứt",
+    "hợp_đồng",
+    "tùy_ý",
+    "nêu",
+    "tại",
+    "Mục",
+    "29.3",
+    "Điều_kiện",
+    "chung",
+    "của",
+    "Hợp_đồng",
+    "trong",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "chỉ",
+    "được",
+    "thực_hiện",
+    "khi",
+    "được",
+    "người",
+    "có",
+    "thẩm_quyền",
+    "cho",
+    "phép",
+    "với",
+    "lý_do",
+    "hợp_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "3 . Việc chấm_dứt hợp_đồng tùy_ý nêu tại Mục 29.3 Điều_kiện chung của Hợp_đồng trong Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này chỉ được thực_hiện khi được người có thẩm_quyền cho phép với lý_do hợp_lý ."
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "nêu tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 19,
+     "end": 21,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_62",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 7 . 4 . Hợp_đồng ký_kết giữa chủ đầu_tư với nhà_thầu phải tuân_thủ theo Mẫu hợp_đồng , các điều_kiện hợp_đồng_quy_định trong hồ_sơ mời_thầu và các hiệu_chỉnh , bổ_sung do nhà_thầu đề_xuất được chủ đầu_tư chấp_thuận trong quá_trình thương_thảo , hoàn_thiện hợp_đồng nhưng bảo_đảm không trái với quy_định của pháp_luật về đấu_thầu , quy_định của Hiệp_định CPTPP và quy_định khác của pháp_luật có liên_quan .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "4",
+    ".",
+    "Hợp_đồng",
+    "ký_kết",
+    "giữa",
+    "chủ",
+    "đầu_tư",
+    "với",
+    "nhà_thầu",
+    "phải",
+    "tuân_thủ",
+    "theo",
+    "Mẫu",
+    "hợp_đồng",
+    ",",
+    "các",
+    "điều_kiện",
+    "hợp_đồng_quy_định",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "và",
+    "các",
+    "hiệu_chỉnh",
+    ",",
+    "bổ_sung",
+    "do",
+    "nhà_thầu",
+    "đề_xuất",
+    "được",
+    "chủ",
+    "đầu_tư",
+    "chấp_thuận",
+    "trong",
+    "quá_trình",
+    "thương_thảo",
+    ",",
+    "hoàn_thiện",
+    "hợp_đồng",
+    "nhưng",
+    "bảo_đảm",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "đấu_thầu",
+    ",",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "và",
+    "quy_định",
+    "khác",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 74,
+     "text": "4 . Hợp_đồng ký_kết giữa chủ đầu_tư với nhà_thầu phải tuân_thủ theo Mẫu hợp_đồng , các điều_kiện hợp_đồng_quy_định trong hồ_sơ mời_thầu và các hiệu_chỉnh , bổ_sung do nhà_thầu đề_xuất được chủ đầu_tư chấp_thuận trong quá_trình thương_thảo , hoàn_thiện hợp_đồng nhưng bảo_đảm không trái với quy_định của pháp_luật về đấu_thầu , quy_định của Hiệp_định CPTPP và quy_định khác của pháp_luật có liên_quan ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 31,
+     "end": 33,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 17,
+     "end": 19,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 42,
+     "end": 44,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_63",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 4 . Hợp_đồng ký_kết giữa chủ đầu_tư với nhà_thầu phải tuân_thủ theo Mẫu hợp_đồng , các điều_kiện hợp_đồng_quy_định trong hồ_sơ mời_thầu và các hiệu_chỉnh , bổ_sung do nhà_thầu đề_xuất được chủ đầu_tư chấp_thuận trong quá_trình thương_thảo , hoàn_thiện hợp_đồng nhưng bảo_đảm không trái với quy_định của pháp_luật về đấu_thầu , quy_định của Hiệp_định CPTPP và quy_định khác của pháp_luật có liên_quan .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "4",
+    ".",
+    "Hợp_đồng",
+    "ký_kết",
+    "giữa",
+    "chủ",
+    "đầu_tư",
+    "với",
+    "nhà_thầu",
+    "phải",
+    "tuân_thủ",
+    "theo",
+    "Mẫu",
+    "hợp_đồng",
+    ",",
+    "các",
+    "điều_kiện",
+    "hợp_đồng_quy_định",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "và",
+    "các",
+    "hiệu_chỉnh",
+    ",",
+    "bổ_sung",
+    "do",
+    "nhà_thầu",
+    "đề_xuất",
+    "được",
+    "chủ",
+    "đầu_tư",
+    "chấp_thuận",
+    "trong",
+    "quá_trình",
+    "thương_thảo",
+    ",",
+    "hoàn_thiện",
+    "hợp_đồng",
+    "nhưng",
+    "bảo_đảm",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "đấu_thầu",
+    ",",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "và",
+    "quy_định",
+    "khác",
+    "của",
+    "pháp_luật",
+    "có",
+    "liên_quan",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 65,
+     "text": "4 . Hợp_đồng ký_kết giữa chủ đầu_tư với nhà_thầu phải tuân_thủ theo Mẫu hợp_đồng , các điều_kiện hợp_đồng_quy_định trong hồ_sơ mời_thầu và các hiệu_chỉnh , bổ_sung do nhà_thầu đề_xuất được chủ đầu_tư chấp_thuận trong quá_trình thương_thảo , hoàn_thiện hợp_đồng nhưng bảo_đảm không trái với quy_định của pháp_luật về đấu_thầu , quy_định của Hiệp_định CPTPP và quy_định khác của pháp_luật có liên_quan ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 8,
+     "end": 10,
+     "text": "chủ đầu_tư"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 33,
+     "end": 35,
+     "text": "chủ đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_64",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 8 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 8 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_65",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 8 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2021 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "15",
+    "tháng",
+    "01",
+    "năm",
+    "2021",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 28,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2021 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_66",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2021 .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "15",
+    "tháng",
+    "01",
+    "năm",
+    "2021",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 19,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2021 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_67",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 8 . 2 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã mở_thầu trước ngày Thông_tư này có hiệu_lực thi_hành , việc đánh_giá hồ_sơ dự_thầu và xét_duyệt trúng_thầu thực_hiện theo quy_định nêu trong hồ_sơ mời_thầu nhưng phải bảo_đảm không trái với quy_định của Hiệp_định CPTPP.",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "mở_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    ",",
+    "việc",
+    "đánh_giá",
+    "hồ_sơ",
+    "dự_thầu",
+    "và",
+    "xét_duyệt",
+    "trúng_thầu",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "nêu",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "nhưng",
+    "phải",
+    "bảo_đảm",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 64,
+     "text": "2 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã mở_thầu trước ngày Thông_tư này có hiệu_lực thi_hành , việc đánh_giá hồ_sơ dự_thầu và xét_duyệt trúng_thầu thực_hiện theo quy_định nêu trong hồ_sơ mời_thầu nhưng phải bảo_đảm không trái với quy_định của Hiệp_định CPTPP."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 42,
+     "end": 44,
+     "text": "hồ_sơ dự_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 52,
+     "end": 54,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_68",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 2 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã mở_thầu trước ngày Thông_tư này có hiệu_lực thi_hành , việc đánh_giá hồ_sơ dự_thầu và xét_duyệt trúng_thầu thực_hiện theo quy_định nêu trong hồ_sơ mời_thầu nhưng phải bảo_đảm không trái với quy_định của Hiệp_định CPTPP.",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "mở_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    ",",
+    "việc",
+    "đánh_giá",
+    "hồ_sơ",
+    "dự_thầu",
+    "và",
+    "xét_duyệt",
+    "trúng_thầu",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "nêu",
+    "trong",
+    "hồ_sơ",
+    "mời_thầu",
+    "nhưng",
+    "phải",
+    "bảo_đảm",
+    "không",
+    "trái",
+    "với",
+    "quy_định",
+    "của",
+    "Hiệp_định",
+    "CPTPP."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 48,
+     "text": "2 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã mở_thầu trước ngày Thông_tư này có hiệu_lực thi_hành , việc đánh_giá hồ_sơ dự_thầu và xét_duyệt trúng_thầu thực_hiện theo quy_định nêu trong hồ_sơ mời_thầu nhưng phải bảo_đảm không trái với quy_định của Hiệp_định CPTPP."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 26,
+     "end": 28,
+     "text": "hồ_sơ dự_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 36,
+     "end": 38,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_69",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 8 . 3 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt , phát_hành hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng có thời_điểm đóng thầu sau ngày Thông_tư này có hiệu_lực thi_hành và chưa đến thời_điểm đóng thầu , trường_hợp có nội_dung không phù_hợp hoặc trái với hướng_dẫn nêu tại các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này thì phải sửa_đổi cho phù_hợp .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "phê_duyệt",
+    ",",
+    "phát_hành",
+    "hồ_sơ",
+    "mời_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "nhưng",
+    "có",
+    "thời_điểm",
+    "đóng",
+    "thầu",
+    "sau",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "và",
+    "chưa",
+    "đến",
+    "thời_điểm",
+    "đóng",
+    "thầu",
+    ",",
+    "trường_hợp",
+    "có",
+    "nội_dung",
+    "không",
+    "phù_hợp",
+    "hoặc",
+    "trái",
+    "với",
+    "hướng_dẫn",
+    "nêu",
+    "tại",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "thì",
+    "phải",
+    "sửa_đổi",
+    "cho",
+    "phù_hợp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 81,
+     "text": "3 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt , phát_hành hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng có thời_điểm đóng thầu sau ngày Thông_tư này có hiệu_lực thi_hành và chưa đến thời_điểm đóng thầu , trường_hợp có nội_dung không phù_hợp hoặc trái với hướng_dẫn nêu tại các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này thì phải sửa_đổi cho phù_hợp ."
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 64,
+     "end": 66,
+     "text": "nêu tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 27,
+     "end": 29,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 68,
+     "end": 70,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_70",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 3 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt , phát_hành hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng có thời_điểm đóng thầu sau ngày Thông_tư này có hiệu_lực thi_hành và chưa đến thời_điểm đóng thầu , trường_hợp có nội_dung không phù_hợp hoặc trái với hướng_dẫn nêu tại các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này thì phải sửa_đổi cho phù_hợp .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "3",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "phê_duyệt",
+    ",",
+    "phát_hành",
+    "hồ_sơ",
+    "mời_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "nhưng",
+    "có",
+    "thời_điểm",
+    "đóng",
+    "thầu",
+    "sau",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "và",
+    "chưa",
+    "đến",
+    "thời_điểm",
+    "đóng",
+    "thầu",
+    ",",
+    "trường_hợp",
+    "có",
+    "nội_dung",
+    "không",
+    "phù_hợp",
+    "hoặc",
+    "trái",
+    "với",
+    "hướng_dẫn",
+    "nêu",
+    "tại",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "thì",
+    "phải",
+    "sửa_đổi",
+    "cho",
+    "phù_hợp",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 72,
+     "text": "3 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt , phát_hành hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng có thời_điểm đóng thầu sau ngày Thông_tư này có hiệu_lực thi_hành và chưa đến thời_điểm đóng thầu , trường_hợp có nội_dung không phù_hợp hoặc trái với hướng_dẫn nêu tại các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này thì phải sửa_đổi cho phù_hợp ."
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 55,
+     "end": 57,
+     "text": "nêu tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 20,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 59,
+     "end": 61,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_71",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 8 . 4 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng chưa phát_hành hồ_sơ mời_thầu thì phải sửa_đổi theo các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "4",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "nhưng",
+    "chưa",
+    "phát_hành",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "phải",
+    "sửa_đổi",
+    "theo",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 18,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 19,
+     "end": 60,
+     "text": "4 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng chưa phát_hành hồ_sơ mời_thầu thì phải sửa_đổi theo các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 32,
+     "end": 34,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 44,
+     "end": 46,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 52,
+     "end": 54,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_72",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 4 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng chưa phát_hành hồ_sơ mời_thầu thì phải sửa_đổi theo các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "4",
+    ".",
+    "Đối_với",
+    "các",
+    "gói_thầu",
+    "thuộc",
+    "phạm_vi",
+    "điều_chỉnh",
+    "của",
+    "Hiệp_định",
+    "CPTPP",
+    "đã",
+    "phê_duyệt",
+    "hồ_sơ",
+    "mời_thầu",
+    "trước",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "nhưng",
+    "chưa",
+    "phát_hành",
+    "hồ_sơ",
+    "mời_thầu",
+    "thì",
+    "phải",
+    "sửa_đổi",
+    "theo",
+    "các",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 44,
+     "text": "4 . Đối_với các gói_thầu thuộc phạm_vi điều_chỉnh của Hiệp_định CPTPP đã phê_duyệt hồ_sơ mời_thầu trước ngày Thông_tư này có hiệu_lực thi_hành nhưng chưa phát_hành hồ_sơ mời_thầu thì phải sửa_đổi theo các Mẫu hồ_sơ mời_thầu ban_hành kèm theo Thông_tư này ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "hồ_sơ mời_thầu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 36,
+     "end": 38,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_73",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Kế_hoạch và Đầu_tư ban_hành Thông_tư số 09/2020/TT-BKHĐT . Điều 8 . 5 . Các tổ_chức được liệt_kê tại phụ_lục kèm theo Nghị_định số 95/2020/NĐ-CP và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư để kịp_thời hướng_dẫn .",
+   "tokens": [
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "5",
+    ".",
+    "Các",
+    "tổ_chức",
+    "được",
+    "liệt_kê",
+    "tại",
+    "phụ_lục",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "và",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Thông_tư",
+    "này",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    ",",
+    "nếu",
+    "có",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "gửi",
+    "ý_kiến",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "để",
+    "kịp_thời",
+    "hướng_dẫn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 5,
+     "end": 6,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 7,
+     "end": 8,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 4,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 58,
+     "text": "5 . Các tổ_chức được liệt_kê tại phụ_lục kèm theo Nghị_định số 95/2020/NĐ-CP và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư để kịp_thời hướng_dẫn ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 54,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_standalone_74",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 5 . Các tổ_chức được liệt_kê tại phụ_lục kèm theo Nghị_định số 95/2020/NĐ-CP và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư để kịp_thời hướng_dẫn .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "5",
+    ".",
+    "Các",
+    "tổ_chức",
+    "được",
+    "liệt_kê",
+    "tại",
+    "phụ_lục",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "số",
+    "95/2020/NĐ-CP",
+    "và",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Thông_tư",
+    "này",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    ",",
+    "nếu",
+    "có",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "gửi",
+    "ý_kiến",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "để",
+    "kịp_thời",
+    "hướng_dẫn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 49,
+     "text": "5 . Các tổ_chức được liệt_kê tại phụ_lục kèm theo Nghị_định số 95/2020/NĐ-CP và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị gửi ý_kiến về Bộ Kế_hoạch và Đầu_tư để kịp_thời hướng_dẫn ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 16,
+     "text": "Nghị_định số 95/2020/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 41,
+     "end": 45,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_75",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT ban_hành ngày 27 tháng 11 năm 2020 bởi Bộ Kế_hoạch và Đầu_tư . Điều 1 . Phạm_vi điều_chỉnh",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "ban_hành",
+    "ngày",
+    "27",
+    "tháng",
+    "11",
+    "năm",
+    "2020",
+    "bởi",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 27 tháng 11 năm 2020"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 21,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_76",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 2 . Đối_tượng áp_dụng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 2 . Đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_77",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 3 . 1 . Áp_dụng Mẫu hồ_sơ mời_thầu :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Áp_dụng",
+    "Mẫu",
+    "hồ_sơ",
+    "mời_thầu",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 11,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 12,
+     "end": 19,
+     "text": "1 . Áp_dụng Mẫu hồ_sơ mời_thầu :"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "hồ_sơ mời_thầu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_78",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 7 . Hợp_đồng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Hợp_đồng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 13,
+     "text": "Điều 7 . Hợp_đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#body_context_79",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 09/2020/TT-BKHĐT của Bộ Kế_hoạch và Đầu_tư . Điều 8 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "09/2020/TT-BKHĐT",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "09/2020/TT-BKHĐT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 8,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "DIEU",
+     "start": 9,
+     "end": 14,
+     "text": "Điều 8 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#hard_negative_80",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập – Tự_do – Hạnh_phúc",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "09_2020_TT-BKHĐT_145176#hard_negative_81",
+   "doc": "09_2020_TT-BKHĐT_145176",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "Nơi nhận :",
+   "tokens": [
+    "Nơi",
+    "nhận",
+    ":"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

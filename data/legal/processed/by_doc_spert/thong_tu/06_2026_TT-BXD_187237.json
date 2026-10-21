@@ -1,0 +1,10453 @@
+{
+ "doc": "06_2026_TT-BXD_187237",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 82,
+ "total_entities": 496,
+ "total_relations": 431,
+ "samples": [
+  {
+   "id": "06_2026_TT-BXD_187237#header_0",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ XÂY_DỰNG . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc . Số : 06/2026/TT-BXD . Hà_Nội , ngày 13 tháng 02 năm 2026 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "XÂY_DỰNG",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "06/2026/TT-BXD",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 17,
+     "end": 18,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ XÂY_DỰNG"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 28,
+     "end": 29,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_context_1",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng . tỉnh Cà_Mau và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "tỉnh",
+    "Cà_Mau",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 15,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_standalone_2",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "tỉnh Cà_Mau và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang",
+   "tokens": [
+    "tỉnh",
+    "Cà_Mau",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 8,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_context_3",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng . Căn_cứ Bộ_luật Hàng_hải Việt_Nam ngày 25 tháng 11 năm 2015 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Căn_cứ",
+    "Bộ_luật",
+    "Hàng_hải",
+    "Việt_Nam",
+    "ngày",
+    "25",
+    "tháng",
+    "11",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Bộ_luật Hàng_hải Việt_Nam"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 11 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_standalone_4",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Bộ_luật Hàng_hải Việt_Nam ngày 25 tháng 11 năm 2015 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Bộ_luật",
+    "Hàng_hải",
+    "Việt_Nam",
+    "ngày",
+    "25",
+    "tháng",
+    "11",
+    "năm",
+    "2015",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Bộ_luật Hàng_hải Việt_Nam"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 11 năm 2015"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_context_5",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng . Căn_cứ Nghị_định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Bộ_luật Hàng_hải Việt_Nam về quản_lý hoạt_động hàng_hải và các Nghị_định sửa_đổi , bổ_sung ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "58/2017/NĐ-CP",
+    "ngày",
+    "10",
+    "tháng",
+    "5",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "của",
+    "Bộ_luật",
+    "Hàng_hải",
+    "Việt_Nam",
+    "về",
+    "quản_lý",
+    "hoạt_động",
+    "hàng_hải",
+    "và",
+    "các",
+    "Nghị_định",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 58/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 10 tháng 5 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_standalone_6",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Bộ_luật Hàng_hải Việt_Nam về quản_lý hoạt_động hàng_hải và các Nghị_định sửa_đổi , bổ_sung ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "58/2017/NĐ-CP",
+    "ngày",
+    "10",
+    "tháng",
+    "5",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "của",
+    "Bộ_luật",
+    "Hàng_hải",
+    "Việt_Nam",
+    "về",
+    "quản_lý",
+    "hoạt_động",
+    "hàng_hải",
+    "và",
+    "các",
+    "Nghị_định",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 58/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 10 tháng 5 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_context_7",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng . Căn_cứ Nghị_định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Xây_dựng ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2025/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "02",
+    "năm",
+    "2025",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 33/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 02 năm 2025"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_standalone_8",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Xây_dựng ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2025/NĐ-CP",
+    "ngày",
+    "25",
+    "tháng",
+    "02",
+    "năm",
+    "2025",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 33/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 02 năm 2025"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Xây_dựng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_context_9",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng . Bộ_trưởng Bộ Xây_dựng ban_hành Thông_tư công_bố vùng nước cảng biển , khu_vực hàng_hải thuộc địa_phận tỉnh An_Giang , tỉnh Cà_Mau và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    ",",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    ",",
+    "tỉnh",
+    "Cà_Mau",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 10,
+     "text": "Bộ_trưởng Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 33,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#preamble_standalone_10",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Bộ_trưởng Bộ Xây_dựng ban_hành Thông_tư công_bố vùng nước cảng biển , khu_vực hàng_hải thuộc địa_phận tỉnh An_Giang , tỉnh Cà_Mau và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang .",
+   "tokens": [
+    "Bộ_trưởng",
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    ",",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    ",",
+    "tỉnh",
+    "Cà_Mau",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "Bộ_trưởng Bộ Xây_dựng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 26,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_11",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Công_bố vùng nước cảng biển thuộc địa_phận tỉnh An_Giang . Vùng nước cảng biển thuộc địa_phận tỉnh An_Giang tính theo mực nước thủy_triều lớn nhất bao_gồm các khu_vực sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    ".",
+    "Vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "tính",
+    "theo",
+    "mực",
+    "nước",
+    "thủy_triều",
+    "lớn",
+    "nhất",
+    "bao_gồm",
+    "các",
+    "khu_vực",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 48,
+     "text": "Điều 1 . Công_bố vùng nước cảng biển thuộc địa_phận tỉnh An_Giang . Vùng nước cảng biển thuộc địa_phận tỉnh An_Giang tính theo mực nước thủy_triều lớn nhất bao_gồm các khu_vực sau :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_12",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC1 : 10 ° 10 ’ 13 ” N , 104 ° 35 ’ 59 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "từ",
+    "HC1",
+    "đến",
+    "HC6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HC1",
+    ":",
+    "10",
+    "°",
+    "10",
+    "’",
+    "13",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "35",
+    "’",
+    "59",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 63,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC1 : 10 ° 10 ’ 13 ” N , 104 ° 35 ’ 59 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_13",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC1 : 10 ° 10 ’ 13 ” N , 104 ° 35 ’ 59 ” E ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "từ",
+    "HC1",
+    "đến",
+    "HC6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HC1",
+    ":",
+    "10",
+    "°",
+    "10",
+    "’",
+    "13",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "35",
+    "’",
+    "59",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 49,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC1 : 10 ° 10 ’ 13 ” N , 104 ° 35 ’ 59 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_14",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC3 : 10 ° 00 ’ 00 ” N , 104 ° 33 ’ 36 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "từ",
+    "HC1",
+    "đến",
+    "HC6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HC3",
+    ":",
+    "10",
+    "°",
+    "00",
+    "’",
+    "00",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "33",
+    "’",
+    "36",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 63,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC3 : 10 ° 00 ’ 00 ” N , 104 ° 33 ’ 36 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_15",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC3 : 10 ° 00 ’ 00 ” N , 104 ° 33 ’ 36 ” E ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "từ",
+    "HC1",
+    "đến",
+    "HC6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HC3",
+    ":",
+    "10",
+    "°",
+    "00",
+    "’",
+    "00",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "33",
+    "’",
+    "36",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 49,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC3 : 10 ° 00 ’ 00 ” N , 104 ° 33 ’ 36 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_16",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC5 : 10 ° 08 ’ 39 ” N , 104 ° 35 ’ 57 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "từ",
+    "HC1",
+    "đến",
+    "HC6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HC5",
+    ":",
+    "10",
+    "°",
+    "08",
+    "’",
+    "39",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "35",
+    "’",
+    "57",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 63,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm từ HC1 đến HC6 có tọa_độ sau đây : HC5 : 10 ° 08 ’ 39 ” N , 104 ° 35 ’ 57 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_17",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 1 . b ) Ranh_giới về phía đất_liền : được giới_hạn bởi đoạn_thẳng nối hai điểm bờ nhô xa nhất từ điểm HC1 đến điểm HC6 , từ điểm HC6 chạy dọc theo bờ biển về hướng Nam đến điểm HC5 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "đoạn_thẳng",
+    "nối",
+    "hai",
+    "điểm",
+    "bờ",
+    "nhô",
+    "xa",
+    "nhất",
+    "từ",
+    "điểm",
+    "HC1",
+    "đến",
+    "điểm",
+    "HC6",
+    ",",
+    "từ",
+    "điểm",
+    "HC6",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "biển",
+    "về",
+    "hướng",
+    "Nam",
+    "đến",
+    "điểm",
+    "HC5",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 61,
+     "text": "b ) Ranh_giới về phía đất_liền : được giới_hạn bởi đoạn_thẳng nối hai điểm bờ nhô xa nhất từ điểm HC1 đến điểm HC6 , từ điểm HC6 chạy dọc theo bờ biển về hướng Nam đến điểm HC5 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_18",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 2 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT2 : 10 ° 14 ’ 24 ” N , 104 ° 24 ’ 00 ” E ;",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "BT1",
+    ",",
+    "BT2",
+    ",",
+    "BT3",
+    ",",
+    "BT4",
+    "và",
+    "BT5",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "BT2",
+    ":",
+    "10",
+    "°",
+    "14",
+    "’",
+    "24",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "24",
+    "’",
+    "00",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 61,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT2 : 10 ° 14 ’ 24 ” N , 104 ° 24 ’ 00 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_19",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT2 : 10 ° 14 ’ 24 ” N , 104 ° 24 ’ 00 ” E ;",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "BT1",
+    ",",
+    "BT2",
+    ",",
+    "BT3",
+    ",",
+    "BT4",
+    "và",
+    "BT5",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "BT2",
+    ":",
+    "10",
+    "°",
+    "14",
+    "’",
+    "24",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "24",
+    "’",
+    "00",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 54,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT2 : 10 ° 14 ’ 24 ” N , 104 ° 24 ’ 00 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_20",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 2 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT4 : 10 ° 11 ’ 36 ” N , 104 ° 32 ’ 36 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "BT1",
+    ",",
+    "BT2",
+    ",",
+    "BT3",
+    ",",
+    "BT4",
+    "và",
+    "BT5",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "BT4",
+    ":",
+    "10",
+    "°",
+    "11",
+    "’",
+    "36",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "32",
+    "’",
+    "36",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 69,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BT1 , BT2 , BT3 , BT4 và BT5 có tọa_độ sau đây : BT4 : 10 ° 11 ’ 36 ” N , 104 ° 32 ’ 36 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_21",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 2 . b ) Ranh_giới về phía đất_liền : từ điểm BT1 chạy dọc theo bờ biển về hướng Nam đến điểm BT5 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "BT1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "biển",
+    "về",
+    "hướng",
+    "Nam",
+    "đến",
+    "điểm",
+    "BT5",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 43,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm BT1 chạy dọc theo bờ biển về hướng Nam đến điểm BT5 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_22",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 3 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT1 : 10 ° 21 ’ 56 ” N , 104 ° 26 ’ 28 ” E ;",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "HT1",
+    ",",
+    "HT2",
+    ",",
+    "HT3",
+    "và",
+    "HT4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HT1",
+    ":",
+    "10",
+    "°",
+    "21",
+    "’",
+    "56",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "26",
+    "’",
+    "28",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 59,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT1 : 10 ° 21 ’ 56 ” N , 104 ° 26 ’ 28 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_23",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 3 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT4 : 10 ° 22 ’ 01 ” N , 104 ° 28 ’ 32 ” E.",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "HT1",
+    ",",
+    "HT2",
+    ",",
+    "HT3",
+    "và",
+    "HT4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HT4",
+    ":",
+    "10",
+    "°",
+    "22",
+    "’",
+    "01",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "28",
+    "’",
+    "32",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 65,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT4 : 10 ° 22 ’ 01 ” N , 104 ° 28 ’ 32 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_24",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 3 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT4 : 10 ° 22 ’ 01 ” N , 104 ° 28 ’ 32 ” E.",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "HT1",
+    ",",
+    "HT2",
+    ",",
+    "HT3",
+    "và",
+    "HT4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "HT4",
+    ":",
+    "10",
+    "°",
+    "22",
+    "’",
+    "01",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "28",
+    "’",
+    "32",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 51,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm HT1 , HT2 , HT3 và HT4 có tọa_độ sau đây : HT4 : 10 ° 22 ’ 01 ” N , 104 ° 28 ’ 32 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_25",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 3 . b ) Ranh_giới về phía đất_liền : từ điểm HT1 chạy dọc theo bờ biển đến cửa_sông Tô_Châu ( tính đến hạ_lưu_hành_lang an_toàn_cầu Tô_Châu ) , từ cửa_sông Tô_Châu chạy dọc theo bờ tả_ngạn sông Tô_Châu về phía thượng_lưu đến vị_trí HT6 , chạy cắt ngang sông đến bờ hữu_ngạn sông Tô_Châu tại vị_trí HT5 , tiếp_tục chạy dọc theo bờ kè , bờ biển về phía hạ_lưu sông Tô_Châu đến điểm HT4 . HT6 : 10 ° 23 ’ 00 ”",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "HT1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "biển",
+    "đến",
+    "cửa_sông",
+    "Tô_Châu",
+    "(",
+    "tính",
+    "đến",
+    "hạ_lưu_hành_lang",
+    "an_toàn_cầu",
+    "Tô_Châu",
+    ")",
+    ",",
+    "từ",
+    "cửa_sông",
+    "Tô_Châu",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "tả_ngạn",
+    "sông",
+    "Tô_Châu",
+    "về",
+    "phía",
+    "thượng_lưu",
+    "đến",
+    "vị_trí",
+    "HT6",
+    ",",
+    "chạy",
+    "cắt",
+    "ngang",
+    "sông",
+    "đến",
+    "bờ",
+    "hữu_ngạn",
+    "sông",
+    "Tô_Châu",
+    "tại",
+    "vị_trí",
+    "HT5",
+    ",",
+    "tiếp_tục",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "kè",
+    ",",
+    "bờ",
+    "biển",
+    "về",
+    "phía",
+    "hạ_lưu",
+    "sông",
+    "Tô_Châu",
+    "đến",
+    "điểm",
+    "HT4",
+    ".",
+    "HT6",
+    ":",
+    "10",
+    "°",
+    "23",
+    "’",
+    "00",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 95,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm HT1 chạy dọc theo bờ biển đến cửa_sông Tô_Châu ( tính đến hạ_lưu_hành_lang an_toàn_cầu Tô_Châu ) , từ cửa_sông Tô_Châu chạy dọc theo bờ tả_ngạn sông Tô_Châu về phía thượng_lưu đến vị_trí HT6 , chạy cắt ngang sông đến bờ hữu_ngạn sông Tô_Châu tại vị_trí HT5 , tiếp_tục chạy dọc theo bờ kè , bờ biển về phía hạ_lưu sông Tô_Châu đến điểm HT4 . HT6 : 10 ° 23 ’ 00 ”"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_26",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 3 . b ) Ranh_giới về phía đất_liền : từ điểm HT1 chạy dọc theo bờ biển đến cửa_sông Tô_Châu ( tính đến hạ_lưu_hành_lang an_toàn_cầu Tô_Châu ) , từ cửa_sông Tô_Châu chạy dọc theo bờ tả_ngạn sông Tô_Châu về phía thượng_lưu đến vị_trí HT6 , chạy cắt ngang sông đến bờ hữu_ngạn sông Tô_Châu tại vị_trí HT5 , tiếp_tục chạy dọc theo bờ kè , bờ biển về phía hạ_lưu sông Tô_Châu đến điểm HT4 . HT6 : 10 ° 23 ’ 00 ”",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "HT1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "biển",
+    "đến",
+    "cửa_sông",
+    "Tô_Châu",
+    "(",
+    "tính",
+    "đến",
+    "hạ_lưu_hành_lang",
+    "an_toàn_cầu",
+    "Tô_Châu",
+    ")",
+    ",",
+    "từ",
+    "cửa_sông",
+    "Tô_Châu",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "tả_ngạn",
+    "sông",
+    "Tô_Châu",
+    "về",
+    "phía",
+    "thượng_lưu",
+    "đến",
+    "vị_trí",
+    "HT6",
+    ",",
+    "chạy",
+    "cắt",
+    "ngang",
+    "sông",
+    "đến",
+    "bờ",
+    "hữu_ngạn",
+    "sông",
+    "Tô_Châu",
+    "tại",
+    "vị_trí",
+    "HT5",
+    ",",
+    "tiếp_tục",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "kè",
+    ",",
+    "bờ",
+    "biển",
+    "về",
+    "phía",
+    "hạ_lưu",
+    "sông",
+    "Tô_Châu",
+    "đến",
+    "điểm",
+    "HT4",
+    ".",
+    "HT6",
+    ":",
+    "10",
+    "°",
+    "23",
+    "’",
+    "00",
+    "”"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 88,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm HT1 chạy dọc theo bờ biển đến cửa_sông Tô_Châu ( tính đến hạ_lưu_hành_lang an_toàn_cầu Tô_Châu ) , từ cửa_sông Tô_Châu chạy dọc theo bờ tả_ngạn sông Tô_Châu về phía thượng_lưu đến vị_trí HT6 , chạy cắt ngang sông đến bờ hữu_ngạn sông Tô_Châu tại vị_trí HT5 , tiếp_tục chạy dọc theo bờ kè , bờ biển về phía hạ_lưu sông Tô_Châu đến điểm HT4 . HT6 : 10 ° 23 ’ 00 ”"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_27",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 4 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm DD1 , DD2 , DD3 , DD4 có tọa_độ sau đây : DD1 : 10 ° 14 ’ 30 ” N , 103 ° 56 ’ 47 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "DD1",
+    ",",
+    "DD2",
+    ",",
+    "DD3",
+    ",",
+    "DD4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "DD1",
+    ":",
+    "10",
+    "°",
+    "14",
+    "’",
+    "30",
+    "”",
+    "N",
+    ",",
+    "103",
+    "°",
+    "56",
+    "’",
+    "47",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 66,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm DD1 , DD2 , DD3 , DD4 có tọa_độ sau đây : DD1 : 10 ° 14 ’ 30 ” N , 103 ° 56 ’ 47 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_28",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 4 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm DD1 , DD2 , DD3 , DD4 có tọa_độ sau đây : DD3 : 10 ° 10 ’ 46 ” N , 103 ° 52 ’ 03 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "DD1",
+    ",",
+    "DD2",
+    ",",
+    "DD3",
+    ",",
+    "DD4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "DD3",
+    ":",
+    "10",
+    "°",
+    "10",
+    "’",
+    "46",
+    "”",
+    "N",
+    ",",
+    "103",
+    "°",
+    "52",
+    "’",
+    "03",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 66,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm DD1 , DD2 , DD3 , DD4 có tọa_độ sau đây : DD3 : 10 ° 10 ’ 46 ” N , 103 ° 52 ’ 03 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_29",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . 5 . Khu_vực An_Thới với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Khu_vực",
+    "An_Thới",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 25,
+     "text": "5 . Khu_vực An_Thới với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_30",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 5 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT2 : 10 ° 02 ’ 32 ” N , 103 ° 56 ’ 32 ” E ;",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "AT1",
+    ",",
+    "AT2",
+    ",",
+    "AT3",
+    ",",
+    "AT4",
+    ",",
+    "từ",
+    "điểm",
+    "AT4",
+    "chạy",
+    "dọc",
+    "bờ",
+    "biển",
+    "Hòn",
+    "Roi",
+    "về",
+    "hướng",
+    "Đông",
+    "đến",
+    "điểm",
+    "AT5",
+    ",",
+    "tiếp_tục",
+    "nối_liền",
+    "với",
+    "các",
+    "điểm",
+    "AT6",
+    ",",
+    "AT7",
+    ",",
+    "AT8",
+    ",",
+    "AT9",
+    ",",
+    "AT10",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "AT2",
+    ":",
+    "10",
+    "°",
+    "02",
+    "’",
+    "32",
+    "”",
+    "N",
+    ",",
+    "103",
+    "°",
+    "56",
+    "’",
+    "32",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 90,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT2 : 10 ° 02 ’ 32 ” N , 103 ° 56 ’ 32 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_31",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 5 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT4 : 09 ° 59 ’ 08 ” N , 104 ° 00 ’ 42 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "AT1",
+    ",",
+    "AT2",
+    ",",
+    "AT3",
+    ",",
+    "AT4",
+    ",",
+    "từ",
+    "điểm",
+    "AT4",
+    "chạy",
+    "dọc",
+    "bờ",
+    "biển",
+    "Hòn",
+    "Roi",
+    "về",
+    "hướng",
+    "Đông",
+    "đến",
+    "điểm",
+    "AT5",
+    ",",
+    "tiếp_tục",
+    "nối_liền",
+    "với",
+    "các",
+    "điểm",
+    "AT6",
+    ",",
+    "AT7",
+    ",",
+    "AT8",
+    ",",
+    "AT9",
+    ",",
+    "AT10",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "AT4",
+    ":",
+    "09",
+    "°",
+    "59",
+    "’",
+    "08",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "00",
+    "’",
+    "42",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 98,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT4 : 09 ° 59 ’ 08 ” N , 104 ° 00 ’ 42 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_32",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 5 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT6 : 09 ° 57 ’ 23 ” N , 104 ° 01 ’ 24 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "AT1",
+    ",",
+    "AT2",
+    ",",
+    "AT3",
+    ",",
+    "AT4",
+    ",",
+    "từ",
+    "điểm",
+    "AT4",
+    "chạy",
+    "dọc",
+    "bờ",
+    "biển",
+    "Hòn",
+    "Roi",
+    "về",
+    "hướng",
+    "Đông",
+    "đến",
+    "điểm",
+    "AT5",
+    ",",
+    "tiếp_tục",
+    "nối_liền",
+    "với",
+    "các",
+    "điểm",
+    "AT6",
+    ",",
+    "AT7",
+    ",",
+    "AT8",
+    ",",
+    "AT9",
+    ",",
+    "AT10",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "AT6",
+    ":",
+    "09",
+    "°",
+    "57",
+    "’",
+    "23",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "01",
+    "’",
+    "24",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 97,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT6 : 09 ° 57 ’ 23 ” N , 104 ° 01 ’ 24 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_33",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 5 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT9 : 10 ° 00 ’ 18 ” N , 104 ° 01 ’ 42 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "AT1",
+    ",",
+    "AT2",
+    ",",
+    "AT3",
+    ",",
+    "AT4",
+    ",",
+    "từ",
+    "điểm",
+    "AT4",
+    "chạy",
+    "dọc",
+    "bờ",
+    "biển",
+    "Hòn",
+    "Roi",
+    "về",
+    "hướng",
+    "Đông",
+    "đến",
+    "điểm",
+    "AT5",
+    ",",
+    "tiếp_tục",
+    "nối_liền",
+    "với",
+    "các",
+    "điểm",
+    "AT6",
+    ",",
+    "AT7",
+    ",",
+    "AT8",
+    ",",
+    "AT9",
+    ",",
+    "AT10",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "AT9",
+    ":",
+    "10",
+    "°",
+    "00",
+    "’",
+    "18",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "01",
+    "’",
+    "42",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 98,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm AT1 , AT2 , AT3 , AT4 , từ điểm AT4 chạy dọc bờ biển Hòn Roi về hướng Đông đến điểm AT5 , tiếp_tục nối_liền với các điểm AT6 , AT7 , AT8 , AT9 , AT10 có tọa_độ sau đây : AT9 : 10 ° 00 ’ 18 ” N , 104 ° 01 ’ 42 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_34",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 5 . b ) Ranh_giới về phía đất_liền : từ điểm AT1 chạy dọc theo bờ biển về hướng Nam đến điểm AT10 .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "5",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "AT1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "biển",
+    "về",
+    "hướng",
+    "Nam",
+    "đến",
+    "điểm",
+    "AT10",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 5"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 42,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm AT1 chạy dọc theo bờ biển về hướng Nam đến điểm AT10 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_35",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 6 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BV1 , BV2 , BV3 và BV4 có tọa_độ sau đây : BV1 : 10 ° 10 ’ 00 ” N , 104 ° 02 ’ 51 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "BV1",
+    ",",
+    "BV2",
+    ",",
+    "BV3",
+    "và",
+    "BV4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "BV1",
+    ":",
+    "10",
+    "°",
+    "10",
+    "’",
+    "00",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "02",
+    "’",
+    "51",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 67,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BV1 , BV2 , BV3 và BV4 có tọa_độ sau đây : BV1 : 10 ° 10 ’ 00 ” N , 104 ° 02 ’ 51 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_36",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 6 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BV1 , BV2 , BV3 và BV4 có tọa_độ sau đây : BV3 : 10 ° 03 ’ 40 ” N , 104 ° 04 ’ 56 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "BV1",
+    ",",
+    "BV2",
+    ",",
+    "BV3",
+    "và",
+    "BV4",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "BV3",
+    ":",
+    "10",
+    "°",
+    "03",
+    "’",
+    "40",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "04",
+    "’",
+    "56",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 67,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm BV1 , BV2 , BV3 và BV4 có tọa_độ sau đây : BV3 : 10 ° 03 ’ 40 ” N , 104 ° 04 ’ 56 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_37",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 6 . b ) Ranh_giới về phía đất_liền : từ điểm BV1 chạy dọc theo bờ đến điểm BV5 , cắt ngang rạch Cầu_Sấu tại điểm BV6 , từ điểm BV6 tiếp_tục chạy dọc theo bờ đến điểm BV4 . BV6 : 10 ° 04 ’ 15 ” N , 104 ° 01 ’ 33 ” E.",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "BV1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "đến",
+    "điểm",
+    "BV5",
+    ",",
+    "cắt",
+    "ngang",
+    "rạch",
+    "Cầu_Sấu",
+    "tại",
+    "điểm",
+    "BV6",
+    ",",
+    "từ",
+    "điểm",
+    "BV6",
+    "tiếp_tục",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "đến",
+    "điểm",
+    "BV4",
+    ".",
+    "BV6",
+    ":",
+    "10",
+    "°",
+    "04",
+    "’",
+    "15",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "01",
+    "’",
+    "33",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 68,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm BV1 chạy dọc theo bờ đến điểm BV5 , cắt ngang rạch Cầu_Sấu tại điểm BV6 , từ điểm BV6 tiếp_tục chạy dọc theo bờ đến điểm BV4 . BV6 : 10 ° 04 ’ 15 ” N , 104 ° 01 ’ 33 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_38",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 6 . b ) Ranh_giới về phía đất_liền : từ điểm BV1 chạy dọc theo bờ đến điểm BV5 , cắt ngang rạch Cầu_Sấu tại điểm BV6 , từ điểm BV6 tiếp_tục chạy dọc theo bờ đến điểm BV4 . BV6 : 10 ° 04 ’ 15 ” N , 104 ° 01 ’ 33 ” E.",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "6",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "BV1",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "đến",
+    "điểm",
+    "BV5",
+    ",",
+    "cắt",
+    "ngang",
+    "rạch",
+    "Cầu_Sấu",
+    "tại",
+    "điểm",
+    "BV6",
+    ",",
+    "từ",
+    "điểm",
+    "BV6",
+    "tiếp_tục",
+    "chạy",
+    "dọc",
+    "theo",
+    "bờ",
+    "đến",
+    "điểm",
+    "BV4",
+    ".",
+    "BV6",
+    ":",
+    "10",
+    "°",
+    "04",
+    "’",
+    "15",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "01",
+    "’",
+    "33",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 6"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 61,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm BV1 chạy dọc theo bờ đến điểm BV5 , cắt ngang rạch Cầu_Sấu tại điểm BV6 , từ điểm BV6 tiếp_tục chạy dọc theo bờ đến điểm BV4 . BV6 : 10 ° 04 ’ 15 ” N , 104 ° 01 ’ 33 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_39",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 7 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG1 : 10 ° 00 ’ 42 ” N , 105 ° 04 ’ 00 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "7",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "RG1",
+    ",",
+    "RG2",
+    ",",
+    "RG3",
+    ",",
+    "RG4",
+    ",",
+    "RG5",
+    "và",
+    "RG6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "RG1",
+    ":",
+    "10",
+    "°",
+    "00",
+    "’",
+    "42",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "04",
+    "’",
+    "00",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 7"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 70,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG1 : 10 ° 00 ’ 42 ” N , 105 ° 04 ’ 00 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_40",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 7 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG3 : 09 ° 59 ’ 34 ” N , 104 ° 56 ’ 00 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "7",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "RG1",
+    ",",
+    "RG2",
+    ",",
+    "RG3",
+    ",",
+    "RG4",
+    ",",
+    "RG5",
+    "và",
+    "RG6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "RG3",
+    ":",
+    "09",
+    "°",
+    "59",
+    "’",
+    "34",
+    "”",
+    "N",
+    ",",
+    "104",
+    "°",
+    "56",
+    "’",
+    "00",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 7"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 71,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG3 : 09 ° 59 ’ 34 ” N , 104 ° 56 ’ 00 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_41",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 7 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG5 : 09 ° 58 ’ 00 ” N , 105 ° 02 ’ 42 ” E ;",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "7",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "lần_lượt",
+    "các",
+    "điểm",
+    "RG1",
+    ",",
+    "RG2",
+    ",",
+    "RG3",
+    ",",
+    "RG4",
+    ",",
+    "RG5",
+    "và",
+    "RG6",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "RG5",
+    ":",
+    "09",
+    "°",
+    "58",
+    "’",
+    "00",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "02",
+    "’",
+    "42",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 7"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 63,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối lần_lượt các điểm RG1 , RG2 , RG3 , RG4 , RG5 và RG6 có tọa_độ sau đây : RG5 : 09 ° 58 ’ 00 ” N , 105 ° 02 ’ 42 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_42",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . 8 . Khu_vực Mỹ_Thới với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "8",
+    ".",
+    "Khu_vực",
+    "Mỹ_Thới",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 24,
+     "text": "8 . Khu_vực Mỹ_Thới với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_43",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . Khoản 8 . a ) Ranh_giới về phía hạ_lưu là ranh_giới trên sông Hậu giữa thành_phố Cần_Thơ , tỉnh Đồng_Tháp và tỉnh An_Giang , nối_liền từ điểm MT1 , MT2 , MT3 , MT4 . Tọa_độ như sau : MT2 : 10 ° 19 ’ 35 ” N , 105 ° 29 ’ 37 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "8",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "hạ_lưu",
+    "là",
+    "ranh_giới",
+    "trên",
+    "sông",
+    "Hậu",
+    "giữa",
+    "thành_phố",
+    "Cần_Thơ",
+    ",",
+    "tỉnh",
+    "Đồng_Tháp",
+    "và",
+    "tỉnh",
+    "An_Giang",
+    ",",
+    "nối_liền",
+    "từ",
+    "điểm",
+    "MT1",
+    ",",
+    "MT2",
+    ",",
+    "MT3",
+    ",",
+    "MT4",
+    ".",
+    "Tọa_độ",
+    "như",
+    "sau",
+    ":",
+    "MT2",
+    ":",
+    "10",
+    "°",
+    "19",
+    "’",
+    "35",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "29",
+    "’",
+    "37",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 20,
+     "text": "Khoản 8"
+    },
+    {
+     "type": "DIEM",
+     "start": 21,
+     "end": 75,
+     "text": "a ) Ranh_giới về phía hạ_lưu là ranh_giới trên sông Hậu giữa thành_phố Cần_Thơ , tỉnh Đồng_Tháp và tỉnh An_Giang , nối_liền từ điểm MT1 , MT2 , MT3 , MT4 . Tọa_độ như sau : MT2 : 10 ° 19 ’ 35 ” N , 105 ° 29 ’ 37 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_44",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 1 . Khoản 8 . a ) Ranh_giới về phía hạ_lưu là ranh_giới trên sông Hậu giữa thành_phố Cần_Thơ , tỉnh Đồng_Tháp và tỉnh An_Giang , nối_liền từ điểm MT1 , MT2 , MT3 , MT4 . Tọa_độ như sau : MT4 : 10 ° 20 ’ 19 ” N , 105 ° 29 ’ 19 ” E.",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "8",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "hạ_lưu",
+    "là",
+    "ranh_giới",
+    "trên",
+    "sông",
+    "Hậu",
+    "giữa",
+    "thành_phố",
+    "Cần_Thơ",
+    ",",
+    "tỉnh",
+    "Đồng_Tháp",
+    "và",
+    "tỉnh",
+    "An_Giang",
+    ",",
+    "nối_liền",
+    "từ",
+    "điểm",
+    "MT1",
+    ",",
+    "MT2",
+    ",",
+    "MT3",
+    ",",
+    "MT4",
+    ".",
+    "Tọa_độ",
+    "như",
+    "sau",
+    ":",
+    "MT4",
+    ":",
+    "10",
+    "°",
+    "20",
+    "’",
+    "19",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "29",
+    "’",
+    "19",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 8"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 73,
+     "text": "a ) Ranh_giới về phía hạ_lưu là ranh_giới trên sông Hậu giữa thành_phố Cần_Thơ , tỉnh Đồng_Tháp và tỉnh An_Giang , nối_liền từ điểm MT1 , MT2 , MT3 , MT4 . Tọa_độ như sau : MT4 : 10 ° 20 ’ 19 ” N , 105 ° 29 ’ 19 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_45",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . Khoản 8 . b ) Ranh_giới về phía thượng_lưu là đoạn_thẳng cắt ngang sông Hậu đi qua hai điểm MT5 ( phường Long_Xuyên , tỉnh An_Giang ) và MT6 ( xã Hội_An , tỉnh An_Giang ) tại khu_vực rạch Gòi Lớn . Tọa_độ như sau : MT6 : 10 ° 22 ’ 00 ” N , 105 ° 27 ’ 55 ” E.",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "8",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "thượng_lưu",
+    "là",
+    "đoạn_thẳng",
+    "cắt",
+    "ngang",
+    "sông",
+    "Hậu",
+    "đi",
+    "qua",
+    "hai",
+    "điểm",
+    "MT5",
+    "(",
+    "phường",
+    "Long_Xuyên",
+    ",",
+    "tỉnh",
+    "An_Giang",
+    ")",
+    "và",
+    "MT6",
+    "(",
+    "xã",
+    "Hội_An",
+    ",",
+    "tỉnh",
+    "An_Giang",
+    ")",
+    "tại",
+    "khu_vực",
+    "rạch",
+    "Gòi",
+    "Lớn",
+    ".",
+    "Tọa_độ",
+    "như",
+    "sau",
+    ":",
+    "MT6",
+    ":",
+    "10",
+    "°",
+    "22",
+    "’",
+    "00",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "27",
+    "’",
+    "55",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 8"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 73,
+     "text": "b ) Ranh_giới về phía thượng_lưu là đoạn_thẳng cắt ngang sông Hậu đi qua hai điểm MT5 ( phường Long_Xuyên , tỉnh An_Giang ) và MT6 ( xã Hội_An , tỉnh An_Giang ) tại khu_vực rạch Gòi Lớn . Tọa_độ như sau : MT6 : 10 ° 22 ’ 00 ” N , 105 ° 27 ’ 55 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_46",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . 9 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh An_Giang quy_định tại Thông_tư này được xác_định trên các hải_đồ do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành , bao_gồm : VN4HG013 , VN300033 , VN300034 được cập_nhật mới nhất năm 2025 và Hải_đồ của Hải_quân_nhân_dân Việt_Nam : IA - 100 - 31 xuất_bản năm 2008 , IA - 100 - 32 tái_bản lần thứ nhất năm 2006 . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "9",
+    ".",
+    "Ranh_giới",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "xác_định",
+    "trên",
+    "các",
+    "hải_đồ",
+    "do",
+    "Tổng",
+    "công_ty",
+    "Bảo_đảm",
+    "an_toàn",
+    "hàng_hải",
+    "Việt_Nam",
+    "phát_hành",
+    ",",
+    "bao_gồm",
+    ":",
+    "VN4HG013",
+    ",",
+    "VN300033",
+    ",",
+    "VN300034",
+    "được",
+    "cập_nhật",
+    "mới",
+    "nhất",
+    "năm",
+    "2025",
+    "và",
+    "Hải_đồ",
+    "của",
+    "Hải_quân_nhân_dân",
+    "Việt_Nam",
+    ":",
+    "IA",
+    "-",
+    "100",
+    "-",
+    "31",
+    "xuất_bản",
+    "năm",
+    "2008",
+    ",",
+    "IA",
+    "-",
+    "100",
+    "-",
+    "32",
+    "tái_bản",
+    "lần",
+    "thứ",
+    "nhất",
+    "năm",
+    "2006",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "áp_dụng",
+    "theo",
+    "Hệ",
+    "tọa_độ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 99,
+     "text": "9 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh An_Giang quy_định tại Thông_tư này được xác_định trên các hải_đồ do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành , bao_gồm : VN4HG013 , VN300033 , VN300034 được cập_nhật mới nhất năm 2025 và Hải_đồ của Hải_quân_nhân_dân Việt_Nam : IA - 100 - 31 xuất_bản năm 2008 , IA - 100 - 32 tái_bản lần thứ nhất năm 2006 . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 33,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 92,
+     "end": 94,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 31,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 90,
+     "end": 92,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 40,
+     "end": 44,
+     "text": "công_ty Bảo_đảm an_toàn hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_47",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 9 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh An_Giang quy_định tại Thông_tư này được xác_định trên các hải_đồ do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành , bao_gồm : VN4HG013 , VN300033 , VN300034 được cập_nhật mới nhất năm 2025 và Hải_đồ của Hải_quân_nhân_dân Việt_Nam : IA - 100 - 31 xuất_bản năm 2008 , IA - 100 - 32 tái_bản lần thứ nhất năm 2006 . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "9",
+    ".",
+    "Ranh_giới",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "xác_định",
+    "trên",
+    "các",
+    "hải_đồ",
+    "do",
+    "Tổng",
+    "công_ty",
+    "Bảo_đảm",
+    "an_toàn",
+    "hàng_hải",
+    "Việt_Nam",
+    "phát_hành",
+    ",",
+    "bao_gồm",
+    ":",
+    "VN4HG013",
+    ",",
+    "VN300033",
+    ",",
+    "VN300034",
+    "được",
+    "cập_nhật",
+    "mới",
+    "nhất",
+    "năm",
+    "2025",
+    "và",
+    "Hải_đồ",
+    "của",
+    "Hải_quân_nhân_dân",
+    "Việt_Nam",
+    ":",
+    "IA",
+    "-",
+    "100",
+    "-",
+    "31",
+    "xuất_bản",
+    "năm",
+    "2008",
+    ",",
+    "IA",
+    "-",
+    "100",
+    "-",
+    "32",
+    "tái_bản",
+    "lần",
+    "thứ",
+    "nhất",
+    "năm",
+    "2006",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "áp_dụng",
+    "theo",
+    "Hệ",
+    "tọa_độ"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 84,
+     "text": "9 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh An_Giang quy_định tại Thông_tư này được xác_định trên các hải_đồ do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành , bao_gồm : VN4HG013 , VN300033 , VN300034 được cập_nhật mới nhất năm 2025 và Hải_đồ của Hải_quân_nhân_dân Việt_Nam : IA - 100 - 31 xuất_bản năm 2008 , IA - 100 - 32 tái_bản lần thứ nhất năm 2006 . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 16,
+     "end": 18,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 77,
+     "end": 79,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 14,
+     "end": 16,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 75,
+     "end": 77,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 29,
+     "text": "công_ty Bảo_đảm an_toàn hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_48",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 2 . 1 . Khu_vực Năm Căn với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Khu_vực",
+    "Năm",
+    "Căn",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 25,
+     "text": "1 . Khu_vực Năm Căn với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_49",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 2 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối các điểm NC1 , NC2 , NC3 , NC4 , có tọa_độ sau đây : NC3 : 08 ° 40 ’ 44 ” N , 105 ° 20 ’ 22 ” E ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "các",
+    "điểm",
+    "NC1",
+    ",",
+    "NC2",
+    ",",
+    "NC3",
+    ",",
+    "NC4",
+    ",",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "NC3",
+    ":",
+    "08",
+    "°",
+    "40",
+    "’",
+    "44",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "20",
+    "’",
+    "22",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 66,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối các điểm NC1 , NC2 , NC3 , NC4 , có tọa_độ sau đây : NC3 : 08 ° 40 ’ 44 ” N , 105 ° 20 ’ 22 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_50",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 1 . a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối các điểm NC1 , NC2 , NC3 , NC4 , có tọa_độ sau đây : NC3 : 08 ° 40 ’ 44 ” N , 105 ° 20 ’ 22 ” E ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "biển",
+    ":",
+    "được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "các",
+    "điểm",
+    "NC1",
+    ",",
+    "NC2",
+    ",",
+    "NC3",
+    ",",
+    "NC4",
+    ",",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":",
+    "NC3",
+    ":",
+    "08",
+    "°",
+    "40",
+    "’",
+    "44",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "20",
+    "’",
+    "22",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 52,
+     "text": "a ) Ranh_giới về phía biển : được giới_hạn bởi các đoạn_thẳng nối các điểm NC1 , NC2 , NC3 , NC4 , có tọa_độ sau đây : NC3 : 08 ° 40 ’ 44 ” N , 105 ° 20 ’ 22 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_51",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 2 . Khoản 1 . b ) Ranh_giới về phía đất_liền : từ điểm NC1 và điểm NC4 thuộc cửa Bồ_Đề chạy dọc theo hai bờ sông Cửa Lớn đến đoạn_thẳng cắt ngang sông cách cầu_cảng Năm Căn 3.500 mét về phía thượng_lưu .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Ranh_giới",
+    "về",
+    "phía",
+    "đất_liền",
+    ":",
+    "từ",
+    "điểm",
+    "NC1",
+    "và",
+    "điểm",
+    "NC4",
+    "thuộc",
+    "cửa",
+    "Bồ_Đề",
+    "chạy",
+    "dọc",
+    "theo",
+    "hai",
+    "bờ",
+    "sông",
+    "Cửa",
+    "Lớn",
+    "đến",
+    "đoạn_thẳng",
+    "cắt",
+    "ngang",
+    "sông",
+    "cách",
+    "cầu_cảng",
+    "Năm",
+    "Căn",
+    "3.500",
+    "mét",
+    "về",
+    "phía",
+    "thượng_lưu",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 59,
+     "text": "b ) Ranh_giới về phía đất_liền : từ điểm NC1 và điểm NC4 thuộc cửa Bồ_Đề chạy dọc theo hai bờ sông Cửa Lớn đến đoạn_thẳng cắt ngang sông cách cầu_cảng Năm Căn 3.500 mét về phía thượng_lưu ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_52",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 2 . 2 . Khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc với phạm_vi : Được giới_hạn bởi đường_tròn bán_kính 11 hải_lý , với tâm tại điểm SOĐ có tọa_độ : 08o28 ’ 17 ” N , 102 ° 45 ’ 05 ” E.",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Khu_vực",
+    "cảng",
+    "dầu_khí",
+    "ngoài",
+    "khơi",
+    "cửa_sông",
+    "Ông",
+    "Đốc",
+    "với",
+    "phạm_vi",
+    ":",
+    "Được",
+    "giới_hạn",
+    "bởi",
+    "đường_tròn",
+    "bán_kính",
+    "11",
+    "hải_lý",
+    ",",
+    "với",
+    "tâm",
+    "tại",
+    "điểm",
+    "SOĐ",
+    "có",
+    "tọa_độ",
+    ":",
+    "08o28",
+    "’",
+    "17",
+    "”",
+    "N",
+    ",",
+    "102",
+    "°",
+    "45",
+    "’",
+    "05",
+    "”",
+    "E."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 60,
+     "text": "2 . Khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc với phạm_vi : Được giới_hạn bởi đường_tròn bán_kính 11 hải_lý , với tâm tại điểm SOĐ có tọa_độ : 08o28 ’ 17 ” N , 102 ° 45 ’ 05 ” E."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_53",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 2 . 4 . Khu_vực Vĩnh_Hậu với phạm_vi : Được giới_hạn bởi các đoạn_thẳng nối các điểm VH1 , VH2 , VH3 và VH4 , có tọa_độ sau đây :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Khu_vực",
+    "Vĩnh_Hậu",
+    "với",
+    "phạm_vi",
+    ":",
+    "Được",
+    "giới_hạn",
+    "bởi",
+    "các",
+    "đoạn_thẳng",
+    "nối",
+    "các",
+    "điểm",
+    "VH1",
+    ",",
+    "VH2",
+    ",",
+    "VH3",
+    "và",
+    "VH4",
+    ",",
+    "có",
+    "tọa_độ",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 45,
+     "text": "4 . Khu_vực Vĩnh_Hậu với phạm_vi : Được giới_hạn bởi các đoạn_thẳng nối các điểm VH1 , VH2 , VH3 và VH4 , có tọa_độ sau đây :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_54",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 2 . 4 . Khu_vực Vĩnh_Hậu với phạm_vi : VH3 : 08 ° 55 ’ 09 ” N , 105 ° 58 ’ 23 ” E ;",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Khu_vực",
+    "Vĩnh_Hậu",
+    "với",
+    "phạm_vi",
+    ":",
+    "VH3",
+    ":",
+    "08",
+    "°",
+    "55",
+    "’",
+    "09",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "58",
+    "’",
+    "23",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 35,
+     "text": "4 . Khu_vực Vĩnh_Hậu với phạm_vi : VH3 : 08 ° 55 ’ 09 ” N , 105 ° 58 ’ 23 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_55",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 4 . Khu_vực Vĩnh_Hậu với phạm_vi : VH3 : 08 ° 55 ’ 09 ” N , 105 ° 58 ’ 23 ” E ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Khu_vực",
+    "Vĩnh_Hậu",
+    "với",
+    "phạm_vi",
+    ":",
+    "VH3",
+    ":",
+    "08",
+    "°",
+    "55",
+    "’",
+    "09",
+    "”",
+    "N",
+    ",",
+    "105",
+    "°",
+    "58",
+    "’",
+    "23",
+    "”",
+    "E",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 28,
+     "text": "4 . Khu_vực Vĩnh_Hậu với phạm_vi : VH3 : 08 ° 55 ’ 09 ” N , 105 ° 58 ’ 23 ” E ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_56",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 2 . 5 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau quy_định tại Thông_tư này được xác_định trên các hải_đồ : VN300029 , VN300030 do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành và Hải_đồ số I - 500 - 16 sản_xuất năm 2013 , Hải_đồ I - 300 - 28 tái_bản năm 2016 , Hải_đồ số I - 100 - 133 tái_bản năm 2018 của Hải_quân_nhân_dân Việt_Nam . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ VN - 2000 và",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "5",
+    ".",
+    "Ranh_giới",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "xác_định",
+    "trên",
+    "các",
+    "hải_đồ",
+    ":",
+    "VN300029",
+    ",",
+    "VN300030",
+    "do",
+    "Tổng",
+    "công_ty",
+    "Bảo_đảm",
+    "an_toàn",
+    "hàng_hải",
+    "Việt_Nam",
+    "phát_hành",
+    "và",
+    "Hải_đồ",
+    "số",
+    "I",
+    "-",
+    "500",
+    "-",
+    "16",
+    "sản_xuất",
+    "năm",
+    "2013",
+    ",",
+    "Hải_đồ",
+    "I",
+    "-",
+    "300",
+    "-",
+    "28",
+    "tái_bản",
+    "năm",
+    "2016",
+    ",",
+    "Hải_đồ",
+    "số",
+    "I",
+    "-",
+    "100",
+    "-",
+    "133",
+    "tái_bản",
+    "năm",
+    "2018",
+    "của",
+    "Hải_quân_nhân_dân",
+    "Việt_Nam",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "áp_dụng",
+    "theo",
+    "Hệ",
+    "tọa_độ",
+    "VN",
+    "-",
+    "2000",
+    "và"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 94,
+     "text": "5 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau quy_định tại Thông_tư này được xác_định trên các hải_đồ : VN300029 , VN300030 do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành và Hải_đồ số I - 500 - 16 sản_xuất năm 2013 , Hải_đồ I - 300 - 28 tái_bản năm 2016 , Hải_đồ số I - 100 - 133 tái_bản năm 2018 của Hải_quân_nhân_dân Việt_Nam . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ VN - 2000 và"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 25,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 83,
+     "end": 85,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 81,
+     "end": 83,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 36,
+     "end": 40,
+     "text": "công_ty Bảo_đảm an_toàn hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_57",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 5 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau quy_định tại Thông_tư này được xác_định trên các hải_đồ : VN300029 , VN300030 do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành và Hải_đồ số I - 500 - 16 sản_xuất năm 2013 , Hải_đồ I - 300 - 28 tái_bản năm 2016 , Hải_đồ số I - 100 - 133 tái_bản năm 2018 của Hải_quân_nhân_dân Việt_Nam . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ VN - 2000 và",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "5",
+    ".",
+    "Ranh_giới",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "xác_định",
+    "trên",
+    "các",
+    "hải_đồ",
+    ":",
+    "VN300029",
+    ",",
+    "VN300030",
+    "do",
+    "Tổng",
+    "công_ty",
+    "Bảo_đảm",
+    "an_toàn",
+    "hàng_hải",
+    "Việt_Nam",
+    "phát_hành",
+    "và",
+    "Hải_đồ",
+    "số",
+    "I",
+    "-",
+    "500",
+    "-",
+    "16",
+    "sản_xuất",
+    "năm",
+    "2013",
+    ",",
+    "Hải_đồ",
+    "I",
+    "-",
+    "300",
+    "-",
+    "28",
+    "tái_bản",
+    "năm",
+    "2016",
+    ",",
+    "Hải_đồ",
+    "số",
+    "I",
+    "-",
+    "100",
+    "-",
+    "133",
+    "tái_bản",
+    "năm",
+    "2018",
+    "của",
+    "Hải_quân_nhân_dân",
+    "Việt_Nam",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "áp_dụng",
+    "theo",
+    "Hệ",
+    "tọa_độ",
+    "VN",
+    "-",
+    "2000",
+    "và"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 87,
+     "text": "5 . Ranh_giới vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau quy_định tại Thông_tư này được xác_định trên các hải_đồ : VN300029 , VN300030 do Tổng công_ty Bảo_đảm an_toàn hàng_hải Việt_Nam phát_hành và Hải_đồ số I - 500 - 16 sản_xuất năm 2013 , Hải_đồ I - 300 - 28 tái_bản năm 2016 , Hải_đồ số I - 100 - 133 tái_bản năm 2018 của Hải_quân_nhân_dân Việt_Nam . Tọa_độ các điểm quy_định tại Thông_tư này được áp_dụng theo Hệ tọa_độ VN - 2000 và"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 16,
+     "end": 18,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 76,
+     "end": 78,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 14,
+     "end": 16,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 74,
+     "end": 76,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 29,
+     "end": 33,
+     "text": "công_ty Bảo_đảm an_toàn hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_58",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 3 . Khu_vực hàng_hải thuộc địa_phận tỉnh An_Giang và tỉnh Cà_Mau",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "và",
+    "tỉnh",
+    "Cà_Mau"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 19,
+     "text": "Điều 3 . Khu_vực hàng_hải thuộc địa_phận tỉnh An_Giang và tỉnh Cà_Mau"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_59",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 3 . 2 . Khu_vực hàng_hải Phú_Quốc : bao_gồm khu_vực Dương_Đông , khu_vực An_Thới và khu_vực Bãi_Vòng .",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Khu_vực",
+    "hàng_hải",
+    "Phú_Quốc",
+    ":",
+    "bao_gồm",
+    "khu_vực",
+    "Dương_Đông",
+    ",",
+    "khu_vực",
+    "An_Thới",
+    "và",
+    "khu_vực",
+    "Bãi_Vòng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 26,
+     "text": "2 . Khu_vực hàng_hải Phú_Quốc : bao_gồm khu_vực Dương_Đông , khu_vực An_Thới và khu_vực Bãi_Vòng ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_60",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 3 . 4 . Khu_vực hàng_hải Cà_Mau : bao_gồm khu_vực Năm Căn , khu_vực Vĩnh_Hậu , khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc và khu_vực cảng dầu_khí ngoài khơi mỏ Sông_Đốc .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "4",
+    ".",
+    "Khu_vực",
+    "hàng_hải",
+    "Cà_Mau",
+    ":",
+    "bao_gồm",
+    "khu_vực",
+    "Năm",
+    "Căn",
+    ",",
+    "khu_vực",
+    "Vĩnh_Hậu",
+    ",",
+    "khu_vực",
+    "cảng",
+    "dầu_khí",
+    "ngoài",
+    "khơi",
+    "cửa_sông",
+    "Ông",
+    "Đốc",
+    "và",
+    "khu_vực",
+    "cảng",
+    "dầu_khí",
+    "ngoài",
+    "khơi",
+    "mỏ",
+    "Sông_Đốc",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 48,
+     "text": "4 . Khu_vực hàng_hải Cà_Mau : bao_gồm khu_vực Năm Căn , khu_vực Vĩnh_Hậu , khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc và khu_vực cảng dầu_khí ngoài khơi mỏ Sông_Đốc ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_61",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 4 . Khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang . Cảng_vụ Hàng_hải Kiên_Giang thực_hiện quản_lý nhà_nước chuyên_ngành về hàng_hải tại cảng biển thuộc địa_phận tỉnh An_Giang được quy_định tại các khoản 1 , 2 , 3 , 4 , 5 , 6 , 7 Điều 1 , cảng biển thuộc địa_phận tỉnh Cà_Mau được quy_định tại Điều 2 và các khu_vực hàng_hải được quy_định tại Điều 3 Thông_tư này .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    ".",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "thực_hiện",
+    "quản_lý",
+    "nhà_nước",
+    "chuyên_ngành",
+    "về",
+    "hàng_hải",
+    "tại",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "được",
+    "quy_định",
+    "tại",
+    "các",
+    "khoản",
+    "1",
+    ",",
+    "2",
+    ",",
+    "3",
+    ",",
+    "4",
+    ",",
+    "5",
+    ",",
+    "6",
+    ",",
+    "7",
+    "Điều",
+    "1",
+    ",",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "được",
+    "quy_định",
+    "tại",
+    "Điều",
+    "2",
+    "và",
+    "các",
+    "khu_vực",
+    "hàng_hải",
+    "được",
+    "quy_định",
+    "tại",
+    "Điều",
+    "3",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 85,
+     "text": "Điều 4 . Khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang . Cảng_vụ Hàng_hải Kiên_Giang thực_hiện quản_lý nhà_nước chuyên_ngành về hàng_hải tại cảng biển thuộc địa_phận tỉnh An_Giang được quy_định tại các khoản 1 , 2 , 3 , 4 , 5 , 6 , 7 Điều 1 , cảng biển thuộc địa_phận tỉnh Cà_Mau được quy_định tại Điều 2 và các khu_vực hàng_hải được quy_định tại Điều 3 Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 71,
+     "end": 73,
+     "text": "Điều 2"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 80,
+     "end": 84,
+     "text": "Điều 3 Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 69,
+     "end": 71,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 78,
+     "end": 80,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 23,
+     "text": "Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_62",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang . Cảng_vụ Hàng_hải Kiên_Giang thực_hiện quản_lý nhà_nước chuyên_ngành về hàng_hải tại cảng biển thuộc địa_phận tỉnh An_Giang được quy_định tại các khoản 1 , 2 , 3 , 4 , 5 , 6 , 7 Điều 1 , cảng biển thuộc địa_phận tỉnh Cà_Mau được quy_định tại Điều 2 và các khu_vực hàng_hải được quy_định tại Điều 3 Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    ".",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "thực_hiện",
+    "quản_lý",
+    "nhà_nước",
+    "chuyên_ngành",
+    "về",
+    "hàng_hải",
+    "tại",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "được",
+    "quy_định",
+    "tại",
+    "các",
+    "khoản",
+    "1",
+    ",",
+    "2",
+    ",",
+    "3",
+    ",",
+    "4",
+    ",",
+    "5",
+    ",",
+    "6",
+    ",",
+    "7",
+    "Điều",
+    "1",
+    ",",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "được",
+    "quy_định",
+    "tại",
+    "Điều",
+    "2",
+    "và",
+    "các",
+    "khu_vực",
+    "hàng_hải",
+    "được",
+    "quy_định",
+    "tại",
+    "Điều",
+    "3",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 70,
+     "text": "Điều 4 . Khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang . Cảng_vụ Hàng_hải Kiên_Giang thực_hiện quản_lý nhà_nước chuyên_ngành về hàng_hải tại cảng biển thuộc địa_phận tỉnh An_Giang được quy_định tại các khoản 1 , 2 , 3 , 4 , 5 , 6 , 7 Điều 1 , cảng biển thuộc địa_phận tỉnh Cà_Mau được quy_định tại Điều 2 và các khu_vực hàng_hải được quy_định tại Điều 3 Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 56,
+     "end": 58,
+     "text": "Điều 2"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 65,
+     "end": 69,
+     "text": "Điều 3 Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 54,
+     "end": 56,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 63,
+     "end": 65,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 8,
+     "text": "Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 12,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_63",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 5 . 2 . Bãi_bỏ Thông_tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh Kiên_Giang , Cà_Mau , Bạc_Liêu và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang và Thông_tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh An_Giang và khu_vực quản_lý của Cảng_vụ Hàng_hải",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Bãi_bỏ",
+    "Thông_tư",
+    "số",
+    "17/2020/TT-BGTVT",
+    "ngày",
+    "14",
+    "tháng",
+    "08",
+    "năm",
+    "2020",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "các",
+    "tỉnh",
+    "Kiên_Giang",
+    ",",
+    "Cà_Mau",
+    ",",
+    "Bạc_Liêu",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "và",
+    "Thông_tư",
+    "số",
+    "05/2016/TT-BGTVT",
+    "ngày",
+    "04",
+    "tháng",
+    "04",
+    "năm",
+    "2016",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "các",
+    "tỉnh",
+    "An_Giang",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 86,
+     "text": "2 . Bãi_bỏ Thông_tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh Kiên_Giang , Cà_Mau , Bạc_Liêu và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang và Thông_tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh An_Giang và khu_vực quản_lý của Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 23,
+     "text": "Thông_tư số 17/2020/TT-BGTVT"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 56,
+     "end": 59,
+     "text": "Thông_tư số 05/2016/TT-BGTVT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 20,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 23,
+     "end": 29,
+     "text": "ngày 14 tháng 08 năm 2020"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 59,
+     "end": 65,
+     "text": "ngày 04 tháng 04 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 34,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 52,
+     "end": 54,
+     "text": "Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 66,
+     "end": 70,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 84,
+     "end": 86,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 9
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 7,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_64",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Bãi_bỏ Thông_tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh Kiên_Giang , Cà_Mau , Bạc_Liêu và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang và Thông_tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh An_Giang và khu_vực quản_lý của Cảng_vụ Hàng_hải",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Bãi_bỏ",
+    "Thông_tư",
+    "số",
+    "17/2020/TT-BGTVT",
+    "ngày",
+    "14",
+    "tháng",
+    "08",
+    "năm",
+    "2020",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "các",
+    "tỉnh",
+    "Kiên_Giang",
+    ",",
+    "Cà_Mau",
+    ",",
+    "Bạc_Liêu",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải",
+    "Kiên_Giang",
+    "và",
+    "Thông_tư",
+    "số",
+    "05/2016/TT-BGTVT",
+    "ngày",
+    "04",
+    "tháng",
+    "04",
+    "năm",
+    "2016",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "các",
+    "tỉnh",
+    "An_Giang",
+    "và",
+    "khu_vực",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "Hàng_hải"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 72,
+     "text": "2 . Bãi_bỏ Thông_tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh Kiên_Giang , Cà_Mau , Bạc_Liêu và khu_vực quản_lý của Cảng_vụ Hàng_hải Kiên_Giang và Thông_tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố vùng nước cảng biển thuộc địa_phận các tỉnh An_Giang và khu_vực quản_lý của Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 9,
+     "text": "Thông_tư số 17/2020/TT-BGTVT"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 45,
+     "text": "Thông_tư số 05/2016/TT-BGTVT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 5,
+     "end": 6,
+     "text": "Bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 15,
+     "text": "ngày 14 tháng 08 năm 2020"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 45,
+     "end": 51,
+     "text": "ngày 04 tháng 04 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 20,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 40,
+     "text": "Cảng_vụ Hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 52,
+     "end": 56,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 70,
+     "end": 72,
+     "text": "Cảng_vụ Hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_65",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 5 . 3 . Bãi_bỏ số thứ tự số 24 , 25 tại Phụ_lục Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải được ban_hành kèm theo Thông_tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải . / .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Bãi_bỏ",
+    "số",
+    "thứ",
+    "tự",
+    "số",
+    "24",
+    ",",
+    "25",
+    "tại",
+    "Phụ_lục",
+    "Danh_mục",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "hàng_hải",
+    "được",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "số",
+    "32/2019/TT-BGTVT",
+    "ngày",
+    "04",
+    "tháng",
+    "9",
+    "năm",
+    "2019",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "Danh_mục",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "hàng_hải",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 69,
+     "text": "3 . Bãi_bỏ số thứ tự số 24 , 25 tại Phụ_lục Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải được ban_hành kèm theo Thông_tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải . / ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 45,
+     "text": "Thông_tư số 32/2019/TT-BGTVT"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 45,
+     "end": 51,
+     "text": "ngày 04 tháng 9 năm 2019"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "Cảng_vụ hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 52,
+     "end": 56,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 64,
+     "end": 66,
+     "text": "Cảng_vụ hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_66",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 3 . Bãi_bỏ số thứ tự số 24 , 25 tại Phụ_lục Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải được ban_hành kèm theo Thông_tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải . / .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Bãi_bỏ",
+    "số",
+    "thứ",
+    "tự",
+    "số",
+    "24",
+    ",",
+    "25",
+    "tại",
+    "Phụ_lục",
+    "Danh_mục",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "hàng_hải",
+    "được",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Thông_tư",
+    "số",
+    "32/2019/TT-BGTVT",
+    "ngày",
+    "04",
+    "tháng",
+    "9",
+    "năm",
+    "2019",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "công_bố",
+    "Danh_mục",
+    "khu_vực",
+    "hàng_hải",
+    "thuộc",
+    "phạm_vi",
+    "quản_lý",
+    "của",
+    "Cảng_vụ",
+    "hàng_hải",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 55,
+     "text": "3 . Bãi_bỏ số thứ tự số 24 , 25 tại Phụ_lục Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải được ban_hành kèm theo Thông_tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ_trưởng Bộ Giao_thông vận_tải công_bố Danh_mục khu_vực hàng_hải thuộc phạm_vi quản_lý của Cảng_vụ hàng_hải . / ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 31,
+     "text": "Thông_tư số 32/2019/TT-BGTVT"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 31,
+     "end": 37,
+     "text": "ngày 04 tháng 9 năm 2019"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Cảng_vụ hàng_hải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 42,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 52,
+     "text": "Cảng_vụ hàng_hải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_67",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 1 . 1 . Khu_vực Hòn_Chông với phạm_vi :",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Khu_vực",
+    "Hòn_Chông",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 17,
+     "text": "1 . Khu_vực Hòn_Chông với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_68",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . 3 . Khu_vực Hà_Tiên với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Khu_vực",
+    "Hà_Tiên",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 25,
+     "text": "3 . Khu_vực Hà_Tiên với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_69",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . 5 . Khu_vực An_Thới với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Khu_vực",
+    "An_Thới",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 25,
+     "text": "5 . Khu_vực An_Thới với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_70",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 1 . 7 . Khu_vực Rạch_Giá với phạm_vi :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "7",
+    ".",
+    "Khu_vực",
+    "Rạch_Giá",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 25,
+     "text": "7 . Khu_vực Rạch_Giá với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_71",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Xây_dựng ban_hành Thông_tư số 06/2026/TT-BXD . Điều 2 . 4 . Khu_vực Vĩnh_Hậu với phạm_vi :",
+   "tokens": [
+    "Bộ",
+    "Xây_dựng",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Khu_vực",
+    "Vĩnh_Hậu",
+    "với",
+    "phạm_vi",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 17,
+     "text": "4 . Khu_vực Vĩnh_Hậu với phạm_vi :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_72",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Điều_khoản thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Điều_khoản",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 20,
+     "text": "Điều 5 . Điều_khoản thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_73",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD ban_hành ngày 13 tháng 02 năm 2026 bởi Bộ Xây_dựng . Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : a ) Khu_vực Hòn Chông :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "02",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Xây_dựng",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "a",
+    ")",
+    "Khu_vực",
+    "Hòn",
+    "Chông",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 02 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 33,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 34,
+     "end": 40,
+     "text": "a ) Khu_vực Hòn Chông :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_74",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : c ) Khu_vực Hà_Tiên :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "c",
+    ")",
+    "Khu_vực",
+    "Hà_Tiên",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 35,
+     "end": 40,
+     "text": "c ) Khu_vực Hà_Tiên :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_75",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : c ) Khu_vực Hà_Tiên :",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "c",
+    ")",
+    "Khu_vực",
+    "Hà_Tiên",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 19,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 25,
+     "text": "c ) Khu_vực Hà_Tiên :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_76",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : e ) Khu_vực Bãi Vòng :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "e",
+    ")",
+    "Khu_vực",
+    "Bãi",
+    "Vòng",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 35,
+     "end": 41,
+     "text": "e ) Khu_vực Bãi Vòng :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_standalone_77",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : e ) Khu_vực Bãi Vòng :",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "e",
+    ")",
+    "Khu_vực",
+    "Bãi",
+    "Vòng",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 19,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 26,
+     "text": "e ) Khu_vực Bãi Vòng :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_78",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm : h ) Khu_vực Mỹ_Thới :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "An_Giang",
+    "bao_gồm",
+    ":",
+    "h",
+    ")",
+    "Khu_vực",
+    "Mỹ_Thới",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "Khoản 1 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh An_Giang bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 35,
+     "end": 40,
+     "text": "h ) Khu_vực Mỹ_Thới :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_79",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Khoản 2 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau bao_gồm : a ) Khu_vực Năm Căn :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "bao_gồm",
+    ":",
+    "a",
+    ")",
+    "Khu_vực",
+    "Năm",
+    "Căn",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "Khoản 2 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 35,
+     "end": 41,
+     "text": "a ) Khu_vực Năm Căn :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#body_context_80",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 06/2026/TT-BXD của Bộ Xây_dựng trong lĩnh_vực Lao_động , tiền_lương , tiền công . Điều 5 . Khoản 2 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau bao_gồm : c ) Khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "06/2026/TT-BXD",
+    "của",
+    "Bộ",
+    "Xây_dựng",
+    "trong",
+    "lĩnh_vực",
+    "Lao_động",
+    ",",
+    "tiền_lương",
+    ",",
+    "tiền",
+    "công",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "Tọa_độ",
+    "các",
+    "điểm",
+    "giới_hạn",
+    "vùng",
+    "nước",
+    "cảng",
+    "biển",
+    "thuộc",
+    "địa_phận",
+    "tỉnh",
+    "Cà_Mau",
+    "bao_gồm",
+    ":",
+    "c",
+    ")",
+    "Khu_vực",
+    "cảng",
+    "dầu_khí",
+    "ngoài",
+    "khơi",
+    "cửa_sông",
+    "Ông",
+    "Đốc",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "06/2026/TT-BXD"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Xây_dựng"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 14,
+     "text": "Lao_động , tiền_lương , tiền công"
+    },
+    {
+     "type": "DIEU",
+     "start": 15,
+     "end": 17,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 18,
+     "end": 34,
+     "text": "Khoản 2 . Tọa_độ các điểm giới_hạn vùng nước cảng biển thuộc địa_phận tỉnh Cà_Mau bao_gồm"
+    },
+    {
+     "type": "DIEM",
+     "start": 35,
+     "end": 46,
+     "text": "c ) Khu_vực cảng dầu_khí ngoài khơi cửa_sông Ông Đốc :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "06_2026_TT-BXD_187237#hard_negative_81",
+   "doc": "06_2026_TT-BXD_187237",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

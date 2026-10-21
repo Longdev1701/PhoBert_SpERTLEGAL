@@ -1,0 +1,1168 @@
+{
+ "doc": "17_2006_QĐ-BCN_15916",
+ "category": "quyet_dinh",
+ "split": "test",
+ "total_samples": 16,
+ "total_entities": 63,
+ "total_relations": 41,
+ "samples": [
+  {
+   "id": "17_2006_QĐ-BCN_15916#header_0",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "BỘ CÔNG_NGHIỆP . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 17/2006/QĐ-BCN . Hà_Nội , ngày 8 tháng 6 năm 2006 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "BỘ",
+    "CÔNG_NGHIỆP",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "17/2006/QĐ-BCN",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "8",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 8 tháng 6 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_NGHIỆP"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#meta_1",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "BỘ CÔNG_NGHIỆP . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 17/2006/QĐ-BCN . Hà_Nội , ngày 8 tháng 6 năm 2006 . QUYẾT_ĐỊNH . Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày , kể từ ngày đăng Công_báo .",
+   "tokens": [
+    "BỘ",
+    "CÔNG_NGHIỆP",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "17/2006/QĐ-BCN",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "8",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_NGHIỆP"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_context_2",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2006/QĐ-BCN của Bộ Công_nghiệp . Ban_hành Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ".",
+    "Ban_hành",
+    "Quy_chế",
+    "Tổ_chức",
+    "và",
+    "Hoạt_động",
+    "của",
+    "Trường",
+    "Cao_đẳng",
+    "Công_nghiệp",
+    "Việt",
+    "-",
+    "Đức"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 8,
+     "end": 19,
+     "text": "Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_standalone_3",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Ban_hành Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức",
+   "tokens": [
+    "Ban_hành",
+    "Quy_chế",
+    "Tổ_chức",
+    "và",
+    "Hoạt_động",
+    "của",
+    "Trường",
+    "Cao_đẳng",
+    "Công_nghiệp",
+    "Việt",
+    "-",
+    "Đức"
+   ],
+   "entities": [
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 1,
+     "end": 12,
+     "text": "Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_context_4",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2006/QĐ-BCN của Bộ Công_nghiệp . Căn_cứ Luật Giáo_dục ngày 14 tháng 6 năm 2005 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 10,
+     "text": "Luật Giáo_dục"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_standalone_5",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Giáo_dục ngày 14 tháng 6 năm 2005 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật Giáo_dục"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_context_6",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2006/QĐ-BCN của Bộ Công_nghiệp . Căn_cứ Nghị_định số 55/2003/NĐ-CP ngày 28 tháng 5 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_nghiệp ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "55/2003/NĐ-CP",
+    "ngày",
+    "28",
+    "tháng",
+    "5",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 55/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 28 tháng 5 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_standalone_7",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 55/2003/NĐ-CP ngày 28 tháng 5 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_nghiệp ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "55/2003/NĐ-CP",
+    "ngày",
+    "28",
+    "tháng",
+    "5",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 55/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 28 tháng 5 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_context_8",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2006/QĐ-BCN của Bộ Công_nghiệp . Căn_cứ Quyết_định số 56/2003/QĐ-BGDĐT ngày 10 tháng 12 năm 2003 của Bộ_trưởng Bộ Giáo_dục và Đào_tạo về việc ban_hành Điều_lệ Trường Cao_đẳng ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ".",
+    "Căn_cứ",
+    "Quyết_định",
+    "số",
+    "56/2003/QĐ-BGDĐT",
+    "ngày",
+    "10",
+    "tháng",
+    "12",
+    "năm",
+    "2003",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "về",
+    "việc",
+    "ban_hành",
+    "Điều_lệ",
+    "Trường",
+    "Cao_đẳng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Quyết_định số 56/2003/QĐ-BGDĐT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 10 tháng 12 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 23,
+     "text": "Bộ_trưởng Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_standalone_9",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Quyết_định số 56/2003/QĐ-BGDĐT ngày 10 tháng 12 năm 2003 của Bộ_trưởng Bộ Giáo_dục và Đào_tạo về việc ban_hành Điều_lệ Trường Cao_đẳng ;",
+   "tokens": [
+    "Căn_cứ",
+    "Quyết_định",
+    "số",
+    "56/2003/QĐ-BGDĐT",
+    "ngày",
+    "10",
+    "tháng",
+    "12",
+    "năm",
+    "2003",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "về",
+    "việc",
+    "ban_hành",
+    "Điều_lệ",
+    "Trường",
+    "Cao_đẳng",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Quyết_định số 56/2003/QĐ-BGDĐT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 10 tháng 12 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 16,
+     "text": "Bộ_trưởng Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_context_10",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 17/2006/QĐ-BCN của Bộ Công_nghiệp . Theo đề_nghị của Vụ_trưởng Vụ Tổ_chức - Cán_bộ .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    "của",
+    "Bộ",
+    "Công_nghiệp",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Tổ_chức",
+    "-",
+    "Cán_bộ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 15,
+     "text": "Cán_bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#preamble_standalone_11",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Vụ_trưởng Vụ Tổ_chức - Cán_bộ .",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Tổ_chức",
+    "-",
+    "Cán_bộ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 7,
+     "end": 8,
+     "text": "Cán_bộ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#body_context_12",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_nghiệp ban_hành Quyết_định số 17/2006/QĐ-BCN . Điều 1 . Ban_hành kèm theo Quyết_định này Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức .",
+   "tokens": [
+    "Bộ",
+    "Công_nghiệp",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành",
+    "kèm",
+    "theo",
+    "Quyết_định",
+    "này",
+    "Quy_chế",
+    "Tổ_chức",
+    "và",
+    "Hoạt_động",
+    "của",
+    "Trường",
+    "Cao_đẳng",
+    "Công_nghiệp",
+    "Việt",
+    "-",
+    "Đức",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 27,
+     "text": "Điều 1 . Ban_hành kèm theo Quyết_định này Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 15,
+     "end": 26,
+     "text": "Quy_chế Tổ_chức và Hoạt_động của Trường Cao_đẳng Công_nghiệp Việt - Đức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#body_context_13",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_nghiệp ban_hành Quyết_định số 17/2006/QĐ-BCN . Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày , kể từ ngày đăng Công_báo .",
+   "tokens": [
+    "Bộ",
+    "Công_nghiệp",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 24,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực sau 15 ngày , kể từ ngày đăng Công_báo ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 14,
+     "end": 17,
+     "text": "sau 15 ngày"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#body_context_14",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_nghiệp ban_hành Quyết_định số 17/2006/QĐ-BCN . Điều 3 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , Vụ_trưởng , Cục_trưởng , Thủ_trưởng cơ_quan , đơn_vị thuộc Bộ và Hiệu_trưởng Trường Cao_đẳng Công_nghiệp Việt - Đức chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Bộ",
+    "Công_nghiệp",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "17/2006/QĐ-BCN",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Chánh",
+    "Văn_phòng",
+    "Bộ",
+    ",",
+    "Chánh",
+    "Thanh_tra",
+    "Bộ",
+    ",",
+    "Vụ_trưởng",
+    ",",
+    "Cục_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    ",",
+    "đơn_vị",
+    "thuộc",
+    "Bộ",
+    "và",
+    "Hiệu_trưởng",
+    "Trường",
+    "Cao_đẳng",
+    "Công_nghiệp",
+    "Việt",
+    "-",
+    "Đức",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "17/2006/QĐ-BCN"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_nghiệp"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 44,
+     "text": "Điều 3 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , Vụ_trưởng , Cục_trưởng , Thủ_trưởng cơ_quan , đơn_vị thuộc Bộ và Hiệu_trưởng Trường Cao_đẳng Công_nghiệp Việt - Đức chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 17,
+     "text": "Chánh Thanh_tra Bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "17_2006_QĐ-BCN_15916#hard_negative_15",
+   "doc": "17_2006_QĐ-BCN_15916",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

@@ -1,0 +1,1710 @@
+{
+ "doc": "114_2009_TT-BTC_11919",
+ "category": "thong_tu",
+ "split": "dev",
+ "total_samples": 14,
+ "total_entities": 105,
+ "total_relations": 54,
+ "samples": [
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_0",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . Sửa_đổi , bổ_sung một_số điểm của Thông_tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài_chính hướng_dẫn cơ_chế quản_lý , sử_dụng nguồn vốn thực_hiện Đề_án Kiên_cố_hóa trường , lớp_học và nhà công_vụ cho giáo_viên giai_đoạn 2008 - 2012",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điểm",
+    "của",
+    "Thông_tư",
+    "số",
+    "46/2008/TT-BTC",
+    "ngày",
+    "06/6/2008",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "cơ_chế",
+    "quản_lý",
+    ",",
+    "sử_dụng",
+    "nguồn",
+    "vốn",
+    "thực_hiện",
+    "Đề_án",
+    "Kiên_cố_hóa",
+    "trường",
+    ",",
+    "lớp_học",
+    "và",
+    "nhà",
+    "công_vụ",
+    "cho",
+    "giáo_viên",
+    "giai_đoạn",
+    "2008",
+    "-",
+    "2012"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 16,
+     "text": "Thông_tư số 46/2008/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 16,
+     "end": 18,
+     "text": "ngày 06/6/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 21,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_1",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Sửa_đổi , bổ_sung một_số điểm của Thông_tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài_chính hướng_dẫn cơ_chế quản_lý , sử_dụng nguồn vốn thực_hiện Đề_án Kiên_cố_hóa trường , lớp_học và nhà công_vụ cho giáo_viên giai_đoạn 2008 - 2012",
+   "tokens": [
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điểm",
+    "của",
+    "Thông_tư",
+    "số",
+    "46/2008/TT-BTC",
+    "ngày",
+    "06/6/2008",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "cơ_chế",
+    "quản_lý",
+    ",",
+    "sử_dụng",
+    "nguồn",
+    "vốn",
+    "thực_hiện",
+    "Đề_án",
+    "Kiên_cố_hóa",
+    "trường",
+    ",",
+    "lớp_học",
+    "và",
+    "nhà",
+    "công_vụ",
+    "cho",
+    "giáo_viên",
+    "giai_đoạn",
+    "2008",
+    "-",
+    "2012"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 9,
+     "text": "Thông_tư số 46/2008/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 3,
+     "text": "Sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 11,
+     "text": "ngày 06/6/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_2",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Ngân_sách nhà_nước số 01/2002/QH11 ngày 16/12/2002 ; Căn_cứ Nghị_định số 52/1999/NĐ-CP ngày 08/7/1999 của Chính_phủ về việc ban_hành Quy_chế Quản_lý đầu_tư và xây_dựng , Nghị_định số 12/2000/NĐ-CP ngày 05/5/2000 và Nghị_định số 07/2003/NĐ-CP ngày 30/01/2003 của Chính_phủ về việc sửa_đổi , bổ_sung một_số điều của Quy_chế Quản_lý đầu_tư và xây_dựng ban_hành kèm theo Nghị_định số 52/1999/NĐ-CP ngày 8/7/1999 của Chính_phủ . Căn_cứ Nghị_định số 12/2009/NĐ-CP ngày",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Ngân_sách",
+    "nhà_nước",
+    "số",
+    "01/2002/QH11",
+    "ngày",
+    "16/12/2002",
+    ";",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "52/1999/NĐ-CP",
+    "ngày",
+    "08/7/1999",
+    "của",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "ban_hành",
+    "Quy_chế",
+    "Quản_lý",
+    "đầu_tư",
+    "và",
+    "xây_dựng",
+    ",",
+    "Nghị_định",
+    "số",
+    "12/2000/NĐ-CP",
+    "ngày",
+    "05/5/2000",
+    "và",
+    "Nghị_định",
+    "số",
+    "07/2003/NĐ-CP",
+    "ngày",
+    "30/01/2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Quy_chế",
+    "Quản_lý",
+    "đầu_tư",
+    "và",
+    "xây_dựng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "số",
+    "52/1999/NĐ-CP",
+    "ngày",
+    "8/7/1999",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "12/2009/NĐ-CP",
+    "ngày"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 13,
+     "text": "Luật Ngân_sách nhà_nước số 01/2002/QH11"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 20,
+     "text": "Nghị_định số 52/1999/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 33,
+     "end": 36,
+     "text": "Nghị_định số 12/2000/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 42,
+     "text": "Nghị_định số 07/2003/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 62,
+     "end": 65,
+     "text": "Nghị_định số 52/1999/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 71,
+     "end": 74,
+     "text": "Nghị_định số 12/2009/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 48,
+     "end": 51,
+     "text": "sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 15,
+     "text": "ngày 16/12/2002"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 20,
+     "end": 22,
+     "text": "ngày 08/7/1999"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 36,
+     "end": 38,
+     "text": "ngày 05/5/2000"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 42,
+     "end": 44,
+     "text": "ngày 30/01/2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 65,
+     "end": 67,
+     "text": "ngày 8/7/1999"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 24,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 46,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 68,
+     "end": 69,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 27,
+     "end": 30,
+     "text": "Quy_chế Quản_lý đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 54,
+     "end": 57,
+     "text": "Quy_chế Quản_lý đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 11
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 12
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 13
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 14
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 7,
+     "tail": 15
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_3",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Ngân_sách nhà_nước số 01/2002/QH11 ngày 16/12/2002 ; Căn_cứ Nghị_định số 52/1999/NĐ-CP ngày 08/7/1999 của Chính_phủ về việc ban_hành Quy_chế Quản_lý đầu_tư và xây_dựng , Nghị_định số 12/2000/NĐ-CP ngày 05/5/2000 và Nghị_định số 07/2003/NĐ-CP ngày 30/01/2003 của Chính_phủ về việc sửa_đổi , bổ_sung một_số điều của Quy_chế Quản_lý đầu_tư và xây_dựng ban_hành kèm theo Nghị_định số 52/1999/NĐ-CP ngày 8/7/1999 của Chính_phủ . Căn_cứ Nghị_định số 12/2009/NĐ-CP ngày",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Ngân_sách",
+    "nhà_nước",
+    "số",
+    "01/2002/QH11",
+    "ngày",
+    "16/12/2002",
+    ";",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "52/1999/NĐ-CP",
+    "ngày",
+    "08/7/1999",
+    "của",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "ban_hành",
+    "Quy_chế",
+    "Quản_lý",
+    "đầu_tư",
+    "và",
+    "xây_dựng",
+    ",",
+    "Nghị_định",
+    "số",
+    "12/2000/NĐ-CP",
+    "ngày",
+    "05/5/2000",
+    "và",
+    "Nghị_định",
+    "số",
+    "07/2003/NĐ-CP",
+    "ngày",
+    "30/01/2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "việc",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Quy_chế",
+    "Quản_lý",
+    "đầu_tư",
+    "và",
+    "xây_dựng",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "số",
+    "52/1999/NĐ-CP",
+    "ngày",
+    "8/7/1999",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "12/2009/NĐ-CP",
+    "ngày"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 6,
+     "text": "Luật Ngân_sách nhà_nước số 01/2002/QH11"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 13,
+     "text": "Nghị_định số 52/1999/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 26,
+     "end": 29,
+     "text": "Nghị_định số 12/2000/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "Nghị_định số 07/2003/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 58,
+     "text": "Nghị_định số 52/1999/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 67,
+     "text": "Nghị_định số 12/2009/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 41,
+     "end": 44,
+     "text": "sửa_đổi , bổ_sung"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 6,
+     "end": 8,
+     "text": "ngày 16/12/2002"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 15,
+     "text": "ngày 08/7/1999"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 29,
+     "end": 31,
+     "text": "ngày 05/5/2000"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 35,
+     "end": 37,
+     "text": "ngày 30/01/2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 58,
+     "end": 60,
+     "text": "ngày 8/7/1999"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 17,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 38,
+     "end": 39,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 61,
+     "end": 62,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 23,
+     "text": "Quy_chế Quản_lý đầu_tư"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 47,
+     "end": 50,
+     "text": "Quy_chế Quản_lý đầu_tư"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 13,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 13,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 16,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 14,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 15,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 15,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 9
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 10
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 11
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 12
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_4",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . 1 . Sửa_đổi điểm 2.2 Phần II như sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "1",
+    ".",
+    "Sửa_đổi",
+    "điểm",
+    "2.2",
+    "Phần",
+    "II",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 10,
+     "text": "Sửa_đổi"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_5",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "1 . Sửa_đổi điểm 2.2 Phần II như sau :",
+   "tokens": [
+    "1",
+    ".",
+    "Sửa_đổi",
+    "điểm",
+    "2.2",
+    "Phần",
+    "II",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 2,
+     "end": 3,
+     "text": "Sửa_đổi"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_6",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . Hàng năm , căn_cứ Quyết_định của Thủ_tướng Chính_phủ và thông_báo của Bộ Kế_hoạch và Đầu_tư về việc giao kế_hoạch vốn trái_phiếu Chính_phủ cho các địa_phương , nguồn vốn ngân_sách địa_phương và nguồn vốn hợp_pháp khác ( nếu có ) ; Sở Kế_hoạch và Đầu_tư chủ_trì , phối_hợp với Sở Tài_chính , Sở Giáo_dục và Đào_tạo thảo_luận , thống_nhất về danh_mục và mức vốn cho từng dự_án trình Ủy_ban nhân_dân tỉnh quyết",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Hàng",
+    "năm",
+    ",",
+    "căn_cứ",
+    "Quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "và",
+    "thông_báo",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "về",
+    "việc",
+    "giao",
+    "kế_hoạch",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "cho",
+    "các",
+    "địa_phương",
+    ",",
+    "nguồn",
+    "vốn",
+    "ngân_sách",
+    "địa_phương",
+    "và",
+    "nguồn",
+    "vốn",
+    "hợp_pháp",
+    "khác",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    ";",
+    "Sở",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Sở",
+    "Tài_chính",
+    ",",
+    "Sở",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "thảo_luận",
+    ",",
+    "thống_nhất",
+    "về",
+    "danh_mục",
+    "và",
+    "mức",
+    "vốn",
+    "cho",
+    "từng",
+    "dự_án",
+    "trình",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "quyết"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 15,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 22,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 29,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 51,
+     "text": "Sở Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 55,
+     "end": 57,
+     "text": "Sở Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 58,
+     "end": 62,
+     "text": "Sở Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 35,
+     "end": 37,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_7",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Hàng năm , căn_cứ Quyết_định của Thủ_tướng Chính_phủ và thông_báo của Bộ Kế_hoạch và Đầu_tư về việc giao kế_hoạch vốn trái_phiếu Chính_phủ cho các địa_phương , nguồn vốn ngân_sách địa_phương và nguồn vốn hợp_pháp khác ( nếu có ) ; Sở Kế_hoạch và Đầu_tư chủ_trì , phối_hợp với Sở Tài_chính , Sở Giáo_dục và Đào_tạo thảo_luận , thống_nhất về danh_mục và mức vốn cho từng dự_án trình Ủy_ban nhân_dân tỉnh quyết",
+   "tokens": [
+    "Hàng",
+    "năm",
+    ",",
+    "căn_cứ",
+    "Quyết_định",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "và",
+    "thông_báo",
+    "của",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "về",
+    "việc",
+    "giao",
+    "kế_hoạch",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "cho",
+    "các",
+    "địa_phương",
+    ",",
+    "nguồn",
+    "vốn",
+    "ngân_sách",
+    "địa_phương",
+    "và",
+    "nguồn",
+    "vốn",
+    "hợp_pháp",
+    "khác",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    ";",
+    "Sở",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    "chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Sở",
+    "Tài_chính",
+    ",",
+    "Sở",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "thảo_luận",
+    ",",
+    "thống_nhất",
+    "về",
+    "danh_mục",
+    "và",
+    "mức",
+    "vốn",
+    "cho",
+    "từng",
+    "dự_án",
+    "trình",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "quyết"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 8,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 40,
+     "end": 44,
+     "text": "Sở Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 48,
+     "end": 50,
+     "text": "Sở Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 51,
+     "end": 55,
+     "text": "Sở Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "trái_phiếu"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 30,
+     "text": "ngân_sách địa_phương"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_8",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . Quyết_định phân_bổ vốn trái_phiếu Chính_phủ của Ủy_ban nhân_dân tỉnh gửi về Bộ Kế_hoạch và Đầu_tư , Bộ Tài_chính , Bộ Giáo_dục và Đào_tạo để theo_dõi , quản_lý ; gửi Kho_bạc nhà_nước làm căn_cứ thanh_toán .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Quyết_định",
+    "phân_bổ",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "của",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "gửi",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    ",",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "để",
+    "theo_dõi",
+    ",",
+    "quản_lý",
+    ";",
+    "gửi",
+    "Kho_bạc",
+    "nhà_nước",
+    "làm",
+    "căn_cứ",
+    "thanh_toán",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 22,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 25,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 30,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 38,
+     "text": "Kho_bạc nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 10,
+     "end": 11,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_9",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Quyết_định phân_bổ vốn trái_phiếu Chính_phủ của Ủy_ban nhân_dân tỉnh gửi về Bộ Kế_hoạch và Đầu_tư , Bộ Tài_chính , Bộ Giáo_dục và Đào_tạo để theo_dõi , quản_lý ; gửi Kho_bạc nhà_nước làm căn_cứ thanh_toán .",
+   "tokens": [
+    "Quyết_định",
+    "phân_bổ",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "của",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "gửi",
+    "về",
+    "Bộ",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    ",",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "để",
+    "theo_dõi",
+    ",",
+    "quản_lý",
+    ";",
+    "gửi",
+    "Kho_bạc",
+    "nhà_nước",
+    "làm",
+    "căn_cứ",
+    "thanh_toán",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 15,
+     "text": "Bộ Kế_hoạch và Đầu_tư"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 18,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 23,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Kho_bạc nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 3,
+     "end": 4,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_10",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . Căn_cứ Quyết_định phân_bổ vốn trái_phiếu Chính_phủ của Ủy_ban nhân_dân tỉnh , Kho_bạc nhà_nước thực_hiện kiểm_soát , thanh_toán theo quy_định \" .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Quyết_định",
+    "phân_bổ",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "của",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "Kho_bạc",
+    "nhà_nước",
+    "thực_hiện",
+    "kiểm_soát",
+    ",",
+    "thanh_toán",
+    "theo",
+    "quy_định",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 13,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Kho_bạc nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 11,
+     "end": 12,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_11",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Quyết_định phân_bổ vốn trái_phiếu Chính_phủ của Ủy_ban nhân_dân tỉnh , Kho_bạc nhà_nước thực_hiện kiểm_soát , thanh_toán theo quy_định \" .",
+   "tokens": [
+    "Căn_cứ",
+    "Quyết_định",
+    "phân_bổ",
+    "vốn",
+    "trái_phiếu",
+    "Chính_phủ",
+    "của",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "Kho_bạc",
+    "nhà_nước",
+    "thực_hiện",
+    "kiểm_soát",
+    ",",
+    "thanh_toán",
+    "theo",
+    "quy_định",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 6,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 13,
+     "text": "Kho_bạc nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 4,
+     "end": 5,
+     "text": "trái_phiếu"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_context_12",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 114/2009/TT-BTC của Bộ Tài_chính . 2 . Thông_tư này có hiệu_lực thi_hành sau bốn mươi lăm ( 45 ) ngày , kể từ ngày ký . Trong quá_trình thực_hiện có vấn_đề gì vướng_mắc , đề_nghị các đơn_vị phản_ánh kịp_thời về Bộ Tài_chính ( Vụ Đầu_tư ) để nghiên_cứu , giải_quyết .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "114/2009/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "bốn",
+    "mươi",
+    "lăm",
+    "(",
+    "45",
+    ")",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "ký",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    "có",
+    "vấn_đề",
+    "gì",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "các",
+    "đơn_vị",
+    "phản_ánh",
+    "kịp_thời",
+    "về",
+    "Bộ",
+    "Tài_chính",
+    "(",
+    "Vụ",
+    "Đầu_tư",
+    ")",
+    "để",
+    "nghiên_cứu",
+    ",",
+    "giải_quyết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 42,
+     "end": 44,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "114_2009_TT-BTC_11919#preamble_standalone_13",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "2 . Thông_tư này có hiệu_lực thi_hành sau bốn mươi lăm ( 45 ) ngày , kể từ ngày ký . Trong quá_trình thực_hiện có vấn_đề gì vướng_mắc , đề_nghị các đơn_vị phản_ánh kịp_thời về Bộ Tài_chính ( Vụ Đầu_tư ) để nghiên_cứu , giải_quyết .",
+   "tokens": [
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "bốn",
+    "mươi",
+    "lăm",
+    "(",
+    "45",
+    ")",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "ký",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    "có",
+    "vấn_đề",
+    "gì",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "các",
+    "đơn_vị",
+    "phản_ánh",
+    "kịp_thời",
+    "về",
+    "Bộ",
+    "Tài_chính",
+    "(",
+    "Vụ",
+    "Đầu_tư",
+    ")",
+    "để",
+    "nghiên_cứu",
+    ",",
+    "giải_quyết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 37,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": []
+  }
+ ]
+}

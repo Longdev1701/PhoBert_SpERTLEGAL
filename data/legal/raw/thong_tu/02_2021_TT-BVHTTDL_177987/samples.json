@@ -1,0 +1,293 @@
+{
+ "doc_id": "02_2021_TT-BVHTTDL_177987",
+ "category": "thong_tu",
+ "full_text": "Thông tư số 02/2021/TT-BVHTTDL bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBỘ VĂN HÓA, THỂ THAO\nVÀ DU LỊCH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 02/2021/TT-BVHTTDL\nHà Nội, ngày 13 tháng 5 năm 2021\nTHÔNG TƯ\nBãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 79/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành.\nĐiều 1. Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch.\n2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của\n3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021.\nĐiều 3. Trách nhiệm thi hành\nVụ trưởng Vụ Pháp chế, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\nNguyễn Văn Hùng\n",
+ "total_chars": 2577,
+ "total_paras": 25,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 8,
+   "text": "Thông tư"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 12,
+   "end": 30,
+   "text": "02/2021/TT-BVHTTDL"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 85,
+   "end": 116,
+   "text": "Bộ Văn hóa, Thể thao và Du lịch"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 252,
+   "end": 276,
+   "text": "ngày 13 tháng 5 năm 2021"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành",
+   "parent": "e_so_hieu",
+   "start": 1336,
+   "end": 2148,
+   "text": "Điều 1. Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch.\n2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của\n3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương."
+  },
+  {
+   "id": "e_khoan_1_1",
+   "type": "KHOAN",
+   "number": "1",
+   "parent": "e_dieu_1",
+   "start": 1494,
+   "end": 1681,
+   "text": "1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch."
+  },
+  {
+   "id": "e_khoan_1_2",
+   "type": "KHOAN",
+   "number": "2",
+   "parent": "e_dieu_1",
+   "start": 1682,
+   "end": 1861,
+   "text": "2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của"
+  },
+  {
+   "id": "e_khoan_1_3",
+   "type": "KHOAN",
+   "number": "3",
+   "parent": "e_dieu_1",
+   "start": 1862,
+   "end": 2148,
+   "text": "3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Hiệu lực thi hành",
+   "parent": "e_so_hieu",
+   "start": 2149,
+   "end": 2240,
+   "text": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Trách nhiệm thi hành",
+   "parent": "e_so_hieu",
+   "start": 2241,
+   "end": 2550,
+   "text": "Điều 3. Trách nhiệm thi hành\nVụ trưởng Vụ Pháp chế, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_1_1",
+   "tail": "e_dieu_1"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_1_2",
+   "tail": "e_dieu_1"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_1_3",
+   "tail": "e_dieu_1"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "02_2021_TT-BVHTTDL_177987",
+ "doc": "02_2021_TT-BVHTTDL_177987",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 10,
+ "total_relations": 9,
+ "samples": [
+  {
+   "id": "02_2021_TT-BVHTTDL_177987",
+   "doc": "02_2021_TT-BVHTTDL_177987",
+   "category": "thong_tu",
+   "kind": "document",
+   "text": "Thông tư số 02/2021/TT-BVHTTDL bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBỘ VĂN HÓA, THỂ THAO\nVÀ DU LỊCH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 02/2021/TT-BVHTTDL\nHà Nội, ngày 13 tháng 5 năm 2021\nTHÔNG TƯ\nBãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 79/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành.\nĐiều 1. Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch.\n2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của\n3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021.\nĐiều 3. Trách nhiệm thi hành\nVụ trưởng Vụ Pháp chế, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\nNguyễn Văn Hùng\n",
+   "full_text": "Thông tư số 02/2021/TT-BVHTTDL bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBỘ VĂN HÓA, THỂ THAO\nVÀ DU LỊCH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 02/2021/TT-BVHTTDL\nHà Nội, ngày 13 tháng 5 năm 2021\nTHÔNG TƯ\nBãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;\nCăn cứ Nghị định số 79/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành.\nĐiều 1. Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch.\n2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của\n3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.\nĐiều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021.\nĐiều 3. Trách nhiệm thi hành\nVụ trưởng Vụ Pháp chế, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBỘ TRƯỞNG\nNguyễn Văn Hùng\n",
+   "total_chars": 2577,
+   "total_paras": 25,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 8,
+     "text": "Thông tư"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 12,
+     "end": 30,
+     "text": "02/2021/TT-BVHTTDL"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 85,
+     "end": 116,
+     "text": "Bộ Văn hóa, Thể thao và Du lịch"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 252,
+     "end": 276,
+     "text": "ngày 13 tháng 5 năm 2021"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành",
+     "parent": "e_so_hieu",
+     "start": 1336,
+     "end": 2148,
+     "text": "Điều 1. Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch.\n2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của\n3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương."
+    },
+    {
+     "id": "e_khoan_1_1",
+     "type": "KHOAN",
+     "number": "1",
+     "parent": "e_dieu_1",
+     "start": 1494,
+     "end": 1681,
+     "text": "1. Thông tư số 09/2014/TT-BVHTTDL ngày 29 tháng 9 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định công tác bảo vệ bí mật nhà nước trong ngành văn hóa, thể thao và du lịch."
+    },
+    {
+     "id": "e_khoan_1_2",
+     "type": "KHOAN",
+     "number": "2",
+     "parent": "e_dieu_1",
+     "start": 1682,
+     "end": 1861,
+     "text": "2. Thông tư số 16/2016/TT-BVHTTDL ngày 27 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện Quyết định số 650/QĐ-TTg ngày 25 tháng 4 năm 2016 của"
+    },
+    {
+     "id": "e_khoan_1_3",
+     "type": "KHOAN",
+     "number": "3",
+     "parent": "e_dieu_1",
+     "start": 1862,
+     "end": 2148,
+     "text": "3. Thông tư số 09/2019/TT-BVHTTDL ngày 09 tháng 9 năm 2019 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chuẩn chức danh Giám đốc, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch; Sở Văn hóa và Thể thao; Sở Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Hiệu lực thi hành",
+     "parent": "e_so_hieu",
+     "start": 2149,
+     "end": 2240,
+     "text": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Trách nhiệm thi hành",
+     "parent": "e_so_hieu",
+     "start": 2241,
+     "end": 2550,
+     "text": "Điều 3. Trách nhiệm thi hành\nVụ trưởng Vụ Pháp chế, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch các tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_1_1",
+     "tail": "e_dieu_1"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_1_2",
+     "tail": "e_dieu_1"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_1_3",
+     "tail": "e_dieu_1"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

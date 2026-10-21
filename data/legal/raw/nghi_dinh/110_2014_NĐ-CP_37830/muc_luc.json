@@ -1,0 +1,552 @@
+[
+  {
+    "level": "Chương",
+    "number": "I",
+    "title": "Chương I. QUY ĐỊNH CHUNG",
+    "content": "",
+    "children": [
+      {
+        "level": "Điều",
+        "number": "1",
+        "title": "Điều 1. Phạm vi điều chỉnh",
+        "content": "Nghị định này quy định điều kiện kinh doanh vận tải đường thủy nội địa, gồm kinh doanh vận tải hành khách và kinh doanh vận tải hàng hóa.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "2",
+        "title": "Điều 2. Đối tượng áp dụng",
+        "content": "Nghị định này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động kinh doanh vận tải đường thủy nội địa bằng phương tiện thủy nội địa (sau đây gọi là phương tiện).\nNghị định này không áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động kinh doanh vận tải hành khách đường thủy nội địa trong các khu du lịch khép kín.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "3",
+        "title": "Điều 3. Giải thích từ ngữ",
+        "content": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Đơn vị kinh doanh vận tải là doanh nghiệp, hợp tác xã, hộ kinh doanh tham gia kinh doanh vận tải bằng phương tiện thủy nội địa.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Kinh doanh vận tải đường thủy nội địa là hoạt động của đơn vị kinh doanh sử dụng phương tiện thủy nội địa để vận tải hành khách, hàng hóa có thu cước phí vận tải.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Tuyến vận tải đường thủy nội địa cố định là tuyến được cơ quan có thẩm quyền phê duyệt hoặc công bố, được xác định bởi cảng, bến nơi đi và cảng, bến nơi đến.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "4",
+        "title": "Điều 4. Các hình thức kinh doanh vận tải đường thủy nội địa",
+        "content": "Kinh doanh vận tải đường thủy nội địa bao gồm các hình thức sau:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Kinh doanh vận tải hành khách theo tuyến cố định;",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Kinh doanh vận tải hành khách theo hợp đồng chuyến;",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Kinh doanh vận chuyển khách du lịch;",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Kinh doanh vận tải hành khách ngang sông;",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "5",
+            "title": "5. Kinh doanh vận tải hàng hóa.",
+            "content": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "Chương",
+    "number": "II",
+    "title": "Chương II. ĐIỀU KIỆN KINH DOANH VẬN TẢI ĐƯỜNG THỦY NỘI ĐỊA",
+    "content": "",
+    "children": [
+      {
+        "level": "Điều",
+        "number": "5",
+        "title": "Điều 5. Điều kiện chung",
+        "content": "Đơn vị kinh doanh vận tải đường thủy nội địa phải có đủ các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Có đăng ký kinh doanh ngành nghề vận tải đường thủy nội địa.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Phương tiện phải bảo đảm an toàn kỹ thuật và bảo vệ môi trường theo quy định; phù hợp với hình thức và phương án kinh doanh.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Thuyền viên phải có bằng, chứng chỉ chuyên môn theo quy định. Thuyền viên phải đủ tiêu chuẩn về sức khỏe theo quy định của Bộ Y tế.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Thuyền viên, nhân viên phục vụ có hợp đồng lao động bằng văn bản với đơn vị kinh doanh vận tải theo mẫu của Bộ Lao động - Thương binh và Xã hội (trừ các trường hợp đồng thời là chủ hộ kinh doanh hoặc là bố, mẹ, vợ, chồng, con của chủ hộ kinh doanh).",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "5",
+            "title": "5. Mua bảo hiểm trách nhiệm dân sự của chủ phương tiện đối với hành khách và người thứ ba.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "6",
+        "title": "Điều 6. Điều kiện kinh doanh vận tải hành khách theo tuyến cố định",
+        "content": "Đơn vị kinh doanh vận tải hành khách theo tuyến cố định phải bảo đảm các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Có đủ các điều kiện quy định tại Điều 5 của Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Có văn bản chấp thuận tuyến hoạt động và phương án khai thác tuyến của cơ quan có thẩm quyền nơi đơn vị kinh doanh nộp đơn đăng ký vận tải hành khách đường thủy nội địa theo tuyến cố định. Bộ Giao thông vận tải hướng dẫn thủ tục đăng ký tuyến hoạt động vận tải hành khách đường thủy nội địa theo tuyến cố định.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Nhân viên phục vụ trên phương tiện phải được tập huấn về nghiệp vụ và các quy định của pháp luật đối với hoạt động vận tải theo quy định của Bộ Giao thông vận tải.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Người điều hành vận tải phải có trình độ chuyên môn về vận tải từ trung cấp trở lên hoặc có trình độ từ cao đẳng trở lên đối với các chuyên ngành kinh tế, kỹ thuật khác.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "5",
+            "title": "5. Có nơi neo đậu cho phương tiện phù hợp với phương án khai thác tuyến và bảo đảm các yêu cầu về an toàn giao thông, phòng chống cháy, nổ và bảo vệ môi trường theo quy định.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "6",
+            "title": "6. Phương tiện phải lắp đặt thiết bị nhận dạng tự động - AIS khi hoạt động trên tuyến từ bờ ra đảo hoặc giữa các đảo.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "7",
+            "title": "7. Có bộ phận quản lý, theo dõi các điều kiện về an toàn giao thông.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "7",
+        "title": "Điều 7. Điều kiện kinh doanh vận tải hành khách theo hợp đồng chuyến",
+        "content": "Đơn vị kinh doanh vận tải hành khách theo hợp đồng chuyến phải bảo đảm các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Có đủ các điều kiện quy định tại Điều 5 của Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Có hợp đồng với người thuê vận tải.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Nhân viên phục vụ trên phương tiện phải được tập huấn về nghiệp vụ và các quy định của pháp luật đối với hoạt động vận tải theo quy định của Bộ Giao thông vận tải.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Người điều hành vận tải phải có trình độ chuyên môn về vận tải từ trung cấp trở lên hoặc có trình độ từ cao đẳng trở lên đối với các chuyên ngành kinh tế, kỹ thuật khác.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "5",
+            "title": "5. Phương tiện phải lắp đặt thiết bị nhận dạng tự động - AIS khi hoạt động trên tuyến từ bờ ra đảo hoặc giữa các đảo.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "6",
+            "title": "6. Có bộ phận quản lý, theo dõi các điều kiện về an toàn giao thông.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "8",
+        "title": "Điều 8. Điều kiện kinh doanh vận chuyển khách du lịch",
+        "content": "Đơn vị kinh doanh vận chuyển khách du lịch phải bảo đảm các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Có đủ các điều kiện quy định tại Điều 7 của Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Phương tiện phải được cấp biển hiệu riêng cho phương tiện vận chuyển khách du lịch theo quy định của Bộ Giao thông vận tải.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Nhân viên phục vụ trên phương tiện vận chuyển khách du lịch phải được tập huấn về nghiệp vụ du lịch theo quy định có liên quan của pháp luật về du lịch.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "9",
+        "title": "Điều 9. Điều kiện kinh doanh vận tải hành khách ngang sông",
+        "content": "Đơn vị kinh doanh vận tải hành khách ngang sông phải bảo đảm các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Đơn vị kinh doanh phải được cơ quan có thẩm quyền chấp thuận vận tải hành khách ngang sông theo quy định. Bộ Giao thông vận tải hướng dẫn thủ tục chấp thuận vận tải hành khách ngang sông.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Phải đón, trả hành khách tại bến đã được cơ quan có thẩm quyền cấp giấy phép hoạt động.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Phương tiện phải bảo đảm an toàn kỹ thuật và bảo vệ môi trường.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Thuyền viên, người lái phương tiện phải có chứng chỉ chuyên môn.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "10",
+        "title": "Điều 10. Điều kiện kinh doanh vận tải hàng hóa",
+        "content": "Đơn vị kinh doanh vận tải hàng hóa phải bảo đảm các điều kiện sau đây:",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Có đủ các điều kiện quy định tại Điều 5 của Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Đối với kinh doanh vận tải hàng hóa nguy hiểm phải đáp ứng các quy định của pháp luật về vận tải hàng hóa nguy hiểm. Việc vận chuyển hàng hóa có nguy cơ gây sự cố môi trường phải bảo đảm các yêu cầu về bảo vệ môi trường theo quy định tại Điều 74 Luật Bảo vệ môi trường năm 2014.",
+            "content": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "Chương",
+    "number": "III",
+    "title": "Chương III. TRÁCH NHIỆM TỔ CHỨC THỰC HIỆN",
+    "content": "",
+    "children": [
+      {
+        "level": "Điều",
+        "number": "11",
+        "title": "Điều 11. Bộ Giao thông vận tải",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Thống nhất quản lý hoạt động kinh doanh vận tải đường thủy nội địa quy định tại Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Chỉ đạo, hướng dẫn, tổ chức thực hiện các quy định tại Nghị định này.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Tổ chức thanh tra, kiểm tra và xử lý vi phạm việc thực hiện các quy định về kinh doanh và điều kiện kinh doanh vận tải thủy nội địa theo quy định của Nghị định này và các quy định khác có liên quan của pháp luật.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "4",
+            "title": "4. Hướng dẫn thủ tục chấp thuận vận tải đường thủy nội địa; điều kiện của bộ phận quản lý, theo dõi các điều kiện về an toàn giao thông; việc lắp đặt, quản lý, sử dụng thiết bị nhận dạng tự động; tập huấn nghiệp vụ chuyên môn, nghiệp vụ kỹ thuật đối với hoạt động vận tải đường thủy nội địa.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "12",
+        "title": "Điều 12. Bộ Công an",
+        "content": "Chủ trì hoặc phối hợp với Bộ Giao thông vận tải kiểm tra các hoạt động kinh doanh vận tải đường thủy nội địa và xử lý các hành vi vi phạm theo quy định của pháp luật.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "13",
+        "title": "Điều 13. Bộ Văn hóa, Thể thao và Du lịch",
+        "content": "Phối hợp với Bộ Giao thông vận tải hướng dẫn các đơn vị kinh doanh vận chuyển khách du lịch bằng phương tiện thủy nội địa thực hiện các quy định tại Nghị định này và các quy định khác có liên quan của pháp luật.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "14",
+        "title": "Điều 14. Bộ Thông tin và Truyền thông",
+        "content": "Chủ trì, phối hợp với Bộ Giao thông vận tải hướng dẫn quản lý việc sử dụng tần số vô tuyến điện, hạ tầng thông tin và các thiết bị thông tin, liên lạc khác sử dụng trong công tác quản lý, điều hành hoạt động kinh doanh vận tải đường thủy nội địa; quy định về quy chuẩn kỹ thuật quốc gia của thiết bị nhận dạng tự động.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "15",
+        "title": "Điều 15. Bộ Y tế",
+        "content": "Ban hành quy định về tiêu chuẩn, việc khám sức khỏe và quy định về cơ sở y tế khám sức khỏe của thuyền viên, người lái phương tiện thủy nội địa.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "16",
+        "title": "Điều 16. Bộ Lao động - Thương binh và Xã hội",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Chủ trì, phối hợp với Bộ Giao thông vận tải hướng dẫn thực hiện các quy định của pháp luật về hợp đồng lao động, bảo hiểm xã hội, bảo hiểm y tế và các chế độ khác của người lao động trong hoạt động kinh doanh vận tải đường thủy nội địa.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Phối hợp với Bộ Giao thông vận tải hướng dẫn thực hiện các quy định của pháp luật về các chế độ, chính sách đối với người khuyết tật, người cao tuổi và các đối tượng chính sách khác khi sử dụng các dịch vụ vận tải đường thủy nội địa.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "17",
+        "title": "Điều 17. Ủy ban nhân dân cấp tỉnh",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Tổ chức quản lý hoạt động kinh doanh vận tải hành khách trong các khu du lịch và bến khách ngang sông.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Tổ chức quản lý hoạt động kinh doanh vận tải đường thủy nội địa theo quy định của Nghị định này và các quy định khác có liên quan của pháp luật.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Tổ chức thanh tra, kiểm tra và xử lý vi phạm việc thực hiện các quy định về kinh doanh và điều kiện kinh doanh vận tải thủy nội địa theo quy định của Nghị định này và các quy định khác có liên quan của pháp luật.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "18",
+        "title": "Điều 18. Chế độ kiểm tra thực hiện điều kiện kinh doanh của đơn vị kinh doanh vận tải",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Đơn vị kinh doanh vận tải chịu sự kiểm tra về việc chấp hành các quy định về kinh doanh và điều kiện kinh doanh vận tải đường thủy nội địa của cơ quan có thẩm quyền.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Hình thức kiểm tra:",
+            "content": "",
+            "children": [
+              {
+                "level": "Điểm",
+                "number": "a",
+                "title": "a) Kiểm tra định kỳ;",
+                "content": "",
+                "children": []
+              },
+              {
+                "level": "Điểm",
+                "number": "b",
+                "title": "b) Kiểm tra đột xuất khi để xảy ra tai nạn giao thông đặc biệt nghiêm trọng, có khiếu nại, tố cáo hoặc khi có thông tin, dấu hiệu về việc không thực hiện đầy đủ các quy định về kinh doanh và điều kiện kinh doanh vận tải đường thủy nội địa.",
+                "content": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "level": "Khoản",
+            "number": "3",
+            "title": "3. Bộ trưởng Bộ Giao thông vận tải, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo cơ quan chức năng tổ chức kiểm tra việc tuân thủ các điều kiện kinh doanh của đơn vị kinh doanh vận tải thủy nội địa.",
+            "content": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "Chương",
+    "number": "IV",
+    "title": "Chương IV. ĐIỀU KHOẢN THI HÀNH",
+    "content": "",
+    "children": [
+      {
+        "level": "Điều",
+        "number": "19",
+        "title": "Điều 19. Điều khoản chuyển tiếp",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Đơn vị kinh doanh đang hoạt động kinh doanh vận tải đường thủy nội địa trước ngày Nghị định này có hiệu lực thi hành thì vẫn được tiếp tục thực hiện kinh doanh.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Trong thời hạn kể từ ngày 05 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016, các đơn vị kinh doanh quy định tại Khoản 1 Điều này phải đáp ứng đầy đủ các điều kiện quy định tại Nghị định này.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "20",
+        "title": "Điều 20. Hiệu lực thi hành",
+        "content": "Nghị định này có hiệu lực thi hành kể từ ngày 05 tháng 01 năm 2015; bãi bỏ Điều 10 Nghị định số 21/2005/NĐ-CP ngày 01 tháng 3 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Luật Giao thông đường thủy nội địa.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "21",
+        "title": "Điều 21. Trách nhiệm thi hành",
+        "content": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.",
+        "children": []
+      }
+    ]
+  }
+]

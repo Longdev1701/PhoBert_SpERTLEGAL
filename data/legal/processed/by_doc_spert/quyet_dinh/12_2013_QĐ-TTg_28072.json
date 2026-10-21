@@ -1,0 +1,5666 @@
+{
+ "doc": "12_2013_QĐ-TTg_28072",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 55,
+ "total_entities": 322,
+ "total_relations": 258,
+ "samples": [
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_0",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_1",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_2",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Giáo_dục ngày 14 tháng 6 năm 2005 ; Luật Sửa_đổi , bổ_sung một_số điều của Luật Giáo_dục ngày 25 tháng 11 năm 2009 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";",
+    "Luật",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "25",
+    "tháng",
+    "11",
+    "năm",
+    "2009",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 10,
+     "text": "Luật Giáo_dục"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 24,
+     "text": "Sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_3",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Giáo_dục ngày 14 tháng 6 năm 2005 ; Luật Sửa_đổi , bổ_sung một_số điều của Luật Giáo_dục ngày 25 tháng 11 năm 2009 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";",
+    "Luật",
+    "Sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    "ngày",
+    "25",
+    "tháng",
+    "11",
+    "năm",
+    "2009",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật Giáo_dục"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 11,
+     "end": 17,
+     "text": "Sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_4",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Nghị_định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Giáo_dục ; Nghị_định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Giáo_dục ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "75/2006/NĐ-CP",
+    "ngày",
+    "02",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    ";",
+    "Nghị_định",
+    "số",
+    "31/2011/NĐ-CP",
+    "ngày",
+    "11",
+    "tháng",
+    "5",
+    "năm",
+    "2011",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "75/2006/NĐ-CP",
+    "ngày",
+    "02",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 75/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 30,
+     "end": 33,
+     "text": "Nghị_định số 31/2011/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 47,
+     "end": 50,
+     "text": "Nghị_định số 75/2006/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 41,
+     "end": 47,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 02 tháng 8 năm 2006"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 33,
+     "end": 39,
+     "text": "ngày 11 tháng 5 năm 2011"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 50,
+     "end": 56,
+     "text": "ngày 02 tháng 8 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 40,
+     "end": 41,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 57,
+     "end": 58,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 9
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_5",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Giáo_dục ; Nghị_định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Giáo_dục ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "75/2006/NĐ-CP",
+    "ngày",
+    "02",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    ";",
+    "Nghị_định",
+    "số",
+    "31/2011/NĐ-CP",
+    "ngày",
+    "11",
+    "tháng",
+    "5",
+    "năm",
+    "2011",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "75/2006/NĐ-CP",
+    "ngày",
+    "02",
+    "tháng",
+    "8",
+    "năm",
+    "2006",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "và",
+    "hướng_dẫn",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giáo_dục",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 75/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 26,
+     "text": "Nghị_định số 31/2011/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 40,
+     "end": 43,
+     "text": "Nghị_định số 75/2006/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 34,
+     "end": 40,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 02 tháng 8 năm 2006"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 26,
+     "end": 32,
+     "text": "ngày 11 tháng 5 năm 2011"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 43,
+     "end": 49,
+     "text": "ngày 02 tháng 8 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 34,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 50,
+     "end": 51,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_6",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Nghị_định số 05/2011/NĐ-CP ngày 14 tháng 01 năm 2011 của Chính_phủ về công_tác dân_tộc ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "05/2011/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "01",
+    "năm",
+    "2011",
+    "của",
+    "Chính_phủ",
+    "về",
+    "công_tác",
+    "dân_tộc",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 05/2011/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 14 tháng 01 năm 2011"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_7",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 05/2011/NĐ-CP ngày 14 tháng 01 năm 2011 của Chính_phủ về công_tác dân_tộc ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "05/2011/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "01",
+    "năm",
+    "2011",
+    "của",
+    "Chính_phủ",
+    "về",
+    "công_tác",
+    "dân_tộc",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 05/2011/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 01 năm 2011"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_8",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Theo đề_nghị của Bộ_trưởng Bộ Giáo_dục và Đào_tạo ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 15,
+     "text": "Bộ_trưởng Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_9",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Giáo_dục và Đào_tạo ;",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 8,
+     "text": "Bộ_trưởng Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_context_10",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ . Thủ_tướng Chính_phủ ban_hành Quyết_định quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông ở vùng có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ,",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "quy_định",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "trung_học",
+    "phổ_thông",
+    "ở",
+    "vùng",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 9,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#preamble_standalone_11",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông ở vùng có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ,",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "quy_định",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "trung_học",
+    "phổ_thông",
+    "ở",
+    "vùng",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_12",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng . Quyết_định này quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông là người dân_tộc_thiểu_số , là người dân_tộc Kinh_thuộc hộ nghèo ở xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn đáp_ứng các điều_kiện quy_định tại Điều 2 của Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    "và",
+    "đối_tượng",
+    "áp_dụng",
+    ".",
+    "Quyết_định",
+    "này",
+    "quy_định",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "trung_học",
+    "phổ_thông",
+    "là",
+    "người",
+    "dân_tộc_thiểu_số",
+    ",",
+    "là",
+    "người",
+    "dân_tộc",
+    "Kinh_thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    ",",
+    "thôn",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "2",
+    "của",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 61,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng . Quyết_định này quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông là người dân_tộc_thiểu_số , là người dân_tộc Kinh_thuộc hộ nghèo ở xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn đáp_ứng các điều_kiện quy_định tại Điều 2 của Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 60,
+     "text": "Điều 2 của Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 53,
+     "end": 55,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 37,
+     "end": 39,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_13",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng . Quyết_định này quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông là người dân_tộc_thiểu_số , là người dân_tộc Kinh_thuộc hộ nghèo ở xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn đáp_ứng các điều_kiện quy_định tại Điều 2 của Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    "và",
+    "đối_tượng",
+    "áp_dụng",
+    ".",
+    "Quyết_định",
+    "này",
+    "quy_định",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "trung_học",
+    "phổ_thông",
+    "là",
+    "người",
+    "dân_tộc_thiểu_số",
+    ",",
+    "là",
+    "người",
+    "dân_tộc",
+    "Kinh_thuộc",
+    "hộ",
+    "nghèo",
+    "ở",
+    "xã",
+    ",",
+    "thôn",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    "đáp_ứng",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "2",
+    "của",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 49,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng . Quyết_định này quy_định chính_sách hỗ_trợ học_sinh trung_học phổ_thông là người dân_tộc_thiểu_số , là người dân_tộc Kinh_thuộc hộ nghèo ở xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn đáp_ứng các điều_kiện quy_định tại Điều 2 của Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 43,
+     "end": 48,
+     "text": "Điều 2 của Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 41,
+     "end": 43,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_14",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 2 . Điều_kiện được hưởng chính_sách hỗ_trợ",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Điều_kiện",
+    "được",
+    "hưởng",
+    "chính_sách",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 20,
+     "text": "Điều 2 . Điều_kiện được hưởng chính_sách hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_15",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 2 . 1 . Đối_với học_sinh là người dân_tộc_thiểu_số :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "học_sinh",
+    "là",
+    "người",
+    "dân_tộc_thiểu_số",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 23,
+     "text": "1 . Đối_với học_sinh là người dân_tộc_thiểu_số :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_16",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 2 . Khoản 1 . a ) Đang học cấp trung_học phổ_thông tại trường trung_học phổ_thông hoặc trường phổ_thông có nhiều cấp học ( có cấp trung_học phổ_thông ) thuộc loại_hình công_lập ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Đang",
+    "học",
+    "cấp",
+    "trung_học",
+    "phổ_thông",
+    "tại",
+    "trường",
+    "trung_học",
+    "phổ_thông",
+    "hoặc",
+    "trường",
+    "phổ_thông",
+    "có",
+    "nhiều",
+    "cấp",
+    "học",
+    "(",
+    "có",
+    "cấp",
+    "trung_học",
+    "phổ_thông",
+    ")",
+    "thuộc",
+    "loại_hình",
+    "công_lập",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 46,
+     "text": "a ) Đang học cấp trung_học phổ_thông tại trường trung_học phổ_thông hoặc trường phổ_thông có nhiều cấp học ( có cấp trung_học phổ_thông ) thuộc loại_hình công_lập ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_17",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 2 . Khoản 1 . b ) Bản_thân , bố , mẹ hoặc người giám_hộ có hộ_khẩu thường_trú tại xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Bản_thân",
+    ",",
+    "bố",
+    ",",
+    "mẹ",
+    "hoặc",
+    "người",
+    "giám_hộ",
+    "có",
+    "hộ_khẩu",
+    "thường_trú",
+    "tại",
+    "xã",
+    ",",
+    "thôn",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 43,
+     "text": "b ) Bản_thân , bố , mẹ hoặc người giám_hộ có hộ_khẩu thường_trú tại xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_18",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 1 . b ) Bản_thân , bố , mẹ hoặc người giám_hộ có hộ_khẩu thường_trú tại xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Bản_thân",
+    ",",
+    "bố",
+    ",",
+    "mẹ",
+    "hoặc",
+    "người",
+    "giám_hộ",
+    "có",
+    "hộ_khẩu",
+    "thường_trú",
+    "tại",
+    "xã",
+    ",",
+    "thôn",
+    "có",
+    "điều_kiện",
+    "kinh_tế",
+    "-",
+    "xã_hội",
+    "đặc_biệt",
+    "khó_khăn",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 31,
+     "text": "b ) Bản_thân , bố , mẹ hoặc người giám_hộ có hộ_khẩu thường_trú tại xã , thôn có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_19",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 2 . Khoản 1 . c ) Do nhà ở xa trường hoặc địa_hình cách_trở , giao_thông đi_lại khó_khăn , nên không_thể đi đến trường và trở về nhà trong ngày , phải ở lại trường hoặc khu_vực gần trường để học_tập .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Do",
+    "nhà",
+    "ở",
+    "xa",
+    "trường",
+    "hoặc",
+    "địa_hình",
+    "cách_trở",
+    ",",
+    "giao_thông",
+    "đi_lại",
+    "khó_khăn",
+    ",",
+    "nên",
+    "không_thể",
+    "đi",
+    "đến",
+    "trường",
+    "và",
+    "trở",
+    "về",
+    "nhà",
+    "trong",
+    "ngày",
+    ",",
+    "phải",
+    "ở",
+    "lại",
+    "trường",
+    "hoặc",
+    "khu_vực",
+    "gần",
+    "trường",
+    "để",
+    "học_tập",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 56,
+     "text": "c ) Do nhà ở xa trường hoặc địa_hình cách_trở , giao_thông đi_lại khó_khăn , nên không_thể đi đến trường và trở về nhà trong ngày , phải ở lại trường hoặc khu_vực gần trường để học_tập ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_20",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 1 . c ) Do nhà ở xa trường hoặc địa_hình cách_trở , giao_thông đi_lại khó_khăn , nên không_thể đi đến trường và trở về nhà trong ngày , phải ở lại trường hoặc khu_vực gần trường để học_tập .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Do",
+    "nhà",
+    "ở",
+    "xa",
+    "trường",
+    "hoặc",
+    "địa_hình",
+    "cách_trở",
+    ",",
+    "giao_thông",
+    "đi_lại",
+    "khó_khăn",
+    ",",
+    "nên",
+    "không_thể",
+    "đi",
+    "đến",
+    "trường",
+    "và",
+    "trở",
+    "về",
+    "nhà",
+    "trong",
+    "ngày",
+    ",",
+    "phải",
+    "ở",
+    "lại",
+    "trường",
+    "hoặc",
+    "khu_vực",
+    "gần",
+    "trường",
+    "để",
+    "học_tập",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 44,
+     "text": "c ) Do nhà ở xa trường hoặc địa_hình cách_trở , giao_thông đi_lại khó_khăn , nên không_thể đi đến trường và trở về nhà trong ngày , phải ở lại trường hoặc khu_vực gần trường để học_tập ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_21",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 2 . 2 . Đối_với học_sinh là người dân_tộc Kinh : Ngoài các điều_kiện quy_định tại Khoản 1 của Điều này còn phải thuộc hộ nghèo .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "học_sinh",
+    "là",
+    "người",
+    "dân_tộc",
+    "Kinh",
+    ":",
+    "Ngoài",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Khoản",
+    "1",
+    "của",
+    "Điều",
+    "này",
+    "còn",
+    "phải",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 35,
+     "text": "2 . Đối_với học_sinh là người dân_tộc Kinh : Ngoài các điều_kiện quy_định tại Khoản 1 của Điều này còn phải thuộc hộ nghèo ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 29,
+     "text": "Khoản 1 của Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 32,
+     "end": 34,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_22",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Đối_với học_sinh là người dân_tộc Kinh : Ngoài các điều_kiện quy_định tại Khoản 1 của Điều này còn phải thuộc hộ nghèo .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "học_sinh",
+    "là",
+    "người",
+    "dân_tộc",
+    "Kinh",
+    ":",
+    "Ngoài",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Khoản",
+    "1",
+    "của",
+    "Điều",
+    "này",
+    "còn",
+    "phải",
+    "thuộc",
+    "hộ",
+    "nghèo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 28,
+     "text": "2 . Đối_với học_sinh là người dân_tộc Kinh : Ngoài các điều_kiện quy_định tại Khoản 1 của Điều này còn phải thuộc hộ nghèo ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 22,
+     "text": "Khoản 1 của Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 15,
+     "end": 17,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "hộ nghèo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_23",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 3 . Mức hỗ_trợ",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Mức",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 3 . Mức hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_24",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 3 . 1 . Hỗ_trợ tiền ăn : Mỗi tháng được hỗ_trợ bằng 40 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Hỗ_trợ",
+    "tiền",
+    "ăn",
+    ":",
+    "Mỗi",
+    "tháng",
+    "được",
+    "hỗ_trợ",
+    "bằng",
+    "40",
+    "%",
+    "mức",
+    "lương",
+    "tối_thiểu",
+    "chung",
+    "và",
+    "được",
+    "hưởng",
+    "không",
+    "quá",
+    "9",
+    "tháng",
+    "/",
+    "năm_học",
+    "/",
+    "học_sinh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 44,
+     "text": "1 . Hỗ_trợ tiền ăn : Mỗi tháng được hỗ_trợ bằng 40 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 35,
+     "end": 39,
+     "text": "không quá 9 tháng"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 26,
+     "end": 28,
+     "text": "40 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_25",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Hỗ_trợ tiền ăn : Mỗi tháng được hỗ_trợ bằng 40 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Hỗ_trợ",
+    "tiền",
+    "ăn",
+    ":",
+    "Mỗi",
+    "tháng",
+    "được",
+    "hỗ_trợ",
+    "bằng",
+    "40",
+    "%",
+    "mức",
+    "lương",
+    "tối_thiểu",
+    "chung",
+    "và",
+    "được",
+    "hưởng",
+    "không",
+    "quá",
+    "9",
+    "tháng",
+    "/",
+    "năm_học",
+    "/",
+    "học_sinh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 32,
+     "text": "1 . Hỗ_trợ tiền ăn : Mỗi tháng được hỗ_trợ bằng 40 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 23,
+     "end": 27,
+     "text": "không quá 9 tháng"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 14,
+     "end": 16,
+     "text": "40 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_26",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 3 . 2 . Hỗ_trợ tiền nhà ở : Đối_với học_sinh phải tự_túc chỗ ở , mỗi tháng được hỗ_trợ bằng 10 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Hỗ_trợ",
+    "tiền",
+    "nhà",
+    "ở",
+    ":",
+    "Đối_với",
+    "học_sinh",
+    "phải",
+    "tự_túc",
+    "chỗ",
+    "ở",
+    ",",
+    "mỗi",
+    "tháng",
+    "được",
+    "hỗ_trợ",
+    "bằng",
+    "10",
+    "%",
+    "mức",
+    "lương",
+    "tối_thiểu",
+    "chung",
+    "và",
+    "được",
+    "hưởng",
+    "không",
+    "quá",
+    "9",
+    "tháng",
+    "/",
+    "năm_học",
+    "/",
+    "học_sinh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 52,
+     "text": "2 . Hỗ_trợ tiền nhà ở : Đối_với học_sinh phải tự_túc chỗ ở , mỗi tháng được hỗ_trợ bằng 10 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 43,
+     "end": 47,
+     "text": "không quá 9 tháng"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 34,
+     "end": 36,
+     "text": "10 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_27",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Hỗ_trợ tiền nhà ở : Đối_với học_sinh phải tự_túc chỗ ở , mỗi tháng được hỗ_trợ bằng 10 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Hỗ_trợ",
+    "tiền",
+    "nhà",
+    "ở",
+    ":",
+    "Đối_với",
+    "học_sinh",
+    "phải",
+    "tự_túc",
+    "chỗ",
+    "ở",
+    ",",
+    "mỗi",
+    "tháng",
+    "được",
+    "hỗ_trợ",
+    "bằng",
+    "10",
+    "%",
+    "mức",
+    "lương",
+    "tối_thiểu",
+    "chung",
+    "và",
+    "được",
+    "hưởng",
+    "không",
+    "quá",
+    "9",
+    "tháng",
+    "/",
+    "năm_học",
+    "/",
+    "học_sinh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "2 . Hỗ_trợ tiền nhà ở : Đối_với học_sinh phải tự_túc chỗ ở , mỗi tháng được hỗ_trợ bằng 10 % mức lương tối_thiểu chung và được hưởng không quá 9 tháng / năm_học / học_sinh ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 31,
+     "end": 35,
+     "text": "không quá 9 tháng"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 22,
+     "end": 24,
+     "text": "10 %"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_28",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 4 . Nguồn kinh_phí . Kinh_phí thực_hiện chính_sách hỗ_trợ quy_định tại Quyết_định này được cân_đối trong nguồn kinh_phí chi cho sự_nghiệp giáo_dục và đào_tạo hằng năm theo phân_cấp quản_lý ngân_sách nhà_nước .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Nguồn",
+    "kinh_phí",
+    ".",
+    "Kinh_phí",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "được",
+    "cân_đối",
+    "trong",
+    "nguồn",
+    "kinh_phí",
+    "chi",
+    "cho",
+    "sự_nghiệp",
+    "giáo_dục",
+    "và",
+    "đào_tạo",
+    "hằng",
+    "năm",
+    "theo",
+    "phân_cấp",
+    "quản_lý",
+    "ngân_sách",
+    "nhà_nước",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 45,
+     "text": "Điều 4 . Nguồn kinh_phí . Kinh_phí thực_hiện chính_sách hỗ_trợ quy_định tại Quyết_định này được cân_đối trong nguồn kinh_phí chi cho sự_nghiệp giáo_dục và đào_tạo hằng năm theo phân_cấp quản_lý ngân_sách nhà_nước ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 42,
+     "end": 44,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_29",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Nguồn kinh_phí . Kinh_phí thực_hiện chính_sách hỗ_trợ quy_định tại Quyết_định này được cân_đối trong nguồn kinh_phí chi cho sự_nghiệp giáo_dục và đào_tạo hằng năm theo phân_cấp quản_lý ngân_sách nhà_nước .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Nguồn",
+    "kinh_phí",
+    ".",
+    "Kinh_phí",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "được",
+    "cân_đối",
+    "trong",
+    "nguồn",
+    "kinh_phí",
+    "chi",
+    "cho",
+    "sự_nghiệp",
+    "giáo_dục",
+    "và",
+    "đào_tạo",
+    "hằng",
+    "năm",
+    "theo",
+    "phân_cấp",
+    "quản_lý",
+    "ngân_sách",
+    "nhà_nước",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 33,
+     "text": "Điều 4 . Nguồn kinh_phí . Kinh_phí thực_hiện chính_sách hỗ_trợ quy_định tại Quyết_định này được cân_đối trong nguồn kinh_phí chi cho sự_nghiệp giáo_dục và đào_tạo hằng năm theo phân_cấp quản_lý ngân_sách nhà_nước ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 14,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 12,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 32,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_30",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 5 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 5 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_31",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 5 . 1 . Bộ Giáo_dục và Đào_tạo :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 22,
+     "text": "1 . Bộ Giáo_dục và Đào_tạo :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 21,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_32",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 5 . Khoản 1 . a ) Chủ_trì , phối_hợp với Bộ Tài_chính hướng_dẫn thực_hiện chính_sách hỗ_trợ được quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "được",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 38,
+     "text": "a ) Chủ_trì , phối_hợp với Bộ Tài_chính hướng_dẫn thực_hiện chính_sách hỗ_trợ được quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 37,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 33,
+     "end": 35,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 28,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_33",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 1 . a ) Chủ_trì , phối_hợp với Bộ Tài_chính hướng_dẫn thực_hiện chính_sách hỗ_trợ được quy_định tại Quyết_định này ;",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "được",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "a ) Chủ_trì , phối_hợp với Bộ Tài_chính hướng_dẫn thực_hiện chính_sách hỗ_trợ được quy_định tại Quyết_định này ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_34",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 5 . Khoản 1 . b ) Kiểm_tra , đánh_giá , tổng_hợp tình_hình thực_hiện chính_sách , hằng năm báo_cáo Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Kiểm_tra",
+    ",",
+    "đánh_giá",
+    ",",
+    "tổng_hợp",
+    "tình_hình",
+    "thực_hiện",
+    "chính_sách",
+    ",",
+    "hằng",
+    "năm",
+    "báo_cáo",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 37,
+     "text": "b ) Kiểm_tra , đánh_giá , tổng_hợp tình_hình thực_hiện chính_sách , hằng năm báo_cáo Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 34,
+     "end": 36,
+     "text": "Thủ_tướng Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_35",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 5 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 15,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_36",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 8,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 7,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_37",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 5 . Khoản 2 . a ) Bố_trí kinh_phí chi thường_xuyên hỗ_trợ các địa_phương thực_hiện chính_sách hỗ_trợ học_sinh quy_định tại Quyết_định này trong dự_toán ngân_sách nhà_nước hằng năm theo phân_cấp quản_lý hiện_hành ;",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Bố_trí",
+    "kinh_phí",
+    "chi",
+    "thường_xuyên",
+    "hỗ_trợ",
+    "các",
+    "địa_phương",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "nhà_nước",
+    "hằng",
+    "năm",
+    "theo",
+    "phân_cấp",
+    "quản_lý",
+    "hiện_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 41,
+     "text": "a ) Bố_trí kinh_phí chi thường_xuyên hỗ_trợ các địa_phương thực_hiện chính_sách hỗ_trợ học_sinh quy_định tại Quyết_định này trong dự_toán ngân_sách nhà_nước hằng năm theo phân_cấp quản_lý hiện_hành ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 26,
+     "end": 28,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 32,
+     "end": 34,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_38",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 2 . a ) Bố_trí kinh_phí chi thường_xuyên hỗ_trợ các địa_phương thực_hiện chính_sách hỗ_trợ học_sinh quy_định tại Quyết_định này trong dự_toán ngân_sách nhà_nước hằng năm theo phân_cấp quản_lý hiện_hành ;",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Bố_trí",
+    "kinh_phí",
+    "chi",
+    "thường_xuyên",
+    "hỗ_trợ",
+    "các",
+    "địa_phương",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    "học_sinh",
+    "quy_định",
+    "tại",
+    "Quyết_định",
+    "này",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "nhà_nước",
+    "hằng",
+    "năm",
+    "theo",
+    "phân_cấp",
+    "quản_lý",
+    "hiện_hành",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 34,
+     "text": "a ) Bố_trí kinh_phí chi thường_xuyên hỗ_trợ các địa_phương thực_hiện chính_sách hỗ_trợ học_sinh quy_định tại Quyết_định này trong dự_toán ngân_sách nhà_nước hằng năm theo phân_cấp quản_lý hiện_hành ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "Quyết_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 27,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_39",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 5 . Khoản 2 . b ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "các",
+    "Bộ",
+    ",",
+    "ngành",
+    "liên_quan",
+    "kiểm_tra",
+    "việc",
+    "sử_dụng",
+    "kinh_phí",
+    "của",
+    "các",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 37,
+     "text": "b ) Chủ_trì , phối_hợp với các Bộ , ngành liên_quan kiểm_tra việc sử_dụng kinh_phí của các địa_phương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_40",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 5 . 3 . Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "có",
+    "trách_nhiệm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 28,
+     "text": "3 . Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 25,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_41",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 5 . Khoản 3 . a ) Ban_hành quy_định cụ_thể về điều_kiện học_sinh không_thể đi đến trường và trở về nhà trong ngày đối_với trường_hợp địa_hình cách_trở , giao_thông đi_lại khó_khăn ;",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Ban_hành",
+    "quy_định",
+    "cụ_thể",
+    "về",
+    "điều_kiện",
+    "học_sinh",
+    "không_thể",
+    "đi",
+    "đến",
+    "trường",
+    "và",
+    "trở",
+    "về",
+    "nhà",
+    "trong",
+    "ngày",
+    "đối_với",
+    "trường_hợp",
+    "địa_hình",
+    "cách_trở",
+    ",",
+    "giao_thông",
+    "đi_lại",
+    "khó_khăn",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 12,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 13,
+     "end": 40,
+     "text": "a ) Ban_hành quy_định cụ_thể về điều_kiện học_sinh không_thể đi đến trường và trở về nhà trong ngày đối_với trường_hợp địa_hình cách_trở , giao_thông đi_lại khó_khăn ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_42",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 5 . Khoản 3 . b ) Hằng năm phê_duyệt danh_sách học_sinh được hưởng chính_sách hỗ_trợ và chịu trách_nhiệm về việc phê_duyệt ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Hằng",
+    "năm",
+    "phê_duyệt",
+    "danh_sách",
+    "học_sinh",
+    "được",
+    "hưởng",
+    "chính_sách",
+    "hỗ_trợ",
+    "và",
+    "chịu",
+    "trách_nhiệm",
+    "về",
+    "việc",
+    "phê_duyệt",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 38,
+     "text": "b ) Hằng năm phê_duyệt danh_sách học_sinh được hưởng chính_sách hỗ_trợ và chịu trách_nhiệm về việc phê_duyệt ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_43",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 3 . b ) Hằng năm phê_duyệt danh_sách học_sinh được hưởng chính_sách hỗ_trợ và chịu trách_nhiệm về việc phê_duyệt ;",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Hằng",
+    "năm",
+    "phê_duyệt",
+    "danh_sách",
+    "học_sinh",
+    "được",
+    "hưởng",
+    "chính_sách",
+    "hỗ_trợ",
+    "và",
+    "chịu",
+    "trách_nhiệm",
+    "về",
+    "việc",
+    "phê_duyệt",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "b ) Hằng năm phê_duyệt danh_sách học_sinh được hưởng chính_sách hỗ_trợ và chịu trách_nhiệm về việc phê_duyệt ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_44",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 5 . Khoản 3 . c ) Chỉ_đạo , kiểm_tra , giám_sát việc thực_hiện chính_sách hỗ_trợ , hằng năm báo_cáo kết_quả_thực_hiện về Bộ Giáo_dục và Đào_tạo để tổng_hợp , báo_cáo Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "c",
+    ")",
+    "Chỉ_đạo",
+    ",",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    "việc",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    ",",
+    "hằng",
+    "năm",
+    "báo_cáo",
+    "kết_quả_thực_hiện",
+    "về",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "để",
+    "tổng_hợp",
+    ",",
+    "báo_cáo",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 48,
+     "text": "c ) Chỉ_đạo , kiểm_tra , giám_sát việc thực_hiện chính_sách hỗ_trợ , hằng năm báo_cáo kết_quả_thực_hiện về Bộ Giáo_dục và Đào_tạo để tổng_hợp , báo_cáo Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 37,
+     "end": 41,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 45,
+     "end": 47,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 34,
+     "end": 36,
+     "text": "báo_cáo kết_quả_thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_45",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . Khoản 3 . c ) Chỉ_đạo , kiểm_tra , giám_sát việc thực_hiện chính_sách hỗ_trợ , hằng năm báo_cáo kết_quả_thực_hiện về Bộ Giáo_dục và Đào_tạo để tổng_hợp , báo_cáo Thủ_tướng Chính_phủ .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "c",
+    ")",
+    "Chỉ_đạo",
+    ",",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    "việc",
+    "thực_hiện",
+    "chính_sách",
+    "hỗ_trợ",
+    ",",
+    "hằng",
+    "năm",
+    "báo_cáo",
+    "kết_quả_thực_hiện",
+    "về",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    "để",
+    "tổng_hợp",
+    ",",
+    "báo_cáo",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 34,
+     "text": "c ) Chỉ_đạo , kiểm_tra , giám_sát việc thực_hiện chính_sách hỗ_trợ , hằng năm báo_cáo kết_quả_thực_hiện về Bộ Giáo_dục và Đào_tạo để tổng_hợp , báo_cáo Thủ_tướng Chính_phủ ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 27,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 33,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 20,
+     "end": 22,
+     "text": "báo_cáo kết_quả_thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_46",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 6 . Hiệu_lực và trách_nhiệm thi_hành",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Hiệu_lực",
+    "và",
+    "trách_nhiệm",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 14,
+     "text": "Điều 6 . Hiệu_lực và trách_nhiệm thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_47",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 6 . 1 . Quyết_định này có hiệu_lực thi_hành kể từ ngày 15 tháng 3 năm 2013 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "15",
+    "tháng",
+    "3",
+    "năm",
+    "2013",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 33,
+     "text": "1 . Quyết_định này có hiệu_lực thi_hành kể từ ngày 15 tháng 3 năm 2013 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_48",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 6 . 2 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 46,
+     "text": "2 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 29,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_standalone_49",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 34,
+     "text": "2 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 17,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_50",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 3 . Mức hỗ_trợ",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Mức",
+    "hỗ_trợ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 3 . Mức hỗ_trợ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_51",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 4 . Nguồn kinh_phí",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Nguồn",
+    "kinh_phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 4 . Nguồn kinh_phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_52",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 12/2013/QĐ-TTg . Điều 5 . Tổ_chức thực_hiện",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Tổ_chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 12,
+     "text": "Điều 5 . Tổ_chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_53",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg ban_hành ngày 24 tháng 01 năm 2013 bởi Thủ_tướng Chính_phủ . Điều 5 . 1 . Bộ Giáo_dục và Đào_tạo :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "24",
+    "tháng",
+    "01",
+    "năm",
+    "2013",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Bộ",
+    "Giáo_dục",
+    "và",
+    "Đào_tạo",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 01 năm 2013"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 24,
+     "text": "1 . Bộ Giáo_dục và Đào_tạo :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 23,
+     "text": "Bộ Giáo_dục và Đào_tạo"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "12_2013_QĐ-TTg_28072#body_context_54",
+   "doc": "12_2013_QĐ-TTg_28072",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 12/2013/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Giáo_dục và đào_tạo . Điều 5 . 2 . Bộ Tài_chính :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "12/2013/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Giáo_dục",
+    "và",
+    "đào_tạo",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Bộ",
+    "Tài_chính",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "12/2013/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Giáo_dục và đào_tạo"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 20,
+     "text": "2 . Bộ Tài_chính :"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 19,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "level": "Điều",
+    "number": "1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "content": "Thông tư này quy định hệ thống chỉ tiêu thống kê ngành Thống kê.",
+    "children": []
+  },
+  {
+    "level": "Điều",
+    "number": "2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Cơ quan thống kê Trung ương.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Cơ quan thống kê địa phương.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "3",
+        "title": "3. Các cơ quan, tổ chức khác có liên quan đến hệ thống chỉ tiêu thống kê ngành Thống kê.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "3",
+    "title": "Điều 3. Hệ thống chỉ tiêu thống kê ngành Thống kê",
+    "content": "Hệ thống chỉ tiêu thống kê ngành Thống kê là tập hợp các chỉ tiêu thống kê do Hệ thống thống kê tập trung thực hiện phục vụ hoạt động thống kê và công tác quản lý chung của ngành Thống kê. Hệ thống chỉ tiêu thống kê ngành Thống kê gồm:",
+    "children": [
+      {
+        "level": "Điểm",
+        "number": "a",
+        "title": "a) Danh mục chỉ tiêu thống kê ngành Thống kê gồm số thứ tự; mã số; nhóm, tên chỉ tiêu được quy định tại Phụ lục I ban hành kèm theo Thông tư này.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Điểm",
+        "number": "b",
+        "title": "b) Nội dung chỉ tiêu thống kê ngành Thống kê gồm khái niệm, phương pháp tính, phân tổ chủ yếu, kỳ công bố, nguồn số liệu và đơn vị chịu trách nhiệm thu thập, tổng hợp được quy định tại Phụ lục II ban hành kèm theo Thông tư này.\"",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "4",
+    "title": "Điều 4. Tổ chức thực hiện",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Tổng cục Thống kê chủ trì, phối hợp với các đơn vị liên quan lồng ghép việc thu thập chỉ tiêu vào chế độ báo cáo thống kê ngành Thống kê trình Bộ trưởng ban hành; chủ trì tổ chức các cuộc điều tra thống kê và phối hợp với các đơn vị liên quan sử dụng dữ liệu hành chính thuộc phạm vi quản lý của Bộ nhằm phục vụ thu thập, tổng hợp thông tin thống kê thuộc các chỉ tiêu thống kê ngành Thống kê; chủ trì tổng hợp thông tin thống kê được quy định trong hệ thống chỉ tiêu thống kê ngành Thống kê; xây dựng lịch phổ biến thông tin thống kê ngành Thống kê; theo dõi, hướng dẫn, báo cáo tình hình thực hiện Thông tư này.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Thủ trưởng các đơn vị thuộc Bộ Kế hoạch và Đầu tư (Tổng cục Thống kê) và các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.",
+        "content": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "Điều",
+    "number": "5",
+    "title": "Điều 5. Hiệu lực thi hành",
+    "content": "",
+    "children": [
+      {
+        "level": "Khoản",
+        "number": "1",
+        "title": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2024. Những chỉ tiêu phân công cho Tổng cục Thống kê chủ trì thu thập quy định tại Thông tư số 05/2017/TT-BKHĐT ngày 30/11/2017 của Bộ trưởng Bộ Kế hoạch và Đầu tư hết hiệu lực kể từ khi Thông tư này có hiệu lực.",
+        "content": "",
+        "children": []
+      },
+      {
+        "level": "Khoản",
+        "number": "2",
+        "title": "2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các đơn vị gửi ý kiến về Bộ Kế hoạch và Đầu tư (Tổng cục Thống kê) để kịp thời có hướng dẫn, nghiên cứu sửa đổi, bổ sung./.",
+        "content": "",
+        "children": []
+      }
+    ]
+  }
+]

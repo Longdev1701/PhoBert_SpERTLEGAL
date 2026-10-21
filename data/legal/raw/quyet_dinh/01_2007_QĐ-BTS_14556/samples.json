@@ -1,0 +1,263 @@
+{
+ "doc_id": "01_2007_QĐ-BTS_14556",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 01/2007/QĐ-BTS Về việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ THUỶ SẢN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 01/2007/QĐ-BTS\nHà Nội, ngày 13 tháng 02 năm 2007\nQUYẾT ĐỊNH\nVề việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ TRƯỞNG BỘ THỦY SẢN\nCăn cứ Nghị định số 43/2003/NĐ-CP ngày 02 tháng 5 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thủy sản;\nCăn cứ Chị thị số 37/2005/CT-TTg ngày 28/10/2005 của Thủ tướng Chính phủ về một số biện pháp tăng cường quản lý hoá chất, kháng sinh cho sản xuất, kinh doanh thực phẩm;\nCăn cứ yêu cầu kiểm soát chất lượng, an toàn vệ sinh thực phẩm thủy sản củ các thị trường Hoa Kỳ và Canađa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học Công nghệ.\nQUYẾT ĐỊNH:\nĐiều 1. Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu.\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa.\nĐiều 3. Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết.\nĐiều 4. Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nNguyễn Thị Hồng Minh\n",
+ "total_chars": 2030,
+ "total_paras": 21,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 28,
+   "text": "01/2007/QĐ-BTS"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 91,
+   "end": 102,
+   "text": "BỘ THUỶ SẢN"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 193,
+   "end": 218,
+   "text": "ngày 13 tháng 02 năm 2007"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu.",
+   "parent": "e_so_hieu",
+   "start": 801,
+   "end": 1129,
+   "text": "Điều 1. Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa.",
+   "parent": "e_so_hieu",
+   "start": 1130,
+   "end": 1439,
+   "text": "Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết.",
+   "parent": "e_so_hieu",
+   "start": 1440,
+   "end": 1700,
+   "text": "Điều 3. Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết."
+  },
+  {
+   "id": "e_dieu_4",
+   "type": "DIEU",
+   "number": "4",
+   "title": "Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 1701,
+   "end": 1975,
+   "text": "Điều 4. Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 2009,
+   "end": 2029,
+   "text": "Nguyễn Thị Hồng Minh"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_4",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "01_2007_QĐ-BTS_14556",
+ "doc": "01_2007_QĐ-BTS_14556",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 9,
+ "total_relations": 8,
+ "samples": [
+  {
+   "id": "01_2007_QĐ-BTS_14556",
+   "doc": "01_2007_QĐ-BTS_14556",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 01/2007/QĐ-BTS Về việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ THUỶ SẢN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 01/2007/QĐ-BTS\nHà Nội, ngày 13 tháng 02 năm 2007\nQUYẾT ĐỊNH\nVề việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ TRƯỞNG BỘ THỦY SẢN\nCăn cứ Nghị định số 43/2003/NĐ-CP ngày 02 tháng 5 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thủy sản;\nCăn cứ Chị thị số 37/2005/CT-TTg ngày 28/10/2005 của Thủ tướng Chính phủ về một số biện pháp tăng cường quản lý hoá chất, kháng sinh cho sản xuất, kinh doanh thực phẩm;\nCăn cứ yêu cầu kiểm soát chất lượng, an toàn vệ sinh thực phẩm thủy sản củ các thị trường Hoa Kỳ và Canađa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học Công nghệ.\nQUYẾT ĐỊNH:\nĐiều 1. Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu.\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa.\nĐiều 3. Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết.\nĐiều 4. Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nNguyễn Thị Hồng Minh\n",
+   "full_text": "Quyết định số 01/2007/QĐ-BTS Về việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ THUỶ SẢN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 01/2007/QĐ-BTS\nHà Nội, ngày 13 tháng 02 năm 2007\nQUYẾT ĐỊNH\nVề việc kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa\nBỘ TRƯỞNG BỘ THỦY SẢN\nCăn cứ Nghị định số 43/2003/NĐ-CP ngày 02 tháng 5 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thủy sản;\nCăn cứ Chị thị số 37/2005/CT-TTg ngày 28/10/2005 của Thủ tướng Chính phủ về một số biện pháp tăng cường quản lý hoá chất, kháng sinh cho sản xuất, kinh doanh thực phẩm;\nCăn cứ yêu cầu kiểm soát chất lượng, an toàn vệ sinh thực phẩm thủy sản củ các thị trường Hoa Kỳ và Canađa;\nTheo đề nghị của Vụ trưởng Vụ Khoa học Công nghệ.\nQUYẾT ĐỊNH:\nĐiều 1. Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu.\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa.\nĐiều 3. Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết.\nĐiều 4. Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nNguyễn Thị Hồng Minh\n",
+   "total_chars": 2030,
+   "total_paras": 21,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 28,
+     "text": "01/2007/QĐ-BTS"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 91,
+     "end": 102,
+     "text": "BỘ THUỶ SẢN"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 193,
+     "end": 218,
+     "text": "ngày 13 tháng 02 năm 2007"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu.",
+     "parent": "e_so_hieu",
+     "start": 801,
+     "end": 1129,
+     "text": "Điều 1. Việc kiểm tra, chứng nhận chất lượng, an toàn thực phẩm đối với thủy sản, sản phẩm thủy sản của Việt Nam xuất khẩu vào Hoa Kỳ và Canađa được thực hiện theo yêu cầu của cơ sở sản xuất kinh doanh thủy sản hoặc theo thoả thuận song phương giữa cơ quan có thẩm quyền của Việt Nam và cơ quan có thẩm quyền của nước nhập khẩu."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa.",
+     "parent": "e_so_hieu",
+     "start": 1130,
+     "end": 1439,
+     "text": "Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Bãi bỏ chế độ kiểm tra tăng cường hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa quy định tại Quyết định số 29/2005/QĐ-BTS ngày 01/11/2005 của Bộ trưởng Bộ Thủy sản về việc tăng cường kiểm tra hàng thủy sản xuất khẩu vào Hoa Kỳ và Canađa."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết.",
+     "parent": "e_so_hieu",
+     "start": 1440,
+     "end": 1700,
+     "text": "Điều 3. Cục Quản lý Chất lượng An toàn vệ sinh và Thúy thủy sản có trách nhiệm thông báo, hướng dẫn các cơ sở sản xuất kinh doanh thủy sản thực hiện các quy định trong thoả thuận hợp tác giữa Cục với các cơ quan có thẩm quyền của nước nhập khẩu đã được ký kết."
+    },
+    {
+     "id": "e_dieu_4",
+     "type": "DIEU",
+     "number": "4",
+     "title": "Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 1701,
+     "end": 1975,
+     "text": "Điều 4. Chánh Văn phòng, Thủ trưởng các Vụ, Cục, Thanh tra, thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc các Sở Thủy sản, Sở Nông nghiệp và Phát triển nông thôn có quản lý thủy sản, các doanh nghiệp chế biến và xuất khẩu thủy sản chịu trách nhiệm thi hành quyết định này./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 2009,
+     "end": 2029,
+     "text": "Nguyễn Thị Hồng Minh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_4",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

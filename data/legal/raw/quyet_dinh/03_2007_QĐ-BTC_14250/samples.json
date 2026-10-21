@@ -1,0 +1,233 @@
+{
+ "doc_id": "03_2007_QĐ-BTC_14250",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 03/2007/QĐ-BTC Về việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 03/2007/QĐ-BTC\nHà Nội, ngày 08 tháng 01 năm 2007\nQUYẾT ĐỊNH\nVề việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia\ndo Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Pháp lệnh Dự trữ quốc gia số 17/2004/PL-UBTVQH11 ngày 29/4/2004 của Ủy ban Thường vụ Quốc hội;\nCăn cứ Nghị định số 196/2004/NĐ-CP ngày 02/12/2004 của Chính phủ qui định chi tiết thi hành Pháp lệnh Dự trữ quốc gia;\nCăn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ về việc qui định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính.\nTheo đề nghị của Chủ tịch Hội đồng định mức bảo quản hàng dự trữ quốc gia Bộ Tài chính, Cục trưởng Cục Dự trữ quốc gia;\nQUYẾT ĐỊNH\nĐiều 1. Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).\nCác định mức trên căn cứ theo tiêu chuẩn chất lượng thóc nhập kho dự trữ quốc gia tại tiêu chuẩn ngành TCN 04-2004: Thóc dự trữ quốc gia - Yêu cầu kỹ thuật ban hành theo Quyết định số 35/2004/QĐ-BTC ngày 14/4/2004 và quy phạm bảo quản thóc ban hành tại Quyết định số 34/2004/QĐ-BTC ngày 14/4/2004 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia.\nĐiều 3. Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nĐỗ Hoàng Anh Tuấn\n",
+ "total_chars": 1934,
+ "total_paras": 22,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 28,
+   "text": "03/2007/QĐ-BTC"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 134,
+   "end": 146,
+   "text": "BỘ TÀI CHÍNH"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 237,
+   "end": 262,
+   "text": "ngày 08 tháng 01 năm 2007"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).",
+   "parent": "e_so_hieu",
+   "start": 901,
+   "end": 1377,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).\nCác định mức trên căn cứ theo tiêu chuẩn chất lượng thóc nhập kho dự trữ quốc gia tại tiêu chuẩn ngành TCN 04-2004: Thóc dự trữ quốc gia - Yêu cầu kỹ thuật ban hành theo Quyết định số 35/2004/QĐ-BTC ngày 14/4/2004 và quy phạm bảo quản thóc ban hành tại Quyết định số 34/2004/QĐ-BTC ngày 14/4/2004 của Bộ trưởng Bộ Tài chính."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia.",
+   "parent": "e_so_hieu",
+   "start": 1378,
+   "end": 1662,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./.",
+   "parent": "e_so_hieu",
+   "start": 1663,
+   "end": 1882,
+   "text": "Điều 3. Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1916,
+   "end": 1933,
+   "text": "Đỗ Hoàng Anh Tuấn"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "03_2007_QĐ-BTC_14250",
+ "doc": "03_2007_QĐ-BTC_14250",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "03_2007_QĐ-BTC_14250",
+   "doc": "03_2007_QĐ-BTC_14250",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 03/2007/QĐ-BTC Về việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 03/2007/QĐ-BTC\nHà Nội, ngày 08 tháng 01 năm 2007\nQUYẾT ĐỊNH\nVề việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia\ndo Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Pháp lệnh Dự trữ quốc gia số 17/2004/PL-UBTVQH11 ngày 29/4/2004 của Ủy ban Thường vụ Quốc hội;\nCăn cứ Nghị định số 196/2004/NĐ-CP ngày 02/12/2004 của Chính phủ qui định chi tiết thi hành Pháp lệnh Dự trữ quốc gia;\nCăn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ về việc qui định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính.\nTheo đề nghị của Chủ tịch Hội đồng định mức bảo quản hàng dự trữ quốc gia Bộ Tài chính, Cục trưởng Cục Dự trữ quốc gia;\nQUYẾT ĐỊNH\nĐiều 1. Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).\nCác định mức trên căn cứ theo tiêu chuẩn chất lượng thóc nhập kho dự trữ quốc gia tại tiêu chuẩn ngành TCN 04-2004: Thóc dự trữ quốc gia - Yêu cầu kỹ thuật ban hành theo Quyết định số 35/2004/QĐ-BTC ngày 14/4/2004 và quy phạm bảo quản thóc ban hành tại Quyết định số 34/2004/QĐ-BTC ngày 14/4/2004 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia.\nĐiều 3. Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nĐỗ Hoàng Anh Tuấn\n",
+   "full_text": "Quyết định số 03/2007/QĐ-BTC Về việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 03/2007/QĐ-BTC\nHà Nội, ngày 08 tháng 01 năm 2007\nQUYẾT ĐỊNH\nVề việc ban hành định mức hao hụt thóc bảo quản dự trữ quốc gia\ndo Cục Dự trữ quốc gia trực tiếp quản lý\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Pháp lệnh Dự trữ quốc gia số 17/2004/PL-UBTVQH11 ngày 29/4/2004 của Ủy ban Thường vụ Quốc hội;\nCăn cứ Nghị định số 196/2004/NĐ-CP ngày 02/12/2004 của Chính phủ qui định chi tiết thi hành Pháp lệnh Dự trữ quốc gia;\nCăn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ về việc qui định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính.\nTheo đề nghị của Chủ tịch Hội đồng định mức bảo quản hàng dự trữ quốc gia Bộ Tài chính, Cục trưởng Cục Dự trữ quốc gia;\nQUYẾT ĐỊNH\nĐiều 1. Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).\nCác định mức trên căn cứ theo tiêu chuẩn chất lượng thóc nhập kho dự trữ quốc gia tại tiêu chuẩn ngành TCN 04-2004: Thóc dự trữ quốc gia - Yêu cầu kỹ thuật ban hành theo Quyết định số 35/2004/QĐ-BTC ngày 14/4/2004 và quy phạm bảo quản thóc ban hành tại Quyết định số 34/2004/QĐ-BTC ngày 14/4/2004 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia.\nĐiều 3. Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\n(Đã ký)\nĐỗ Hoàng Anh Tuấn\n",
+   "total_chars": 1934,
+   "total_paras": 22,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 28,
+     "text": "03/2007/QĐ-BTC"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 134,
+     "end": 146,
+     "text": "BỘ TÀI CHÍNH"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 237,
+     "end": 262,
+     "text": "ngày 08 tháng 01 năm 2007"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).",
+     "parent": "e_so_hieu",
+     "start": 901,
+     "end": 1377,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này định mức hao hụt thóc bảo quản dự trữ quốc gia do Cục Dự trữ quốc gia trực tiếp quản lý (có phụ lục kèm theo).\nCác định mức trên căn cứ theo tiêu chuẩn chất lượng thóc nhập kho dự trữ quốc gia tại tiêu chuẩn ngành TCN 04-2004: Thóc dự trữ quốc gia - Yêu cầu kỹ thuật ban hành theo Quyết định số 35/2004/QĐ-BTC ngày 14/4/2004 và quy phạm bảo quản thóc ban hành tại Quyết định số 34/2004/QĐ-BTC ngày 14/4/2004 của Bộ trưởng Bộ Tài chính."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia.",
+     "parent": "e_so_hieu",
+     "start": 1378,
+     "end": 1662,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thay thế phần nội dung quy định về định mức hao hụt thóc tại Điều 1 Quyết định số 91/2004/QĐ-BTC ngày 29/11/2004 của Bộ trưởng Bộ Tài chính về việc ban hành định mức bảo quản hàng hóa dự trữ quốc gia."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./.",
+     "parent": "e_so_hieu",
+     "start": 1663,
+     "end": 1882,
+     "text": "Điều 3. Cục trưởng Cục Dự trữ quốc gia, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc Bộ Tài chính trong phạm vi chức năng, quyền hạn của mình có trách nhiệm tổ chức thực hiện và kiểm tra thi hành quyết định này ./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1916,
+     "end": 1933,
+     "text": "Đỗ Hoàng Anh Tuấn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

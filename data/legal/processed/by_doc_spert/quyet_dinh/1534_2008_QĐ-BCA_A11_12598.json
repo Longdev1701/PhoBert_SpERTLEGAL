@@ -1,0 +1,5700 @@
+{
+ "doc": "1534_2008_QĐ-BCA_A11_12598",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 54,
+ "total_entities": 298,
+ "total_relations": 224,
+ "samples": [
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#header_0",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "BỘ CÔNG_AN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 1534/2008/QĐ-BCA ( A11 ) . Hà_Nội , ngày 18 tháng 9 năm 2008 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "BỘ",
+    "CÔNG_AN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "18",
+    "tháng",
+    "9",
+    "năm",
+    "2008",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 22,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 25,
+     "end": 31,
+     "text": "ngày 18 tháng 9 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_AN"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 32,
+     "end": 33,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#signature_1",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG . ( Đã ký ) . Lê_Hồng_Anh",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Lê_Hồng_Anh"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 8,
+     "text": "Lê_Hồng_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#meta_2",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "BỘ CÔNG_AN . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 1534/2008/QĐ-BCA ( A11 ) . Hà_Nội , ngày 18 tháng 9 năm 2008 . QUYẾT_ĐỊNH . BỘ_TRƯỞNG . ( Đã ký ) . Lê_Hồng_Anh",
+   "tokens": [
+    "BỘ",
+    "CÔNG_AN",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "18",
+    "tháng",
+    "9",
+    "năm",
+    "2008",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Lê_Hồng_Anh"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 22,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_AN"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 32,
+     "end": 33,
+     "text": "QUYẾT_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 41,
+     "end": 42,
+     "text": "Lê_Hồng_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 34,
+     "end": 35,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_context_3",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an . BỘ_TRƯỞNG BỘ CÔNG_AN",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_AN"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 13,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_AN"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_standalone_4",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "BỘ_TRƯỞNG BỘ CÔNG_AN",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_AN"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_AN"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_context_5",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an . Căn_cứ Pháp_lệnh Bảo_vệ bí_mật nhà_nước ngày 28 tháng 12 năm 2000 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Bảo_vệ",
+    "bí_mật",
+    "nhà_nước",
+    "ngày",
+    "28",
+    "tháng",
+    "12",
+    "năm",
+    "2000",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 15,
+     "text": "Pháp_lệnh Bảo_vệ bí_mật nhà_nước"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 15,
+     "end": 21,
+     "text": "ngày 28 tháng 12 năm 2000"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_standalone_6",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Pháp_lệnh Bảo_vệ bí_mật nhà_nước ngày 28 tháng 12 năm 2000 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Pháp_lệnh",
+    "Bảo_vệ",
+    "bí_mật",
+    "nhà_nước",
+    "ngày",
+    "28",
+    "tháng",
+    "12",
+    "năm",
+    "2000",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Pháp_lệnh Bảo_vệ bí_mật nhà_nước"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 28 tháng 12 năm 2000"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_context_7",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an . Căn_cứ Nghị_định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_an ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "136/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_an",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Nghị_định số 136/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 34,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_standalone_8",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 136/2003/NĐ-CP ngày 14 tháng 11 năm 2003 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_an ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "136/2003/NĐ-CP",
+    "ngày",
+    "14",
+    "tháng",
+    "11",
+    "năm",
+    "2003",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_an",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 136/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 14 tháng 11 năm 2003"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_context_9",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an . Căn_cứ Nghị_định số 33/2002/NĐ-CP ngày 28 tháng 3 năm 2002 của Chính_phủ quy_định chi_tiết thi_hành Pháp_lệnh Bảo_vệ bí_mật Nhà_nước ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2002/NĐ-CP",
+    "ngày",
+    "28",
+    "tháng",
+    "3",
+    "năm",
+    "2002",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "Pháp_lệnh",
+    "Bảo_vệ",
+    "bí_mật",
+    "Nhà_nước",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 14,
+     "text": "Nghị_định số 33/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 10,
+     "end": 11,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 14,
+     "end": 20,
+     "text": "ngày 28 tháng 3 năm 2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 22,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_standalone_10",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 33/2002/NĐ-CP ngày 28 tháng 3 năm 2002 của Chính_phủ quy_định chi_tiết thi_hành Pháp_lệnh Bảo_vệ bí_mật Nhà_nước ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "33/2002/NĐ-CP",
+    "ngày",
+    "28",
+    "tháng",
+    "3",
+    "năm",
+    "2002",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "Pháp_lệnh",
+    "Bảo_vệ",
+    "bí_mật",
+    "Nhà_nước",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 33/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 28 tháng 3 năm 2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_context_11",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an . Sau khi thống_nhất với Bộ_trưởng Bộ Công_thương ,",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Sau",
+    "khi",
+    "thống_nhất",
+    "với",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_thương",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 17,
+     "text": "Bộ_trưởng Bộ Công_thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#preamble_standalone_12",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Sau khi thống_nhất với Bộ_trưởng Bộ Công_thương ,",
+   "tokens": [
+    "Sau",
+    "khi",
+    "thống_nhất",
+    "với",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_thương",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 4,
+     "end": 7,
+     "text": "Bộ_trưởng Bộ Công_thương"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_13",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . Danh_mục bí_mật Nhà_nước độ Mật trong ngành Công_thương gồm những tin sau :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Danh_mục",
+    "bí_mật",
+    "Nhà_nước",
+    "độ",
+    "Mật",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "gồm",
+    "những",
+    "tin",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 29,
+     "text": "Điều 1 . Danh_mục bí_mật Nhà_nước độ Mật trong ngành Công_thương gồm những tin sau :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_14",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 1 . Chiến_lược , quy_hoạch và các dự_án phát_triển ngành Công_thương đã được Chính_phủ phê_duyệt và các giải_pháp_bảo_đảm thực_hiện chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Chiến_lược",
+    ",",
+    "quy_hoạch",
+    "và",
+    "các",
+    "dự_án",
+    "phát_triển",
+    "ngành",
+    "Công_thương",
+    "đã",
+    "được",
+    "Chính_phủ",
+    "phê_duyệt",
+    "và",
+    "các",
+    "giải_pháp_bảo_đảm",
+    "thực_hiện",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 42,
+     "text": "1 . Chiến_lược , quy_hoạch và các dự_án phát_triển ngành Công_thương đã được Chính_phủ phê_duyệt và các giải_pháp_bảo_đảm thực_hiện chưa công_bố ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 34,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_15",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 2 . Kết_quả những công_trình , đề_tài nghiên_cứu cấp Nhà_nước về cơ_khí , luyện_kim , năng_lượng điện , hóa_chất , dầu_khí , công_tác khai_thác mỏ và chế_biến khoáng_sản , công_nghiệp tiêu_dùng , công_nghiệp thực_phẩm , công_nghiệp chế_biến khác và thương_mại chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Kết_quả",
+    "những",
+    "công_trình",
+    ",",
+    "đề_tài",
+    "nghiên_cứu",
+    "cấp",
+    "Nhà_nước",
+    "về",
+    "cơ_khí",
+    ",",
+    "luyện_kim",
+    ",",
+    "năng_lượng",
+    "điện",
+    ",",
+    "hóa_chất",
+    ",",
+    "dầu_khí",
+    ",",
+    "công_tác",
+    "khai_thác",
+    "mỏ",
+    "và",
+    "chế_biến",
+    "khoáng_sản",
+    ",",
+    "công_nghiệp",
+    "tiêu_dùng",
+    ",",
+    "công_nghiệp",
+    "thực_phẩm",
+    ",",
+    "công_nghiệp",
+    "chế_biến",
+    "khác",
+    "và",
+    "thương_mại",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 63,
+     "text": "2 . Kết_quả những công_trình , đề_tài nghiên_cứu cấp Nhà_nước về cơ_khí , luyện_kim , năng_lượng điện , hóa_chất , dầu_khí , công_tác khai_thác mỏ và chế_biến khoáng_sản , công_nghiệp tiêu_dùng , công_nghiệp thực_phẩm , công_nghiệp chế_biến khác và thương_mại chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_16",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 3 . Tin , hồ_sơ , tài_liệu về đấu_thầu , xét thầu các dự_án đầu_tư trong ngành Công_thương đang trong quá_trình xem_xét chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Tin",
+    ",",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "về",
+    "đấu_thầu",
+    ",",
+    "xét",
+    "thầu",
+    "các",
+    "dự_án",
+    "đầu_tư",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "đang",
+    "trong",
+    "quá_trình",
+    "xem_xét",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 41,
+     "text": "3 . Tin , hồ_sơ , tài_liệu về đấu_thầu , xét thầu các dự_án đầu_tư trong ngành Công_thương đang trong quá_trình xem_xét chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_17",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 3 . Tin , hồ_sơ , tài_liệu về đấu_thầu , xét thầu các dự_án đầu_tư trong ngành Công_thương đang trong quá_trình xem_xét chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Tin",
+    ",",
+    "hồ_sơ",
+    ",",
+    "tài_liệu",
+    "về",
+    "đấu_thầu",
+    ",",
+    "xét",
+    "thầu",
+    "các",
+    "dự_án",
+    "đầu_tư",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "đang",
+    "trong",
+    "quá_trình",
+    "xem_xét",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 28,
+     "text": "3 . Tin , hồ_sơ , tài_liệu về đấu_thầu , xét thầu các dự_án đầu_tư trong ngành Công_thương đang trong quá_trình xem_xét chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_18",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 4 . Tài_liệu về thiết_kế , xây_dựng các công_trình trọng_điểm : cơ_khí , luyện_kim , năng_lượng điện , hóa_chất , dầu_khí , công_nghiệp khai_thác mỏ và chế_biến khoáng_sản , công_nghiệp tiêu_dùng , công_nghiệp thực_phẩm , công_nghiệp chế_biến khác và thương_mại đã được phê_duyệt chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Tài_liệu",
+    "về",
+    "thiết_kế",
+    ",",
+    "xây_dựng",
+    "các",
+    "công_trình",
+    "trọng_điểm",
+    ":",
+    "cơ_khí",
+    ",",
+    "luyện_kim",
+    ",",
+    "năng_lượng",
+    "điện",
+    ",",
+    "hóa_chất",
+    ",",
+    "dầu_khí",
+    ",",
+    "công_nghiệp",
+    "khai_thác",
+    "mỏ",
+    "và",
+    "chế_biến",
+    "khoáng_sản",
+    ",",
+    "công_nghiệp",
+    "tiêu_dùng",
+    ",",
+    "công_nghiệp",
+    "thực_phẩm",
+    ",",
+    "công_nghiệp",
+    "chế_biến",
+    "khác",
+    "và",
+    "thương_mại",
+    "đã",
+    "được",
+    "phê_duyệt",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 66,
+     "text": "4 . Tài_liệu về thiết_kế , xây_dựng các công_trình trọng_điểm : cơ_khí , luyện_kim , năng_lượng điện , hóa_chất , dầu_khí , công_nghiệp khai_thác mỏ và chế_biến khoáng_sản , công_nghiệp tiêu_dùng , công_nghiệp thực_phẩm , công_nghiệp chế_biến khác và thương_mại đã được phê_duyệt chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_19",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 5 . Phương_án , kế_hoạch bảo_vệ các công_trình trọng_điểm trong ngành Công_thương và các hồ , đập thủy_điện .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Phương_án",
+    ",",
+    "kế_hoạch",
+    "bảo_vệ",
+    "các",
+    "công_trình",
+    "trọng_điểm",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "và",
+    "các",
+    "hồ",
+    ",",
+    "đập",
+    "thủy_điện",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 32,
+     "text": "5 . Phương_án , kế_hoạch bảo_vệ các công_trình trọng_điểm trong ngành Công_thương và các hồ , đập thủy_điện ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_20",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 6 . Tài_liệu quy_hoạch , thiết_kế các cơ_sở sản_xuất công_nghiệp lưỡng_dụng .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Tài_liệu",
+    "quy_hoạch",
+    ",",
+    "thiết_kế",
+    "các",
+    "cơ_sở",
+    "sản_xuất",
+    "công_nghiệp",
+    "lưỡng_dụng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 32,
+     "text": "6 . Tài_liệu quy_hoạch , thiết_kế các cơ_sở sản_xuất công_nghiệp lưỡng_dụng ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 31,
+     "text": "cơ_sở sản_xuất công_nghiệp lưỡng_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_21",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 7 . Thông_tin về thực_hiện Công_ước cấm vũ_khí hóa học liên_quan đến an_ninh , quốc_phòng chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "7",
+    ".",
+    "Thông_tin",
+    "về",
+    "thực_hiện",
+    "Công_ước",
+    "cấm",
+    "vũ_khí",
+    "hóa",
+    "học",
+    "liên_quan",
+    "đến",
+    "an_ninh",
+    ",",
+    "quốc_phòng",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 38,
+     "text": "7 . Thông_tin về thực_hiện Công_ước cấm vũ_khí hóa học liên_quan đến an_ninh , quốc_phòng chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_22",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 8 . Tài_liệu , địa_điểm , trữ_lượng các mỏ kim_loại , phi_kim_loại quý_hiếm , đá_quý , các mỏ phóng_xạ , các phát_hiện dầu_khí chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "8",
+    ".",
+    "Tài_liệu",
+    ",",
+    "địa_điểm",
+    ",",
+    "trữ_lượng",
+    "các",
+    "mỏ",
+    "kim_loại",
+    ",",
+    "phi_kim_loại",
+    "quý_hiếm",
+    ",",
+    "đá_quý",
+    ",",
+    "các",
+    "mỏ",
+    "phóng_xạ",
+    ",",
+    "các",
+    "phát_hiện",
+    "dầu_khí",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 46,
+     "text": "8 . Tài_liệu , địa_điểm , trữ_lượng các mỏ kim_loại , phi_kim_loại quý_hiếm , đá_quý , các mỏ phóng_xạ , các phát_hiện dầu_khí chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_23",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 9 . Địa_điểm cất_giữ , số_lượng vật_liệu nổ công_nghiệp được Nhà_nước đưa vào dự_trữ quốc_gia và giao Bộ Công_thương quản_lý .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "9",
+    ".",
+    "Địa_điểm",
+    "cất_giữ",
+    ",",
+    "số_lượng",
+    "vật_liệu",
+    "nổ",
+    "công_nghiệp",
+    "được",
+    "Nhà_nước",
+    "đưa",
+    "vào",
+    "dự_trữ",
+    "quốc_gia",
+    "và",
+    "giao",
+    "Bộ",
+    "Công_thương",
+    "quản_lý",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 37,
+     "text": "9 . Địa_điểm cất_giữ , số_lượng vật_liệu nổ công_nghiệp được Nhà_nước đưa vào dự_trữ quốc_gia và giao Bộ Công_thương quản_lý ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 35,
+     "text": "Bộ Công_thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_24",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 10 . Tài_liệu , ảnh vệ_tinh , ảnh máy_bay của Việt_Nam có vị_trí các mỏ , các nhà_máy , xí_nghiệp , các khu công_nghiệp theo lưới toạ_độ nhà_nước hoặc lưới toạ_độ địa_phương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "10",
+    ".",
+    "Tài_liệu",
+    ",",
+    "ảnh",
+    "vệ_tinh",
+    ",",
+    "ảnh",
+    "máy_bay",
+    "của",
+    "Việt_Nam",
+    "có",
+    "vị_trí",
+    "các",
+    "mỏ",
+    ",",
+    "các",
+    "nhà_máy",
+    ",",
+    "xí_nghiệp",
+    ",",
+    "các",
+    "khu",
+    "công_nghiệp",
+    "theo",
+    "lưới",
+    "toạ_độ",
+    "nhà_nước",
+    "hoặc",
+    "lưới",
+    "toạ_độ",
+    "địa_phương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 53,
+     "text": "10 . Tài_liệu , ảnh vệ_tinh , ảnh máy_bay của Việt_Nam có vị_trí các mỏ , các nhà_máy , xí_nghiệp , các khu công_nghiệp theo lưới toạ_độ nhà_nước hoặc lưới toạ_độ địa_phương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_25",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 11 . Các phương_thức vận_hành ngắn_hạn hệ_thống điện quốc_gia , hệ_thống điện các miền , hệ_thống điện các tỉnh , thành_phố trực_thuộc Trung_ương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "11",
+    ".",
+    "Các",
+    "phương_thức",
+    "vận_hành",
+    "ngắn_hạn",
+    "hệ_thống",
+    "điện",
+    "quốc_gia",
+    ",",
+    "hệ_thống",
+    "điện",
+    "các",
+    "miền",
+    ",",
+    "hệ_thống",
+    "điện",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 40,
+     "text": "11 . Các phương_thức vận_hành ngắn_hạn hệ_thống điện quốc_gia , hệ_thống điện các miền , hệ_thống điện các tỉnh , thành_phố trực_thuộc Trung_ương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_26",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 11 . Các phương_thức vận_hành ngắn_hạn hệ_thống điện quốc_gia , hệ_thống điện các miền , hệ_thống điện các tỉnh , thành_phố trực_thuộc Trung_ương .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "11",
+    ".",
+    "Các",
+    "phương_thức",
+    "vận_hành",
+    "ngắn_hạn",
+    "hệ_thống",
+    "điện",
+    "quốc_gia",
+    ",",
+    "hệ_thống",
+    "điện",
+    "các",
+    "miền",
+    ",",
+    "hệ_thống",
+    "điện",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "11 . Các phương_thức vận_hành ngắn_hạn hệ_thống điện quốc_gia , hệ_thống điện các miền , hệ_thống điện các tỉnh , thành_phố trực_thuộc Trung_ương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_27",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 12 . Sơ_đồ lưới_điện cao_áp cấp điện cho các công_trình , mục_tiêu quan_trọng do Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "12",
+    ".",
+    "Sơ_đồ",
+    "lưới_điện",
+    "cao_áp",
+    "cấp",
+    "điện",
+    "cho",
+    "các",
+    "công_trình",
+    ",",
+    "mục_tiêu",
+    "quan_trọng",
+    "do",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "quyết_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 40,
+     "text": "12 . Sơ_đồ lưới_điện cao_áp cấp điện cho các công_trình , mục_tiêu quan_trọng do Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quyết_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 38,
+     "text": "Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_28",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 13 . Tin , tài_liệu về các đề_án tìm_kiếm - thăm_dò - khai_thác hoặc chế_biến dầu_khí trọng_điểm của Nhà_nước chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "13",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "các",
+    "đề_án",
+    "tìm_kiếm",
+    "-",
+    "thăm_dò",
+    "-",
+    "khai_thác",
+    "hoặc",
+    "chế_biến",
+    "dầu_khí",
+    "trọng_điểm",
+    "của",
+    "Nhà_nước",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 42,
+     "text": "13 . Tin , tài_liệu về các đề_án tìm_kiếm - thăm_dò - khai_thác hoặc chế_biến dầu_khí trọng_điểm của Nhà_nước chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_29",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 14 . Tin , tài_liệu về chọn đối_tác , quá_trình đàm_phán , kết_quả đàm_phán và nội_dung các hợp_đồng dầu_khí với các đối_tác trong và ngoài nước chưa công_bố . Tài_liệu kinh_tế - khoa_học - kỹ_thuật do các đối_tác nước_ngoài chuyển_giao cho ngành Dầu_khí mà theo yêu_cầu bên giao không được tiết_lộ cho bên thứ ba .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "14",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "chọn",
+    "đối_tác",
+    ",",
+    "quá_trình",
+    "đàm_phán",
+    ",",
+    "kết_quả",
+    "đàm_phán",
+    "và",
+    "nội_dung",
+    "các",
+    "hợp_đồng",
+    "dầu_khí",
+    "với",
+    "các",
+    "đối_tác",
+    "trong",
+    "và",
+    "ngoài",
+    "nước",
+    "chưa",
+    "công_bố",
+    ".",
+    "Tài_liệu",
+    "kinh_tế",
+    "-",
+    "khoa_học",
+    "-",
+    "kỹ_thuật",
+    "do",
+    "các",
+    "đối_tác",
+    "nước_ngoài",
+    "chuyển_giao",
+    "cho",
+    "ngành",
+    "Dầu_khí",
+    "mà",
+    "theo",
+    "yêu_cầu",
+    "bên",
+    "giao",
+    "không",
+    "được",
+    "tiết_lộ",
+    "cho",
+    "bên",
+    "thứ",
+    "ba",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 69,
+     "text": "14 . Tin , tài_liệu về chọn đối_tác , quá_trình đàm_phán , kết_quả đàm_phán và nội_dung các hợp_đồng dầu_khí với các đối_tác trong và ngoài nước chưa công_bố . Tài_liệu kinh_tế - khoa_học - kỹ_thuật do các đối_tác nước_ngoài chuyển_giao cho ngành Dầu_khí mà theo yêu_cầu bên giao không được tiết_lộ cho bên thứ ba ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_30",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 15 . Báo_cáo kết_quả nghiên_cứu , báo_cáo đánh_giá kết_quả thực_hiện từng giai_đoạn và ngân_sách tài_chính của mỗi giai_đoạn tương_ứng của các hợp_đồng dầu_khí và báo_cáo tổng_kết hoạt_động tìm_kiếm - thăm_dò dầu_khí , đánh_giá tiềm_năng dầu_khí của lô hợp_đồng chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "15",
+    ".",
+    "Báo_cáo",
+    "kết_quả",
+    "nghiên_cứu",
+    ",",
+    "báo_cáo",
+    "đánh_giá",
+    "kết_quả",
+    "thực_hiện",
+    "từng",
+    "giai_đoạn",
+    "và",
+    "ngân_sách",
+    "tài_chính",
+    "của",
+    "mỗi",
+    "giai_đoạn",
+    "tương_ứng",
+    "của",
+    "các",
+    "hợp_đồng",
+    "dầu_khí",
+    "và",
+    "báo_cáo",
+    "tổng_kết",
+    "hoạt_động",
+    "tìm_kiếm",
+    "-",
+    "thăm_dò",
+    "dầu_khí",
+    ",",
+    "đánh_giá",
+    "tiềm_năng",
+    "dầu_khí",
+    "của",
+    "lô",
+    "hợp_đồng",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 61,
+     "text": "15 . Báo_cáo kết_quả nghiên_cứu , báo_cáo đánh_giá kết_quả thực_hiện từng giai_đoạn và ngân_sách tài_chính của mỗi giai_đoạn tương_ứng của các hợp_đồng dầu_khí và báo_cáo tổng_kết hoạt_động tìm_kiếm - thăm_dò dầu_khí , đánh_giá tiềm_năng dầu_khí của lô hợp_đồng chưa công_bố ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 25,
+     "text": "Báo_cáo kết_quả nghiên_cứu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 26,
+     "end": 29,
+     "text": "báo_cáo đánh_giá kết_quả"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_31",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 15 . Báo_cáo kết_quả nghiên_cứu , báo_cáo đánh_giá kết_quả thực_hiện từng giai_đoạn và ngân_sách tài_chính của mỗi giai_đoạn tương_ứng của các hợp_đồng dầu_khí và báo_cáo tổng_kết hoạt_động tìm_kiếm - thăm_dò dầu_khí , đánh_giá tiềm_năng dầu_khí của lô hợp_đồng chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "15",
+    ".",
+    "Báo_cáo",
+    "kết_quả",
+    "nghiên_cứu",
+    ",",
+    "báo_cáo",
+    "đánh_giá",
+    "kết_quả",
+    "thực_hiện",
+    "từng",
+    "giai_đoạn",
+    "và",
+    "ngân_sách",
+    "tài_chính",
+    "của",
+    "mỗi",
+    "giai_đoạn",
+    "tương_ứng",
+    "của",
+    "các",
+    "hợp_đồng",
+    "dầu_khí",
+    "và",
+    "báo_cáo",
+    "tổng_kết",
+    "hoạt_động",
+    "tìm_kiếm",
+    "-",
+    "thăm_dò",
+    "dầu_khí",
+    ",",
+    "đánh_giá",
+    "tiềm_năng",
+    "dầu_khí",
+    "của",
+    "lô",
+    "hợp_đồng",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 44,
+     "text": "15 . Báo_cáo kết_quả nghiên_cứu , báo_cáo đánh_giá kết_quả thực_hiện từng giai_đoạn và ngân_sách tài_chính của mỗi giai_đoạn tương_ứng của các hợp_đồng dầu_khí và báo_cáo tổng_kết hoạt_động tìm_kiếm - thăm_dò dầu_khí , đánh_giá tiềm_năng dầu_khí của lô hợp_đồng chưa công_bố ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 5,
+     "end": 8,
+     "text": "Báo_cáo kết_quả nghiên_cứu"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 9,
+     "end": 12,
+     "text": "báo_cáo đánh_giá kết_quả"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_32",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 16 . Tài_liệu , mẫu v ật nguyên_thuỷ thu_thập được từ các giếng_khoan tìm_kiếm - thăm_dò , thẩm lượng đang thi_công chưa công_bố . Chương_trình thẩm lượng mỏ tương_ứng với từng hợp_đồng dầu_khí . Báo_cáo về trữ_lượng mỏ và phương_án đầu_tư chiều sâu cho công_tác phát_triển và khai_thác mỏ dầu_khí .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "16",
+    ".",
+    "Tài_liệu",
+    ",",
+    "mẫu",
+    "v",
+    "ật",
+    "nguyên_thuỷ",
+    "thu_thập",
+    "được",
+    "từ",
+    "các",
+    "giếng_khoan",
+    "tìm_kiếm",
+    "-",
+    "thăm_dò",
+    ",",
+    "thẩm",
+    "lượng",
+    "đang",
+    "thi_công",
+    "chưa",
+    "công_bố",
+    ".",
+    "Chương_trình",
+    "thẩm",
+    "lượng",
+    "mỏ",
+    "tương_ứng",
+    "với",
+    "từng",
+    "hợp_đồng",
+    "dầu_khí",
+    ".",
+    "Báo_cáo",
+    "về",
+    "trữ_lượng",
+    "mỏ",
+    "và",
+    "phương_án",
+    "đầu_tư",
+    "chiều",
+    "sâu",
+    "cho",
+    "công_tác",
+    "phát_triển",
+    "và",
+    "khai_thác",
+    "mỏ",
+    "dầu_khí",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 67,
+     "text": "16 . Tài_liệu , mẫu v ật nguyên_thuỷ thu_thập được từ các giếng_khoan tìm_kiếm - thăm_dò , thẩm lượng đang thi_công chưa công_bố . Chương_trình thẩm lượng mỏ tương_ứng với từng hợp_đồng dầu_khí . Báo_cáo về trữ_lượng mỏ và phương_án đầu_tư chiều sâu cho công_tác phát_triển và khai_thác mỏ dầu_khí ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 22,
+     "text": "mẫu v"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_33",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 17 . Tin , tài_liệu về đầu_tư , xây_dựng , quy_trình công_nghệ , quá_trình vận_hành và tài_liệu về kết_quả phân_tích_thí_nghiệm lọc , hóa_dầu của các công_trình lọc , hóa dầu chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "17",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "đầu_tư",
+    ",",
+    "xây_dựng",
+    ",",
+    "quy_trình",
+    "công_nghệ",
+    ",",
+    "quá_trình",
+    "vận_hành",
+    "và",
+    "tài_liệu",
+    "về",
+    "kết_quả",
+    "phân_tích_thí_nghiệm",
+    "lọc",
+    ",",
+    "hóa_dầu",
+    "của",
+    "các",
+    "công_trình",
+    "lọc",
+    ",",
+    "hóa",
+    "dầu",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 53,
+     "text": "17 . Tin , tài_liệu về đầu_tư , xây_dựng , quy_trình công_nghệ , quá_trình vận_hành và tài_liệu về kết_quả phân_tích_thí_nghiệm lọc , hóa_dầu của các công_trình lọc , hóa dầu chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_34",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 17 . Tin , tài_liệu về đầu_tư , xây_dựng , quy_trình công_nghệ , quá_trình vận_hành và tài_liệu về kết_quả phân_tích_thí_nghiệm lọc , hóa_dầu của các công_trình lọc , hóa dầu chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "17",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "đầu_tư",
+    ",",
+    "xây_dựng",
+    ",",
+    "quy_trình",
+    "công_nghệ",
+    ",",
+    "quá_trình",
+    "vận_hành",
+    "và",
+    "tài_liệu",
+    "về",
+    "kết_quả",
+    "phân_tích_thí_nghiệm",
+    "lọc",
+    ",",
+    "hóa_dầu",
+    "của",
+    "các",
+    "công_trình",
+    "lọc",
+    ",",
+    "hóa",
+    "dầu",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 36,
+     "text": "17 . Tin , tài_liệu về đầu_tư , xây_dựng , quy_trình công_nghệ , quá_trình vận_hành và tài_liệu về kết_quả phân_tích_thí_nghiệm lọc , hóa_dầu của các công_trình lọc , hóa dầu chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_35",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 18 . Phương_án giá sản_phẩm công_nghiệp thuộc danh_mục nhà_nước quy_định chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "18",
+    ".",
+    "Phương_án",
+    "giá",
+    "sản_phẩm",
+    "công_nghiệp",
+    "thuộc",
+    "danh_mục",
+    "nhà_nước",
+    "quy_định",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 29,
+     "text": "18 . Phương_án giá sản_phẩm công_nghiệp thuộc danh_mục nhà_nước quy_định chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_36",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 19 . Số_liệu về tổng_cung , tổng_cầu các mặt_hàng trọng_yếu của Nhà_nước về tài_sản , hàng_hóa dự_trữ của ngành Công_thương chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "19",
+    ".",
+    "Số_liệu",
+    "về",
+    "tổng_cung",
+    ",",
+    "tổng_cầu",
+    "các",
+    "mặt_hàng",
+    "trọng_yếu",
+    "của",
+    "Nhà_nước",
+    "về",
+    "tài_sản",
+    ",",
+    "hàng_hóa",
+    "dự_trữ",
+    "của",
+    "ngành",
+    "Công_thương",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 39,
+     "text": "19 . Số_liệu về tổng_cung , tổng_cầu các mặt_hàng trọng_yếu của Nhà_nước về tài_sản , hàng_hóa dự_trữ của ngành Công_thương chưa công_bố ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 30,
+     "text": "tài_sản"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 31,
+     "end": 32,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_37",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 19 . Số_liệu về tổng_cung , tổng_cầu các mặt_hàng trọng_yếu của Nhà_nước về tài_sản , hàng_hóa dự_trữ của ngành Công_thương chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "19",
+    ".",
+    "Số_liệu",
+    "về",
+    "tổng_cung",
+    ",",
+    "tổng_cầu",
+    "các",
+    "mặt_hàng",
+    "trọng_yếu",
+    "của",
+    "Nhà_nước",
+    "về",
+    "tài_sản",
+    ",",
+    "hàng_hóa",
+    "dự_trữ",
+    "của",
+    "ngành",
+    "Công_thương",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 26,
+     "text": "19 . Số_liệu về tổng_cung , tổng_cầu các mặt_hàng trọng_yếu của Nhà_nước về tài_sản , hàng_hóa dự_trữ của ngành Công_thương chưa công_bố ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 16,
+     "end": 17,
+     "text": "tài_sản"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_38",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 20 . Kế_hoạch và biện_pháp điều_hành xuất nhập_khẩu , bảo_đảm cân_đối cung_cầu , ổn_định thị_trường xã_hội chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "20",
+    ".",
+    "Kế_hoạch",
+    "và",
+    "biện_pháp",
+    "điều_hành",
+    "xuất",
+    "nhập_khẩu",
+    ",",
+    "bảo_đảm",
+    "cân_đối",
+    "cung_cầu",
+    ",",
+    "ổn_định",
+    "thị_trường",
+    "xã_hội",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 39,
+     "text": "20 . Kế_hoạch và biện_pháp điều_hành xuất nhập_khẩu , bảo_đảm cân_đối cung_cầu , ổn_định thị_trường xã_hội chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_39",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 21 . Tài_liệu tổng_kết , báo_cáo thực_trạng thị_trường trong nước , buôn_bán giữa Việt_Nam với nước_ngoài và hoạt_động của Văn_phòng đại_diện các tổ_chức kinh_tế nước_ngoài tại Việt_Nam chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "21",
+    ".",
+    "Tài_liệu",
+    "tổng_kết",
+    ",",
+    "báo_cáo",
+    "thực_trạng",
+    "thị_trường",
+    "trong",
+    "nước",
+    ",",
+    "buôn_bán",
+    "giữa",
+    "Việt_Nam",
+    "với",
+    "nước_ngoài",
+    "và",
+    "hoạt_động",
+    "của",
+    "Văn_phòng",
+    "đại_diện",
+    "các",
+    "tổ_chức",
+    "kinh_tế",
+    "nước_ngoài",
+    "tại",
+    "Việt_Nam",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 46,
+     "text": "21 . Tài_liệu tổng_kết , báo_cáo thực_trạng thị_trường trong nước , buôn_bán giữa Việt_Nam với nước_ngoài và hoạt_động của Văn_phòng đại_diện các tổ_chức kinh_tế nước_ngoài tại Việt_Nam chưa công_bố ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 35,
+     "end": 37,
+     "text": "Văn_phòng đại_diện"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 38,
+     "end": 40,
+     "text": "tổ_chức kinh_tế"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 41,
+     "end": 43,
+     "text": "tại Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_40",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 21 . Tài_liệu tổng_kết , báo_cáo thực_trạng thị_trường trong nước , buôn_bán giữa Việt_Nam với nước_ngoài và hoạt_động của Văn_phòng đại_diện các tổ_chức kinh_tế nước_ngoài tại Việt_Nam chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "21",
+    ".",
+    "Tài_liệu",
+    "tổng_kết",
+    ",",
+    "báo_cáo",
+    "thực_trạng",
+    "thị_trường",
+    "trong",
+    "nước",
+    ",",
+    "buôn_bán",
+    "giữa",
+    "Việt_Nam",
+    "với",
+    "nước_ngoài",
+    "và",
+    "hoạt_động",
+    "của",
+    "Văn_phòng",
+    "đại_diện",
+    "các",
+    "tổ_chức",
+    "kinh_tế",
+    "nước_ngoài",
+    "tại",
+    "Việt_Nam",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "21 . Tài_liệu tổng_kết , báo_cáo thực_trạng thị_trường trong nước , buôn_bán giữa Việt_Nam với nước_ngoài và hoạt_động của Văn_phòng đại_diện các tổ_chức kinh_tế nước_ngoài tại Việt_Nam chưa công_bố ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "Văn_phòng đại_diện"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 25,
+     "end": 27,
+     "text": "tổ_chức kinh_tế"
+    },
+    {
+     "type": "DIA_DIEM",
+     "start": 28,
+     "end": 30,
+     "text": "tại Việt_Nam"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_41",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 22 . Số_liệu khảo_sát , nghiên_cứu hoạt_động thương_mại từng khu_vực , từng nước , từng doanh_nghiệp đối_tác của Việt_Nam ở nước_ngoài và những tin_tức thu_thập từ nước_ngoài phục_vụ cho kinh_tế - thương_mại chưa công_bố hoặc không công_bố .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "22",
+    ".",
+    "Số_liệu",
+    "khảo_sát",
+    ",",
+    "nghiên_cứu",
+    "hoạt_động",
+    "thương_mại",
+    "từng",
+    "khu_vực",
+    ",",
+    "từng",
+    "nước",
+    ",",
+    "từng",
+    "doanh_nghiệp",
+    "đối_tác",
+    "của",
+    "Việt_Nam",
+    "ở",
+    "nước_ngoài",
+    "và",
+    "những",
+    "tin_tức",
+    "thu_thập",
+    "từ",
+    "nước_ngoài",
+    "phục_vụ",
+    "cho",
+    "kinh_tế",
+    "-",
+    "thương_mại",
+    "chưa",
+    "công_bố",
+    "hoặc",
+    "không",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 51,
+     "text": "22 . Số_liệu khảo_sát , nghiên_cứu hoạt_động thương_mại từng khu_vực , từng nước , từng doanh_nghiệp đối_tác của Việt_Nam ở nước_ngoài và những tin_tức thu_thập từ nước_ngoài phục_vụ cho kinh_tế - thương_mại chưa công_bố hoặc không công_bố ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 29,
+     "text": "doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_42",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 23 . Các loại chỉ_số tổng_hợp về giá_cả và phương_án chỉ_đạo về giá , điều_chỉnh giá chưa công_bố .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "23",
+    ".",
+    "Các",
+    "loại",
+    "chỉ_số",
+    "tổng_hợp",
+    "về",
+    "giá_cả",
+    "và",
+    "phương_án",
+    "chỉ_đạo",
+    "về",
+    "giá",
+    ",",
+    "điều_chỉnh",
+    "giá",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 32,
+     "text": "23 . Các loại chỉ_số tổng_hợp về giá_cả và phương_án chỉ_đạo về giá , điều_chỉnh giá chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_43",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 24 . Lệnh của cơ_quan có thẩm_quyền , kế_hoạch , phương_án kiểm_tra vụ_việc vi_phạm nghiêm_trọng pháp_luật trong hoạt_động thương_mại chưa công_bố .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "24",
+    ".",
+    "Lệnh",
+    "của",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    ",",
+    "kế_hoạch",
+    ",",
+    "phương_án",
+    "kiểm_tra",
+    "vụ_việc",
+    "vi_phạm",
+    "nghiêm_trọng",
+    "pháp_luật",
+    "trong",
+    "hoạt_động",
+    "thương_mại",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 35,
+     "text": "24 . Lệnh của cơ_quan có thẩm_quyền , kế_hoạch , phương_án kiểm_tra vụ_việc vi_phạm nghiêm_trọng pháp_luật trong hoạt_động thương_mại chưa công_bố ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 20,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_44",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Công_an ban_hành Quyết_định số 1534/2008/QĐ-BCA ( A11 ) . Điều 1 . 25 . Tin , tài_liệu về tổ_chức , cá_nhân ( kể_cả người nước_ngoài ) có dấu_hiệu buôn_lậu , mua_bán hàng giả hoặc vi_phạm nghiêm_trọng chính_sách , pháp_luật về quản_lý thị_trường đang trong quá_trình theo_dõi , điều_tra .",
+   "tokens": [
+    "Bộ",
+    "Công_an",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "25",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "(",
+    "kể_cả",
+    "người",
+    "nước_ngoài",
+    ")",
+    "có",
+    "dấu_hiệu",
+    "buôn_lậu",
+    ",",
+    "mua_bán",
+    "hàng",
+    "giả",
+    "hoặc",
+    "vi_phạm",
+    "nghiêm_trọng",
+    "chính_sách",
+    ",",
+    "pháp_luật",
+    "về",
+    "quản_lý",
+    "thị_trường",
+    "đang",
+    "trong",
+    "quá_trình",
+    "theo_dõi",
+    ",",
+    "điều_tra",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 9,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 50,
+     "text": "25 . Tin , tài_liệu về tổ_chức , cá_nhân ( kể_cả người nước_ngoài ) có dấu_hiệu buôn_lậu , mua_bán hàng giả hoặc vi_phạm nghiêm_trọng chính_sách , pháp_luật về quản_lý thị_trường đang trong quá_trình theo_dõi , điều_tra ."
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 24,
+     "end": 26,
+     "text": "người nước_ngoài"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_45",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 25 . Tin , tài_liệu về tổ_chức , cá_nhân ( kể_cả người nước_ngoài ) có dấu_hiệu buôn_lậu , mua_bán hàng giả hoặc vi_phạm nghiêm_trọng chính_sách , pháp_luật về quản_lý thị_trường đang trong quá_trình theo_dõi , điều_tra .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "25",
+    ".",
+    "Tin",
+    ",",
+    "tài_liệu",
+    "về",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "(",
+    "kể_cả",
+    "người",
+    "nước_ngoài",
+    ")",
+    "có",
+    "dấu_hiệu",
+    "buôn_lậu",
+    ",",
+    "mua_bán",
+    "hàng",
+    "giả",
+    "hoặc",
+    "vi_phạm",
+    "nghiêm_trọng",
+    "chính_sách",
+    ",",
+    "pháp_luật",
+    "về",
+    "quản_lý",
+    "thị_trường",
+    "đang",
+    "trong",
+    "quá_trình",
+    "theo_dõi",
+    ",",
+    "điều_tra",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "25 . Tin , tài_liệu về tổ_chức , cá_nhân ( kể_cả người nước_ngoài ) có dấu_hiệu buôn_lậu , mua_bán hàng giả hoặc vi_phạm nghiêm_trọng chính_sách , pháp_luật về quản_lý thị_trường đang trong quá_trình theo_dõi , điều_tra ."
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 16,
+     "text": "người nước_ngoài"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_46",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 26 . Tài_liệu thiết_kế kỹ_thuật mạng máy_tính nội_bộ , mã khoá , mật_khẩu , quy_ước về đảm_bảo_an_ninh trong ứng_dụng công_nghệ thông_tin của ngành Công_thương .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "26",
+    ".",
+    "Tài_liệu",
+    "thiết_kế",
+    "kỹ_thuật",
+    "mạng",
+    "máy_tính",
+    "nội_bộ",
+    ",",
+    "mã",
+    "khoá",
+    ",",
+    "mật_khẩu",
+    ",",
+    "quy_ước",
+    "về",
+    "đảm_bảo_an_ninh",
+    "trong",
+    "ứng_dụng",
+    "công_nghệ",
+    "thông_tin",
+    "của",
+    "ngành",
+    "Công_thương",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 41,
+     "text": "26 . Tài_liệu thiết_kế kỹ_thuật mạng máy_tính nội_bộ , mã khoá , mật_khẩu , quy_ước về đảm_bảo_an_ninh trong ứng_dụng công_nghệ thông_tin của ngành Công_thương ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_47",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) ban_hành ngày 18 tháng 09 năm 2008 bởi Bộ Công_an . Điều 1 . 27 . Hồ_sơ , tài_liệu , kết_quả thanh_tra và giải_quyết đơn , thư khiếu_nại , tố_cáo trong ngành Công_thương đang trong giai_đoạn kiểm_tra , xác_định hoặc đã kết_luận nhưng chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ban_hành",
+    "ngày",
+    "18",
+    "tháng",
+    "09",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "27",
+    ".",
+    "Hồ_sơ",
+    ",",
+    "tài_liệu",
+    ",",
+    "kết_quả",
+    "thanh_tra",
+    "và",
+    "giải_quyết",
+    "đơn",
+    ",",
+    "thư",
+    "khiếu_nại",
+    ",",
+    "tố_cáo",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "đang",
+    "trong",
+    "giai_đoạn",
+    "kiểm_tra",
+    ",",
+    "xác_định",
+    "hoặc",
+    "đã",
+    "kết_luận",
+    "nhưng",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 14,
+     "end": 16,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 7,
+     "end": 13,
+     "text": "ngày 18 tháng 09 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 17,
+     "end": 19,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 20,
+     "end": 52,
+     "text": "27 . Hồ_sơ , tài_liệu , kết_quả thanh_tra và giải_quyết đơn , thư khiếu_nại , tố_cáo trong ngành Công_thương đang trong giai_đoạn kiểm_tra , xác_định hoặc đã kết_luận nhưng chưa công_bố ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_48",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 1 . 28 . Phương_án tổ_chức bộ_máy , điều_chuyển , sắp_xếp , quy_hoạch cán_bộ ; hồ_sơ cán_bộ lãnh_đạo từ cấp vụ và tương_đương trở lên , tài_liệu quy_hoạch cán_bộ lãnh_đạo trong ngành Công_thương chưa công_bố .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Phương_án",
+    "tổ_chức",
+    "bộ_máy",
+    ",",
+    "điều_chuyển",
+    ",",
+    "sắp_xếp",
+    ",",
+    "quy_hoạch",
+    "cán_bộ",
+    ";",
+    "hồ_sơ",
+    "cán_bộ",
+    "lãnh_đạo",
+    "từ",
+    "cấp",
+    "vụ",
+    "và",
+    "tương_đương",
+    "trở",
+    "lên",
+    ",",
+    "tài_liệu",
+    "quy_hoạch",
+    "cán_bộ",
+    "lãnh_đạo",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 50,
+     "text": "28 . Phương_án tổ_chức bộ_máy , điều_chuyển , sắp_xếp , quy_hoạch cán_bộ ; hồ_sơ cán_bộ lãnh_đạo từ cấp vụ và tương_đương trở lên , tài_liệu quy_hoạch cán_bộ lãnh_đạo trong ngành Công_thương chưa công_bố ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 20,
+     "text": "Phương_án tổ_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 27,
+     "end": 28,
+     "text": "cán_bộ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 30,
+     "end": 31,
+     "text": "cán_bộ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 42,
+     "end": 43,
+     "text": "cán_bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_49",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Phương_án tổ_chức bộ_máy , điều_chuyển , sắp_xếp , quy_hoạch cán_bộ ; hồ_sơ cán_bộ lãnh_đạo từ cấp vụ và tương_đương trở lên , tài_liệu quy_hoạch cán_bộ lãnh_đạo trong ngành Công_thương chưa công_bố .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Phương_án",
+    "tổ_chức",
+    "bộ_máy",
+    ",",
+    "điều_chuyển",
+    ",",
+    "sắp_xếp",
+    ",",
+    "quy_hoạch",
+    "cán_bộ",
+    ";",
+    "hồ_sơ",
+    "cán_bộ",
+    "lãnh_đạo",
+    "từ",
+    "cấp",
+    "vụ",
+    "và",
+    "tương_đương",
+    "trở",
+    "lên",
+    ",",
+    "tài_liệu",
+    "quy_hoạch",
+    "cán_bộ",
+    "lãnh_đạo",
+    "trong",
+    "ngành",
+    "Công_thương",
+    "chưa",
+    "công_bố",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 37,
+     "text": "28 . Phương_án tổ_chức bộ_máy , điều_chuyển , sắp_xếp , quy_hoạch cán_bộ ; hồ_sơ cán_bộ lãnh_đạo từ cấp vụ và tương_đương trở lên , tài_liệu quy_hoạch cán_bộ lãnh_đạo trong ngành Công_thương chưa công_bố ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 5,
+     "end": 7,
+     "text": "Phương_án tổ_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 15,
+     "text": "cán_bộ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 17,
+     "end": 18,
+     "text": "cán_bộ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 29,
+     "end": 30,
+     "text": "cán_bộ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_50",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 584/2003/QĐ-BCA ngày 25 tháng 8 năm 2003 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật trong ngành Thương_mại ; Quyết_định số 1487/2004/QĐ-BCA ( A11 ) ngày 20 tháng 12 năm 2004 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật của ngành Công_nghiệp . Cơ_quan_chức_năng của Bộ Công_thương và Bộ Công_an chịu trách_nhiệm",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "và",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "584/2003/QĐ-BCA",
+    "ngày",
+    "25",
+    "tháng",
+    "8",
+    "năm",
+    "2003",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_an",
+    "về",
+    "Danh_mục",
+    "bí_mật",
+    "Nhà_nước",
+    "độ",
+    "Mật",
+    "trong",
+    "ngành",
+    "Thương_mại",
+    ";",
+    "Quyết_định",
+    "số",
+    "1487/2004/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ngày",
+    "20",
+    "tháng",
+    "12",
+    "năm",
+    "2004",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_an",
+    "về",
+    "Danh_mục",
+    "bí_mật",
+    "Nhà_nước",
+    "độ",
+    "Mật",
+    "của",
+    "ngành",
+    "Công_nghiệp",
+    ".",
+    "Cơ_quan_chức_năng",
+    "của",
+    "Bộ",
+    "Công_thương",
+    "và",
+    "Bộ",
+    "Công_an",
+    "chịu",
+    "trách_nhiệm"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 90,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 584/2003/QĐ-BCA ngày 25 tháng 8 năm 2003 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật trong ngành Thương_mại ; Quyết_định số 1487/2004/QĐ-BCA ( A11 ) ngày 20 tháng 12 năm 2004 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật của ngành Công_nghiệp . Cơ_quan_chức_năng của Bộ Công_thương và Bộ Công_an chịu trách_nhiệm"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "Quyết_định số 584/2003/QĐ-BCA"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 55,
+     "end": 58,
+     "text": "Quyết_định số 1487/2004/QĐ-BCA"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 35,
+     "end": 41,
+     "text": "ngày 25 tháng 8 năm 2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 61,
+     "end": 67,
+     "text": "ngày 20 tháng 12 năm 2004"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 21,
+     "end": 24,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 42,
+     "end": 45,
+     "text": "Bộ_trưởng Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 68,
+     "end": 71,
+     "text": "Bộ_trưởng Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 83,
+     "end": 85,
+     "text": "Bộ Công_thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 86,
+     "end": 88,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_standalone_51",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 584/2003/QĐ-BCA ngày 25 tháng 8 năm 2003 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật trong ngành Thương_mại ; Quyết_định số 1487/2004/QĐ-BCA ( A11 ) ngày 20 tháng 12 năm 2004 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật của ngành Công_nghiệp . Cơ_quan_chức_năng của Bộ Công_thương và Bộ Công_an chịu trách_nhiệm",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "và",
+    "thay_thế",
+    "Quyết_định",
+    "số",
+    "584/2003/QĐ-BCA",
+    "ngày",
+    "25",
+    "tháng",
+    "8",
+    "năm",
+    "2003",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_an",
+    "về",
+    "Danh_mục",
+    "bí_mật",
+    "Nhà_nước",
+    "độ",
+    "Mật",
+    "trong",
+    "ngành",
+    "Thương_mại",
+    ";",
+    "Quyết_định",
+    "số",
+    "1487/2004/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "ngày",
+    "20",
+    "tháng",
+    "12",
+    "năm",
+    "2004",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_an",
+    "về",
+    "Danh_mục",
+    "bí_mật",
+    "Nhà_nước",
+    "độ",
+    "Mật",
+    "của",
+    "ngành",
+    "Công_nghiệp",
+    ".",
+    "Cơ_quan_chức_năng",
+    "của",
+    "Bộ",
+    "Công_thương",
+    "và",
+    "Bộ",
+    "Công_an",
+    "chịu",
+    "trách_nhiệm"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 77,
+     "text": "Điều 2 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo và thay_thế Quyết_định số 584/2003/QĐ-BCA ngày 25 tháng 8 năm 2003 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật trong ngành Thương_mại ; Quyết_định số 1487/2004/QĐ-BCA ( A11 ) ngày 20 tháng 12 năm 2004 của Bộ_trưởng Bộ Công_an về Danh_mục bí_mật Nhà_nước độ Mật của ngành Công_nghiệp . Cơ_quan_chức_năng của Bộ Công_thương và Bộ Công_an chịu trách_nhiệm"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 22,
+     "text": "Quyết_định số 584/2003/QĐ-BCA"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 45,
+     "text": "Quyết_định số 1487/2004/QĐ-BCA"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 25 tháng 8 năm 2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 48,
+     "end": 54,
+     "text": "ngày 20 tháng 12 năm 2004"
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 8,
+     "end": 11,
+     "text": "sau 15 ngày"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 32,
+     "text": "Bộ_trưởng Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 55,
+     "end": 58,
+     "text": "Bộ_trưởng Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 70,
+     "end": 72,
+     "text": "Bộ Công_thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 73,
+     "end": 75,
+     "text": "Bộ Công_an"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#body_context_52",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 1534/2008/QĐ-BCA ( A11 ) của Bộ Công_an trong lĩnh_vực Công_an . Điều 3 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; các cơ_quan , tổ_chức nói trong Điều 2 Pháp_lệnh Bảo_vệ bí_mật nhà_nước ngày 28/12/2000 và Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành_quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "1534/2008/QĐ-BCA",
+    "(",
+    "A11",
+    ")",
+    "của",
+    "Bộ",
+    "Công_an",
+    "trong",
+    "lĩnh_vực",
+    "Công_an",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Các",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ";",
+    "các",
+    "cơ_quan",
+    ",",
+    "tổ_chức",
+    "nói",
+    "trong",
+    "Điều",
+    "2",
+    "Pháp_lệnh",
+    "Bảo_vệ",
+    "bí_mật",
+    "nhà_nước",
+    "ngày",
+    "28/12/2000",
+    "và",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành_quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 6,
+     "text": "1534/2008/QĐ-BCA ( A11 )"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 7,
+     "end": 9,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 11,
+     "end": 12,
+     "text": "Công_an"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 57,
+     "text": "Điều 3 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; các cơ_quan , tổ_chức nói trong Điều 2 Pháp_lệnh Bảo_vệ bí_mật nhà_nước ngày 28/12/2000 và Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành_quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 26,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "1534_2008_QĐ-BCA_A11_12598#hard_negative_53",
+   "doc": "1534_2008_QĐ-BCA_A11_12598",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

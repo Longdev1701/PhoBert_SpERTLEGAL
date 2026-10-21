@@ -1,0 +1,293 @@
+{
+ "doc_id": "111_2006_QĐ-TTg_16179",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 111/2006/QĐ-TTg Về việc thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 111/2006/QĐ-TTg\nHà Nội, ngày 19 tháng 5 năm 2006\nQUYẾT ĐỊNH\nVề việc Thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005;\nCăn cứ Quyết định số 47/2001/QĐ-TTg ngày 04 tháng 4 năm 2001 của Thủ tướng Chính phủ phê duyệt Quy hoạch mạng lưới trường đại học, cao đẳng giai đoạn 2001 - 2010;\nXét đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo tại tờ trình số 1948/TTr-BGD&amp;ĐT ngày 14 tháng 3 năm 2006 về việc thành lập Trường Đại học Điện lực.\nQUYẾT ĐỊNH\nĐiều 1. Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực.\nĐiều 2. Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội.\nĐiều 3. Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./.\nKT. THỦ TƯỚNG CHÍNH PHỦ PHÓ THỦ TƯỚNG CHÍNH PHỦ(Đã ký)Phạm Gia Khiêm\n",
+ "total_chars": 1636,
+ "total_paras": 20,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 29,
+   "text": "111/2006/QĐ-TTg"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 72,
+   "end": 91,
+   "text": "THỦ TƯỚNG CHÍNH PHỦ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 183,
+   "end": 207,
+   "text": "ngày 19 tháng 5 năm 2006"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực.",
+   "parent": "e_so_hieu",
+   "start": 712,
+   "end": 790,
+   "text": "Điều 1. Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội.",
+   "parent": "e_so_hieu",
+   "start": 791,
+   "end": 991,
+   "text": "Điều 2. Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật.",
+   "parent": "e_so_hieu",
+   "start": 992,
+   "end": 1199,
+   "text": "Điều 3. Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật."
+  },
+  {
+   "id": "e_dieu_4",
+   "type": "DIEU",
+   "number": "4",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 1200,
+   "end": 1282,
+   "text": "Điều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_dieu_5",
+   "type": "DIEU",
+   "number": "5",
+   "title": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 1283,
+   "end": 1566,
+   "text": "Điều 5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 1621,
+   "end": 1635,
+   "text": "Phạm Gia Khiêm"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_4",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_5",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "111_2006_QĐ-TTg_16179",
+ "doc": "111_2006_QĐ-TTg_16179",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 10,
+ "total_relations": 9,
+ "samples": [
+  {
+   "id": "111_2006_QĐ-TTg_16179",
+   "doc": "111_2006_QĐ-TTg_16179",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 111/2006/QĐ-TTg Về việc thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 111/2006/QĐ-TTg\nHà Nội, ngày 19 tháng 5 năm 2006\nQUYẾT ĐỊNH\nVề việc Thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005;\nCăn cứ Quyết định số 47/2001/QĐ-TTg ngày 04 tháng 4 năm 2001 của Thủ tướng Chính phủ phê duyệt Quy hoạch mạng lưới trường đại học, cao đẳng giai đoạn 2001 - 2010;\nXét đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo tại tờ trình số 1948/TTr-BGD&amp;ĐT ngày 14 tháng 3 năm 2006 về việc thành lập Trường Đại học Điện lực.\nQUYẾT ĐỊNH\nĐiều 1. Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực.\nĐiều 2. Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội.\nĐiều 3. Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./.\nKT. THỦ TƯỚNG CHÍNH PHỦ PHÓ THỦ TƯỚNG CHÍNH PHỦ(Đã ký)Phạm Gia Khiêm\n",
+   "full_text": "Quyết định số 111/2006/QĐ-TTg Về việc thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 111/2006/QĐ-TTg\nHà Nội, ngày 19 tháng 5 năm 2006\nQUYẾT ĐỊNH\nVề việc Thành lập Trường Đại học Điện lực\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005;\nCăn cứ Quyết định số 47/2001/QĐ-TTg ngày 04 tháng 4 năm 2001 của Thủ tướng Chính phủ phê duyệt Quy hoạch mạng lưới trường đại học, cao đẳng giai đoạn 2001 - 2010;\nXét đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo tại tờ trình số 1948/TTr-BGD&amp;ĐT ngày 14 tháng 3 năm 2006 về việc thành lập Trường Đại học Điện lực.\nQUYẾT ĐỊNH\nĐiều 1. Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực.\nĐiều 2. Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội.\nĐiều 3. Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./.\nKT. THỦ TƯỚNG CHÍNH PHỦ PHÓ THỦ TƯỚNG CHÍNH PHỦ(Đã ký)Phạm Gia Khiêm\n",
+   "total_chars": 1636,
+   "total_paras": 20,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 29,
+     "text": "111/2006/QĐ-TTg"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 72,
+     "end": 91,
+     "text": "THỦ TƯỚNG CHÍNH PHỦ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 183,
+     "end": 207,
+     "text": "ngày 19 tháng 5 năm 2006"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực.",
+     "parent": "e_so_hieu",
+     "start": 712,
+     "end": 790,
+     "text": "Điều 1. Thành lập Trường Đại học Điện lực trên cơ sở Trường Cao đẳng Điện lực."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội.",
+     "parent": "e_so_hieu",
+     "start": 791,
+     "end": 991,
+     "text": "Điều 2. Trường Đại học Điện lực là cơ sở đào tạo đại học, trực thuộc Tổng công ty Điện lực Việt Nam, Bộ Công nghiệp, có tư cách pháp nhân, có con dấu, tài khoản riêng; trụ sở đặt tại thành phố Hà Nội."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật.",
+     "parent": "e_so_hieu",
+     "start": 992,
+     "end": 1199,
+     "text": "Điều 3. Trường Đại học Điện lực hoạt động theo Điều lệ trường đại học ban hành kèm theo Quyết định số 153/2003/QĐ-TTg ngày 30 tháng 7 năm 2003 của Thủ tướng Chính phủ và các quy định hiện hành của pháp luật."
+    },
+    {
+     "id": "e_dieu_4",
+     "type": "DIEU",
+     "number": "4",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 1200,
+     "end": 1282,
+     "text": "Điều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_dieu_5",
+     "type": "DIEU",
+     "number": "5",
+     "title": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 1283,
+     "end": 1566,
+     "text": "Điều 5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Hiệu trưởng Trường Đại học Điện lực chịu trách nhiệm thi hành Quyết định này./."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 1621,
+     "end": 1635,
+     "text": "Phạm Gia Khiêm"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_4",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_5",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

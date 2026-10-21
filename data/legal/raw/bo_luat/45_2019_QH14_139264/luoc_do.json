@@ -1,0 +1,2925 @@
+{
+  "current_document": {
+    "item_id": "139264",
+    "title": "Bộ Luật lao động số 45/2019/QH14"
+  },
+  "relations": [
+    {
+      "relation_type_code": "1",
+      "direction": "outgoing",
+      "relation_type": "Văn bản bị bãi bỏ",
+      "documents": []
+    },
+    {
+      "relation_type_code": "1",
+      "direction": "incoming",
+      "relation_type": "Văn bản bãi bỏ",
+      "documents": []
+    },
+    {
+      "relation_type_code": "2",
+      "direction": "outgoing",
+      "relation_type": "Bản dịch",
+      "documents": []
+    },
+    {
+      "relation_type_code": "2",
+      "direction": "incoming",
+      "relation_type": "Bản dịch",
+      "documents": []
+    },
+    {
+      "relation_type_code": "3",
+      "direction": "outgoing",
+      "relation_type": "Căn cứ ban hành",
+      "documents": [
+        {
+          "item_id": "32801",
+          "title": "Hiến pháp năm 2013",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/32801"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "3",
+      "direction": "incoming",
+      "relation_type": "Văn bản áp dụng",
+      "documents": [
+        {
+          "item_id": "156774",
+          "title": "Nghị quyết số 09/2022/NQ-HĐND Về ban hành mức thu lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/156774"
+        },
+        {
+          "item_id": "183362",
+          "title": "Quyết định số 198/2025/QĐ-UBND Phân cấp thực hiện nhiệm vụ, quyền hạn liên quan đến quản lý nhà nước và biện pháp thực hiện chức năng quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183362"
+        },
+        {
+          "item_id": "9730",
+          "title": "Quyết định số 425/TTg Về việc giao Bảo hiểm xã hội Việt Nam nhiệm vụ chi trả trợ cấp thương binh - xã hội  và người có công",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/9730"
+        },
+        {
+          "item_id": "172421",
+          "title": "Nghị định số 142/2024/NĐ-CP Quy định về quản lý kho vật chứng và tài liệu, đồ vật",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/172421"
+        },
+        {
+          "item_id": "167251",
+          "title": "Quyết định số 08/2024/QĐ-UBND  ban hành Quy chế phối hợp trong công tác quản lý người nước ngoài nhập cảnh, xuất cảnh, trư trú, hoạt động trên địa bàn tỉnh Bình Phước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167251"
+        },
+        {
+          "item_id": "183334",
+          "title": "Quyết định số 198/2025/QĐ-UBND Phân cấp thực hiện nhiệm vụ, quyền hạn liên quan đến quản lý nhà nước và biện pháp thực hiện chức năng quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183334"
+        },
+        {
+          "item_id": "176467",
+          "title": "Quyết định số 50/2025/QĐ-UBND Ban hành định mức kinh tế-kỹ thuật dịch vụ vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/176467"
+        },
+        {
+          "item_id": "148825",
+          "title": "Thông tư số 04/2021/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc trong hầm lò",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/148825"
+        },
+        {
+          "item_id": "163685",
+          "title": "Quyết định số 13/2023/QĐ-UBND Phân cấp thực hiện một số nhiệm vụ cho Ban Quản lý Khu kinh tế tỉnh Lai Châu",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/163685"
+        },
+        {
+          "item_id": "9e07c200-478f-11f1-9972-51a6e4c6f704",
+          "title": "Quyết định 32/2026/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật đo đạc lập bản đồ địa chính; đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trên địa bàn thành phố Huế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/9e07c200-478f-11f1-9972-51a6e4c6f704"
+        },
+        {
+          "item_id": "187273",
+          "title": "Nghị định số 333/2025/NĐ-CP Quy định chi tiết một số biện pháp xử lý chuyển hướng tại cộng đồng; \ntrách nhiệm, trình tự, thủ tục xử lý chuyển hướng tại cộng đồng; \náp dụng biện pháp giám sát điện tử và tái hòa nhập cộng đồng \nđối với người chưa thành niên phạm tội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187273"
+        },
+        {
+          "item_id": "184014",
+          "title": "Quyết định số 90/2025/QĐ-UBND Phân cấp thực hiện cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc cho người sử dụng lao động có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại tỉnh Lạng Sơn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184014"
+        },
+        {
+          "item_id": "150379",
+          "title": "Nghị quyết số 04/2021/NQ-HĐND Sửa đổi, bổ sung mốt số điều của Nghị quyết số 15/2019/NQ-HĐND ngày 12/7/2019 của Hội đồng nhân dân tỉnh quy định mức đóng góp của người cai nghiện ma túy tự nguyện (hoặc gia đình người cai nghiện ma túy); mức ngân sách nhà nước bảo đảm, hỗ trợ đối với người cai nghiện ma túy tự nguyện tại Cơ sở cai nghiện ma túy công lập trên địa bàn tỉnh Ninh Thuận",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/150379"
+        },
+        {
+          "item_id": "ec3b5230-49cd-11f1-b219-2d51e6eb7ae1",
+          "title": "Quyết định số 36/2026/QĐ-CTUBND phân cấp thẩm quyền giải quyết một số thủ tục hành chính đối với doanh nghiệp hoạt động cho thuê lại lao động trên địa bàn tỉnh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ec3b5230-49cd-11f1-b219-2d51e6eb7ae1"
+        },
+        {
+          "item_id": "51792470-5977-11f1-a95b-018344c97c3a",
+          "title": "Nghị định số 161/2026/NĐ-CP Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/51792470-5977-11f1-a95b-018344c97c3a"
+        },
+        {
+          "item_id": "a3c506e0-57e2-11f1-8dc8-098ca0a4c33f",
+          "title": "Quyết định 37/2026/QĐ-UBND Phân cấp thẩm quyền thực hiện cấp, cấp lại, gia hạn, thu hồi giấy phép lao động; giấy xác nhận không thuộc diện cấp giấy phép lao động; giấy phép hoạt động dịch vụ việc làm và việc rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm trên địa bàn tỉnh Tuyên Quang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/a3c506e0-57e2-11f1-8dc8-098ca0a4c33f"
+        },
+        {
+          "item_id": "157481",
+          "title": "Quyết định số 37/2022/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động, phân cấp quản lý hòa giải viên lao động thuộc Sở Lao động- Thương binh và Xã hội  và Phòng Lao động-Thương binh và Xã hội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/157481"
+        },
+        {
+          "item_id": "181494",
+          "title": "Quyết định số 73/2025/QĐ-UBND Về việc tổ chức làm việc vào buổi sáng thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/181494"
+        },
+        {
+          "item_id": "156397",
+          "title": "Nghị định số 83/2022/NĐ-CP Quy định về tuổi nghỉ hưu cao hơn đối với cán bộ, công chức giữ chức vụ lãnh đạo, quản lý",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/156397"
+        },
+        {
+          "item_id": "159151",
+          "title": "Quyết định số 60/2022/QĐ-UBND Ủy quyền cho Ban Quản lý Khu kinh tế, công nghiệp tỉnh Thừa Thiên Huế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/159151"
+        },
+        {
+          "item_id": "186072",
+          "title": "Quyết định số 03/2026/QĐ-CTUBND Ban hành Quy chế phối hợp giải quyết cuộc đình công không đúng quy định pháp luật về lao động trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186072"
+        },
+        {
+          "item_id": "165573",
+          "title": "Nghị định số 10/2024/NĐ-CP Quy định về khu công nghệ cao",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165573"
+        },
+        {
+          "item_id": "159199",
+          "title": "Thông tư số 28/2022/TT-BLĐTBXH Sửa đổi, bổ sung một số điều của các Thông tư quy định về tuyển dụng, sử dụng, bồi dưỡng và chế độ làm việc của nhà giáo giáo dục nghề nghiệp",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/159199"
+        },
+        {
+          "item_id": "187055",
+          "title": "Quyết định số 302/QĐ-UBND Về việc ban hành quy chế phối hợp trong công tác quản lý nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Thái Nguyên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187055"
+        },
+        {
+          "item_id": "161144",
+          "title": "Quyết định số 18/2023/QĐ-UBND Ban hành Quy chế quản lý và hoạt động của Hòa giải viên lao động trên địa bàn tỉnh Bình Dương",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/161144"
+        },
+        {
+          "item_id": "145800",
+          "title": "Nghị quyết số 09/2020/NQ-HĐND Kéo dài thời gian thực hiện Nghị quyết số 09/2018/NQ-HĐND ngày 12/12/2018 của Hội đồng nhân dân tỉnh ban hành chính sách hỗ trợ cán bộ, công chức, viên chức, lao động hợp đồng nghỉ công tác theo nguyện vọng để thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế trên địa bàn tỉnh Lào Cai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/145800"
+        },
+        {
+          "item_id": "169627",
+          "title": "Nghị định số 88/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục nghề nghiệp",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169627"
+        },
+        {
+          "item_id": "185561",
+          "title": "Nghị định số 337/2025/NĐ-CP Quy định về hợp đồng lao động điện tử",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185561"
+        },
+        {
+          "item_id": "185777",
+          "title": "Nghị định số 349/2025/NĐ-CP Quy định chế độ, chính sách đối với thành viên đội thể thao tham gia tập trung tập huấn, thi đấu",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185777"
+        },
+        {
+          "item_id": "185304",
+          "title": "Nghị quyết số 73/2025/NQ-HĐND Quy định các chính sách đặc thù về củng cố, nâng cao năng lực trạm y tế trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185304"
+        },
+        {
+          "item_id": "174086",
+          "title": "Nghị định số 179/2024/NĐ-CP quy định về chính sách thu hút, trọng dụng người có tài năng làm việc trong cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/174086"
+        },
+        {
+          "item_id": "3d6d8b70-4832-11f1-a49f-8155e06f8765",
+          "title": "Quyết định 33/2026/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật điều tra, đánh giá đất đai; bảo vệ, cải tạo, phục hồi đất trên địa bàn thành phố Huế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/3d6d8b70-4832-11f1-a49f-8155e06f8765"
+        },
+        {
+          "item_id": "152068",
+          "title": "Nghị quyết số 18/2021/NQ-HĐND Quy định chế độ, chính sách hỗ trợ đối với cán bộ, công chức, viên chức, người lao động do thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế tại các cơ quan, tổ chức, đơn vị thuộc tỉnh Thái Nguyên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152068"
+        },
+        {
+          "item_id": "162760",
+          "title": "Quyết định số 26/2023/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnhBắc Kạn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/162760"
+        },
+        {
+          "item_id": "185164",
+          "title": "Nghị định số 325/2025/NĐ-CP Về lao động, việc làm và an sinh xã hội trong Trung tâm tài chính quốc tế tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185164"
+        },
+        {
+          "item_id": "184108",
+          "title": "Thông tư số 21/2025/TT-BGDĐT quy định chế độ trả tiền lương dạy thêm giờ đối với nhà giáo trong các cơ sở giáo dục công lập.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184108"
+        },
+        {
+          "item_id": "168953",
+          "title": "Nghị định số 99/2024/NĐ-CP sửa đổi, bổ sung điểm p khoản 1 Điều 2 Nghị định số 83/2022/NĐ-CP ngày 18 tháng 10 năm 2022 của Chính phủ quy định về nghỉ hưu ở tuổi cao hơn đối với cán bộ, công chức giữ chức vụ lãnh đạo, quản lý.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168953"
+        },
+        {
+          "item_id": "160122",
+          "title": "Thông tư số 02/2023/TT-BYT sửa đổi, bổ sung một số điều của Thông tư số 15/2016/TT-BYT ngày 15 tháng 5 năm 2016 của Bộ Y tế quy định về bệnh nghề nghiệp được hưởng bảo hiểm xã hội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/160122"
+        },
+        {
+          "item_id": "179121",
+          "title": "Nghị định số 173/2025/NĐ-CP Về hợp đồng thực hiện nhiệm vụ của công chức",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/179121"
+        },
+        {
+          "item_id": "186835",
+          "title": "Quyết định số 07/2026/QĐ-UBND Quy định Định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186835"
+        },
+        {
+          "item_id": "161375",
+          "title": "Nghị quyết số 32/2023/NQ-HĐND Ban hành Quy định chính sách hỗ trợ kinh phí đối với cán bộ, công chức, viên chức lãnh đạo, quản lý và cán bộ cấp xã nghỉ hưu trước tuổi hoặc thôi việc theo nguyện vọng trên địa bàn tỉnh Cao Bằng giai đoạn 2023-2026",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/161375"
+        },
+        {
+          "item_id": "163134",
+          "title": "Thông tư số 23/2023/TT-BGTVT Quy định về chế độ lao động, kỷ luật lao động đặc thù đối với nhân viên hàng không",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/163134"
+        },
+        {
+          "item_id": "179770",
+          "title": "Thông tư số 56/2025/TT-BQP Quy định chế độ nghỉ của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/179770"
+        },
+        {
+          "item_id": "151762",
+          "title": "Nghị quyết số 24/2021/NQ-HĐND Quy định lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Bình Phước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/151762"
+        },
+        {
+          "item_id": "169619",
+          "title": "Nghị định số 97/2022/NĐ-CP Quy định chính sách đối với người lao động dôi dư khi chuyển đổi sở hữu, sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169619"
+        },
+        {
+          "item_id": "170565",
+          "title": "Quyết định số 26/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước trong các khu công nghiệp, Khu kinh tế cửa khẩu trên địa bàn tỉnh Lào Cai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/170565"
+        },
+        {
+          "item_id": "184452",
+          "title": "Nghị quyết số 54/2025/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và mức chi đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184452"
+        },
+        {
+          "item_id": "187739",
+          "title": "Quyết định số 30/2026/QĐ-UBND Ban hành Quy chế phối hợp giữa Ban Quản lý Khu kinh tế với các cơ quan, đơn vị có liên quan trong thực hiện nhiệm vụ quản lý nhà nước đối với khu kinh tế, khu công nghiệp trên địa bàn tỉnh Vĩnh Long",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187739"
+        },
+        {
+          "item_id": "169948",
+          "title": "Quyết định số 29/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ hỗ trợ về chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu trên địa bàn tỉnh Cà Mau",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169948"
+        },
+        {
+          "item_id": "152669",
+          "title": "Nghị định số 152/2020/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152669"
+        },
+        {
+          "item_id": "182404",
+          "title": "Quyết định số 160/2025/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182404"
+        },
+        {
+          "item_id": "173864",
+          "title": "Nghị định số 177/2024/NĐ-CP quy định chế độ, chính sách đối với các trường hợp không tái cử, tái bổ nhiệm và cán bộ thôi việc, nghỉ hưu theo nguyện vọng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173864"
+        },
+        {
+          "item_id": "177617",
+          "title": "Quyết định số 26/2025/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật trong quản lý,  khai thác công trình thủy lợi trên địa bàn tỉnh Bắc Kạn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177617"
+        },
+        {
+          "item_id": "187562",
+          "title": "Quyết định số 24/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập trên địa bàn tỉnh Cà Mau",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187562"
+        },
+        {
+          "item_id": "152668",
+          "title": "Nghị định số 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152668"
+        },
+        {
+          "item_id": "155373",
+          "title": "Nghị quyết số 12/2022/NQ-HĐND Sửa đổi, bổ sung Nghị quyết số 45/2017/NQ-HĐND ngày 21/7/2017 của HĐND tỉnh về mức thu và tỷ lệ phần trăm (%) được trích để lại cho cơ quan tổ chức thu lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Lạng Sơn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155373"
+        },
+        {
+          "item_id": "182148",
+          "title": "Quyết định số 160/2025/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182148"
+        },
+        {
+          "item_id": "162114",
+          "title": "Thông tư số 09/2023/TT-BYT sửa đổi, bổ sung một số điều Thông tư số 14/2013/TT-BYT ngày 06 tháng 5 năm 2013 của Bộ trưởng Bộ Y tế Hướng dẫn khám sức khỏe",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/162114"
+        },
+        {
+          "item_id": "167029",
+          "title": "Thông tư số 17/2023/TT-BLĐTBXH Hướng dẫn việc ủy quyền thực hiện nhiệm vụ quản lý nhà nước về lao động trong các khu công nghiệp, khu kinh tế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167029"
+        },
+        {
+          "item_id": "145099",
+          "title": "Quyết định số 16/2020/QĐ-UBND Ban hành Quy chế thực hiện liên thông nhóm thủ tục cấp Phiếu lý lịch tư pháp và cấp Giấy phép lao động cho người nước ngoài làm việc tại Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/145099"
+        },
+        {
+          "item_id": "152735",
+          "title": "Thông tư số 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152735"
+        },
+        {
+          "item_id": "169853",
+          "title": "Quyết định số 17/2024/QĐ-UBND ban hành Quy chế phối hợp quản lý lao động là người nước ngoài làm việc trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169853"
+        },
+        {
+          "item_id": "173866",
+          "title": "Nghị định số 178/2024/NĐ-CP về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173866"
+        },
+        {
+          "item_id": "161804",
+          "title": "Nghị quyết số 14/2023/NQ-HĐND Quy định chính sách thu hút, đãi ngộ nguồn nhân lực y tế trên địa bàn tỉnh An Giang giai đoạn 2023 - 2025",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/161804"
+        },
+        {
+          "item_id": "173642",
+          "title": "Nghị định số 21/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 51/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định quản lý lao động, tiền lương và tiền thưởng đối với người lao động làm việc trong công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và Nghị định số 52/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định tiền lương, thù lao, tiền thưởng đối với người quản lý công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173642"
+        },
+        {
+          "item_id": "156172",
+          "title": "Quyết định số 06/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý Nhà nước về người lao động nước ngoài làm việc trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/156172"
+        },
+        {
+          "item_id": "169599",
+          "title": "Nghị định số 125/2021/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bình đẳng giới",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169599"
+        },
+        {
+          "item_id": "170319",
+          "title": "Nghị định số 126/2024/NĐ-CP quy định về tổ chức, hoạt động và quản lý hội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/170319"
+        },
+        {
+          "item_id": "165549",
+          "title": "Nghị quyết số 31/2023/NQ-HĐND Về việc bãi bỏ Nghị quyết số 94/2017/NQ-HĐND ngày 13/12/2017 của HĐND tỉnh về việc thí điểm áp dụng một số chính sách đối với người làm việc theo chế độ hợp đồng tại các đơn vị sự nghiệp công lập thuộc tỉnh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165549"
+        },
+        {
+          "item_id": "b2b32900-53e8-11f1-bbb1-37b62dc38e2e",
+          "title": "Quyết định 38 /2026/QĐ-UBND Quy định định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Gia Lai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/b2b32900-53e8-11f1-bbb1-37b62dc38e2e"
+        },
+        {
+          "item_id": "154245",
+          "title": "Nghị định số 38/2022/NĐ-CP Quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/154245"
+        },
+        {
+          "item_id": "164157",
+          "title": "Quyết định số 38/2023/QĐ-UBND về việc ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước trong khu công nghiệp, khu kinh tế trên địa bàn tỉnh Bình Phước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/164157"
+        },
+        {
+          "item_id": "152798",
+          "title": "Quyết định số 29/2021/QĐ-UBND Ban hành Quy chế phối hợp giải quyết việc đình công không đúng trình tự, thủ tục do pháp luật quy định trên địa bàn tỉnh Nghệ An",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152798"
+        },
+        {
+          "item_id": "166406",
+          "title": "Quyết định số 10/2024/QĐ-UBND Ban hành Quy chế quản lý, hoạt động của hòa giải viên lao động trên địa bàn tinh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/166406"
+        },
+        {
+          "item_id": "151457",
+          "title": "Nghị quyết số 14/2021/NQ-HĐND Quy định mức thu, chế độ thu, nộp và quản lý lệ phí cấp giấy phép lao động cho người lao động nước ngoài làm việc trên địa bàn tỉnh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/151457"
+        },
+        {
+          "item_id": "155009",
+          "title": "Nghị định số 87/2021/NĐ-CP Về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều của Nghị định số 20/2020/NĐ-CP ngày 17 tháng 02 năm 2020 của Chính phủ thực hiện thí điểm quản lý lao động, tiền lương, tiền thưởng đối với một số tập đoàn kinh tế, tổng công ty nhà nước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155009"
+        },
+        {
+          "item_id": "157660",
+          "title": "Quyết định số 47/2022/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước trong các khu công nghiệp trên địa bàn tỉnh Đắk Lắk",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/157660"
+        },
+        {
+          "item_id": "154395",
+          "title": "Quyết định số 33/2022/QĐ-UBND Về việc ban hành định mức kinh tế - kỹ thuật về dịch vụ sự nghiệp công lĩnh vực công nghệ thông tin trên địa bàn tỉnh Long An",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/154395"
+        },
+        {
+          "item_id": "145113",
+          "title": "Quyết định số 39/2020/QĐ-UBND Về việc phê duyệt đơn giá ngày công công trình Lâm sinh trên địa bàn tỉnh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/145113"
+        },
+        {
+          "item_id": "166591",
+          "title": "Nghị quyết số 210/2021/NQ-HĐND Về việc ban hành Chương trình an toàn, vệ sinh lao động tỉnh Thanh Hoá giai đoạn 2021 – 2025",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/166591"
+        },
+        {
+          "item_id": "152734",
+          "title": "Nghị định số 135/2020/NĐ-CP Quy định về tuổi nghỉ hưu",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152734"
+        },
+        {
+          "item_id": "148914",
+          "title": "Nghị quyết số 17/2021/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Quảng Ngãi",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/148914"
+        },
+        {
+          "item_id": "186463",
+          "title": "Quyết định số 05/2026/QĐ-UBND Ban hành Quy chế quản lý Hòa giải viên lao động trên địa bàn tỉnh Đồng Nai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186463"
+        },
+        {
+          "item_id": "184127",
+          "title": "Nghị quyết số 64/2025/NQ-HĐND Quy định một số nội dung, mức chi trong lĩnh vực văn hóa, nghệ thuật của thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184127"
+        },
+        {
+          "item_id": "182230",
+          "title": "Nghị quyết số 05/2025/NQ-HĐND Ban hành quy định chính sách hỗ trợ cán bộ, công chức không tái cử; hỗ trợ cán bộ, công chức, viên chức nghỉ hưu trước tuổi để thực hiện sắp xếp tổ chức bộ máy, nhân sự trên địa bàn tỉnh Lào Cai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182230"
+        },
+        {
+          "item_id": "182081",
+          "title": "Quyết định số '64/2025/QĐ-UBND Phân cấp cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người nước ngoài làm việc trên địa bàn tỉnh Vĩnh Long",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182081"
+        },
+        {
+          "item_id": "187489",
+          "title": "Nghị định số 76/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 125/2021/NĐ-CP của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bình đẳng giới",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187489"
+        },
+        {
+          "item_id": "171268",
+          "title": "Quyết định số 13/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quyết định số 13/2022/QĐ-UBND \nngày 14 tháng 6 năm 2022 của UBND tỉnh ban hành Quy chế phối hợp Quản lý người  lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Giang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171268"
+        },
+        {
+          "item_id": "180273",
+          "title": "Nghị định số 219/2025/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/180273"
+        },
+        {
+          "item_id": "171326",
+          "title": "Nghị định số 118/2024/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171326"
+        },
+        {
+          "item_id": "168202",
+          "title": "Nghị quyết số 08/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và mức chi đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168202"
+        },
+        {
+          "item_id": "178324",
+          "title": "Nghị định số 154/2025/NĐ-CP Quy định về tinh giản biên chế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/178324"
+        },
+        {
+          "item_id": "180938",
+          "title": "Thông tư số 82/2025/TT-BTC Bãi bỏ các Thông tư của Bộ Tài chính: Thông tư số 155/2009/TTBTC ngày 31 tháng 7 năm 2009 hướng dẫn chế độ phân phối lợi nhuận của\ncông ty nhà nước theo quy định tại Nghị định số 09/2009/NĐ-CP ngày 05\ntháng 02 năm 2009 của Chính phủ; Thông tư số 202/2009/TT-BTC ngày 20\ntháng 10 năm 2009 hướng dẫn một số nội dung về tài chính trong bán, giao\ndoanh nghiệp 100% vốn nhà nước; Thông tư số 92/2011/TT-BTC ngày 23\ntháng 6 năm 2011 hướng dẫn thực hiện trợ cấp khó khăn đối với người lao\nđộng trong doanh nghiệp theo Quyết định số 471/QĐ-TTg ngày 30 tháng 3\nnăm 2011 của Thủ tướng Chính phủ; Thông tư số 180/2012/TT-BTC ngày\n24 tháng 10 năm 2012 hướng dẫn xử lý tài chính về chỉ trợ cấp mất việc\nlàm cho người lao động tại doanh nghiệp",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/180938"
+        },
+        {
+          "item_id": "186519",
+          "title": "Thông tư số 131/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 62/2023/TT-BCA \nngày 14 tháng 11 năm 2023 của Bộ trưởng Bộ Công an quy định về tiêu chuẩn sức khỏe đặc thù và khám sức khỏe đối với lực lượng Công an nhân dân",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186519"
+        },
+        {
+          "item_id": "158926",
+          "title": "Quyết định số 04/2023/QĐ-UBND Ban hành Quy chế phối hợp công tác quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Đắk Nông",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158926"
+        },
+        {
+          "item_id": "186031",
+          "title": "Thông tư số 144/2025/TT-BTCС Hướng dẫn bố trí nguồn kinh phí, lập dự toán, quản lý, sử dụng, quyết toán kinh phí thực hiện ký kết hợp đồng thực hiện nhiệm vụ của công chức",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186031"
+        },
+        {
+          "item_id": "153913",
+          "title": "Nghị định số 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/153913"
+        },
+        {
+          "item_id": "d36ee5e0-5d60-11f1-a077-230154264f8d",
+          "title": "Nghị định 182/2026/NĐ-CP Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/d36ee5e0-5d60-11f1-a077-230154264f8d"
+        },
+        {
+          "item_id": "152022",
+          "title": "Quyết định số 31/2021/QĐ-UBND Ban hành Quy chế phối hợp trong công tác quản lý Nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152022"
+        },
+        {
+          "item_id": "165489",
+          "title": "Quyết định số 91/2023/QĐ-UBND Sửa đổi, bổ sung một số điểm, khoản của Điều 2 Quyết định 80/2022/QĐ-UBND ngày 24/12/2022 của Ủy ban nhân dân tỉnh Ninh Thuận Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý các khu công nghiệp tỉnh Ninh Thuận",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165489"
+        },
+        {
+          "item_id": "183275",
+          "title": "Nghị quyết số '16/2025/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy phép lao động đối với người lao động nước ngoài làm việc cho người sử dụng lao động trên địa bàn tỉnh Quảng Ngãi",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183275"
+        },
+        {
+          "item_id": "155368",
+          "title": "Quyết định số 38/2022/QĐ-UBND Ban hành  Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn tỉnh Bình Định trong việc phân loại doanh nghiệp chế biến và xuất khẩu gỗ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155368"
+        },
+        {
+          "item_id": "175789",
+          "title": "Nghị định số 44/2025/NĐ-CP Quản lý lao động, tiền lương, thù lao, tiền thưởng trong doanh nghiệp nhà nước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/175789"
+        },
+        {
+          "item_id": "177779",
+          "title": "Nghị định số 97/2025/NĐ-CP Quy định cơ chế, chính sách ưuđãi đối vớiTrung tâm Đổi   mới sáng tạo Quốc gia",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177779"
+        },
+        {
+          "item_id": "185380",
+          "title": "Quyết định số 102/2025/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185380"
+        },
+        {
+          "item_id": "174270",
+          "title": "Quyết định số 02/2025/QĐ-UBND Về việc sửa đổi, bổ sung một số nội dung của Quyết định số 03/2023/QĐ-UBND ngày 31/01/2023 của UBND tỉnh về việc triển khai thực hiện Nghị quyết số 24/2022/NQ-HĐND ngày 10/12/2022 của HĐND tỉnh quy định mức hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, thư thục ở địa bàn có khu công nghiệp; trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp trên địa bàn tỉnh Long An",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/174270"
+        },
+        {
+          "item_id": "168048",
+          "title": "Nghị định số 73/2024/NĐ-CP Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168048"
+        },
+        {
+          "item_id": "158798",
+          "title": "Nghị định số 35/2022/NĐ-CP Quy định về quản lý khu công nghiệp và khu kinh tế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158798"
+        },
+        {
+          "item_id": "167664",
+          "title": "Quyết định số 16/2024/QĐ-UBND Quy định mức thù lao cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Nam Định",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167664"
+        },
+        {
+          "item_id": "187665",
+          "title": "Quyết định số 41/2026/QĐ-UBND Về việc ban hành Quy chế phối hợp hoạt động giữa các cơ quan quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187665"
+        },
+        {
+          "item_id": "168003",
+          "title": "Nghị quyết số 05/2024/NQ-HĐND Quy định tiêu chí thành lập và tiêu chí số lượng thành viên Tổ bảo vệ an ninh, trật tự; nội dung và mức hỗ trợ đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lạng Sơn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168003"
+        },
+        {
+          "item_id": "158651",
+          "title": "Nghị định số 111/2022/NĐ-CP Về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158651"
+        },
+        {
+          "item_id": "182998",
+          "title": "Quyết định số 63/2025/QĐ-UBND Ban hành Quy chế phối hợp trong quản lý người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182998"
+        },
+        {
+          "item_id": "154473",
+          "title": "Quyết định số 19/2022/QĐ-UBND Tổ chức làm việc vào ngày thứ bảy hằng tuần để tiếp nhận, giải quyết, trả kết quả giải quyết thủ tục hành chính trên địa bàn tỉnh Tuyên Quang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/154473"
+        },
+        {
+          "item_id": "186089",
+          "title": "Quyết định số 03/2026/QĐ-UBND Phân cấp thẩm quyền cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài trên địa bàn thành phố Cần Thơ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186089"
+        },
+        {
+          "item_id": "170186",
+          "title": "Quyết định số 32/2024/QĐ-UBND Về việc tổ chức làm việc vào ngày thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Lâm Đồng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/170186"
+        },
+        {
+          "item_id": "186475",
+          "title": "Quyết định số 144/2025/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động \nđối với người lao động nước ngoài trên địa bàn tỉnh Hưng Yên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186475"
+        },
+        {
+          "item_id": "172178",
+          "title": "Quyết định số 89/2024/QĐ-UBND Quy định mức thù lao và nguồn kinh phí cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Ninh Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/172178"
+        },
+        {
+          "item_id": "170045",
+          "title": "Quyết định số 39/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Hòa Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/170045"
+        },
+        {
+          "item_id": "151827",
+          "title": "Nghị quyết số 30/2021/NQ-HĐND Về việc quy định mức thu lệ phí cấp giấy phép lao động\n cho người nước ngoài làm việc trên địa bàn tỉnh Bến Tre",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/151827"
+        },
+        {
+          "item_id": "161153",
+          "title": "Quyết định số 20/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bình Dương",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/161153"
+        },
+        {
+          "item_id": "187109",
+          "title": "Thông tư số 04/2026/TT-BGDĐT quy định chế độ làm việc đối với giáo viên cơ sở giáo dục thường xuyên.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187109"
+        },
+        {
+          "item_id": "172091",
+          "title": "Quyết định số 66/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Ninh Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/172091"
+        },
+        {
+          "item_id": "185150",
+          "title": "Nghị quyết số 798/2025/NQ-HĐND Ban hành Quy định chính sách thu hút, hỗ trợ người có tài năng, nhân lực chất lượng cao về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số làm việc trong các cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam trên địa bàn tỉnh Hưng Yên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185150"
+        },
+        {
+          "item_id": "167916",
+          "title": "Nghị quyết số 03/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự và bảo đảm điều kiện hoạt động đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Điện Biên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167916"
+        },
+        {
+          "item_id": "173756",
+          "title": "Nghị quyết số 40/2024/NQ-HĐND Quy định mức tiền thưởng đối với học sinh của thành phố hà nội đạt thành tích cao trong các cuộc thi, kỳ thi trong nước, quốc tế và giáo viên có thành tích đào tạo, bồi dưỡng học sinh đoạt giải cấp quốc gia, khu vực, quốc tế và giải nhất cấp thành phố",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173756"
+        },
+        {
+          "item_id": "150469",
+          "title": "Quyết định số 34/2021/QĐ-UBND Bãi bỏ Quyết định số 28/2014/QĐ-UBND ngày 11/11/2014 của Ủy ban nhân dân tỉnh Cà Mau ban hành quy định đảm bảo an toàn cho người canh giữ đáy hàng khơi trên địa bàn tỉnh Cà Mau",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/150469"
+        },
+        {
+          "item_id": "177151",
+          "title": "Quyết định số 27/2025/QĐ-UBND Ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177151"
+        },
+        {
+          "item_id": "169625",
+          "title": "Nghị định số 82/2021/NĐ-CP Về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều Nghị định số 121/2016/NĐ-CP ngày 24/8/2016 đã được sửa đổi, bổ sung tại Nghị định số 74/2020/NĐ-CP ngày 01/7/2020 của Chính phủ về thực hiện thí điểm quản lý lao động, tiền lương dối với tập đoàn công nghiệp viễn thông quân đội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169625"
+        },
+        {
+          "item_id": "155221",
+          "title": "Nghị định số 50/2022/NĐ_CP quy định về tuổi nghỉ hưu ở tuổi cao hơn đối với viên chức trong đơn vị sự nghiệp công lập",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155221"
+        },
+        {
+          "item_id": "182637",
+          "title": "Quyết định số 31/2025/QĐ-UBND Về việc phân cấp thẩm quyền cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động trên địa bàn tỉnh Tây Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182637"
+        },
+        {
+          "item_id": "146475",
+          "title": "Nghị định số 133/2020/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/146475"
+        },
+        {
+          "item_id": "176798",
+          "title": "Thông tư số 122/2024/TT-BQP Quy định về thực hiện dân chủ ở cơ sở trong Quân đội nhân dân Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/176798"
+        },
+        {
+          "item_id": "186840",
+          "title": "Quyết định số 21/2026/QĐ-UBND Ban hành “quy chế phối hợp giữa ban quản lý các khu công nghệ cao và khu công nghiệp thành phố hà nội với các sở, ngành, cơ quan, đơn vị của thành phố và UBND các xã, phường có khu công nghệ cao và khu công nghiệp trên địa bàn”",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186840"
+        },
+        {
+          "item_id": "149249",
+          "title": "Thông tư số 109/2021/TT-BQP Sửa đổi, bổ sung một số điều của Thông tư số 113/2016/TT-BQP ngày 23 tháng 8 năm 2016 của Bộ trưởng Bộ Quốc phòng quy định chế độ nghỉ của quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/149249"
+        },
+        {
+          "item_id": "169223",
+          "title": "Quyết định số 49/2024/QĐ-UBND Ban hành Quy định chi tiết nội dung chi và mức chi Quỹ Phòng, chống thiên tai Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169223"
+        },
+        {
+          "item_id": "157374",
+          "title": "Nghị quyết số 16/2022/NQ-HĐND Quy định về bố trí nhân viên thú y xã, phường, thị trấn trên địa bàn tỉnh Điện Biên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/157374"
+        },
+        {
+          "item_id": "185297",
+          "title": "Nghị quyết số 45/2025/NQ-HĐND Quy định mức thu lệ phí cấp, cấp lại, gia hạn giấy phép lao động đối với người lao động nước ngoài làm việc trên địa bàn tỉnh Vĩnh Long",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185297"
+        },
+        {
+          "item_id": "175569",
+          "title": "Nghị quyết số 01/2025/NQ-HĐND Quy định về chế độ hỗ trợ thêm đối với cán bộ, công chức, viên chức, người lao động khi thực hiện sắp xếp tổ chức bộ máy, cơ cấu lại và sắp xếp đơn vị hành chính các cấp của hệ thống chính trị; trường hợp phụ trách công tác đảng tại Tổng công ty, Công ty do Nhà nước nắm giữ 100% vốn điều lệ bị tác động khi thực hiện sắp xếp tổ chức đảng; trường hợp không đủ điều kiện về tuổi tái cử, tái bổ nhiệm giữ các chức vụ, chức danh theo nhiệm kỳ trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/175569"
+        },
+        {
+          "item_id": "187564",
+          "title": "Quyết định số 25/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ hỗ trợ chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu trên địa bàn tỉnh Cà Mau",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187564"
+        },
+        {
+          "item_id": "177150",
+          "title": "Quyết định số 26/2025/QĐ-UBND\nBan hành Định mức kinh tế - kỹ thuật tạm thời áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177150"
+        },
+        {
+          "item_id": "165015",
+          "title": "Quyết định số 05/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Tiền Giang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165015"
+        },
+        {
+          "item_id": "173060",
+          "title": "Nghị quyết số 30/2024/NQ-HĐND Sửa đổi, bổ sung một số nội dung của Nghị quyết số 24/2022/NQ-HĐND ngày 10 thang 12 năm 2022 của Hội đồng nhân dân tỉnh quy định mức hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp; trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp trên địa bàn tỉnh Long An",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173060"
+        },
+        {
+          "item_id": "167332",
+          "title": "Quyết định số 18/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Kon Tum ban hành kèm theo Quyết định số 01/2022/QĐ-UBND ngày 04 tháng 01 năm 2022 của Ủy ban nhân dân tỉnh Kon Tum",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167332"
+        },
+        {
+          "item_id": "163444",
+          "title": "Thông tư số 20/2023/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính chất đặc biệt trong lĩnh vực thăm dò, khai thác dầu khí trên biển",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/163444"
+        },
+        {
+          "item_id": "183081",
+          "title": "Quyết định số 66/2025/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Phú Thọ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183081"
+        },
+        {
+          "item_id": "140118",
+          "title": "Quyết định số 50/2019/QĐ-UBND Ban hành Quy định quản lý tạm trú trong doanh nghiệp đối với người lao động nước ngoài làm việc tại các doanh nghiệp trong các Khu công nghiệp trên địa bàn tỉnh Hòa Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/140118"
+        },
+        {
+          "item_id": "155003",
+          "title": "Nghị quyết số 33/2022/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Cao Bằng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155003"
+        },
+        {
+          "item_id": "184456",
+          "title": "Nghị quyết số 58/2025/NQ-HĐND Quy định mức hỗ trợ tiền ăn và tiền ăn thêm các ngày lễ, tết trong năm cho người bệnh tại Bệnh viện Nhân Ái,\nBệnh viện Tâm thần, Bệnh viện sức khỏe Tâm thần Bà Rịa - Vũng Tàu và Bệnh viện Bến Sắn trực thuộc Sở Y tế Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184456"
+        },
+        {
+          "item_id": "165712",
+          "title": "Quyết định số 67/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Ninh Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165712"
+        },
+        {
+          "item_id": "176070",
+          "title": "Thông tư số 05/2025/TT-BGDĐT quy định chế độ làm việc đối với giáo viên phổ thông, dự bị đại học",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/176070"
+        },
+        {
+          "item_id": "176201",
+          "title": "Nghị định số 67/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định 178/2024/NĐ-CP của Chính phủ về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/176201"
+        },
+        {
+          "item_id": "184907",
+          "title": "Nghị quyết số 43/2025/NQ-HĐND quy định mức thu lệ phí cấp giấp phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Đồng Nai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184907"
+        },
+        {
+          "item_id": "156560",
+          "title": "Quyết định số 24/2022/QĐ-UBND Bãi bỏ các Quyết định của Ủy ban nhân dân tỉnh Thừa Thiên Huế: số 28/2010/QĐ-UBND, số 67/2016/QĐ-UBND, số 80/2016/QĐ-UBND, số 63/2017/QĐ-UBND, số 64/2017/QĐ-UBND",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/156560"
+        },
+        {
+          "item_id": "149747",
+          "title": "Quyết định số 50/2021/QĐ-UBND Về việc ban hành Quy chế phối hợp hoạt động giữa các cơ quan quản lý nhà nước trong việc tuyển dụng và quản lý lao động người nước ngoài làm việc trên địa bàn tỉnh Ninh Thuận",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/149747"
+        },
+        {
+          "item_id": "159283",
+          "title": "Nghị quyết số 23/2022/NQ-HĐND Quy định chế độ đãi ngộ, hỗ trợ “Nghệ sĩ nhân dân”, “Nghệ sĩ ưu tú”; nghệ nhân và Câu lạc bộ tiêu biểu trong lĩnh vực di sản văn hóa phi vật thể thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/159283"
+        },
+        {
+          "item_id": "184612",
+          "title": "Quyết định số 87/2025/QĐ-UBND Ban hành Quy chế đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người lao động thành phố Đà Nẵng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184612"
+        },
+        {
+          "item_id": "152670",
+          "title": "Thông tư số 09/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về lao động chưa thành niên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152670"
+        },
+        {
+          "item_id": "186895",
+          "title": "Quyết định số 09/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật dịch vụ sự nghiệp công thuộc lĩnh vực công nghệ thông tin sử dụng ngân sách nhà nước trên địa bàn tỉnh Lâm Đồng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186895"
+        },
+        {
+          "item_id": "155202",
+          "title": "Thông tư số 12/2022/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc vận hành, bảo dưỡng, sửa chữa hệ thống đường ống phân phối khí và các công trình khí.",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155202"
+        },
+        {
+          "item_id": "173490",
+          "title": "Quyết định số 88/2024/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành chính công cộng bằng xe buýt trên địa bàn tỉnh Bình Định",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173490"
+        },
+        {
+          "item_id": "179096",
+          "title": "Nghị định số 168/2025/NĐ-CP Về đăng ký doanh nghiệp",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/179096"
+        },
+        {
+          "item_id": "152115",
+          "title": "Nghị quyết số 22/2021/NQ-HĐND Ban hành Quy định chính sách hỗ trợ cán bộ, công chức, viên chức nghỉ công tác theo nguyện vọng để thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế trên địa bàn tỉnh Lào Cai, giai đoạn 2022 - 2025",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152115"
+        },
+        {
+          "item_id": "177328",
+          "title": "Quyết định số 64/2025/QĐ-UBND Về việc chuyển một số chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật thuộc chức năng, nhiệm vụ quyền hạn của Sở Nội vụ cho Ban Quản lý Khu công nghệ cao Thành phố, Ban Quản lý các Khu chế xuất và công nghiệp Thành phố",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177328"
+        },
+        {
+          "item_id": "184949",
+          "title": "Nghị quyết số 26/2025/NQ-HĐND Quy định chính sách hỗ trợ đưa lao động của tỉnh Lào Cai đi làm việc ở nước ngoài theo hợp đồng giai đoạn 2026-2030",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184949"
+        },
+        {
+          "item_id": "146696",
+          "title": "Thông tư số 10/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều, khoản sau đây của Bộ luật Lao động về nội dung của Hợp đồng lao động, hội đồng thương lượng tập thể và nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản, nuôi con",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/146696"
+        },
+        {
+          "item_id": "160668",
+          "title": "Nghị định số 29/2023/NĐ-CP Quy định về tinh giản biên chế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/160668"
+        },
+        {
+          "item_id": "173440",
+          "title": "Nghị quyết số 50/2024/NQ-HĐND Quy định về chế độ hỗ trợ thêm đối với trường hợp nghỉ do tinh giản biên chế; nghỉ do dôi dư khi sắp xếp đơn vị hành chính; nghỉ công tác trước tuổi do không đủ điều kiện về tuổi tái cử, tái bổ nhiệm giữ các chức vụ, chức danh theo nhiệm kỳ; nghỉ công tác trước tuổi không thuộc diện tinh giản biên chế trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173440"
+        },
+        {
+          "item_id": "170071",
+          "title": "Thông tư số 62/2023/TT-BCA Quy định về tiêu chuẩn sức khỏe đặc thù và khám sức khỏe đối với lực lượng Công an nhân dân",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/170071"
+        },
+        {
+          "item_id": "179195",
+          "title": "Ban hành Quy định chính sách phát triển nguồn nhân lực chất lượng cao khu vực công thành phố Đà Nẵng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/179195"
+        },
+        {
+          "item_id": "154476",
+          "title": "Quyết định số 13/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Giang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/154476"
+        },
+        {
+          "item_id": "3f75bc50-567c-11f1-82e2-b548c6ebfdb1",
+          "title": "Quyết định 21/2026/QĐ-UBND Ban hành Định mức chi tiết kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Quảng Ngãi",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/3f75bc50-567c-11f1-82e2-b548c6ebfdb1"
+        },
+        {
+          "item_id": "153716",
+          "title": "Quyết định số 11/2022/QĐ-UBND Ban hành Quy chế phối hợp thực hiện liên thông nhóm thủ tục hành chính Cấp phiếu lý lịch tư pháp - Cấp giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/153716"
+        },
+        {
+          "item_id": "185959",
+          "title": "Nghị quyết số 43/2025/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng, trợ cấp và các mức chi khác bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Quảng Ngãi",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185959"
+        },
+        {
+          "item_id": "183512",
+          "title": "Quyết định số '09/2025/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động cho người lao động nước ngoài trên địa bàn tỉnh Thái Nguyên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183512"
+        },
+        {
+          "item_id": "153413",
+          "title": "Quyết định số 08/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước tại Khu kinh tế cửa khẩu, các Khu công nghiệp, các cửa khẩu ngoài Khu kinh tế cửa khẩu giữa Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn với các sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/153413"
+        },
+        {
+          "item_id": "165113",
+          "title": "Quyết định số 02/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165113"
+        },
+        {
+          "item_id": "178758",
+          "title": "Quyết định số 57/2025/QĐ-UBND phân cấp nhận báo cáo về việc cho thôi việc nhiều người lao động của các doanh nghiệp trong khu công nghiệp, khu chế xuất, khu kinh tế trên địa bàn tỉnh Tây Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/178758"
+        },
+        {
+          "item_id": "157651",
+          "title": "Quyết định số 51/2022/QĐ-UBND Bãi bỏ Điều 4 Quy định về Quy tắc ứng xử của cán bộ, công chức, viên chức và người lao động làm việc trong các cơ quan hành chính, đơn vị sự nghiệp công lập trên địa bàn tỉnh Thừa Thiên Huế ban hành kèm theo Quyết định số 48/2018/QĐ-UBND ngày 31 tháng 8 năm 2018 của Ủy ban nhân dân tỉnh Thừa Thiên Huế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/157651"
+        },
+        {
+          "item_id": "171805",
+          "title": "Quyết định số 49/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bình Dương",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171805"
+        },
+        {
+          "item_id": "177187",
+          "title": "Quyết định số 35/2025/QĐ-UBND Quy định chế độ đối với các lực lượng và những người tham gia chữa cháy rừng theo lệnh điều động, huy động của người có thẩm quyền trên địa bàn tỉnh Ninh Thuận",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/177187"
+        },
+        {
+          "item_id": "171546",
+          "title": "Nghị quyết số 14/2024/NQ-HĐND Quy định về số lượng, tiêu chuẩn, chế độ chính sách đối với khuyến nông viên cấp xã trên địa bàn tỉnh Điện Biên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171546"
+        },
+        {
+          "item_id": "169586",
+          "title": "Quyết định số 17/2024/QĐ-UBND Bãi bỏ Quyết định số 06/2020/QĐ-UBND ngày 10 tháng 4 năm 2020 của Ủy ban nhân dân tỉnh Đắk Nông ban hành Quy chế về trách nhiệm và xử lý trách nhiệm chủ rừng, các cơ quan Nhà nước, tổ chức và cá nhân có trách nhiệm quản lý rừng, bảo vệ rừng trên địa bàn tỉnh Đắk Nông",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169586"
+        },
+        {
+          "item_id": "169624",
+          "title": "Nghị định số 64/2023/NĐ-CP Bổ sung Nghị định số 87/2021/NĐ-CP ngày 29 tháng 9 năm 2021 của Chính phủ về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều của Nghị định số 20/2020/NĐ-CP ngày 17 tháng 02 năm 2020 của Chính phủ thực hiện thí điểm quản lý lao động, tiền lương, tiền thưởng đối với một số tập đoàn kinh tế, tổng công ty nhà nước",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169624"
+        },
+        {
+          "item_id": "169958",
+          "title": "Quyết định số 31/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập trên địa bàn tỉnh Cà Mau",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/169958"
+        },
+        {
+          "item_id": "155829",
+          "title": "Nghị quyết số 01/2022/NQ-HĐND Về các chính sách đặc thù về củng cố, nâng cao năng lực Trạm Y tế phường, xã, thị trấn trong giai đoạn thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch Covid-19 và đến năm 2025",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155829"
+        },
+        {
+          "item_id": "147493",
+          "title": "Nghị quyết số 02/2021/NQ-HĐND V/v sửa đổi, bổ sung một số điều của Nghị quyết số 80/2017/NQ-HĐND ngày 08/12/2017 của HĐND tỉnh về việc Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/147493"
+        },
+        {
+          "item_id": "7c087340-4ae9-11f1-9343-170e5edb252e",
+          "title": "Quyết định 37/2026/QĐ-CTUBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn thành phố Đà Nẵng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/7c087340-4ae9-11f1-9343-170e5edb252e"
+        },
+        {
+          "item_id": "187275",
+          "title": "Nghị định số 355/2025/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Tư pháp \nngười chưa thành niên về áp dụng biện pháp giáo dục tại trường \ngiáo dưỡng, thi hành án phạt tù tại trại giam và chuẩn bị tái hòa nhập \ncộng đồng đối với người chưa thành niên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/187275"
+        },
+        {
+          "item_id": "158552",
+          "title": "Quyết định số 80/2022/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158552"
+        },
+        {
+          "item_id": "158152",
+          "title": "Thông tư số 22/2022/TT-BCA Quy định về lao động hợp đồng trong Công an nhân dân",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158152"
+        },
+        {
+          "item_id": "168165",
+          "title": "Nghị quyết số 386/2024/NQ-HĐND Quy định tiêu chí thành lập, số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và một số chế độ, chính sách đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Hòa Bình;",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168165"
+        },
+        {
+          "item_id": "173647",
+          "title": "Nghị định số 79/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 121/2016/NĐ-CP ngày 24 tháng 8 năm 2016 đã được sửa đổi bổ sung tại Nghị định số 74/2020/NĐ-CP ngày 01 tháng 7 năm 2020 và Nghị định số 82/2021/NĐ-CP ngày 06 tháng 9 năm 2021 của Chính phủ về thực hiện thí điểm quản lý lao động, tiền lương đối với Tập đoàn Công nghiệp - Viễn thông Quân đội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/173647"
+        },
+        {
+          "item_id": "185968",
+          "title": "Quyết định số 143/2025/QĐ-UBND Ban hành Quy định về định mức kinh tế - kỹ thuật đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Phú Thọ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185968"
+        },
+        {
+          "item_id": "160341",
+          "title": "Nghị định số 24/2023/NĐ-CP Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/160341"
+        },
+        {
+          "item_id": "163612",
+          "title": "Quyết định số 33/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu  công nghiệp, khu nông nghiệp ứng dụng công nghệ cao trên địa bàn  tỉnh Đắk Nông",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/163612"
+        },
+        {
+          "item_id": "186845",
+          "title": "Quyết định số 16/2026/QĐ-UBND Quy định mức thù lao cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Ninh Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/186845"
+        },
+        {
+          "item_id": "164448",
+          "title": "Nghị quyết số 06/2023/NQ-HĐND Quy định một số nội dung chi, mức chi thuộc thẩm quyền của Hội đồng nhân dân thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/164448"
+        },
+        {
+          "item_id": "150289",
+          "title": "Quyết định số 50/2021/QĐ-UBND Ban hành Quy định một số nội dung về quyền tự chủ, tự chịu trách nhiệm trong quản lý tổ chức, số lượng người làm việc, viên chức, người lao động ở các đơn vị sự nghiệp công lập tự đảm bảo chi thường xuyên trên địa bàn tỉnh Bắc Giang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/150289"
+        },
+        {
+          "item_id": "174153",
+          "title": "Quyết định số 51/2024/QĐ-UBND\nBan hành Định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt sử dụng nhiên liệu diesel  trên địa bàn tỉnh Bắc Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/174153"
+        },
+        {
+          "item_id": "152933",
+          "title": "Quyết định số 01/2022 /QĐ-UBND Ban hành Quy chế phối hợp quản lý lao động người nước ngoài làm việc trên địa bàn tỉnh Kon Tum",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152933"
+        },
+        {
+          "item_id": "168812",
+          "title": "Nghị quyết số 21/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ; tiêu chí số lượng thành viên; mức hỗ trợ, bồi dưỡng đối với lực lượng tham gia Tổ bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lai Châu",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/168812"
+        },
+        {
+          "item_id": "167930",
+          "title": "Nghị quyết số 12/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng, trợ cấp và các mức chi khác bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Quảng Ngãi",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167930"
+        },
+        {
+          "item_id": "183939",
+          "title": "Nghị định số 293/2025/NĐ-CP Quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/183939"
+        },
+        {
+          "item_id": "164476",
+          "title": "Quyết định số 23/2023/QĐ-UBND Ban hành định mức kinh tế kỹ thuật loại hình xe buýt điện lớn trên địa bàn thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/164476"
+        },
+        {
+          "item_id": "178862",
+          "title": "Quyết định số 53/2025/QĐ-UBND Quy định mức hỗ trợ giải quyết việc làm\ncho người có đất thu hồi trên địa bàn tỉnh Sơn La",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/178862"
+        },
+        {
+          "item_id": "162330",
+          "title": "Nghị định số 70/2023/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/162330"
+        },
+        {
+          "item_id": "157973",
+          "title": "Nghị quyết số 216/2022/NQ-UBND Quy định chính sách hỗ trợ vay vốn đối với người lao động trên địa bàn tỉnh Hòa Bình đi làm việc ở nước ngoài theo hợp đồng, giai đonạ 2023 - 2026",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/157973"
+        },
+        {
+          "item_id": "165658",
+          "title": "Quyết định số 04/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy chế phối hợp trong công tác quản lý Nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165658"
+        },
+        {
+          "item_id": "155517",
+          "title": "Nghị quyết số 09/2022/NQ-HĐND Quy định mức thu, chế độ thu, nộp và quản lý lệ phí cấp, cấp lại, gia hạn giấy phép lao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn tỉnh An Giang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/155517"
+        },
+        {
+          "item_id": "171025",
+          "title": "Quyết định số 70/2024/QĐ-UBND Về ban hành Quy định về các biện pháp tăng cường trách nhiệm đối với người đứng đầu cơ quan, đơn vị và cán bộ, công chức, viên chức, người lao động trong thực hiện nhiệm vụ, công vụ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171025"
+        },
+        {
+          "item_id": "184689",
+          "title": "Quyết định số 52/2025/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật về dịch vụ sự nghiệp công lĩnh vực công nghệ thông tin",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184689"
+        },
+        {
+          "item_id": "171452",
+          "title": "Quyết định số 54/2024/QĐ-UBND Ban hành Quy chế quản lý, phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Thanh Hóa",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/171452"
+        },
+        {
+          "item_id": "182997",
+          "title": "Quyết định số 101/2025/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất trên địa bàn thành phố Huế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/182997"
+        },
+        {
+          "item_id": "56424910-6079-11f1-be0c-89aeadc77e4b",
+          "title": "Quyết định 599/QĐ-UBND Về việc bãi bỏ Quyết định số 39/2016/QĐ-UBND ngày 16 tháng 6 năm 2016 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy chế phối hợp giải quyết bước đầu các vụ tranh chấp lao động tập thể, đình công không theo trình tự, thủ tục quy định của pháp luật lao động tại các doanh nghiệp trên địa bàn tỉnh Đồng Nai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/56424910-6079-11f1-be0c-89aeadc77e4b"
+        },
+        {
+          "item_id": "d8254eb0-60a5-11f1-bee4-516864bad6f2",
+          "title": "Quyết định 32/2026/QĐ-UBND Ban hành Quy định chi tiết nội dung chi và mức chi Quỹ Phòng, chống thiên tai Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/d8254eb0-60a5-11f1-bee4-516864bad6f2"
+        },
+        {
+          "item_id": "ddbfdbf0-63a8-11f1-a523-8778b88e7e04",
+          "title": "Quyết định số 11 /2026/QĐ-UBND 11/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý lao động là người nước ngoài làm việc trên địa bàn thành phố Đồng Nai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ddbfdbf0-63a8-11f1-a523-8778b88e7e04"
+        },
+        {
+          "item_id": "5bf0aaa0-63b7-11f1-b9d7-8f7daa8165da",
+          "title": "Quyết định 20/2026/QĐ-UBND Về ban hành định mức kinh tế - kỹ thuật dịch vụ vận tải hành khách công cộng bằng xe buýt sử dụng dầu diesel, xe buýt sử dụng khí CNG trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/5bf0aaa0-63b7-11f1-b9d7-8f7daa8165da"
+        },
+        {
+          "item_id": "267ffff0-6647-11f1-b01e-8bc328b4d0e9",
+          "title": "Nghị quyết số 14/2026/NQ-HĐND Nghị quyết quy định chính sách hỗ trợ an sinh xã hội cho người dân thủ đô",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/267ffff0-6647-11f1-b01e-8bc328b4d0e9"
+        },
+        {
+          "item_id": "185557",
+          "title": "Thông tư số 26/2025/TT-BNV Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn để làm căn cứ xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185557"
+        },
+        {
+          "item_id": "b4fbb6c0-662e-11f1-9e22-5f4374a771cc",
+          "title": "Quyết định số 28/2026/QĐ-CTUBND Ban hành Quy chế quản lý, phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Thanh Hóa",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/b4fbb6c0-662e-11f1-9e22-5f4374a771cc"
+        },
+        {
+          "item_id": "165b7c60-695f-11f1-b852-79a39285fab1",
+          "title": "Quyết định số 03/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Lạng Sơn",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165b7c60-695f-11f1-b852-79a39285fab1"
+        },
+        {
+          "item_id": "ac2e9250-6aee-11f1-a50e-5706d9efd7cc",
+          "title": "Quyết định số 39/2026/QĐ-UBND Ban hành Quy chế phối hợp trong công tác quản lý nhà nước giữa Ban Quản lý Khu kinh tế tỉnh với các sở, ban, ngành và UBND các xã, phường có khu kinh tế, khu công nghiệp trên địa bàn tỉnh Hà Tĩnh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ac2e9250-6aee-11f1-a50e-5706d9efd7cc"
+        },
+        {
+          "item_id": "eeacae50-6dd2-11f1-a3c7-e771794d39db",
+          "title": "Quyết định số 47/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/eeacae50-6dd2-11f1-a3c7-e771794d39db"
+        },
+        {
+          "item_id": "b1a2f6a0-6f75-11f1-8c92-93503fe93ae9",
+          "title": "Quyết định số 38/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/b1a2f6a0-6f75-11f1-8c92-93503fe93ae9"
+        },
+        {
+          "item_id": "361f1930-75ee-11f1-b24f-cfd829d6f596",
+          "title": "Quyết định số 109/2026/QĐ-UBND quy định định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành khách công cộng bằng xe buýt điện trên địa bàn tỉnh Gia Lai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/361f1930-75ee-11f1-b24f-cfd829d6f596"
+        },
+        {
+          "item_id": "05612000-7a11-11f1-bd03-856520a73b9d",
+          "title": "Thông tư số 08/2026/TT-BNV Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 337/2025/NĐ-CP ngày 24 tháng 12 năm 2025 của Chính phủ quy định về hợp đồng lao động điện tử",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/05612000-7a11-11f1-bd03-856520a73b9d"
+        },
+        {
+          "item_id": "ced51c40-7a19-11f1-88f2-57aec1a21e5e",
+          "title": "Nghị định số 235/2026/NĐ-CP Về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ced51c40-7a19-11f1-88f2-57aec1a21e5e"
+        },
+        {
+          "item_id": "8b47db70-7b6d-11f1-af27-e34537cce3d4",
+          "title": "Quyết định số 48/2026/QĐ-UBND Ban hành Quy chế phối hợp trong quản lý người nước ngoài cư trú, hoạt động trên địa bàn thành phố Đồng Nai",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/8b47db70-7b6d-11f1-af27-e34537cce3d4"
+        },
+        {
+          "item_id": "b1343630-79b0-11f1-942e-e56b7ad40bdd",
+          "title": "Quyết định số 42/2026/QĐ-UBND Về việc tổ chức làm việc sáng thứ Bảy hàng tuần để tiếp nhận, giải quyết và trả kết quả thủ tục hành chính trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/b1343630-79b0-11f1-942e-e56b7ad40bdd"
+        },
+        {
+          "item_id": "56ceb630-7cf7-11f1-a988-c7ab39d3fd13",
+          "title": "Nghị định số 170/2026/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án hình sự",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/56ceb630-7cf7-11f1-a988-c7ab39d3fd13"
+        },
+        {
+          "item_id": "ca1f1fa0-80fb-11f1-a61d-3f8e8a8de674",
+          "title": "Nghị quyết số 20/2026/NQ-HĐND Sửa đổi, bổ sung một số điều của Quy định chính sách thu hút, hỗ trợ người có tài năng, nhân lực chất lượng cao về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số làm việc trong các cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam trên địa bàn tỉnh Hưng Yên ban hành kèm theo Nghị quyết số 798/2025/NQ-HĐND ngày 09 tháng 12 năm 2025 của Hội đồng nhân dân tỉnh Hưng Yên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ca1f1fa0-80fb-11f1-a61d-3f8e8a8de674"
+        },
+        {
+          "item_id": "787d3780-866f-11f1-8511-612429c9d15e",
+          "title": "Nghị định số 283/2026/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/787d3780-866f-11f1-8511-612429c9d15e"
+        },
+        {
+          "item_id": "bd290a20-86fc-11f1-a37c-6f0ac5137c24",
+          "title": "Quyết định số 56/2026/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài trên địa bàn tỉnh Lào Ca",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/bd290a20-86fc-11f1-a37c-6f0ac5137c24"
+        },
+        {
+          "item_id": "31de7cc0-898b-11f1-8268-a9294e958254",
+          "title": "Thông tư số 05/2026/TT-BGDĐT Quy định chế độ làm việc đối với nhà giáo giáo dục nghề nghiệp",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/31de7cc0-898b-11f1-8268-a9294e958254"
+        },
+        {
+          "item_id": "71df6f70-838a-11f1-acaa-23a1a91082a0",
+          "title": "Thông tư số 56/2026/TT-BXD Quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc có tính chất đặc biệt trên biển trong hoạt động cung cấp dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/71df6f70-838a-11f1-acaa-23a1a91082a0"
+        },
+        {
+          "item_id": "6268bd90-8c80-11f1-9397-a970bbf8e92d",
+          "title": "Nghị định số 159/2026/NĐ-CP Quy định về giảng viên đồng cơ hữu trong các cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học công lập",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/6268bd90-8c80-11f1-9397-a970bbf8e92d"
+        },
+        {
+          "item_id": "c471f060-8c80-11f1-aa25-0b4610036912",
+          "title": "Nghị định số 138/2026/NĐ-CP Quy định chi tiết một số điều của Luật Việc làm về phát triển kỹ năng nghề",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/c471f060-8c80-11f1-aa25-0b4610036912"
+        },
+        {
+          "item_id": "958b8830-8c83-11f1-8131-7304fd100a6d",
+          "title": "Nghị quyết số 20/2026/NQ-HĐND Quy định tiêu chí đối với người nước ngoài là chuyên gia, nhà khoa học, người có tài năng, nhà quản lý, người lao động có trình độ cao làm việc tại doanh nghiệp có trụ sở chính trong Khu thương mại tự do thành phố Hải Phòng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/958b8830-8c83-11f1-8131-7304fd100a6d"
+        },
+        {
+          "item_id": "eda48040-8c96-11f1-9238-a74b3d99a755",
+          "title": "Thông tư số 59/2026/TT-BGDĐT Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/eda48040-8c96-11f1-9238-a74b3d99a755"
+        },
+        {
+          "item_id": "e1329280-8fb0-11f1-9e25-0b436c68815a",
+          "title": "Nghị quyết số 80/2026/NQ-HĐND Quy định một số chính sách phát triển sản phẩm, dịch vụ chăm sóc, phục vụ người cao tuổi; khuyến khích người cao tuổi tham gia phát triển kinh tế trên địa bàn thành phố Hà Nội (thực hiện điểm a khoản 2 điều 27 Luật thủ đô số 02/2026/QH16)",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/e1329280-8fb0-11f1-9e25-0b436c68815a"
+        },
+        {
+          "item_id": "fa0dd180-93fb-11f1-a091-b911100fda98",
+          "title": "Quyết định số 10/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Tuyên Quang",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/fa0dd180-93fb-11f1-a091-b911100fda98"
+        },
+        {
+          "item_id": "82b9c770-9558-11f1-8a96-23e4688468bd",
+          "title": "Nghị quyết số 78/2026/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự và chế độ, chính sách đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn thành phố Đà Nẵng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/82b9c770-9558-11f1-8a96-23e4688468bd"
+        },
+        {
+          "item_id": "ea1b9ee0-961e-11f1-8633-1dbfe0c98890",
+          "title": "Quyết định số 79/2026/QĐ-CTUBND Ban hành quy chế quản lý hòa giải viên lao động và phân cấp quản lý hoà giải viên lao động trên địa bàn tỉnh Ninh Bình",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/ea1b9ee0-961e-11f1-8633-1dbfe0c98890"
+        },
+        {
+          "item_id": "4772a220-9bef-11f1-ad86-b5f9e3cc6254",
+          "title": "Quyết định số 42/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Cao Bằng",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/4772a220-9bef-11f1-ad86-b5f9e3cc6254"
+        },
+        {
+          "item_id": "f7ddbcd0-a75c-11f1-acfc-2b9f1528d001",
+          "title": "Quyết định số 87/2026/QĐ-UBND Ban hành Quy chế phối hợp thực hiện công tác quản lý nhà nước đối với các khu công nghiệp, cụm công nghiệp tập trung trên địa bàn thành phố Cần Thơ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/f7ddbcd0-a75c-11f1-acfc-2b9f1528d001"
+        },
+        {
+          "item_id": "4168dc50-a766-11f1-ab1f-b9d633fef2c9",
+          "title": "Quyết định số 110/2026/QĐ-UBND Sửa đổi, bổ sung một số điều của Quyết định số 66/2024/QĐ-UBND ngày 15/11/2024 của UBND thành phố Hà Nội ban hành các quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn áp dụng thực hiện cung cấp dịch vụ sự nghiệp công sử dụng ngân sách nhà nước lĩnh vực văn hoá (hoạt động văn hoá cơ sở) trên địa bàn thành phố Hà Nội",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/4168dc50-a766-11f1-ab1f-b9d633fef2c9"
+        },
+        {
+          "item_id": "873004c0-b01c-11f1-9fe3-6bcf6e8e2ae1",
+          "title": "Thông tư số 64/2026/TT-BGDĐT Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và chế độ làm việc đối với giáo viên trung học nghề",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/873004c0-b01c-11f1-9fe3-6bcf6e8e2ae1"
+        },
+        {
+          "item_id": "5195dc30-4cea-11f1-85cf-35f881812006",
+          "title": "Quyết định số 1561/QĐ-UBND về việc bãi bỏ một số văn bản quy phạm pháp luật của Uỷ ban nhân dân tỉnh về lĩnh vực Nội vụ",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/5195dc30-4cea-11f1-85cf-35f881812006"
+        },
+        {
+          "item_id": "07005880-b653-11f1-9b70-c509f0bc6db1",
+          "title": "Nghị quyết số 34/2026/NQ-HĐND Sửa đổi, bổ sung một số điều của Nghị quyết số 21/2024/NQ-HĐND ngày 17 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Lai Châu quy định tiêu chí thành lập Tổ, tiêu chí số lượng thành viên; mức hỗ trợ, bồi dưỡng đối với lực lượng tham gia Tổ bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lai Châu",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/07005880-b653-11f1-9b70-c509f0bc6db1"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "4",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được dẫn chiếu",
+      "documents": []
+    },
+    {
+      "relation_type_code": "4",
+      "direction": "incoming",
+      "relation_type": "Văn bản dẫn chiếu",
+      "documents": [
+        {
+          "item_id": "148825",
+          "title": "Thông tư số 04/2021/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc trong hầm lò",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/148825"
+        },
+        {
+          "item_id": "176822",
+          "title": "Nghị quyết số 102/2025/NQ-HĐND quy định các biện pháp bảo đảm thực hiện dân chủ ở cơ sở trên địa bàn tỉnh Tây Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/176822"
+        },
+        {
+          "item_id": "156823",
+          "title": "Nghị quyết số 14/2022/NQ-HĐND Quy định nội dung, mức chi tổ chức tuyển dụng công chức, viên chức; thi (xét) nâng ngạch công chức, thăng hạng chức danh nghề nghiệp viên chức trên địa bàn Thành phố Hồ Chí Minh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/156823"
+        },
+        {
+          "item_id": "172923",
+          "title": "Luật Bảo hiểm y tế sửa đổi 2024 số Luật số 51/2024/QH15",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/172923"
+        },
+        {
+          "item_id": "167029",
+          "title": "Thông tư số 17/2023/TT-BLĐTBXH Hướng dẫn việc ủy quyền thực hiện nhiệm vụ quản lý nhà nước về lao động trong các khu công nghiệp, khu kinh tế",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/167029"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "5",
+      "direction": "outgoing",
+      "relation_type": "Văn bản bị đình chỉ thi hành",
+      "documents": []
+    },
+    {
+      "relation_type_code": "5",
+      "direction": "incoming",
+      "relation_type": "Văn bản đình chỉ thi hành",
+      "documents": []
+    },
+    {
+      "relation_type_code": "6",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được đính chính",
+      "documents": []
+    },
+    {
+      "relation_type_code": "6",
+      "direction": "incoming",
+      "relation_type": "Văn bản đính chính",
+      "documents": []
+    },
+    {
+      "relation_type_code": "7",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được hợp nhất",
+      "documents": []
+    },
+    {
+      "relation_type_code": "7",
+      "direction": "incoming",
+      "relation_type": "Văn bản hợp nhất",
+      "documents": [
+        {
+          "item_id": "175590",
+          "title": "Văn bản hợp nhất số 11/VBHN-VPQH Tố tụng dân sự",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/175590"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "8",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được hướng dẫn áp dụng",
+      "documents": []
+    },
+    {
+      "relation_type_code": "8",
+      "direction": "incoming",
+      "relation_type": "Văn bản hướng dẫn áp dụng",
+      "documents": []
+    },
+    {
+      "relation_type_code": "9",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "documents": []
+    },
+    {
+      "relation_type_code": "9",
+      "direction": "incoming",
+      "relation_type": "Văn bản quy định chi tiết, hướng dẫn thi hành",
+      "documents": [
+        {
+          "item_id": "158928",
+          "title": "Nghị quyết số 98/2022/NQ-HĐND Một số chính sách phát triển văn hóa, thể thao và du lịch tỉnh Hà Tĩnh giai đoạn 2023 - 2025",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/158928"
+        },
+        {
+          "item_id": "185164",
+          "title": "Nghị định số 325/2025/NĐ-CP Về lao động, việc làm và an sinh xã hội trong Trung tâm tài chính quốc tế tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/185164"
+        },
+        {
+          "item_id": "152670",
+          "title": "Thông tư số 09/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về lao động chưa thành niên",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152670"
+        },
+        {
+          "item_id": "152669",
+          "title": "Nghị định số 152/2020/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/152669"
+        },
+        {
+          "item_id": "165549",
+          "title": "Nghị quyết số 31/2023/NQ-HĐND Về việc bãi bỏ Nghị quyết số 94/2017/NQ-HĐND ngày 13/12/2017 của HĐND tỉnh về việc thí điểm áp dụng một số chính sách đối với người làm việc theo chế độ hợp đồng tại các đơn vị sự nghiệp công lập thuộc tỉnh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/165549"
+        },
+        {
+          "item_id": "166406",
+          "title": "Quyết định số 10/2024/QĐ-UBND Ban hành Quy chế quản lý, hoạt động của hòa giải viên lao động trên địa bàn tinh Quảng Ninh",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/166406"
+        },
+        {
+          "item_id": "184625",
+          "title": "Nghị định số 318/2025/NĐ-CP Quy định chi tiết một số điều của Luật Việc làm về đăng ký lao động và hệ thống thông tin thị trường lao động",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/184625"
+        },
+        {
+          "item_id": "96115",
+          "title": "Bộ luật Tố tụng dân sự số 92/2015/QH13",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/96115"
+        },
+        {
+          "item_id": "96121",
+          "title": "Luật Tổ chức cơ quan điều tra hình sự số 99/2015/QH13",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/96121"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "10",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được sửa đổi bổ sung",
+      "documents": [
+        {
+          "item_id": "96115",
+          "title": "Bộ luật Tố tụng dân sự số 92/2015/QH13",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/96115"
+        },
+        {
+          "item_id": "46744",
+          "title": "Luật Bảo hiểm xã hội số 58/2014/QH13",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/46744"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "10",
+      "direction": "incoming",
+      "relation_type": "Văn bản sửa đổi bổ sung",
+      "documents": [
+        {
+          "item_id": "179989",
+          "title": "Luật Công nghiệp công nghệ số số 71/2025/QH15",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/179989"
+        },
+        {
+          "item_id": "161263",
+          "title": "Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/161263"
+        },
+        {
+          "item_id": "142881",
+          "title": "Luật doanh nghiệp số 59/2020/QH14",
+          "url": "https://vbpl.vn/van-ban/chi-tiet/142881"
+        }
+      ]
+    },
+    {
+      "relation_type_code": "11",
+      "direction": "outgoing",
+      "relation_type": "Văn bản bị tạm ngưng hiệu lực",
+      "documents": []
+    },
+    {
+      "relation_type_code": "11",
+      "direction": "incoming",
+      "relation_type": "Văn bản tạm ngưng hiệu lực",
+      "documents": []
+    },
+    {
+      "relation_type_code": "12",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được thay thế",
+      "documents": []
+    },
+    {
+      "relation_type_code": "12",
+      "direction": "incoming",
+      "relation_type": "Văn bản thay thế",
+      "documents": []
+    },
+    {
+      "relation_type_code": "13",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được sửa đổi bổ sung",
+      "documents": []
+    },
+    {
+      "relation_type_code": "13",
+      "direction": "incoming",
+      "relation_type": "Văn bản sửa đổi bổ sung",
+      "documents": []
+    },
+    {
+      "relation_type_code": "14",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được giải thích",
+      "documents": []
+    },
+    {
+      "relation_type_code": "14",
+      "direction": "incoming",
+      "relation_type": "Văn bản giải thích",
+      "documents": []
+    },
+    {
+      "relation_type_code": "15",
+      "direction": "outgoing",
+      "relation_type": "Văn bản được công bố",
+      "documents": []
+    },
+    {
+      "relation_type_code": "15",
+      "direction": "incoming",
+      "relation_type": "Văn bản công bố",
+      "documents": []
+    }
+  ],
+  "raw": {
+    "documentNamesByType": {
+      "3": [
+        {
+          "id": "32801",
+          "name": "Hiến pháp năm 2013",
+          "effectAllType": null
+        }
+      ],
+      "10": [
+        {
+          "id": "96115",
+          "name": "Bộ luật Tố tụng dân sự số 92/2015/QH13",
+          "effectAllType": null
+        },
+        {
+          "id": "46744",
+          "name": "Luật Bảo hiểm xã hội số 58/2014/QH13",
+          "effectAllType": null
+        }
+      ]
+    },
+    "documentNamesBySource": {
+      "3": [
+        {
+          "id": "156774",
+          "name": "Nghị quyết số 09/2022/NQ-HĐND Về ban hành mức thu lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "183362",
+          "name": "Quyết định số 198/2025/QĐ-UBND Phân cấp thực hiện nhiệm vụ, quyền hạn liên quan đến quản lý nhà nước và biện pháp thực hiện chức năng quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "9730",
+          "name": "Quyết định số 425/TTg Về việc giao Bảo hiểm xã hội Việt Nam nhiệm vụ chi trả trợ cấp thương binh - xã hội  và người có công",
+          "effectAllType": null
+        },
+        {
+          "id": "172421",
+          "name": "Nghị định số 142/2024/NĐ-CP Quy định về quản lý kho vật chứng và tài liệu, đồ vật",
+          "effectAllType": null
+        },
+        {
+          "id": "167251",
+          "name": "Quyết định số 08/2024/QĐ-UBND  ban hành Quy chế phối hợp trong công tác quản lý người nước ngoài nhập cảnh, xuất cảnh, trư trú, hoạt động trên địa bàn tỉnh Bình Phước",
+          "effectAllType": null
+        },
+        {
+          "id": "183334",
+          "name": "Quyết định số 198/2025/QĐ-UBND Phân cấp thực hiện nhiệm vụ, quyền hạn liên quan đến quản lý nhà nước và biện pháp thực hiện chức năng quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "176467",
+          "name": "Quyết định số 50/2025/QĐ-UBND Ban hành định mức kinh tế-kỹ thuật dịch vụ vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "148825",
+          "name": "Thông tư số 04/2021/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc trong hầm lò",
+          "effectAllType": null
+        },
+        {
+          "id": "163685",
+          "name": "Quyết định số 13/2023/QĐ-UBND Phân cấp thực hiện một số nhiệm vụ cho Ban Quản lý Khu kinh tế tỉnh Lai Châu",
+          "effectAllType": null
+        },
+        {
+          "id": "9e07c200-478f-11f1-9972-51a6e4c6f704",
+          "name": "Quyết định 32/2026/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật đo đạc lập bản đồ địa chính; đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trên địa bàn thành phố Huế",
+          "effectAllType": null
+        },
+        {
+          "id": "187273",
+          "name": "Nghị định số 333/2025/NĐ-CP Quy định chi tiết một số biện pháp xử lý chuyển hướng tại cộng đồng; \ntrách nhiệm, trình tự, thủ tục xử lý chuyển hướng tại cộng đồng; \náp dụng biện pháp giám sát điện tử và tái hòa nhập cộng đồng \nđối với người chưa thành niên phạm tội",
+          "effectAllType": null
+        },
+        {
+          "id": "184014",
+          "name": "Quyết định số 90/2025/QĐ-UBND Phân cấp thực hiện cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc cho người sử dụng lao động có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại tỉnh Lạng Sơn",
+          "effectAllType": null
+        },
+        {
+          "id": "150379",
+          "name": "Nghị quyết số 04/2021/NQ-HĐND Sửa đổi, bổ sung mốt số điều của Nghị quyết số 15/2019/NQ-HĐND ngày 12/7/2019 của Hội đồng nhân dân tỉnh quy định mức đóng góp của người cai nghiện ma túy tự nguyện (hoặc gia đình người cai nghiện ma túy); mức ngân sách nhà nước bảo đảm, hỗ trợ đối với người cai nghiện ma túy tự nguyện tại Cơ sở cai nghiện ma túy công lập trên địa bàn tỉnh Ninh Thuận",
+          "effectAllType": null
+        },
+        {
+          "id": "ec3b5230-49cd-11f1-b219-2d51e6eb7ae1",
+          "name": "Quyết định số 36/2026/QĐ-CTUBND phân cấp thẩm quyền giải quyết một số thủ tục hành chính đối với doanh nghiệp hoạt động cho thuê lại lao động trên địa bàn tỉnh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "51792470-5977-11f1-a95b-018344c97c3a",
+          "name": "Nghị định số 161/2026/NĐ-CP Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "effectAllType": null
+        },
+        {
+          "id": "a3c506e0-57e2-11f1-8dc8-098ca0a4c33f",
+          "name": "Quyết định 37/2026/QĐ-UBND Phân cấp thẩm quyền thực hiện cấp, cấp lại, gia hạn, thu hồi giấy phép lao động; giấy xác nhận không thuộc diện cấp giấy phép lao động; giấy phép hoạt động dịch vụ việc làm và việc rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm trên địa bàn tỉnh Tuyên Quang",
+          "effectAllType": null
+        },
+        {
+          "id": "157481",
+          "name": "Quyết định số 37/2022/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động, phân cấp quản lý hòa giải viên lao động thuộc Sở Lao động- Thương binh và Xã hội  và Phòng Lao động-Thương binh và Xã hội",
+          "effectAllType": null
+        },
+        {
+          "id": "181494",
+          "name": "Quyết định số 73/2025/QĐ-UBND Về việc tổ chức làm việc vào buổi sáng thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính",
+          "effectAllType": null
+        },
+        {
+          "id": "156397",
+          "name": "Nghị định số 83/2022/NĐ-CP Quy định về tuổi nghỉ hưu cao hơn đối với cán bộ, công chức giữ chức vụ lãnh đạo, quản lý",
+          "effectAllType": null
+        },
+        {
+          "id": "159151",
+          "name": "Quyết định số 60/2022/QĐ-UBND Ủy quyền cho Ban Quản lý Khu kinh tế, công nghiệp tỉnh Thừa Thiên Huế",
+          "effectAllType": null
+        },
+        {
+          "id": "186072",
+          "name": "Quyết định số 03/2026/QĐ-CTUBND Ban hành Quy chế phối hợp giải quyết cuộc đình công không đúng quy định pháp luật về lao động trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "165573",
+          "name": "Nghị định số 10/2024/NĐ-CP Quy định về khu công nghệ cao",
+          "effectAllType": null
+        },
+        {
+          "id": "159199",
+          "name": "Thông tư số 28/2022/TT-BLĐTBXH Sửa đổi, bổ sung một số điều của các Thông tư quy định về tuyển dụng, sử dụng, bồi dưỡng và chế độ làm việc của nhà giáo giáo dục nghề nghiệp",
+          "effectAllType": null
+        },
+        {
+          "id": "187055",
+          "name": "Quyết định số 302/QĐ-UBND Về việc ban hành quy chế phối hợp trong công tác quản lý nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Thái Nguyên",
+          "effectAllType": null
+        },
+        {
+          "id": "161144",
+          "name": "Quyết định số 18/2023/QĐ-UBND Ban hành Quy chế quản lý và hoạt động của Hòa giải viên lao động trên địa bàn tỉnh Bình Dương",
+          "effectAllType": null
+        },
+        {
+          "id": "145800",
+          "name": "Nghị quyết số 09/2020/NQ-HĐND Kéo dài thời gian thực hiện Nghị quyết số 09/2018/NQ-HĐND ngày 12/12/2018 của Hội đồng nhân dân tỉnh ban hành chính sách hỗ trợ cán bộ, công chức, viên chức, lao động hợp đồng nghỉ công tác theo nguyện vọng để thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế trên địa bàn tỉnh Lào Cai",
+          "effectAllType": null
+        },
+        {
+          "id": "169627",
+          "name": "Nghị định số 88/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục nghề nghiệp",
+          "effectAllType": null
+        },
+        {
+          "id": "185561",
+          "name": "Nghị định số 337/2025/NĐ-CP Quy định về hợp đồng lao động điện tử",
+          "effectAllType": null
+        },
+        {
+          "id": "185777",
+          "name": "Nghị định số 349/2025/NĐ-CP Quy định chế độ, chính sách đối với thành viên đội thể thao tham gia tập trung tập huấn, thi đấu",
+          "effectAllType": null
+        },
+        {
+          "id": "185304",
+          "name": "Nghị quyết số 73/2025/NQ-HĐND Quy định các chính sách đặc thù về củng cố, nâng cao năng lực trạm y tế trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "174086",
+          "name": "Nghị định số 179/2024/NĐ-CP quy định về chính sách thu hút, trọng dụng người có tài năng làm việc trong cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội.",
+          "effectAllType": null
+        },
+        {
+          "id": "3d6d8b70-4832-11f1-a49f-8155e06f8765",
+          "name": "Quyết định 33/2026/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật điều tra, đánh giá đất đai; bảo vệ, cải tạo, phục hồi đất trên địa bàn thành phố Huế",
+          "effectAllType": null
+        },
+        {
+          "id": "152068",
+          "name": "Nghị quyết số 18/2021/NQ-HĐND Quy định chế độ, chính sách hỗ trợ đối với cán bộ, công chức, viên chức, người lao động do thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế tại các cơ quan, tổ chức, đơn vị thuộc tỉnh Thái Nguyên",
+          "effectAllType": null
+        },
+        {
+          "id": "162760",
+          "name": "Quyết định số 26/2023/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnhBắc Kạn",
+          "effectAllType": null
+        },
+        {
+          "id": "185164",
+          "name": "Nghị định số 325/2025/NĐ-CP Về lao động, việc làm và an sinh xã hội trong Trung tâm tài chính quốc tế tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "184108",
+          "name": "Thông tư số 21/2025/TT-BGDĐT quy định chế độ trả tiền lương dạy thêm giờ đối với nhà giáo trong các cơ sở giáo dục công lập.",
+          "effectAllType": null
+        },
+        {
+          "id": "168953",
+          "name": "Nghị định số 99/2024/NĐ-CP sửa đổi, bổ sung điểm p khoản 1 Điều 2 Nghị định số 83/2022/NĐ-CP ngày 18 tháng 10 năm 2022 của Chính phủ quy định về nghỉ hưu ở tuổi cao hơn đối với cán bộ, công chức giữ chức vụ lãnh đạo, quản lý.",
+          "effectAllType": null
+        },
+        {
+          "id": "160122",
+          "name": "Thông tư số 02/2023/TT-BYT sửa đổi, bổ sung một số điều của Thông tư số 15/2016/TT-BYT ngày 15 tháng 5 năm 2016 của Bộ Y tế quy định về bệnh nghề nghiệp được hưởng bảo hiểm xã hội",
+          "effectAllType": null
+        },
+        {
+          "id": "179121",
+          "name": "Nghị định số 173/2025/NĐ-CP Về hợp đồng thực hiện nhiệm vụ của công chức",
+          "effectAllType": null
+        },
+        {
+          "id": "186835",
+          "name": "Quyết định số 07/2026/QĐ-UBND Quy định Định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "161375",
+          "name": "Nghị quyết số 32/2023/NQ-HĐND Ban hành Quy định chính sách hỗ trợ kinh phí đối với cán bộ, công chức, viên chức lãnh đạo, quản lý và cán bộ cấp xã nghỉ hưu trước tuổi hoặc thôi việc theo nguyện vọng trên địa bàn tỉnh Cao Bằng giai đoạn 2023-2026",
+          "effectAllType": null
+        },
+        {
+          "id": "163134",
+          "name": "Thông tư số 23/2023/TT-BGTVT Quy định về chế độ lao động, kỷ luật lao động đặc thù đối với nhân viên hàng không",
+          "effectAllType": null
+        },
+        {
+          "id": "179770",
+          "name": "Thông tư số 56/2025/TT-BQP Quy định chế độ nghỉ của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "151762",
+          "name": "Nghị quyết số 24/2021/NQ-HĐND Quy định lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Bình Phước",
+          "effectAllType": null
+        },
+        {
+          "id": "169619",
+          "name": "Nghị định số 97/2022/NĐ-CP Quy định chính sách đối với người lao động dôi dư khi chuyển đổi sở hữu, sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ",
+          "effectAllType": null
+        },
+        {
+          "id": "170565",
+          "name": "Quyết định số 26/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước trong các khu công nghiệp, Khu kinh tế cửa khẩu trên địa bàn tỉnh Lào Cai",
+          "effectAllType": null
+        },
+        {
+          "id": "184452",
+          "name": "Nghị quyết số 54/2025/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và mức chi đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "187739",
+          "name": "Quyết định số 30/2026/QĐ-UBND Ban hành Quy chế phối hợp giữa Ban Quản lý Khu kinh tế với các cơ quan, đơn vị có liên quan trong thực hiện nhiệm vụ quản lý nhà nước đối với khu kinh tế, khu công nghiệp trên địa bàn tỉnh Vĩnh Long",
+          "effectAllType": null
+        },
+        {
+          "id": "169948",
+          "name": "Quyết định số 29/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ hỗ trợ về chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu trên địa bàn tỉnh Cà Mau",
+          "effectAllType": null
+        },
+        {
+          "id": "152669",
+          "name": "Nghị định số 152/2020/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "182404",
+          "name": "Quyết định số 160/2025/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "173864",
+          "name": "Nghị định số 177/2024/NĐ-CP quy định chế độ, chính sách đối với các trường hợp không tái cử, tái bổ nhiệm và cán bộ thôi việc, nghỉ hưu theo nguyện vọng",
+          "effectAllType": null
+        },
+        {
+          "id": "177617",
+          "name": "Quyết định số 26/2025/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật trong quản lý,  khai thác công trình thủy lợi trên địa bàn tỉnh Bắc Kạn",
+          "effectAllType": null
+        },
+        {
+          "id": "187562",
+          "name": "Quyết định số 24/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập trên địa bàn tỉnh Cà Mau",
+          "effectAllType": null
+        },
+        {
+          "id": "152668",
+          "name": "Nghị định số 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+          "effectAllType": null
+        },
+        {
+          "id": "155373",
+          "name": "Nghị quyết số 12/2022/NQ-HĐND Sửa đổi, bổ sung Nghị quyết số 45/2017/NQ-HĐND ngày 21/7/2017 của HĐND tỉnh về mức thu và tỷ lệ phần trăm (%) được trích để lại cho cơ quan tổ chức thu lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Lạng Sơn",
+          "effectAllType": null
+        },
+        {
+          "id": "182148",
+          "name": "Quyết định số 160/2025/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "162114",
+          "name": "Thông tư số 09/2023/TT-BYT sửa đổi, bổ sung một số điều Thông tư số 14/2013/TT-BYT ngày 06 tháng 5 năm 2013 của Bộ trưởng Bộ Y tế Hướng dẫn khám sức khỏe",
+          "effectAllType": null
+        },
+        {
+          "id": "167029",
+          "name": "Thông tư số 17/2023/TT-BLĐTBXH Hướng dẫn việc ủy quyền thực hiện nhiệm vụ quản lý nhà nước về lao động trong các khu công nghiệp, khu kinh tế",
+          "effectAllType": null
+        },
+        {
+          "id": "145099",
+          "name": "Quyết định số 16/2020/QĐ-UBND Ban hành Quy chế thực hiện liên thông nhóm thủ tục cấp Phiếu lý lịch tư pháp và cấp Giấy phép lao động cho người nước ngoài làm việc tại Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "152735",
+          "name": "Thông tư số 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường.",
+          "effectAllType": null
+        },
+        {
+          "id": "169853",
+          "name": "Quyết định số 17/2024/QĐ-UBND ban hành Quy chế phối hợp quản lý lao động là người nước ngoài làm việc trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "173866",
+          "name": "Nghị định số 178/2024/NĐ-CP về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị",
+          "effectAllType": null
+        },
+        {
+          "id": "161804",
+          "name": "Nghị quyết số 14/2023/NQ-HĐND Quy định chính sách thu hút, đãi ngộ nguồn nhân lực y tế trên địa bàn tỉnh An Giang giai đoạn 2023 - 2025",
+          "effectAllType": null
+        },
+        {
+          "id": "173642",
+          "name": "Nghị định số 21/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 51/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định quản lý lao động, tiền lương và tiền thưởng đối với người lao động làm việc trong công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và Nghị định số 52/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định tiền lương, thù lao, tiền thưởng đối với người quản lý công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ",
+          "effectAllType": null
+        },
+        {
+          "id": "156172",
+          "name": "Quyết định số 06/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý Nhà nước về người lao động nước ngoài làm việc trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "169599",
+          "name": "Nghị định số 125/2021/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bình đẳng giới",
+          "effectAllType": null
+        },
+        {
+          "id": "170319",
+          "name": "Nghị định số 126/2024/NĐ-CP quy định về tổ chức, hoạt động và quản lý hội",
+          "effectAllType": null
+        },
+        {
+          "id": "165549",
+          "name": "Nghị quyết số 31/2023/NQ-HĐND Về việc bãi bỏ Nghị quyết số 94/2017/NQ-HĐND ngày 13/12/2017 của HĐND tỉnh về việc thí điểm áp dụng một số chính sách đối với người làm việc theo chế độ hợp đồng tại các đơn vị sự nghiệp công lập thuộc tỉnh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "b2b32900-53e8-11f1-bbb1-37b62dc38e2e",
+          "name": "Quyết định 38 /2026/QĐ-UBND Quy định định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Gia Lai",
+          "effectAllType": null
+        },
+        {
+          "id": "154245",
+          "name": "Nghị định số 38/2022/NĐ-CP Quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động",
+          "effectAllType": null
+        },
+        {
+          "id": "164157",
+          "name": "Quyết định số 38/2023/QĐ-UBND về việc ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước trong khu công nghiệp, khu kinh tế trên địa bàn tỉnh Bình Phước",
+          "effectAllType": null
+        },
+        {
+          "id": "152798",
+          "name": "Quyết định số 29/2021/QĐ-UBND Ban hành Quy chế phối hợp giải quyết việc đình công không đúng trình tự, thủ tục do pháp luật quy định trên địa bàn tỉnh Nghệ An",
+          "effectAllType": null
+        },
+        {
+          "id": "166406",
+          "name": "Quyết định số 10/2024/QĐ-UBND Ban hành Quy chế quản lý, hoạt động của hòa giải viên lao động trên địa bàn tinh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "151457",
+          "name": "Nghị quyết số 14/2021/NQ-HĐND Quy định mức thu, chế độ thu, nộp và quản lý lệ phí cấp giấy phép lao động cho người lao động nước ngoài làm việc trên địa bàn tỉnh",
+          "effectAllType": null
+        },
+        {
+          "id": "155009",
+          "name": "Nghị định số 87/2021/NĐ-CP Về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều của Nghị định số 20/2020/NĐ-CP ngày 17 tháng 02 năm 2020 của Chính phủ thực hiện thí điểm quản lý lao động, tiền lương, tiền thưởng đối với một số tập đoàn kinh tế, tổng công ty nhà nước",
+          "effectAllType": null
+        },
+        {
+          "id": "157660",
+          "name": "Quyết định số 47/2022/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước trong các khu công nghiệp trên địa bàn tỉnh Đắk Lắk",
+          "effectAllType": null
+        },
+        {
+          "id": "154395",
+          "name": "Quyết định số 33/2022/QĐ-UBND Về việc ban hành định mức kinh tế - kỹ thuật về dịch vụ sự nghiệp công lĩnh vực công nghệ thông tin trên địa bàn tỉnh Long An",
+          "effectAllType": null
+        },
+        {
+          "id": "145113",
+          "name": "Quyết định số 39/2020/QĐ-UBND Về việc phê duyệt đơn giá ngày công công trình Lâm sinh trên địa bàn tỉnh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "166591",
+          "name": "Nghị quyết số 210/2021/NQ-HĐND Về việc ban hành Chương trình an toàn, vệ sinh lao động tỉnh Thanh Hoá giai đoạn 2021 – 2025",
+          "effectAllType": null
+        },
+        {
+          "id": "152734",
+          "name": "Nghị định số 135/2020/NĐ-CP Quy định về tuổi nghỉ hưu",
+          "effectAllType": null
+        },
+        {
+          "id": "148914",
+          "name": "Nghị quyết số 17/2021/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Quảng Ngãi",
+          "effectAllType": null
+        },
+        {
+          "id": "186463",
+          "name": "Quyết định số 05/2026/QĐ-UBND Ban hành Quy chế quản lý Hòa giải viên lao động trên địa bàn tỉnh Đồng Nai",
+          "effectAllType": null
+        },
+        {
+          "id": "184127",
+          "name": "Nghị quyết số 64/2025/NQ-HĐND Quy định một số nội dung, mức chi trong lĩnh vực văn hóa, nghệ thuật của thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "182230",
+          "name": "Nghị quyết số 05/2025/NQ-HĐND Ban hành quy định chính sách hỗ trợ cán bộ, công chức không tái cử; hỗ trợ cán bộ, công chức, viên chức nghỉ hưu trước tuổi để thực hiện sắp xếp tổ chức bộ máy, nhân sự trên địa bàn tỉnh Lào Cai",
+          "effectAllType": null
+        },
+        {
+          "id": "182081",
+          "name": "Quyết định số '64/2025/QĐ-UBND Phân cấp cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người nước ngoài làm việc trên địa bàn tỉnh Vĩnh Long",
+          "effectAllType": null
+        },
+        {
+          "id": "187489",
+          "name": "Nghị định số 76/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 125/2021/NĐ-CP của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bình đẳng giới",
+          "effectAllType": null
+        },
+        {
+          "id": "171268",
+          "name": "Quyết định số 13/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quyết định số 13/2022/QĐ-UBND \nngày 14 tháng 6 năm 2022 của UBND tỉnh ban hành Quy chế phối hợp Quản lý người  lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Giang",
+          "effectAllType": null
+        },
+        {
+          "id": "180273",
+          "name": "Nghị định số 219/2025/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "171326",
+          "name": "Nghị định số 118/2024/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự",
+          "effectAllType": null
+        },
+        {
+          "id": "168202",
+          "name": "Nghị quyết số 08/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và mức chi đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "178324",
+          "name": "Nghị định số 154/2025/NĐ-CP Quy định về tinh giản biên chế",
+          "effectAllType": null
+        },
+        {
+          "id": "180938",
+          "name": "Thông tư số 82/2025/TT-BTC Bãi bỏ các Thông tư của Bộ Tài chính: Thông tư số 155/2009/TTBTC ngày 31 tháng 7 năm 2009 hướng dẫn chế độ phân phối lợi nhuận của\ncông ty nhà nước theo quy định tại Nghị định số 09/2009/NĐ-CP ngày 05\ntháng 02 năm 2009 của Chính phủ; Thông tư số 202/2009/TT-BTC ngày 20\ntháng 10 năm 2009 hướng dẫn một số nội dung về tài chính trong bán, giao\ndoanh nghiệp 100% vốn nhà nước; Thông tư số 92/2011/TT-BTC ngày 23\ntháng 6 năm 2011 hướng dẫn thực hiện trợ cấp khó khăn đối với người lao\nđộng trong doanh nghiệp theo Quyết định số 471/QĐ-TTg ngày 30 tháng 3\nnăm 2011 của Thủ tướng Chính phủ; Thông tư số 180/2012/TT-BTC ngày\n24 tháng 10 năm 2012 hướng dẫn xử lý tài chính về chỉ trợ cấp mất việc\nlàm cho người lao động tại doanh nghiệp",
+          "effectAllType": null
+        },
+        {
+          "id": "186519",
+          "name": "Thông tư số 131/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 62/2023/TT-BCA \nngày 14 tháng 11 năm 2023 của Bộ trưởng Bộ Công an quy định về tiêu chuẩn sức khỏe đặc thù và khám sức khỏe đối với lực lượng Công an nhân dân",
+          "effectAllType": null
+        },
+        {
+          "id": "158926",
+          "name": "Quyết định số 04/2023/QĐ-UBND Ban hành Quy chế phối hợp công tác quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Đắk Nông",
+          "effectAllType": null
+        },
+        {
+          "id": "186031",
+          "name": "Thông tư số 144/2025/TT-BTCС Hướng dẫn bố trí nguồn kinh phí, lập dự toán, quản lý, sử dụng, quyết toán kinh phí thực hiện ký kết hợp đồng thực hiện nhiệm vụ của công chức",
+          "effectAllType": null
+        },
+        {
+          "id": "153913",
+          "name": "Nghị định số 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+          "effectAllType": null
+        },
+        {
+          "id": "d36ee5e0-5d60-11f1-a077-230154264f8d",
+          "name": "Nghị định 182/2026/NĐ-CP Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập",
+          "effectAllType": null
+        },
+        {
+          "id": "152022",
+          "name": "Quyết định số 31/2021/QĐ-UBND Ban hành Quy chế phối hợp trong công tác quản lý Nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "effectAllType": null
+        },
+        {
+          "id": "165489",
+          "name": "Quyết định số 91/2023/QĐ-UBND Sửa đổi, bổ sung một số điểm, khoản của Điều 2 Quyết định 80/2022/QĐ-UBND ngày 24/12/2022 của Ủy ban nhân dân tỉnh Ninh Thuận Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý các khu công nghiệp tỉnh Ninh Thuận",
+          "effectAllType": null
+        },
+        {
+          "id": "183275",
+          "name": "Nghị quyết số '16/2025/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy phép lao động đối với người lao động nước ngoài làm việc cho người sử dụng lao động trên địa bàn tỉnh Quảng Ngãi",
+          "effectAllType": null
+        },
+        {
+          "id": "155368",
+          "name": "Quyết định số 38/2022/QĐ-UBND Ban hành  Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn tỉnh Bình Định trong việc phân loại doanh nghiệp chế biến và xuất khẩu gỗ",
+          "effectAllType": null
+        },
+        {
+          "id": "175789",
+          "name": "Nghị định số 44/2025/NĐ-CP Quản lý lao động, tiền lương, thù lao, tiền thưởng trong doanh nghiệp nhà nước",
+          "effectAllType": null
+        },
+        {
+          "id": "177779",
+          "name": "Nghị định số 97/2025/NĐ-CP Quy định cơ chế, chính sách ưuđãi đối vớiTrung tâm Đổi   mới sáng tạo Quốc gia",
+          "effectAllType": null
+        },
+        {
+          "id": "185380",
+          "name": "Quyết định số 102/2025/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "174270",
+          "name": "Quyết định số 02/2025/QĐ-UBND Về việc sửa đổi, bổ sung một số nội dung của Quyết định số 03/2023/QĐ-UBND ngày 31/01/2023 của UBND tỉnh về việc triển khai thực hiện Nghị quyết số 24/2022/NQ-HĐND ngày 10/12/2022 của HĐND tỉnh quy định mức hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, thư thục ở địa bàn có khu công nghiệp; trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp trên địa bàn tỉnh Long An",
+          "effectAllType": null
+        },
+        {
+          "id": "168048",
+          "name": "Nghị định số 73/2024/NĐ-CP Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "effectAllType": null
+        },
+        {
+          "id": "158798",
+          "name": "Nghị định số 35/2022/NĐ-CP Quy định về quản lý khu công nghiệp và khu kinh tế",
+          "effectAllType": null
+        },
+        {
+          "id": "167664",
+          "name": "Quyết định số 16/2024/QĐ-UBND Quy định mức thù lao cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Nam Định",
+          "effectAllType": null
+        },
+        {
+          "id": "187665",
+          "name": "Quyết định số 41/2026/QĐ-UBND Về việc ban hành Quy chế phối hợp hoạt động giữa các cơ quan quản lý nhà nước về người lao động nước ngoài làm việc tại Việt Nam trên địa bàn thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "168003",
+          "name": "Nghị quyết số 05/2024/NQ-HĐND Quy định tiêu chí thành lập và tiêu chí số lượng thành viên Tổ bảo vệ an ninh, trật tự; nội dung và mức hỗ trợ đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lạng Sơn",
+          "effectAllType": null
+        },
+        {
+          "id": "158651",
+          "name": "Nghị định số 111/2022/NĐ-CP Về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập",
+          "effectAllType": null
+        },
+        {
+          "id": "182998",
+          "name": "Quyết định số 63/2025/QĐ-UBND Ban hành Quy chế phối hợp trong quản lý người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "effectAllType": null
+        },
+        {
+          "id": "154473",
+          "name": "Quyết định số 19/2022/QĐ-UBND Tổ chức làm việc vào ngày thứ bảy hằng tuần để tiếp nhận, giải quyết, trả kết quả giải quyết thủ tục hành chính trên địa bàn tỉnh Tuyên Quang",
+          "effectAllType": null
+        },
+        {
+          "id": "186089",
+          "name": "Quyết định số 03/2026/QĐ-UBND Phân cấp thẩm quyền cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài trên địa bàn thành phố Cần Thơ",
+          "effectAllType": null
+        },
+        {
+          "id": "170186",
+          "name": "Quyết định số 32/2024/QĐ-UBND Về việc tổ chức làm việc vào ngày thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Lâm Đồng",
+          "effectAllType": null
+        },
+        {
+          "id": "186475",
+          "name": "Quyết định số 144/2025/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động \nđối với người lao động nước ngoài trên địa bàn tỉnh Hưng Yên",
+          "effectAllType": null
+        },
+        {
+          "id": "172178",
+          "name": "Quyết định số 89/2024/QĐ-UBND Quy định mức thù lao và nguồn kinh phí cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Ninh Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "170045",
+          "name": "Quyết định số 39/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Hòa Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "151827",
+          "name": "Nghị quyết số 30/2021/NQ-HĐND Về việc quy định mức thu lệ phí cấp giấy phép lao động\n cho người nước ngoài làm việc trên địa bàn tỉnh Bến Tre",
+          "effectAllType": null
+        },
+        {
+          "id": "161153",
+          "name": "Quyết định số 20/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bình Dương",
+          "effectAllType": null
+        },
+        {
+          "id": "187109",
+          "name": "Thông tư số 04/2026/TT-BGDĐT quy định chế độ làm việc đối với giáo viên cơ sở giáo dục thường xuyên.",
+          "effectAllType": null
+        },
+        {
+          "id": "172091",
+          "name": "Quyết định số 66/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Ninh Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "185150",
+          "name": "Nghị quyết số 798/2025/NQ-HĐND Ban hành Quy định chính sách thu hút, hỗ trợ người có tài năng, nhân lực chất lượng cao về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số làm việc trong các cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam trên địa bàn tỉnh Hưng Yên",
+          "effectAllType": null
+        },
+        {
+          "id": "167916",
+          "name": "Nghị quyết số 03/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự và bảo đảm điều kiện hoạt động đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Điện Biên",
+          "effectAllType": null
+        },
+        {
+          "id": "173756",
+          "name": "Nghị quyết số 40/2024/NQ-HĐND Quy định mức tiền thưởng đối với học sinh của thành phố hà nội đạt thành tích cao trong các cuộc thi, kỳ thi trong nước, quốc tế và giáo viên có thành tích đào tạo, bồi dưỡng học sinh đoạt giải cấp quốc gia, khu vực, quốc tế và giải nhất cấp thành phố",
+          "effectAllType": null
+        },
+        {
+          "id": "150469",
+          "name": "Quyết định số 34/2021/QĐ-UBND Bãi bỏ Quyết định số 28/2014/QĐ-UBND ngày 11/11/2014 của Ủy ban nhân dân tỉnh Cà Mau ban hành quy định đảm bảo an toàn cho người canh giữ đáy hàng khơi trên địa bàn tỉnh Cà Mau",
+          "effectAllType": null
+        },
+        {
+          "id": "177151",
+          "name": "Quyết định số 27/2025/QĐ-UBND Ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "169625",
+          "name": "Nghị định số 82/2021/NĐ-CP Về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều Nghị định số 121/2016/NĐ-CP ngày 24/8/2016 đã được sửa đổi, bổ sung tại Nghị định số 74/2020/NĐ-CP ngày 01/7/2020 của Chính phủ về thực hiện thí điểm quản lý lao động, tiền lương dối với tập đoàn công nghiệp viễn thông quân đội",
+          "effectAllType": null
+        },
+        {
+          "id": "155221",
+          "name": "Nghị định số 50/2022/NĐ_CP quy định về tuổi nghỉ hưu ở tuổi cao hơn đối với viên chức trong đơn vị sự nghiệp công lập",
+          "effectAllType": null
+        },
+        {
+          "id": "182637",
+          "name": "Quyết định số 31/2025/QĐ-UBND Về việc phân cấp thẩm quyền cho Sở Nội vụ thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động trên địa bàn tỉnh Tây Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "146475",
+          "name": "Nghị định số 133/2020/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự",
+          "effectAllType": null
+        },
+        {
+          "id": "176798",
+          "name": "Thông tư số 122/2024/TT-BQP Quy định về thực hiện dân chủ ở cơ sở trong Quân đội nhân dân Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "186840",
+          "name": "Quyết định số 21/2026/QĐ-UBND Ban hành “quy chế phối hợp giữa ban quản lý các khu công nghệ cao và khu công nghiệp thành phố hà nội với các sở, ngành, cơ quan, đơn vị của thành phố và UBND các xã, phường có khu công nghệ cao và khu công nghiệp trên địa bàn”",
+          "effectAllType": null
+        },
+        {
+          "id": "149249",
+          "name": "Thông tư số 109/2021/TT-BQP Sửa đổi, bổ sung một số điều của Thông tư số 113/2016/TT-BQP ngày 23 tháng 8 năm 2016 của Bộ trưởng Bộ Quốc phòng quy định chế độ nghỉ của quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "169223",
+          "name": "Quyết định số 49/2024/QĐ-UBND Ban hành Quy định chi tiết nội dung chi và mức chi Quỹ Phòng, chống thiên tai Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "157374",
+          "name": "Nghị quyết số 16/2022/NQ-HĐND Quy định về bố trí nhân viên thú y xã, phường, thị trấn trên địa bàn tỉnh Điện Biên",
+          "effectAllType": null
+        },
+        {
+          "id": "185297",
+          "name": "Nghị quyết số 45/2025/NQ-HĐND Quy định mức thu lệ phí cấp, cấp lại, gia hạn giấy phép lao động đối với người lao động nước ngoài làm việc trên địa bàn tỉnh Vĩnh Long",
+          "effectAllType": null
+        },
+        {
+          "id": "175569",
+          "name": "Nghị quyết số 01/2025/NQ-HĐND Quy định về chế độ hỗ trợ thêm đối với cán bộ, công chức, viên chức, người lao động khi thực hiện sắp xếp tổ chức bộ máy, cơ cấu lại và sắp xếp đơn vị hành chính các cấp của hệ thống chính trị; trường hợp phụ trách công tác đảng tại Tổng công ty, Công ty do Nhà nước nắm giữ 100% vốn điều lệ bị tác động khi thực hiện sắp xếp tổ chức đảng; trường hợp không đủ điều kiện về tuổi tái cử, tái bổ nhiệm giữ các chức vụ, chức danh theo nhiệm kỳ trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "187564",
+          "name": "Quyết định số 25/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ hỗ trợ chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu trên địa bàn tỉnh Cà Mau",
+          "effectAllType": null
+        },
+        {
+          "id": "177150",
+          "name": "Quyết định số 26/2025/QĐ-UBND\nBan hành Định mức kinh tế - kỹ thuật tạm thời áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt điện lớn trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "165015",
+          "name": "Quyết định số 05/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Tiền Giang",
+          "effectAllType": null
+        },
+        {
+          "id": "173060",
+          "name": "Nghị quyết số 30/2024/NQ-HĐND Sửa đổi, bổ sung một số nội dung của Nghị quyết số 24/2022/NQ-HĐND ngày 10 thang 12 năm 2022 của Hội đồng nhân dân tỉnh quy định mức hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp; trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp trên địa bàn tỉnh Long An",
+          "effectAllType": null
+        },
+        {
+          "id": "167332",
+          "name": "Quyết định số 18/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Kon Tum ban hành kèm theo Quyết định số 01/2022/QĐ-UBND ngày 04 tháng 01 năm 2022 của Ủy ban nhân dân tỉnh Kon Tum",
+          "effectAllType": null
+        },
+        {
+          "id": "163444",
+          "name": "Thông tư số 20/2023/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính chất đặc biệt trong lĩnh vực thăm dò, khai thác dầu khí trên biển",
+          "effectAllType": null
+        },
+        {
+          "id": "183081",
+          "name": "Quyết định số 66/2025/QĐ-UBND Ban hành Quy chế phối hợp thực hiện một số nhiệm vụ quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Phú Thọ",
+          "effectAllType": null
+        },
+        {
+          "id": "140118",
+          "name": "Quyết định số 50/2019/QĐ-UBND Ban hành Quy định quản lý tạm trú trong doanh nghiệp đối với người lao động nước ngoài làm việc tại các doanh nghiệp trong các Khu công nghiệp trên địa bàn tỉnh Hòa Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "155003",
+          "name": "Nghị quyết số 33/2022/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Cao Bằng",
+          "effectAllType": null
+        },
+        {
+          "id": "184456",
+          "name": "Nghị quyết số 58/2025/NQ-HĐND Quy định mức hỗ trợ tiền ăn và tiền ăn thêm các ngày lễ, tết trong năm cho người bệnh tại Bệnh viện Nhân Ái,\nBệnh viện Tâm thần, Bệnh viện sức khỏe Tâm thần Bà Rịa - Vũng Tàu và Bệnh viện Bến Sắn trực thuộc Sở Y tế Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "165712",
+          "name": "Quyết định số 67/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu công nghiệp trên địa bàn tỉnh Ninh Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "176070",
+          "name": "Thông tư số 05/2025/TT-BGDĐT quy định chế độ làm việc đối với giáo viên phổ thông, dự bị đại học",
+          "effectAllType": null
+        },
+        {
+          "id": "176201",
+          "name": "Nghị định số 67/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định 178/2024/NĐ-CP của Chính phủ về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị",
+          "effectAllType": null
+        },
+        {
+          "id": "184907",
+          "name": "Nghị quyết số 43/2025/NQ-HĐND quy định mức thu lệ phí cấp giấp phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Đồng Nai",
+          "effectAllType": null
+        },
+        {
+          "id": "156560",
+          "name": "Quyết định số 24/2022/QĐ-UBND Bãi bỏ các Quyết định của Ủy ban nhân dân tỉnh Thừa Thiên Huế: số 28/2010/QĐ-UBND, số 67/2016/QĐ-UBND, số 80/2016/QĐ-UBND, số 63/2017/QĐ-UBND, số 64/2017/QĐ-UBND",
+          "effectAllType": null
+        },
+        {
+          "id": "149747",
+          "name": "Quyết định số 50/2021/QĐ-UBND Về việc ban hành Quy chế phối hợp hoạt động giữa các cơ quan quản lý nhà nước trong việc tuyển dụng và quản lý lao động người nước ngoài làm việc trên địa bàn tỉnh Ninh Thuận",
+          "effectAllType": null
+        },
+        {
+          "id": "159283",
+          "name": "Nghị quyết số 23/2022/NQ-HĐND Quy định chế độ đãi ngộ, hỗ trợ “Nghệ sĩ nhân dân”, “Nghệ sĩ ưu tú”; nghệ nhân và Câu lạc bộ tiêu biểu trong lĩnh vực di sản văn hóa phi vật thể thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "184612",
+          "name": "Quyết định số 87/2025/QĐ-UBND Ban hành Quy chế đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người lao động thành phố Đà Nẵng",
+          "effectAllType": null
+        },
+        {
+          "id": "152670",
+          "name": "Thông tư số 09/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về lao động chưa thành niên",
+          "effectAllType": null
+        },
+        {
+          "id": "186895",
+          "name": "Quyết định số 09/2026/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật dịch vụ sự nghiệp công thuộc lĩnh vực công nghệ thông tin sử dụng ngân sách nhà nước trên địa bàn tỉnh Lâm Đồng",
+          "effectAllType": null
+        },
+        {
+          "id": "155202",
+          "name": "Thông tư số 12/2022/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc vận hành, bảo dưỡng, sửa chữa hệ thống đường ống phân phối khí và các công trình khí.",
+          "effectAllType": null
+        },
+        {
+          "id": "173490",
+          "name": "Quyết định số 88/2024/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành chính công cộng bằng xe buýt trên địa bàn tỉnh Bình Định",
+          "effectAllType": null
+        },
+        {
+          "id": "179096",
+          "name": "Nghị định số 168/2025/NĐ-CP Về đăng ký doanh nghiệp",
+          "effectAllType": null
+        },
+        {
+          "id": "152115",
+          "name": "Nghị quyết số 22/2021/NQ-HĐND Ban hành Quy định chính sách hỗ trợ cán bộ, công chức, viên chức nghỉ công tác theo nguyện vọng để thực hiện sắp xếp tổ chức bộ máy, tinh giản biên chế trên địa bàn tỉnh Lào Cai, giai đoạn 2022 - 2025",
+          "effectAllType": null
+        },
+        {
+          "id": "177328",
+          "name": "Quyết định số 64/2025/QĐ-UBND Về việc chuyển một số chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật thuộc chức năng, nhiệm vụ quyền hạn của Sở Nội vụ cho Ban Quản lý Khu công nghệ cao Thành phố, Ban Quản lý các Khu chế xuất và công nghiệp Thành phố",
+          "effectAllType": null
+        },
+        {
+          "id": "184949",
+          "name": "Nghị quyết số 26/2025/NQ-HĐND Quy định chính sách hỗ trợ đưa lao động của tỉnh Lào Cai đi làm việc ở nước ngoài theo hợp đồng giai đoạn 2026-2030",
+          "effectAllType": null
+        },
+        {
+          "id": "146696",
+          "name": "Thông tư số 10/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều, khoản sau đây của Bộ luật Lao động về nội dung của Hợp đồng lao động, hội đồng thương lượng tập thể và nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản, nuôi con",
+          "effectAllType": null
+        },
+        {
+          "id": "160668",
+          "name": "Nghị định số 29/2023/NĐ-CP Quy định về tinh giản biên chế",
+          "effectAllType": null
+        },
+        {
+          "id": "173440",
+          "name": "Nghị quyết số 50/2024/NQ-HĐND Quy định về chế độ hỗ trợ thêm đối với trường hợp nghỉ do tinh giản biên chế; nghỉ do dôi dư khi sắp xếp đơn vị hành chính; nghỉ công tác trước tuổi do không đủ điều kiện về tuổi tái cử, tái bổ nhiệm giữ các chức vụ, chức danh theo nhiệm kỳ; nghỉ công tác trước tuổi không thuộc diện tinh giản biên chế trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "170071",
+          "name": "Thông tư số 62/2023/TT-BCA Quy định về tiêu chuẩn sức khỏe đặc thù và khám sức khỏe đối với lực lượng Công an nhân dân",
+          "effectAllType": null
+        },
+        {
+          "id": "179195",
+          "name": "Ban hành Quy định chính sách phát triển nguồn nhân lực chất lượng cao khu vực công thành phố Đà Nẵng",
+          "effectAllType": null
+        },
+        {
+          "id": "154476",
+          "name": "Quyết định số 13/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bắc Giang",
+          "effectAllType": null
+        },
+        {
+          "id": "3f75bc50-567c-11f1-82e2-b548c6ebfdb1",
+          "name": "Quyết định 21/2026/QĐ-UBND Ban hành Định mức chi tiết kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Quảng Ngãi",
+          "effectAllType": null
+        },
+        {
+          "id": "153716",
+          "name": "Quyết định số 11/2022/QĐ-UBND Ban hành Quy chế phối hợp thực hiện liên thông nhóm thủ tục hành chính Cấp phiếu lý lịch tư pháp - Cấp giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh",
+          "effectAllType": null
+        },
+        {
+          "id": "185959",
+          "name": "Nghị quyết số 43/2025/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng, trợ cấp và các mức chi khác bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Quảng Ngãi",
+          "effectAllType": null
+        },
+        {
+          "id": "183512",
+          "name": "Quyết định số '09/2025/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động cho người lao động nước ngoài trên địa bàn tỉnh Thái Nguyên",
+          "effectAllType": null
+        },
+        {
+          "id": "153413",
+          "name": "Quyết định số 08/2022/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước tại Khu kinh tế cửa khẩu, các Khu công nghiệp, các cửa khẩu ngoài Khu kinh tế cửa khẩu giữa Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn với các sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố",
+          "effectAllType": null
+        },
+        {
+          "id": "165113",
+          "name": "Quyết định số 02/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "178758",
+          "name": "Quyết định số 57/2025/QĐ-UBND phân cấp nhận báo cáo về việc cho thôi việc nhiều người lao động của các doanh nghiệp trong khu công nghiệp, khu chế xuất, khu kinh tế trên địa bàn tỉnh Tây Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "157651",
+          "name": "Quyết định số 51/2022/QĐ-UBND Bãi bỏ Điều 4 Quy định về Quy tắc ứng xử của cán bộ, công chức, viên chức và người lao động làm việc trong các cơ quan hành chính, đơn vị sự nghiệp công lập trên địa bàn tỉnh Thừa Thiên Huế ban hành kèm theo Quyết định số 48/2018/QĐ-UBND ngày 31 tháng 8 năm 2018 của Ủy ban nhân dân tỉnh Thừa Thiên Huế",
+          "effectAllType": null
+        },
+        {
+          "id": "171805",
+          "name": "Quyết định số 49/2024/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn tỉnh Bình Dương",
+          "effectAllType": null
+        },
+        {
+          "id": "177187",
+          "name": "Quyết định số 35/2025/QĐ-UBND Quy định chế độ đối với các lực lượng và những người tham gia chữa cháy rừng theo lệnh điều động, huy động của người có thẩm quyền trên địa bàn tỉnh Ninh Thuận",
+          "effectAllType": null
+        },
+        {
+          "id": "171546",
+          "name": "Nghị quyết số 14/2024/NQ-HĐND Quy định về số lượng, tiêu chuẩn, chế độ chính sách đối với khuyến nông viên cấp xã trên địa bàn tỉnh Điện Biên",
+          "effectAllType": null
+        },
+        {
+          "id": "169586",
+          "name": "Quyết định số 17/2024/QĐ-UBND Bãi bỏ Quyết định số 06/2020/QĐ-UBND ngày 10 tháng 4 năm 2020 của Ủy ban nhân dân tỉnh Đắk Nông ban hành Quy chế về trách nhiệm và xử lý trách nhiệm chủ rừng, các cơ quan Nhà nước, tổ chức và cá nhân có trách nhiệm quản lý rừng, bảo vệ rừng trên địa bàn tỉnh Đắk Nông",
+          "effectAllType": null
+        },
+        {
+          "id": "169624",
+          "name": "Nghị định số 64/2023/NĐ-CP Bổ sung Nghị định số 87/2021/NĐ-CP ngày 29 tháng 9 năm 2021 của Chính phủ về kéo dài thời gian thực hiện và sửa đổi, bổ sung một số điều của Nghị định số 20/2020/NĐ-CP ngày 17 tháng 02 năm 2020 của Chính phủ thực hiện thí điểm quản lý lao động, tiền lương, tiền thưởng đối với một số tập đoàn kinh tế, tổng công ty nhà nước",
+          "effectAllType": null
+        },
+        {
+          "id": "169958",
+          "name": "Quyết định số 31/2024/QĐ-UBND Ban hành Định mức kinh tế - kỹ thuật đối với dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập trên địa bàn tỉnh Cà Mau",
+          "effectAllType": null
+        },
+        {
+          "id": "155829",
+          "name": "Nghị quyết số 01/2022/NQ-HĐND Về các chính sách đặc thù về củng cố, nâng cao năng lực Trạm Y tế phường, xã, thị trấn trong giai đoạn thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch Covid-19 và đến năm 2025",
+          "effectAllType": null
+        },
+        {
+          "id": "147493",
+          "name": "Nghị quyết số 02/2021/NQ-HĐND V/v sửa đổi, bổ sung một số điều của Nghị quyết số 80/2017/NQ-HĐND ngày 08/12/2017 của HĐND tỉnh về việc Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "7c087340-4ae9-11f1-9343-170e5edb252e",
+          "name": "Quyết định 37/2026/QĐ-CTUBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn thành phố Đà Nẵng",
+          "effectAllType": null
+        },
+        {
+          "id": "187275",
+          "name": "Nghị định số 355/2025/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Tư pháp \nngười chưa thành niên về áp dụng biện pháp giáo dục tại trường \ngiáo dưỡng, thi hành án phạt tù tại trại giam và chuẩn bị tái hòa nhập \ncộng đồng đối với người chưa thành niên",
+          "effectAllType": null
+        },
+        {
+          "id": "158552",
+          "name": "Quyết định số 80/2022/QĐ-UBND Ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "158152",
+          "name": "Thông tư số 22/2022/TT-BCA Quy định về lao động hợp đồng trong Công an nhân dân",
+          "effectAllType": null
+        },
+        {
+          "id": "168165",
+          "name": "Nghị quyết số 386/2024/NQ-HĐND Quy định tiêu chí thành lập, số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng và một số chế độ, chính sách đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Hòa Bình;",
+          "effectAllType": null
+        },
+        {
+          "id": "173647",
+          "name": "Nghị định số 79/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 121/2016/NĐ-CP ngày 24 tháng 8 năm 2016 đã được sửa đổi bổ sung tại Nghị định số 74/2020/NĐ-CP ngày 01 tháng 7 năm 2020 và Nghị định số 82/2021/NĐ-CP ngày 06 tháng 9 năm 2021 của Chính phủ về thực hiện thí điểm quản lý lao động, tiền lương đối với Tập đoàn Công nghiệp - Viễn thông Quân đội",
+          "effectAllType": null
+        },
+        {
+          "id": "185968",
+          "name": "Quyết định số 143/2025/QĐ-UBND Ban hành Quy định về định mức kinh tế - kỹ thuật đối với hoạt động vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Phú Thọ",
+          "effectAllType": null
+        },
+        {
+          "id": "160341",
+          "name": "Nghị định số 24/2023/NĐ-CP Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+          "effectAllType": null
+        },
+        {
+          "id": "163612",
+          "name": "Quyết định số 33/2023/QĐ-UBND Ban hành Quy chế phối hợp quản lý nhà nước đối với các khu  công nghiệp, khu nông nghiệp ứng dụng công nghệ cao trên địa bàn  tỉnh Đắk Nông",
+          "effectAllType": null
+        },
+        {
+          "id": "186845",
+          "name": "Quyết định số 16/2026/QĐ-UBND Quy định mức thù lao cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Ninh Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "164448",
+          "name": "Nghị quyết số 06/2023/NQ-HĐND Quy định một số nội dung chi, mức chi thuộc thẩm quyền của Hội đồng nhân dân thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "150289",
+          "name": "Quyết định số 50/2021/QĐ-UBND Ban hành Quy định một số nội dung về quyền tự chủ, tự chịu trách nhiệm trong quản lý tổ chức, số lượng người làm việc, viên chức, người lao động ở các đơn vị sự nghiệp công lập tự đảm bảo chi thường xuyên trên địa bàn tỉnh Bắc Giang",
+          "effectAllType": null
+        },
+        {
+          "id": "174153",
+          "name": "Quyết định số 51/2024/QĐ-UBND\nBan hành Định mức kinh tế - kỹ thuật áp dụng cho hoạt động vận tải hành khách công cộng bằng xe buýt sử dụng nhiên liệu diesel  trên địa bàn tỉnh Bắc Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "152933",
+          "name": "Quyết định số 01/2022 /QĐ-UBND Ban hành Quy chế phối hợp quản lý lao động người nước ngoài làm việc trên địa bàn tỉnh Kon Tum",
+          "effectAllType": null
+        },
+        {
+          "id": "168812",
+          "name": "Nghị quyết số 21/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ; tiêu chí số lượng thành viên; mức hỗ trợ, bồi dưỡng đối với lực lượng tham gia Tổ bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lai Châu",
+          "effectAllType": null
+        },
+        {
+          "id": "167930",
+          "name": "Nghị quyết số 12/2024/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng, trợ cấp và các mức chi khác bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Quảng Ngãi",
+          "effectAllType": null
+        },
+        {
+          "id": "183939",
+          "name": "Nghị định số 293/2025/NĐ-CP Quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động",
+          "effectAllType": null
+        },
+        {
+          "id": "164476",
+          "name": "Quyết định số 23/2023/QĐ-UBND Ban hành định mức kinh tế kỹ thuật loại hình xe buýt điện lớn trên địa bàn thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "178862",
+          "name": "Quyết định số 53/2025/QĐ-UBND Quy định mức hỗ trợ giải quyết việc làm\ncho người có đất thu hồi trên địa bàn tỉnh Sơn La",
+          "effectAllType": null
+        },
+        {
+          "id": "162330",
+          "name": "Nghị định số 70/2023/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "157973",
+          "name": "Nghị quyết số 216/2022/NQ-UBND Quy định chính sách hỗ trợ vay vốn đối với người lao động trên địa bàn tỉnh Hòa Bình đi làm việc ở nước ngoài theo hợp đồng, giai đonạ 2023 - 2026",
+          "effectAllType": null
+        },
+        {
+          "id": "165658",
+          "name": "Quyết định số 04/2024/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy chế phối hợp trong công tác quản lý Nhà nước đối với người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Phú Thọ",
+          "effectAllType": null
+        },
+        {
+          "id": "155517",
+          "name": "Nghị quyết số 09/2022/NQ-HĐND Quy định mức thu, chế độ thu, nộp và quản lý lệ phí cấp, cấp lại, gia hạn giấy phép lao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn tỉnh An Giang",
+          "effectAllType": null
+        },
+        {
+          "id": "171025",
+          "name": "Quyết định số 70/2024/QĐ-UBND Về ban hành Quy định về các biện pháp tăng cường trách nhiệm đối với người đứng đầu cơ quan, đơn vị và cán bộ, công chức, viên chức, người lao động trong thực hiện nhiệm vụ, công vụ",
+          "effectAllType": null
+        },
+        {
+          "id": "184689",
+          "name": "Quyết định số 52/2025/QĐ-UBND Ban hành định mức kinh tế - kỹ thuật về dịch vụ sự nghiệp công lĩnh vực công nghệ thông tin",
+          "effectAllType": null
+        },
+        {
+          "id": "171452",
+          "name": "Quyết định số 54/2024/QĐ-UBND Ban hành Quy chế quản lý, phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Thanh Hóa",
+          "effectAllType": null
+        },
+        {
+          "id": "182997",
+          "name": "Quyết định số 101/2025/QĐ-UBND Ban hành Quy định định mức kinh tế - kỹ thuật thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất trên địa bàn thành phố Huế",
+          "effectAllType": null
+        },
+        {
+          "id": "56424910-6079-11f1-be0c-89aeadc77e4b",
+          "name": "Quyết định 599/QĐ-UBND Về việc bãi bỏ Quyết định số 39/2016/QĐ-UBND ngày 16 tháng 6 năm 2016 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy chế phối hợp giải quyết bước đầu các vụ tranh chấp lao động tập thể, đình công không theo trình tự, thủ tục quy định của pháp luật lao động tại các doanh nghiệp trên địa bàn tỉnh Đồng Nai",
+          "effectAllType": null
+        },
+        {
+          "id": "d8254eb0-60a5-11f1-bee4-516864bad6f2",
+          "name": "Quyết định 32/2026/QĐ-UBND Ban hành Quy định chi tiết nội dung chi và mức chi Quỹ Phòng, chống thiên tai Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "ddbfdbf0-63a8-11f1-a523-8778b88e7e04",
+          "name": "Quyết định số 11 /2026/QĐ-UBND 11/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý lao động là người nước ngoài làm việc trên địa bàn thành phố Đồng Nai",
+          "effectAllType": null
+        },
+        {
+          "id": "5bf0aaa0-63b7-11f1-b9d7-8f7daa8165da",
+          "name": "Quyết định 20/2026/QĐ-UBND Về ban hành định mức kinh tế - kỹ thuật dịch vụ vận tải hành khách công cộng bằng xe buýt sử dụng dầu diesel, xe buýt sử dụng khí CNG trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "267ffff0-6647-11f1-b01e-8bc328b4d0e9",
+          "name": "Nghị quyết số 14/2026/NQ-HĐND Nghị quyết quy định chính sách hỗ trợ an sinh xã hội cho người dân thủ đô",
+          "effectAllType": null
+        },
+        {
+          "id": "185557",
+          "name": "Thông tư số 26/2025/TT-BNV Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn để làm căn cứ xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường",
+          "effectAllType": null
+        },
+        {
+          "id": "b4fbb6c0-662e-11f1-9e22-5f4374a771cc",
+          "name": "Quyết định số 28/2026/QĐ-CTUBND Ban hành Quy chế quản lý, phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Thanh Hóa",
+          "effectAllType": null
+        },
+        {
+          "id": "165b7c60-695f-11f1-b852-79a39285fab1",
+          "name": "Quyết định số 03/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Lạng Sơn",
+          "effectAllType": null
+        },
+        {
+          "id": "ac2e9250-6aee-11f1-a50e-5706d9efd7cc",
+          "name": "Quyết định số 39/2026/QĐ-UBND Ban hành Quy chế phối hợp trong công tác quản lý nhà nước giữa Ban Quản lý Khu kinh tế tỉnh với các sở, ban, ngành và UBND các xã, phường có khu kinh tế, khu công nghiệp trên địa bàn tỉnh Hà Tĩnh",
+          "effectAllType": null
+        },
+        {
+          "id": "eeacae50-6dd2-11f1-a3c7-e771794d39db",
+          "name": "Quyết định số 47/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý người lao động nước ngoài làm việc trên địa bàn thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "b1a2f6a0-6f75-11f1-8c92-93503fe93ae9",
+          "name": "Quyết định số 38/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "361f1930-75ee-11f1-b24f-cfd829d6f596",
+          "name": "Quyết định số 109/2026/QĐ-UBND quy định định mức kinh tế - kỹ thuật áp dụng đối với hoạt động vận tải hành khách công cộng bằng xe buýt điện trên địa bàn tỉnh Gia Lai",
+          "effectAllType": null
+        },
+        {
+          "id": "05612000-7a11-11f1-bd03-856520a73b9d",
+          "name": "Thông tư số 08/2026/TT-BNV Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 337/2025/NĐ-CP ngày 24 tháng 12 năm 2025 của Chính phủ quy định về hợp đồng lao động điện tử",
+          "effectAllType": null
+        },
+        {
+          "id": "ced51c40-7a19-11f1-88f2-57aec1a21e5e",
+          "name": "Nghị định số 235/2026/NĐ-CP Về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập",
+          "effectAllType": null
+        },
+        {
+          "id": "8b47db70-7b6d-11f1-af27-e34537cce3d4",
+          "name": "Quyết định số 48/2026/QĐ-UBND Ban hành Quy chế phối hợp trong quản lý người nước ngoài cư trú, hoạt động trên địa bàn thành phố Đồng Nai",
+          "effectAllType": null
+        },
+        {
+          "id": "b1343630-79b0-11f1-942e-e56b7ad40bdd",
+          "name": "Quyết định số 42/2026/QĐ-UBND Về việc tổ chức làm việc sáng thứ Bảy hàng tuần để tiếp nhận, giải quyết và trả kết quả thủ tục hành chính trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "56ceb630-7cf7-11f1-a988-c7ab39d3fd13",
+          "name": "Nghị định số 170/2026/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án hình sự",
+          "effectAllType": null
+        },
+        {
+          "id": "ca1f1fa0-80fb-11f1-a61d-3f8e8a8de674",
+          "name": "Nghị quyết số 20/2026/NQ-HĐND Sửa đổi, bổ sung một số điều của Quy định chính sách thu hút, hỗ trợ người có tài năng, nhân lực chất lượng cao về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số làm việc trong các cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam trên địa bàn tỉnh Hưng Yên ban hành kèm theo Nghị quyết số 798/2025/NQ-HĐND ngày 09 tháng 12 năm 2025 của Hội đồng nhân dân tỉnh Hưng Yên",
+          "effectAllType": null
+        },
+        {
+          "id": "787d3780-866f-11f1-8511-612429c9d15e",
+          "name": "Nghị định số 283/2026/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+          "effectAllType": null
+        },
+        {
+          "id": "bd290a20-86fc-11f1-a37c-6f0ac5137c24",
+          "name": "Quyết định số 56/2026/QĐ-UBND Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài trên địa bàn tỉnh Lào Ca",
+          "effectAllType": null
+        },
+        {
+          "id": "31de7cc0-898b-11f1-8268-a9294e958254",
+          "name": "Thông tư số 05/2026/TT-BGDĐT Quy định chế độ làm việc đối với nhà giáo giáo dục nghề nghiệp",
+          "effectAllType": null
+        },
+        {
+          "id": "71df6f70-838a-11f1-acaa-23a1a91082a0",
+          "name": "Thông tư số 56/2026/TT-BXD Quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc có tính chất đặc biệt trên biển trong hoạt động cung cấp dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+          "effectAllType": null
+        },
+        {
+          "id": "6268bd90-8c80-11f1-9397-a970bbf8e92d",
+          "name": "Nghị định số 159/2026/NĐ-CP Quy định về giảng viên đồng cơ hữu trong các cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học công lập",
+          "effectAllType": null
+        },
+        {
+          "id": "c471f060-8c80-11f1-aa25-0b4610036912",
+          "name": "Nghị định số 138/2026/NĐ-CP Quy định chi tiết một số điều của Luật Việc làm về phát triển kỹ năng nghề",
+          "effectAllType": null
+        },
+        {
+          "id": "958b8830-8c83-11f1-8131-7304fd100a6d",
+          "name": "Nghị quyết số 20/2026/NQ-HĐND Quy định tiêu chí đối với người nước ngoài là chuyên gia, nhà khoa học, người có tài năng, nhà quản lý, người lao động có trình độ cao làm việc tại doanh nghiệp có trụ sở chính trong Khu thương mại tự do thành phố Hải Phòng",
+          "effectAllType": null
+        },
+        {
+          "id": "eda48040-8c96-11f1-9238-a74b3d99a755",
+          "name": "Thông tư số 59/2026/TT-BGDĐT Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng",
+          "effectAllType": null
+        },
+        {
+          "id": "e1329280-8fb0-11f1-9e25-0b436c68815a",
+          "name": "Nghị quyết số 80/2026/NQ-HĐND Quy định một số chính sách phát triển sản phẩm, dịch vụ chăm sóc, phục vụ người cao tuổi; khuyến khích người cao tuổi tham gia phát triển kinh tế trên địa bàn thành phố Hà Nội (thực hiện điểm a khoản 2 điều 27 Luật thủ đô số 02/2026/QH16)",
+          "effectAllType": null
+        },
+        {
+          "id": "fa0dd180-93fb-11f1-a091-b911100fda98",
+          "name": "Quyết định số 10/2026/QĐ-CTUBND Ban hành Quy chế quản lý hòa giải viên lao động trên địa bàn tỉnh Tuyên Quang",
+          "effectAllType": null
+        },
+        {
+          "id": "82b9c770-9558-11f1-8a96-23e4688468bd",
+          "name": "Nghị quyết số 78/2026/NQ-HĐND Quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự; tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự và chế độ, chính sách đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn thành phố Đà Nẵng",
+          "effectAllType": null
+        },
+        {
+          "id": "ea1b9ee0-961e-11f1-8633-1dbfe0c98890",
+          "name": "Quyết định số 79/2026/QĐ-CTUBND Ban hành quy chế quản lý hòa giải viên lao động và phân cấp quản lý hoà giải viên lao động trên địa bàn tỉnh Ninh Bình",
+          "effectAllType": null
+        },
+        {
+          "id": "4772a220-9bef-11f1-ad86-b5f9e3cc6254",
+          "name": "Quyết định số 42/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý người nước ngoài cư trú, hoạt động trên địa bàn tỉnh Cao Bằng",
+          "effectAllType": null
+        },
+        {
+          "id": "f7ddbcd0-a75c-11f1-acfc-2b9f1528d001",
+          "name": "Quyết định số 87/2026/QĐ-UBND Ban hành Quy chế phối hợp thực hiện công tác quản lý nhà nước đối với các khu công nghiệp, cụm công nghiệp tập trung trên địa bàn thành phố Cần Thơ",
+          "effectAllType": null
+        },
+        {
+          "id": "4168dc50-a766-11f1-ab1f-b9d633fef2c9",
+          "name": "Quyết định số 110/2026/QĐ-UBND Sửa đổi, bổ sung một số điều của Quyết định số 66/2024/QĐ-UBND ngày 15/11/2024 của UBND thành phố Hà Nội ban hành các quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn áp dụng thực hiện cung cấp dịch vụ sự nghiệp công sử dụng ngân sách nhà nước lĩnh vực văn hoá (hoạt động văn hoá cơ sở) trên địa bàn thành phố Hà Nội",
+          "effectAllType": null
+        },
+        {
+          "id": "873004c0-b01c-11f1-9fe3-6bcf6e8e2ae1",
+          "name": "Thông tư số 64/2026/TT-BGDĐT Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và chế độ làm việc đối với giáo viên trung học nghề",
+          "effectAllType": null
+        },
+        {
+          "id": "5195dc30-4cea-11f1-85cf-35f881812006",
+          "name": "Quyết định số 1561/QĐ-UBND về việc bãi bỏ một số văn bản quy phạm pháp luật của Uỷ ban nhân dân tỉnh về lĩnh vực Nội vụ",
+          "effectAllType": null
+        },
+        {
+          "id": "07005880-b653-11f1-9b70-c509f0bc6db1",
+          "name": "Nghị quyết số 34/2026/NQ-HĐND Sửa đổi, bổ sung một số điều của Nghị quyết số 21/2024/NQ-HĐND ngày 17 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Lai Châu quy định tiêu chí thành lập Tổ, tiêu chí số lượng thành viên; mức hỗ trợ, bồi dưỡng đối với lực lượng tham gia Tổ bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lai Châu",
+          "effectAllType": null
+        }
+      ],
+      "4": [
+        {
+          "id": "148825",
+          "name": "Thông tư số 04/2021/TT-BCT quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc trong hầm lò",
+          "effectAllType": null
+        },
+        {
+          "id": "176822",
+          "name": "Nghị quyết số 102/2025/NQ-HĐND quy định các biện pháp bảo đảm thực hiện dân chủ ở cơ sở trên địa bàn tỉnh Tây Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "156823",
+          "name": "Nghị quyết số 14/2022/NQ-HĐND Quy định nội dung, mức chi tổ chức tuyển dụng công chức, viên chức; thi (xét) nâng ngạch công chức, thăng hạng chức danh nghề nghiệp viên chức trên địa bàn Thành phố Hồ Chí Minh",
+          "effectAllType": null
+        },
+        {
+          "id": "172923",
+          "name": "Luật Bảo hiểm y tế sửa đổi 2024 số Luật số 51/2024/QH15",
+          "effectAllType": null
+        },
+        {
+          "id": "167029",
+          "name": "Thông tư số 17/2023/TT-BLĐTBXH Hướng dẫn việc ủy quyền thực hiện nhiệm vụ quản lý nhà nước về lao động trong các khu công nghiệp, khu kinh tế",
+          "effectAllType": null
+        }
+      ],
+      "7": [
+        {
+          "id": "175590",
+          "name": "Văn bản hợp nhất số 11/VBHN-VPQH Tố tụng dân sự",
+          "effectAllType": null
+        }
+      ],
+      "9": [
+        {
+          "id": "158928",
+          "name": "Nghị quyết số 98/2022/NQ-HĐND Một số chính sách phát triển văn hóa, thể thao và du lịch tỉnh Hà Tĩnh giai đoạn 2023 - 2025",
+          "effectAllType": null
+        },
+        {
+          "id": "185164",
+          "name": "Nghị định số 325/2025/NĐ-CP Về lao động, việc làm và an sinh xã hội trong Trung tâm tài chính quốc tế tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "152670",
+          "name": "Thông tư số 09/2020/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về lao động chưa thành niên",
+          "effectAllType": null
+        },
+        {
+          "id": "152669",
+          "name": "Nghị định số 152/2020/NĐ-CP Quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+          "effectAllType": null
+        },
+        {
+          "id": "165549",
+          "name": "Nghị quyết số 31/2023/NQ-HĐND Về việc bãi bỏ Nghị quyết số 94/2017/NQ-HĐND ngày 13/12/2017 của HĐND tỉnh về việc thí điểm áp dụng một số chính sách đối với người làm việc theo chế độ hợp đồng tại các đơn vị sự nghiệp công lập thuộc tỉnh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "166406",
+          "name": "Quyết định số 10/2024/QĐ-UBND Ban hành Quy chế quản lý, hoạt động của hòa giải viên lao động trên địa bàn tinh Quảng Ninh",
+          "effectAllType": null
+        },
+        {
+          "id": "184625",
+          "name": "Nghị định số 318/2025/NĐ-CP Quy định chi tiết một số điều của Luật Việc làm về đăng ký lao động và hệ thống thông tin thị trường lao động",
+          "effectAllType": null
+        },
+        {
+          "id": "96115",
+          "name": "Bộ luật Tố tụng dân sự số 92/2015/QH13",
+          "effectAllType": null
+        },
+        {
+          "id": "96121",
+          "name": "Luật Tổ chức cơ quan điều tra hình sự số 99/2015/QH13",
+          "effectAllType": null
+        }
+      ],
+      "10": [
+        {
+          "id": "179989",
+          "name": "Luật Công nghiệp công nghệ số số 71/2025/QH15",
+          "effectAllType": 0
+        },
+        {
+          "id": "161263",
+          "name": "Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15",
+          "effectAllType": null
+        },
+        {
+          "id": "142881",
+          "name": "Luật doanh nghiệp số 59/2020/QH14",
+          "effectAllType": null
+        }
+      ]
+    }
+  }
+}

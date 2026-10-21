@@ -1,0 +1,1868 @@
+{
+ "doc": "07_2018_TT-BCT_128982",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 21,
+ "total_entities": 107,
+ "total_relations": 76,
+ "samples": [
+  {
+   "id": "07_2018_TT-BCT_128982#header_0",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ CÔNG_THƯƠNG . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 07/2018/TT-BCT . Hà_Nội , Ngày 26 tháng 4 năm 2018 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "CÔNG_THƯƠNG",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "07/2018/TT-BCT",
+    ".",
+    "Hà_Nội",
+    ",",
+    "Ngày",
+    "26",
+    "tháng",
+    "4",
+    "năm",
+    "2018",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "Ngày 26 tháng 4 năm 2018"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_THƯƠNG"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#signature_1",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG . ( Đã ký ) . Trần_Tuấn_Anh",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Trần_Tuấn_Anh"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 8,
+     "text": "Trần_Tuấn_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#meta_2",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "BỘ CÔNG_THƯƠNG . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 07/2018/TT-BCT . Hà_Nội , Ngày 26 tháng 4 năm 2018 . THÔNG_TƯ . BỘ_TRƯỞNG . ( Đã ký ) . Trần_Tuấn_Anh",
+   "tokens": [
+    "BỘ",
+    "CÔNG_THƯƠNG",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "07/2018/TT-BCT",
+    ".",
+    "Hà_Nội",
+    ",",
+    "Ngày",
+    "26",
+    "tháng",
+    "4",
+    "năm",
+    "2018",
+    ".",
+    "THÔNG_TƯ",
+    ".",
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Trần_Tuấn_Anh"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ CÔNG_THƯƠNG"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 38,
+     "end": 39,
+     "text": "Trần_Tuấn_Anh"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 31,
+     "end": 32,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_3",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . SỬA_ĐỔI THÔNG_TƯ SỐ 21/2017/TT-BCT NGÀY 23 THÁNG 10 NĂM 2017 CỦA BỘ_TRƯỞNG BỘ CÔNG_THƯƠNG BAN_HÀNH QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ MỨC GIỚI_HẠN HÀM_LƯỢNG FORMALDEHYT VÀ CÁC AMIN THƠM CHUYỂN_HÓA TỪ THUỐC_NHUỘM AZO TRONG SẢN_PHẨM DỆT MAY",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "SỬA_ĐỔI",
+    "THÔNG_TƯ",
+    "SỐ",
+    "21/2017/TT-BCT",
+    "NGÀY",
+    "23",
+    "THÁNG",
+    "10",
+    "NĂM",
+    "2017",
+    "CỦA",
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_THƯƠNG",
+    "BAN_HÀNH",
+    "QUY_CHUẨN",
+    "KỸ_THUẬT",
+    "QUỐC_GIA",
+    "VỀ",
+    "MỨC",
+    "GIỚI_HẠN",
+    "HÀM_LƯỢNG",
+    "FORMALDEHYT",
+    "VÀ",
+    "CÁC",
+    "AMIN",
+    "THƠM",
+    "CHUYỂN_HÓA",
+    "TỪ",
+    "THUỐC_NHUỘM",
+    "AZO",
+    "TRONG",
+    "SẢN_PHẨM",
+    "DỆT",
+    "MAY"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "THÔNG_TƯ SỐ 21/2017/TT-BCT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "SỬA_ĐỔI"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "NGÀY 23 THÁNG 10 NĂM 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 21,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_THƯƠNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_4",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "SỬA_ĐỔI THÔNG_TƯ SỐ 21/2017/TT-BCT NGÀY 23 THÁNG 10 NĂM 2017 CỦA BỘ_TRƯỞNG BỘ CÔNG_THƯƠNG BAN_HÀNH QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ MỨC GIỚI_HẠN HÀM_LƯỢNG FORMALDEHYT VÀ CÁC AMIN THƠM CHUYỂN_HÓA TỪ THUỐC_NHUỘM AZO TRONG SẢN_PHẨM DỆT MAY",
+   "tokens": [
+    "SỬA_ĐỔI",
+    "THÔNG_TƯ",
+    "SỐ",
+    "21/2017/TT-BCT",
+    "NGÀY",
+    "23",
+    "THÁNG",
+    "10",
+    "NĂM",
+    "2017",
+    "CỦA",
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "CÔNG_THƯƠNG",
+    "BAN_HÀNH",
+    "QUY_CHUẨN",
+    "KỸ_THUẬT",
+    "QUỐC_GIA",
+    "VỀ",
+    "MỨC",
+    "GIỚI_HẠN",
+    "HÀM_LƯỢNG",
+    "FORMALDEHYT",
+    "VÀ",
+    "CÁC",
+    "AMIN",
+    "THƠM",
+    "CHUYỂN_HÓA",
+    "TỪ",
+    "THUỐC_NHUỘM",
+    "AZO",
+    "TRONG",
+    "SẢN_PHẨM",
+    "DỆT",
+    "MAY"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "THÔNG_TƯ SỐ 21/2017/TT-BCT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "SỬA_ĐỔI"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "NGÀY 23 THÁNG 10 NĂM 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 14,
+     "text": "BỘ_TRƯỞNG BỘ CÔNG_THƯƠNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_5",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ngày 29 tháng 6 năm 2006 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tiêu_chuẩn",
+    "và",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    "ngày",
+    "29",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 13,
+     "text": "Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 29 tháng 6 năm 2006"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_6",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ngày 29 tháng 6 năm 2006 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tiêu_chuẩn",
+    "và",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    "ngày",
+    "29",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 6,
+     "text": "Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 6,
+     "end": 12,
+     "text": "ngày 29 tháng 6 năm 2006"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_7",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Căn_cứ Luật Chất_lượng sản_phẩm , hàng_hóa ngày 21 tháng 11 năm 2007 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    "ngày",
+    "21",
+    "tháng",
+    "11",
+    "năm",
+    "2007",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật Chất_lượng sản_phẩm"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 13,
+     "end": 19,
+     "text": "ngày 21 tháng 11 năm 2007"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_8",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Chất_lượng sản_phẩm , hàng_hóa ngày 21 tháng 11 năm 2007 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    "ngày",
+    "21",
+    "tháng",
+    "11",
+    "năm",
+    "2007",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Chất_lượng sản_phẩm"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 6,
+     "end": 12,
+     "text": "ngày 21 tháng 11 năm 2007"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 5,
+     "end": 6,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_9",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Căn_cứ Nghị_định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "98/2017/NĐ-CP",
+    "ngày",
+    "18",
+    "tháng",
+    "8",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 98/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 18 tháng 8 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 31,
+     "text": "Bộ Công_Thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_10",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "98/2017/NĐ-CP",
+    "ngày",
+    "18",
+    "tháng",
+    "8",
+    "năm",
+    "2017",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 98/2017/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 18 tháng 8 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 24,
+     "text": "Bộ Công_Thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_11",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "127/2007/NĐ-CP",
+    "ngày",
+    "01",
+    "tháng",
+    "8",
+    "năm",
+    "2007",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Tiêu_chuẩn",
+    "và",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 127/2007/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 01 tháng 8 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_12",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "127/2007/NĐ-CP",
+    "ngày",
+    "01",
+    "tháng",
+    "8",
+    "năm",
+    "2007",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Tiêu_chuẩn",
+    "và",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 127/2007/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 01 tháng 8 năm 2007"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_13",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Căn_cứ Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Chất_lượng sản_phẩm , hàng_hóa ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "132/2008/NĐ-CP",
+    "ngày",
+    "31",
+    "tháng",
+    "12",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 132/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 31 tháng 12 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 30,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_14",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Chất_lượng sản_phẩm , hàng_hóa ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "132/2008/NĐ-CP",
+    "ngày",
+    "31",
+    "tháng",
+    "12",
+    "năm",
+    "2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Chất_lượng",
+    "sản_phẩm",
+    ",",
+    "hàng_hóa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 132/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 31 tháng 12 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_context_15",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương . Bộ_trưởng Bộ Công_Thương ban_hành Thông_tư sửa_đổi Thông_tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ_trưởng Bộ Công_thương ban_hành Quy_chuẩn kỹ_thuật quốc_gia về mức giới_hạn hàm_lượng formaldehyt và các amin thơm chuyển_hóa từ thuốc_nhuộm azo trong sản_phẩm dệt may .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_Thương",
+    "ban_hành",
+    "Thông_tư",
+    "sửa_đổi",
+    "Thông_tư",
+    "số",
+    "21/2017/TT-BCT",
+    "ngày",
+    "23",
+    "tháng",
+    "10",
+    "năm",
+    "2017",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_thương",
+    "ban_hành",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    "quốc_gia",
+    "về",
+    "mức",
+    "giới_hạn",
+    "hàm_lượng",
+    "formaldehyt",
+    "và",
+    "các",
+    "amin",
+    "thơm",
+    "chuyển_hóa",
+    "từ",
+    "thuốc_nhuộm",
+    "azo",
+    "trong",
+    "sản_phẩm",
+    "dệt",
+    "may",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 16,
+     "text": "Thông_tư số 21/2017/TT-BCT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 12,
+     "end": 13,
+     "text": "sửa_đổi"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 16,
+     "end": 22,
+     "text": "ngày 23 tháng 10 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 10,
+     "text": "Bộ_trưởng Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 26,
+     "text": "Bộ_trưởng Bộ Công_thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#preamble_standalone_16",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Bộ_trưởng Bộ Công_Thương ban_hành Thông_tư sửa_đổi Thông_tư số 21/2017/TT-BCT ngày 23 tháng 10 năm 2017 của Bộ_trưởng Bộ Công_thương ban_hành Quy_chuẩn kỹ_thuật quốc_gia về mức giới_hạn hàm_lượng formaldehyt và các amin thơm chuyển_hóa từ thuốc_nhuộm azo trong sản_phẩm dệt may .",
+   "tokens": [
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_Thương",
+    "ban_hành",
+    "Thông_tư",
+    "sửa_đổi",
+    "Thông_tư",
+    "số",
+    "21/2017/TT-BCT",
+    "ngày",
+    "23",
+    "tháng",
+    "10",
+    "năm",
+    "2017",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Công_thương",
+    "ban_hành",
+    "Quy_chuẩn",
+    "kỹ_thuật",
+    "quốc_gia",
+    "về",
+    "mức",
+    "giới_hạn",
+    "hàm_lượng",
+    "formaldehyt",
+    "và",
+    "các",
+    "amin",
+    "thơm",
+    "chuyển_hóa",
+    "từ",
+    "thuốc_nhuộm",
+    "azo",
+    "trong",
+    "sản_phẩm",
+    "dệt",
+    "may",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 6,
+     "end": 9,
+     "text": "Thông_tư số 21/2017/TT-BCT"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 5,
+     "end": 6,
+     "text": "sửa_đổi"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 15,
+     "text": "ngày 23 tháng 10 năm 2017"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "Bộ_trưởng Bộ Công_Thương"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 19,
+     "text": "Bộ_trưởng Bộ Công_thương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#body_context_17",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Công_Thương ban_hành Thông_tư số 07/2018/TT-BCT . Điều 1 . Điều 2 Thông_tư số 21/2017/TT-BCT được sửa_đổi như sau : \" Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2019 \" .",
+   "tokens": [
+    "Bộ",
+    "Công_Thương",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Điều",
+    "2",
+    "Thông_tư",
+    "số",
+    "21/2017/TT-BCT",
+    "được",
+    "sửa_đổi",
+    "như",
+    "sau",
+    ":",
+    "\"",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "01",
+    "tháng",
+    "01",
+    "năm",
+    "2019",
+    "\"",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 36,
+     "text": "Điều 1 . Điều 2 Thông_tư số 21/2017/TT-BCT được sửa_đổi như sau : \" Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2019 \" ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 10,
+     "end": 15,
+     "text": "Điều 2 Thông_tư số 21/2017/TT-BCT"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#body_context_18",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2018/TT-BCT của Bộ Công_Thương trong lĩnh_vực Khoa_học công_nghệ . Điều 2 . Hiệu_lực thi_hành . Thông_tư này có hiệu_lực thi_hành kể từ ngày ký . / .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "của",
+    "Bộ",
+    "Công_Thương",
+    "trong",
+    "lĩnh_vực",
+    "Khoa_học",
+    "công_nghệ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "ký",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 10,
+     "text": "Khoa_học công_nghệ"
+    },
+    {
+     "type": "DIEU",
+     "start": 11,
+     "end": 29,
+     "text": "Điều 2 . Hiệu_lực thi_hành . Thông_tư này có hiệu_lực thi_hành kể từ ngày ký . / ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#body_context_19",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 07/2018/TT-BCT ban_hành ngày 26 tháng 04 năm 2018 bởi Bộ Công_Thương . Điều 2 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "07/2018/TT-BCT",
+    "ban_hành",
+    "ngày",
+    "26",
+    "tháng",
+    "04",
+    "năm",
+    "2018",
+    "bởi",
+    "Bộ",
+    "Công_Thương",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "07/2018/TT-BCT"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Công_Thương"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 26 tháng 04 năm 2018"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 19,
+     "text": "Điều 2 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "07_2018_TT-BCT_128982#hard_negative_20",
+   "doc": "07_2018_TT-BCT_128982",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

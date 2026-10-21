@@ -1,0 +1,165 @@
+# BẢN XEM TRƯỚC DỮ LIỆU CẤU TRÚC VĂN BẢN: 11_2015_TT-BKHĐT_92514
+- **Thể loại**: `thong_tu`
+- **Độ dài văn bản**: 8,473 ký tự (43 đoạn văn)
+- **Tổng số thực thể**: 27 (Metadata: 5, Chương: 0, Mục: 0, Điều: 5, Khoản: 17, Điểm: 0)
+- **Tổng số quan hệ**: 29
+
+---
+
+## I. THỰC THỂ THUỘC TÍNH PHÁP LÝ (METADATA)
+- **LOAI_VB** (`e_loai_vb`): `'Thông tư'` (vị trí: `[0:8]`)
+- **SO_HIEU** (`e_so_hieu`): `'11/2015/TT-BKHĐT'` (vị trí: `[12:28]`)
+- **CO_QUAN** (`e_co_quan`): `'BỘ KẾ HOẠCH VÀ ĐẦU TƯ'` (vị trí: `[109:130]`)
+- **NGAY** (`e_ngay_bh`): `'Ngày 27 tháng 10 năm 2015'` (vị trí: `[215:240]`)
+- **NGUOI** (`e_nguoi_ky`): `'Bùi Quang Vinh'` (vị trí: `[8458:8472]`)
+
+---
+
+## II. NỘI DUNG TOÀN BỘ CÁC CHƯƠNG, ĐIỀU, KHOẢN, ĐIỂM
+
+### [ĐIỀU 1] Điều 1. Phạm vi điều chỉnh
+- **ID**: `e_dieu_1` | **Vị trí**: `[842:2072]` (1230 ký tự)
+> **Toàn văn nội dung Điều 1**:
+> ```
+> Điều 1. Phạm vi điều chỉnh
+> Thông tư này quy định chi tiết về lập hồ sơ yêu cầu đối với gói thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 Luật đấu thầu số 43/2013/QH13 như sau:
+> 1. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu xây lắp thực hiện chỉ định thầu trong nước theo quy trình thông thường (Mẫu số 01 - Hồ sơ yêu cầu chỉ định thầu xây lắp);
+> 2. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu mua sắm hàng hóa thực hiện chỉ định thầu trong nước theo quy trình thông thường (Mẫu số 02 - Hồ sơ yêu cầu chỉ định thầu mua sắm hàng hóa);
+> 3. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu xây lắp thực hiện chào hàng cạnh tranh trong nước theo quy trình thông thường (Mẫu số 03 - Hồ sơ yêu cầu chào hàng cạnh tranh xây lắp);
+> 4. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu mua sắm hàng hóa thực hiện chào hàng cạnh tranh trong nước theo quy trình thông thường (Mẫu số 04 - Hồ sơ yêu cầu chào hàng cạnh tranh mua sắm hàng hóa);
+> 5. Mẫu bản yêu cầu báo giá áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thực hiện chào hàng cạnh tranh trong nước theo quy trình rút gọn (Mẫu số 05 - Bản yêu cầu báo giá);
+> 6. Mẫu dự thảo hợp đồng áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thuộc hạn mức chỉ định thầu (Mẫu số 06 - Dự thảo hợp đồng cho chỉ định thầu rút gọn).
+> ```
+
+**Các Khoản trong Điều 1** (6 khoản):
+- **Khoản 1** (`e_khoan_1_1`, `[1022:1185]`):
+  > '1. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu xây lắp thực hiện chỉ định thầu trong nước theo quy trình thông thường (Mẫu số 01 - Hồ sơ yêu cầu '...
+- **Khoản 2** (`e_khoan_1_2`, `[1186:1367]`):
+  > '2. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu mua sắm hàng hóa thực hiện chỉ định thầu trong nước theo quy trình thông thường (Mẫu số 02 - Hồ sơ'...
+- **Khoản 3** (`e_khoan_1_3`, `[1368:1545]`):
+  > '3. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu xây lắp thực hiện chào hàng cạnh tranh trong nước theo quy trình thông thường (Mẫu số 03 - Hồ sơ y'...
+- **Khoản 4** (`e_khoan_1_4`, `[1546:1741]`):
+  > '4. Mẫu hồ sơ yêu cầu áp dụng cho gói thầu mua sắm hàng hóa thực hiện chào hàng cạnh tranh trong nước theo quy trình thông thường (Mẫu số 04 '...
+- **Khoản 5** (`e_khoan_1_5`, `[1742:1915]`):
+  > '5. Mẫu bản yêu cầu báo giá áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thực hiện chào hàng cạnh tranh trong nước theo quy trình rút gọn ('...
+- **Khoản 6** (`e_khoan_1_6`, `[1916:2072]`):
+  > '6. Mẫu dự thảo hợp đồng áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thuộc hạn mức chỉ định thầu (Mẫu số 06 - Dự thảo hợp đồng cho chỉ địn'...
+
+---
+
+### [ĐIỀU 2] Điều 2. Đối tượng áp dụng
+- **ID**: `e_dieu_2` | **Vị trí**: `[2073:2250]` (177 ký tự)
+> **Toàn văn nội dung Điều 2**:
+> ```
+> Điều 2. Đối tượng áp dụng
+> Thông tư này áp dụng đối với tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động lựa chọn nhà thầu gói thầu quy định tại Điều 1 của Thông tư này.
+> ```
+
+---
+
+### [ĐIỀU 3] Điều 3. Áp dụng hình thức chỉ định thầu, chào hàng cạnh tranh và các Mẫu hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng
+- **ID**: `e_dieu_3` | **Vị trí**: `[2251:6223]` (3972 ký tự)
+> **Toàn văn nội dung Điều 3**:
+> ```
+> Điều 3. Áp dụng hình thức chỉ định thầu, chào hàng cạnh tranh và các Mẫu hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng
+> 1. Hình thức chỉ định thầu theo quy trình thông thường được áp dụng đối với gói thầu thuộc trường hợp chỉ định thầu quy định tại các điểm b, c, d, đ và gói thầu cần thực hiện để bảo đảm bí mật nhà nước quy định tại điểm a khoản 1 Điều 22 Luật đấu thầu số 43/2013/QH13, đồng thời đáp ứng các điều kiện quy định tại khoản 2 Điều 22 Luật đấu thầu số 43/2013/QH13.
+> Hình thức chỉ định thầu theo quy trình rút gọn được áp dụng đối với gói thầu quy định tại điểm a khoản 1 Điều 22 Luật đấu thầu số 43/2013/QH13 (trừ gói thầu cần thực hiện để bảo đảm bí mật nhà nước), gói thầu có giá gói thầu nằm trong hạn mức chỉ định thầu quy định tại Điều 54 Nghị định số 63/2014/NĐ-CP. Đối với gói thầu có giá gói thầu nằm trong hạn mức chỉ định thầu, các tổ chức, cá nhân áp dụng Mẫu số 06 ban hành kèm theo Thông tư này; đối với gói thầu quy định tại điểm a khoản 1 Điều 22 Luật đấu thầu số 43/2013/QH13 nhưng giá gói thầu không nằm trong hạn mức chỉ định thầu thì vận dụng Mẫu hợp đồng thuộc Mẫu số 01, 02 ban hành kèm theo Thông tư này.
+> 2. Hình thức chào hàng cạnh tranh theo quy trình thông thường được áp dụng đối với gói thầu quy định tại Điều 23 Luật đấu thầu số 43/2013/QH13 và khoản 1 Điều 57 Nghị định số 63/2014/NĐ-CP.
+> Hình thức chào hàng cạnh tranh theo quy trình rút gọn được áp dụng đối với gói thầu quy định tại Điều 23 Luật đấu thầu số 43/2013/QH13 và khoản 2 Điều 57 Nghị định số 63/2014/NĐ-CP.
+> 3. Khi lập, thẩm định, phê duyệt hồ sơ yêu cầu áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thực hiện chỉ định thầu theo quy trình thông thường, tổ chức, cá nhân phải áp dụng tương ứng Mẫu số 01 hoặc Mẫu số 02 ban hành kèm theo Thông tư này và căn cứ vào quy mô, tính chất của từng gói thầu cụ thể để đưa ra các yêu cầu phù hợp trên cơ sở bảo đảm nguyên tắc công khai, minh bạch và hiệu quả kinh tế.
+> Khi lập, thẩm định, phê duyệt hồ sơ yêu cầu đối với chào hàng cạnh tranh hoặc bản yêu cầu báo giá, tổ chức, cá nhân phải áp dụng tương ứng Mẫu số 03, Mẫu số 04 hoặc Mẫu số 05 ban hành kèm theo Thông tư này và căn cứ vào quy mô, tính chất của từng gói thầu cụ thể để đưa ra các yêu cầu phù hợp trên cơ sở bảo đảm nguyên tắc cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế; không được đưa ra các điều kiện nhằm hạn chế sự tham gia của nhà thầu hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng.
+> 4. Trường hợp có chỉnh sửa các quy định nêu trong Mẫu hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng thì tổ chức, cá nhân thực hiện việc lập, thẩm định, phê duyệt hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng phải bảo đảm việc chỉnh sửa đó là phù hợp, khoa học, chặt chẽ và không trái với quy định của pháp luật về đấu thầu. Trong tờ trình đề nghị phê duyệt hồ sơ yêu cầu, bản yêu cầu báo giá phải nêu rõ các nội dung chỉnh sửa so với quy định trong Mẫu hồ sơ yêu cầu, bản yêu cầu báo giá và lý do chỉnh sửa để chủ đầu tư xem xét, quyết định.
+> 5. Đối với gói thầu dịch vụ phi tư vấn khi áp dụng hình thức chỉ định thầu, chào hàng cạnh tranh, việc lập hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng thực hiện trên cơ sở vận dụng các Mẫu tương ứng ban hành kèm theo Thông tư này.
+> 6. Đối với gói thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Thông tư này khi thực hiện chỉ định thầu hoặc chào hàng cạnh tranh quốc tế, căn cứ quy mô, tính chất của gói thầu, chủ đầu tư, bên mời thầu chỉnh sửa quy định về ngôn ngữ, đồng tiền, thời gian trong đấu thầu và các nội dung liên quan khác cho phù hợp với quy định của Luật đấu thầu số 43/2013/QH13 và Nghị định số 63/2014/NĐ-CP.
+> 7. Đối với các gói thầu thuộc dự án có sử dụng vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi phát sinh từ điều ước quốc tế, thỏa thuận quốc tế giữa Việt Nam với nhà tài trợ, trường hợp được nhà tài trợ chấp thuận thì áp dụng các mẫu hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng ban hành kèm theo Thông tư này.
+> ```
+
+**Các Khoản trong Điều 3** (7 khoản):
+- **Khoản 1** (`e_khoan_3_1`, `[2377:3398]`):
+  > '1. Hình thức chỉ định thầu theo quy trình thông thường được áp dụng đối với gói thầu thuộc trường hợp chỉ định thầu quy định tại các điểm b,'...
+- **Khoản 2** (`e_khoan_3_2`, `[3399:3770]`):
+  > '2. Hình thức chào hàng cạnh tranh theo quy trình thông thường được áp dụng đối với gói thầu quy định tại Điều 23 Luật đấu thầu số 43/2013/QH'...
+- **Khoản 3** (`e_khoan_3_3`, `[3771:4708]`):
+  > '3. Khi lập, thẩm định, phê duyệt hồ sơ yêu cầu áp dụng cho gói thầu xây lắp, mua sắm hàng hóa thực hiện chỉ định thầu theo quy trình thông t'...
+- **Khoản 4** (`e_khoan_3_4`, `[4709:5264]`):
+  > '4. Trường hợp có chỉnh sửa các quy định nêu trong Mẫu hồ sơ yêu cầu, bản yêu cầu báo giá, dự thảo hợp đồng thì tổ chức, cá nhân thực hiện vi'...
+- **Khoản 5** (`e_khoan_3_5`, `[5265:5504]`):
+  > '5. Đối với gói thầu dịch vụ phi tư vấn khi áp dụng hình thức chỉ định thầu, chào hàng cạnh tranh, việc lập hồ sơ yêu cầu, bản yêu cầu báo gi'...
+- **Khoản 6** (`e_khoan_3_6`, `[5505:5902]`):
+  > '6. Đối với gói thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Thông tư này khi thực hiện chỉ định thầu hoặc chào hàng cạnh tranh quốc'...
+- **Khoản 7** (`e_khoan_3_7`, `[5903:6223]`):
+  > '7. Đối với các gói thầu thuộc dự án có sử dụng vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi phát sinh từ điều ước quốc tế, thỏa thuận qu'...
+
+---
+
+### [ĐIỀU 4] Điều 4. Yêu cầu về nhãn hiệu, xuất xứ hàng hóa
+- **ID**: `e_dieu_4` | **Vị trí**: `[6224:7657]` (1433 ký tự)
+> **Toàn văn nội dung Điều 4**:
+> ```
+> Điều 4. Yêu cầu về nhãn hiệu, xuất xứ hàng hóa
+> 1. Đối với gói thầu áp dụng hình thức chỉ định thầu, có thể nêu nhãn hiệu, xuất xứ cụ thể của hàng hóa trong hồ sơ yêu cầu.
+> 2. Đối với gói thầu áp dụng hình thức chào hàng cạnh tranh, khi đưa ra yêu cầu đối với hàng hóa cần quy định đặc tính kỹ thuật, tiêu chuẩn sản xuất, tiêu chuẩn chế tạo, công nghệ mang tính chất trung tính, không đưa ra các đặc tính kỹ thuật, tiêu chuẩn mang tính cá biệt hóa mà không phải là đặc tính cơ bản của sản phẩm để chỉ một hoặc một số ít nhà thầu đáp ứng yêu cầu làm hạn chế sự tham gia của các nhà thầu, gây ra sự cạnh tranh không bình đẳng.
+> Trường hợp không thể mô tả chi tiết hàng hóa theo đặc tính kỹ thuật, thiết kế công nghệ, tiêu chuẩn công nghệ trong hồ sơ yêu cầu, bản yêu cầu báo giá thì được phép nêu nhãn hiệu, catalô của một sản phẩm cụ thể để tham khảo, minh họa cho yêu cầu về kỹ thuật của hàng hóa nhưng phải ghi kèm theo cụm từ "hoặc tương đương" sau nhãn hiệu, catalô, đồng thời quy định rõ nội hàm tương đương với hàng hóa đó về đặc tính kỹ thuật, tính năng sử dụng, tiêu chuẩn công nghệ và các nội dung khác (nếu có) mà không quy định tương đương về xuất xứ. Nhà thầu tham gia chào hàng cạnh tranh có thể chào hàng hóa theo nhãn hiệu cụ thể được nêu trong hồ sơ yêu cầu, bản yêu cầu báo giá hoặc nhãn hiệu khác nhưng phải chứng minh sự tương đương hoặc tốt hơn hàng hóa có nhãn hiệu được nêu trong hồ sơ yêu cầu, bản yêu cầu báo giá.
+> ```
+
+**Các Khoản trong Điều 4** (2 khoản):
+- **Khoản 1** (`e_khoan_4_1`, `[6271:6394]`):
+  > '1. Đối với gói thầu áp dụng hình thức chỉ định thầu, có thể nêu nhãn hiệu, xuất xứ cụ thể của hàng hóa trong hồ sơ yêu cầu.'...
+- **Khoản 2** (`e_khoan_4_2`, `[6395:7657]`):
+  > '2. Đối với gói thầu áp dụng hình thức chào hàng cạnh tranh, khi đưa ra yêu cầu đối với hàng hóa cần quy định đặc tính kỹ thuật, tiêu chuẩn s'...
+
+---
+
+### [ĐIỀU 5] Điều 5. Tổ chức thực hiện
+- **ID**: `e_dieu_5` | **Vị trí**: `[7658:8439]` (781 ký tự)
+> **Toàn văn nội dung Điều 5**:
+> ```
+> Điều 5. Tổ chức thực hiện
+> 1. Thông tư này có hiệu lực thi hành kể từ ngày 22 tháng 12 năm 2015. Thông tư này thay thế Thông tư số 04/2010/TT-BKH ngày 01/02/2010 của Bộ Kế hoạch và Đầu tư quy định chi tiết lập hồ sơ yêu cầu chỉ định thầu xây lắp, Thông tư số 11/2010/TT-BKH ngày 27/5/2010 của Bộ Kế hoạch và Đầu tư quy định chi tiết về chào hàng cạnh tranh.
+> 2. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời hướng dẫn.
+> ```
+
+**Các Khoản trong Điều 5** (2 khoản):
+- **Khoản 1** (`e_khoan_5_1`, `[7684:8014]`):
+  > '1. Thông tư này có hiệu lực thi hành kể từ ngày 22 tháng 12 năm 2015. Thông tư này thay thế Thông tư số 04/2010/TT-BKH ngày 01/02/2010 của B'...
+- **Khoản 2** (`e_khoan_5_2`, `[8015:8439]`):
+  > '2. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan ch'...
+
+---
+
+## III. DANH SÁCH QUAN HỆ ĐÃ SUY DIỄN
+
+### 1. Quan hệ Thuộc tính Pháp lý:
+- `e_so_hieu` ==[ **LA_LOAI** ]==> `e_loai_vb`
+- `e_so_hieu` ==[ **BAN_HANH_BOI** ]==> `e_co_quan`
+- `e_so_hieu` ==[ **NGAY_BAN_HANH** ]==> `e_ngay_bh`
+- `e_so_hieu` ==[ **KY_BOI** ]==> `e_nguoi_ky`
+
+### 2. Quan hệ Phân cấp Thứ bậc (22 quan hệ THUOC):
+- `e_dieu_1` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_khoan_1_1` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_2` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_3` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_4` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_5` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_khoan_1_6` ==[ **THUOC** ]==> `e_dieu_1`
+- `e_dieu_2` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_dieu_3` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_khoan_3_1` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_2` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_3` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_4` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_5` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_6` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_khoan_3_7` ==[ **THUOC** ]==> `e_dieu_3`
+- `e_dieu_4` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_khoan_4_1` ==[ **THUOC** ]==> `e_dieu_4`
+- `e_khoan_4_2` ==[ **THUOC** ]==> `e_dieu_4`
+- `e_dieu_5` ==[ **THUOC** ]==> `e_so_hieu`
+- `e_khoan_5_1` ==[ **THUOC** ]==> `e_dieu_5`
+- `e_khoan_5_2` ==[ **THUOC** ]==> `e_dieu_5`
+
+### 3. Quan hệ Viện dẫn Nội bộ (3 quan hệ VIEN_DAN):
+- `e_dieu_2` ==[ **VIEN_DAN** ]==> `e_dieu_1`
+- `e_dieu_3` ==[ **VIEN_DAN** ]==> `e_dieu_1`
+- `e_khoan_3_6` ==[ **VIEN_DAN** ]==> `e_dieu_1`

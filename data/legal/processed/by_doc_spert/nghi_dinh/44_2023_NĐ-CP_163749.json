@@ -1,0 +1,7377 @@
+{
+ "doc": "44_2023_NĐ-CP_163749",
+ "category": "nghi_dinh",
+ "split": "test",
+ "total_samples": 60,
+ "total_entities": 425,
+ "total_relations": 286,
+ "samples": [
+  {
+   "id": "44_2023_NĐ-CP_163749#header_0",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "header",
+   "text": "CHÍNH_PHỦ . Số : 44/2023/NĐ-CP . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập - Tự_do - Hạnh_phúc . Hà_Nội , ngày 30 tháng 6 năm 2023 . NGHỊ_ĐỊNH",
+   "tokens": [
+    "CHÍNH_PHỦ",
+    ".",
+    "Số",
+    ":",
+    "44/2023/NĐ-CP",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "30",
+    "tháng",
+    "6",
+    "năm",
+    "2023",
+    ".",
+    "NGHỊ_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 21,
+     "end": 27,
+     "text": "ngày 30 tháng 6 năm 2023"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 28,
+     "end": 29,
+     "text": "NGHỊ_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_1",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Quy_định chính_sách giảm thuế giá_trị gia_tăng theo Nghị_quyết số 101/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc_hội",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Quy_định",
+    "chính_sách",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "Nghị_quyết",
+    "số",
+    "101/2023/QH15",
+    "ngày",
+    "24",
+    "tháng",
+    "6",
+    "năm",
+    "2023",
+    "của",
+    "Quốc_hội"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 16,
+     "text": "Nghị_quyết số 101/2023/QH15"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 16,
+     "end": 22,
+     "text": "ngày 24 tháng 6 năm 2023"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 24,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_2",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Quy_định chính_sách giảm thuế giá_trị gia_tăng theo Nghị_quyết số 101/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc_hội",
+   "tokens": [
+    "Quy_định",
+    "chính_sách",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "Nghị_quyết",
+    "số",
+    "101/2023/QH15",
+    "ngày",
+    "24",
+    "tháng",
+    "6",
+    "năm",
+    "2023",
+    "của",
+    "Quốc_hội"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Nghị_quyết số 101/2023/QH15"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 24 tháng 6 năm 2023"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 18,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_3",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Chỉnh_phủ ngày 19 tháng 6 năm 2015 ; Luật sửa_đổi , bổ_sung một_số điều của Luật Tổ_chức Chỉnh_phủ và Luật Tồ chức chính quyển địa_phương ngày 22 tháng 11 năm 2019 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chỉnh_phủ",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Tổ_chức",
+    "Chỉnh_phủ",
+    "và",
+    "Luật",
+    "Tồ",
+    "chức",
+    "chính",
+    "quyển",
+    "địa_phương",
+    "ngày",
+    "22",
+    "tháng",
+    "11",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Tổ_chức Chỉnh_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 34,
+     "text": "Luật Tồ chức chính quyển địa_phương"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 24,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 19 tháng 6 năm 2015"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 34,
+     "end": 40,
+     "text": "ngày 22 tháng 11 năm 2019"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 7
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_4",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chỉnh_phủ ngày 19 tháng 6 năm 2015 ; Luật sửa_đổi , bổ_sung một_số điều của Luật Tổ_chức Chỉnh_phủ và Luật Tồ chức chính quyển địa_phương ngày 22 tháng 11 năm 2019 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chỉnh_phủ",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2015",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Tổ_chức",
+    "Chỉnh_phủ",
+    "và",
+    "Luật",
+    "Tồ",
+    "chức",
+    "chính",
+    "quyển",
+    "địa_phương",
+    "ngày",
+    "22",
+    "tháng",
+    "11",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chỉnh_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 28,
+     "text": "Luật Tồ chức chính quyển địa_phương"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 12,
+     "end": 18,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 19 tháng 6 năm 2015"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 28,
+     "end": 34,
+     "text": "ngày 22 tháng 11 năm 2019"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_5",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Căn_cứ Luật Thuế giá_trị gia_tăng ngày 03 tháng 6 năm 2008 ; Luật sửa_đổi , bổ_sung một_số điểu của Luật Thuế giá_trị gia_tăng ngày 19 tháng 6 năm 2013 ; Luật sửa_đổi , bố sung một_số điều của Luật Thuế giá_trị gia_tăng , Luật Thuế tiêu_thụ đặc_biệt và Luật Quản_lý thuế ngày 06 tháng 4 năm 2016 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    "ngày",
+    "03",
+    "tháng",
+    "6",
+    "năm",
+    "2008",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điểu",
+    "của",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2013",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bố",
+    "sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "Luật",
+    "Thuế",
+    "tiêu_thụ",
+    "đặc_biệt",
+    "và",
+    "Luật",
+    "Quản_lý",
+    "thuế",
+    "ngày",
+    "06",
+    "tháng",
+    "4",
+    "năm",
+    "2016",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 11,
+     "text": "Luật Thuế giá_trị gia_tăng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 54,
+     "end": 57,
+     "text": "Luật Quản_lý thuế"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 03 tháng 6 năm 2008"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 57,
+     "end": 63,
+     "text": "ngày 06 tháng 4 năm 2016"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_6",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Thuế giá_trị gia_tăng ngày 03 tháng 6 năm 2008 ; Luật sửa_đổi , bổ_sung một_số điểu của Luật Thuế giá_trị gia_tăng ngày 19 tháng 6 năm 2013 ; Luật sửa_đổi , bố sung một_số điều của Luật Thuế giá_trị gia_tăng , Luật Thuế tiêu_thụ đặc_biệt và Luật Quản_lý thuế ngày 06 tháng 4 năm 2016 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    "ngày",
+    "03",
+    "tháng",
+    "6",
+    "năm",
+    "2008",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điểu",
+    "của",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    "ngày",
+    "19",
+    "tháng",
+    "6",
+    "năm",
+    "2013",
+    ";",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bố",
+    "sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "Luật",
+    "Thuế",
+    "tiêu_thụ",
+    "đặc_biệt",
+    "và",
+    "Luật",
+    "Quản_lý",
+    "thuế",
+    "ngày",
+    "06",
+    "tháng",
+    "4",
+    "năm",
+    "2016",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Thuế giá_trị gia_tăng"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 48,
+     "end": 51,
+     "text": "Luật Quản_lý thuế"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 03 tháng 6 năm 2008"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 51,
+     "end": 57,
+     "text": "ngày 06 tháng 4 năm 2016"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_7",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Căn_cứ Luật sửa đồi , bổ_sung một sổ điều của các Luật về thuế ngày 26 tháng 11 năm 2014 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "sửa",
+    "đồi",
+    ",",
+    "bổ_sung",
+    "một",
+    "sổ",
+    "điều",
+    "của",
+    "các",
+    "Luật",
+    "về",
+    "thuế",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật sửa đồi"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_8",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật sửa đồi , bổ_sung một sổ điều của các Luật về thuế ngày 26 tháng 11 năm 2014 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "sửa",
+    "đồi",
+    ",",
+    "bổ_sung",
+    "một",
+    "sổ",
+    "điều",
+    "của",
+    "các",
+    "Luật",
+    "về",
+    "thuế",
+    "ngày",
+    "26",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật sửa đồi"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_9",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Căn_cứ Luật Quản_lý thuế ngày 13 thảng 6 năm 2019 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Quản_lý",
+    "thuế",
+    "ngày",
+    "13",
+    "thảng",
+    "6",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Quản_lý thuế"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_10",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Quản_lý thuế ngày 13 thảng 6 năm 2019 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Quản_lý",
+    "thuế",
+    "ngày",
+    "13",
+    "thảng",
+    "6",
+    "năm",
+    "2019",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Quản_lý thuế"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_11",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Căn_cứ Nghị_quyết số 101/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc_hội về Kỳ họp thứ 5 , Quốc_hội khóa XV ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "101/2023/QH15",
+    "ngày",
+    "24",
+    "tháng",
+    "6",
+    "năm",
+    "2023",
+    "của",
+    "Quốc_hội",
+    "về",
+    "Kỳ",
+    "họp",
+    "thứ",
+    "5",
+    ",",
+    "Quốc_hội",
+    "khóa",
+    "XV",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Nghị_quyết số 101/2023/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 24 tháng 6 năm 2023"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 18,
+     "text": "Quốc_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 25,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_12",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_quyết số 101/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc_hội về Kỳ họp thứ 5 , Quốc_hội khóa XV ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_quyết",
+    "số",
+    "101/2023/QH15",
+    "ngày",
+    "24",
+    "tháng",
+    "6",
+    "năm",
+    "2023",
+    "của",
+    "Quốc_hội",
+    "về",
+    "Kỳ",
+    "họp",
+    "thứ",
+    "5",
+    ",",
+    "Quốc_hội",
+    "khóa",
+    "XV",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_quyết số 101/2023/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 24 tháng 6 năm 2023"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Quốc_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Quốc_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_context_13",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ . Theo đề_nghị của Bộ_trưởng Bộ Tài_chính ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_chính",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 12,
+     "text": "Bộ_trưởng Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#preamble_standalone_14",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Tài_chính ;",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_chính",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 6,
+     "text": "Bộ_trưởng Bộ Tài_chính"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_15",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 1 . Giảm thuế giá_trị gia_tăng",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 13,
+     "text": "Điều 1 . Giảm thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_16",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 1 . 1 . Giảm thuế giá_trị gia_tăng đối_với các nhóm hàng_hóa , dịch_vụ đang áp_dụng mức thuế_suât 10 % , trừ nhóm hàng_hóa , dịch_vụ sau :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đối_với",
+    "các",
+    "nhóm",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "đang",
+    "áp_dụng",
+    "mức",
+    "thuế_suât",
+    "10",
+    "%",
+    ",",
+    "trừ",
+    "nhóm",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 35,
+     "text": "1 . Giảm thuế giá_trị gia_tăng đối_với các nhóm hàng_hóa , dịch_vụ đang áp_dụng mức thuế_suât 10 % , trừ nhóm hàng_hóa , dịch_vụ sau :"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 25,
+     "end": 27,
+     "text": "10 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 30,
+     "end": 31,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_17",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Giảm thuế giá_trị gia_tăng đối_với các nhóm hàng_hóa , dịch_vụ đang áp_dụng mức thuế_suât 10 % , trừ nhóm hàng_hóa , dịch_vụ sau :",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đối_với",
+    "các",
+    "nhóm",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "đang",
+    "áp_dụng",
+    "mức",
+    "thuế_suât",
+    "10",
+    "%",
+    ",",
+    "trừ",
+    "nhóm",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 29,
+     "text": "1 . Giảm thuế giá_trị gia_tăng đối_với các nhóm hàng_hóa , dịch_vụ đang áp_dụng mức thuế_suât 10 % , trừ nhóm hàng_hóa , dịch_vụ sau :"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 19,
+     "end": 21,
+     "text": "10 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 25,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_18",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 1 . a ) Viễn_thông , hoạt_động tài_chính , ngân_hàng , chứng_khoán , bảo_hiểm , kinh_doanh bất_động_sản , kim_loại và sàn phẩm từ kim_loại đúc sẵn , sản_phẩm khai_khoáng ( không kể khai_thác than ) , than_cốc , dầu_mỏ tinh_chế , sản_phẩm hoá_chất . Chi_tiết tại Phụ_lục I ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Viễn_thông",
+    ",",
+    "hoạt_động",
+    "tài_chính",
+    ",",
+    "ngân_hàng",
+    ",",
+    "chứng_khoán",
+    ",",
+    "bảo_hiểm",
+    ",",
+    "kinh_doanh",
+    "bất_động_sản",
+    ",",
+    "kim_loại",
+    "và",
+    "sàn",
+    "phẩm",
+    "từ",
+    "kim_loại",
+    "đúc",
+    "sẵn",
+    ",",
+    "sản_phẩm",
+    "khai_khoáng",
+    "(",
+    "không",
+    "kể",
+    "khai_thác",
+    "than",
+    ")",
+    ",",
+    "than_cốc",
+    ",",
+    "dầu_mỏ",
+    "tinh_chế",
+    ",",
+    "sản_phẩm",
+    "hoá_chất",
+    ".",
+    "Chi_tiết",
+    "tại",
+    "Phụ_lục",
+    "I",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 71,
+     "text": "a ) Viễn_thông , hoạt_động tài_chính , ngân_hàng , chứng_khoán , bảo_hiểm , kinh_doanh bất_động_sản , kim_loại và sàn phẩm từ kim_loại đúc sẵn , sản_phẩm khai_khoáng ( không kể khai_thác than ) , than_cốc , dầu_mỏ tinh_chế , sản_phẩm hoá_chất . Chi_tiết tại Phụ_lục I ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 63,
+     "end": 70,
+     "text": "Phụ_lục I ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 29,
+     "text": "chứng_khoán"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_19",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . a ) Viễn_thông , hoạt_động tài_chính , ngân_hàng , chứng_khoán , bảo_hiểm , kinh_doanh bất_động_sản , kim_loại và sàn phẩm từ kim_loại đúc sẵn , sản_phẩm khai_khoáng ( không kể khai_thác than ) , than_cốc , dầu_mỏ tinh_chế , sản_phẩm hoá_chất . Chi_tiết tại Phụ_lục I ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "a",
+    ")",
+    "Viễn_thông",
+    ",",
+    "hoạt_động",
+    "tài_chính",
+    ",",
+    "ngân_hàng",
+    ",",
+    "chứng_khoán",
+    ",",
+    "bảo_hiểm",
+    ",",
+    "kinh_doanh",
+    "bất_động_sản",
+    ",",
+    "kim_loại",
+    "và",
+    "sàn",
+    "phẩm",
+    "từ",
+    "kim_loại",
+    "đúc",
+    "sẵn",
+    ",",
+    "sản_phẩm",
+    "khai_khoáng",
+    "(",
+    "không",
+    "kể",
+    "khai_thác",
+    "than",
+    ")",
+    ",",
+    "than_cốc",
+    ",",
+    "dầu_mỏ",
+    "tinh_chế",
+    ",",
+    "sản_phẩm",
+    "hoá_chất",
+    ".",
+    "Chi_tiết",
+    "tại",
+    "Phụ_lục",
+    "I",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 58,
+     "text": "a ) Viễn_thông , hoạt_động tài_chính , ngân_hàng , chứng_khoán , bảo_hiểm , kinh_doanh bất_động_sản , kim_loại và sàn phẩm từ kim_loại đúc sẵn , sản_phẩm khai_khoáng ( không kể khai_thác than ) , than_cốc , dầu_mỏ tinh_chế , sản_phẩm hoá_chất . Chi_tiết tại Phụ_lục I ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 50,
+     "end": 57,
+     "text": "Phụ_lục I ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "chứng_khoán"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_20",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 1 . b ) Sản_phẩm hàng_hóa và dịch_vụ chịu thuế tiêu_thụ đặc_biệt . Chi_tiết tại Phụ_lục II ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Sản_phẩm",
+    "hàng_hóa",
+    "và",
+    "dịch_vụ",
+    "chịu",
+    "thuế",
+    "tiêu_thụ",
+    "đặc_biệt",
+    ".",
+    "Chi_tiết",
+    "tại",
+    "Phụ_lục",
+    "II",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 40,
+     "text": "b ) Sản_phẩm hàng_hóa và dịch_vụ chịu thuế tiêu_thụ đặc_biệt . Chi_tiết tại Phụ_lục II ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 39,
+     "text": "Phụ_lục II ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_21",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . b ) Sản_phẩm hàng_hóa và dịch_vụ chịu thuế tiêu_thụ đặc_biệt . Chi_tiết tại Phụ_lục II ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "b",
+    ")",
+    "Sản_phẩm",
+    "hàng_hóa",
+    "và",
+    "dịch_vụ",
+    "chịu",
+    "thuế",
+    "tiêu_thụ",
+    "đặc_biệt",
+    ".",
+    "Chi_tiết",
+    "tại",
+    "Phụ_lục",
+    "II",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 27,
+     "text": "b ) Sản_phẩm hàng_hóa và dịch_vụ chịu thuế tiêu_thụ đặc_biệt . Chi_tiết tại Phụ_lục II ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 19,
+     "end": 26,
+     "text": "Phụ_lục II ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 10,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_22",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 1 . c ) Công_nghệ thông_tin theo pháp_luật về công_nghệ thông_tin . Chi_tiết tại Phụ_lục III ban_hành kèm theo Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "c",
+    ")",
+    "Công_nghệ",
+    "thông_tin",
+    "theo",
+    "pháp_luật",
+    "về",
+    "công_nghệ",
+    "thông_tin",
+    ".",
+    "Chi_tiết",
+    "tại",
+    "Phụ_lục",
+    "III",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 39,
+     "text": "c ) Công_nghệ thông_tin theo pháp_luật về công_nghệ thông_tin . Chi_tiết tại Phụ_lục III ban_hành kèm theo Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 38,
+     "text": "Phụ_lục III ban_hành kèm theo Nghị_định này"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_23",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 1 . d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "d",
+    ")",
+    "Việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "cho",
+    "từng",
+    "loại",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "được",
+    "áp_dụng",
+    "thống_nhất",
+    "tại",
+    "các",
+    "khâu",
+    "nhập_khẩu",
+    ";",
+    "sản_xuất",
+    ",",
+    "gia_công",
+    ",",
+    "kinh_doanh",
+    "thương_mại",
+    ".",
+    "Đối_với",
+    "mặt_hàng",
+    "than",
+    "khai_thác",
+    "bán",
+    "ra",
+    "(",
+    "bao_gồm",
+    "cả",
+    "trường_hợp",
+    "than",
+    "khai_thác",
+    "sau",
+    "đó",
+    "qua",
+    "sàng_tuyển",
+    ",",
+    "phân_loại",
+    "theo",
+    "quy_trình",
+    "khép_kín",
+    "mới",
+    "bán",
+    "ra",
+    ")",
+    "thuộc",
+    "đôi",
+    "tượng",
+    "giảm",
+    "thuê",
+    "giá_trị",
+    "giạ",
+    "tàng",
+    ".",
+    "Mặt_hàng",
+    "than",
+    "thuộc",
+    "Phụ_lục",
+    "I",
+    "ban"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 93,
+     "text": "d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 38,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 90,
+     "end": 92,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 30,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_24",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "d",
+    ")",
+    "Việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "cho",
+    "từng",
+    "loại",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "được",
+    "áp_dụng",
+    "thống_nhất",
+    "tại",
+    "các",
+    "khâu",
+    "nhập_khẩu",
+    ";",
+    "sản_xuất",
+    ",",
+    "gia_công",
+    ",",
+    "kinh_doanh",
+    "thương_mại",
+    ".",
+    "Đối_với",
+    "mặt_hàng",
+    "than",
+    "khai_thác",
+    "bán",
+    "ra",
+    "(",
+    "bao_gồm",
+    "cả",
+    "trường_hợp",
+    "than",
+    "khai_thác",
+    "sau",
+    "đó",
+    "qua",
+    "sàng_tuyển",
+    ",",
+    "phân_loại",
+    "theo",
+    "quy_trình",
+    "khép_kín",
+    "mới",
+    "bán",
+    "ra",
+    ")",
+    "thuộc",
+    "đôi",
+    "tượng",
+    "giảm",
+    "thuê",
+    "giá_trị",
+    "giạ",
+    "tàng",
+    ".",
+    "Mặt_hàng",
+    "than",
+    "thuộc",
+    "Phụ_lục",
+    "I",
+    "ban"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 80,
+     "text": "d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 25,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 77,
+     "end": 79,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 16,
+     "end": 17,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_25",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 1 . Khoản 1 . d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "d",
+    ")",
+    "Việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "cho",
+    "từng",
+    "loại",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "được",
+    "áp_dụng",
+    "thống_nhất",
+    "tại",
+    "các",
+    "khâu",
+    "nhập_khẩu",
+    ";",
+    "sản_xuất",
+    ",",
+    "gia_công",
+    ",",
+    "kinh_doanh",
+    "thương_mại",
+    ".",
+    "Đối_với",
+    "mặt_hàng",
+    "than",
+    "khai_thác",
+    "bán",
+    "ra",
+    "(",
+    "bao_gồm",
+    "cả",
+    "trường_hợp",
+    "than",
+    "khai_thác",
+    "sau",
+    "đó",
+    "qua",
+    "sàng_tuyển",
+    ",",
+    "phân_loại",
+    "theo",
+    "quy_trình",
+    "khép_kín",
+    "mới",
+    "bán",
+    "ra",
+    ")",
+    "thuộc",
+    "đôi",
+    "tượng",
+    "giảm",
+    "thuê",
+    "giá_trị",
+    "giạ",
+    "tàng",
+    ".",
+    "Mặt_hàng",
+    "than",
+    "thuộc",
+    "Phụ_lục",
+    "I",
+    "ban"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 90,
+     "text": "d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 31,
+     "end": 35,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 87,
+     "end": 89,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 31,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_26",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 1 . d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "1",
+    ".",
+    "d",
+    ")",
+    "Việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "cho",
+    "từng",
+    "loại",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "được",
+    "áp_dụng",
+    "thống_nhất",
+    "tại",
+    "các",
+    "khâu",
+    "nhập_khẩu",
+    ";",
+    "sản_xuất",
+    ",",
+    "gia_công",
+    ",",
+    "kinh_doanh",
+    "thương_mại",
+    ".",
+    "Đối_với",
+    "mặt_hàng",
+    "than",
+    "khai_thác",
+    "bán",
+    "ra",
+    "(",
+    "bao_gồm",
+    "cả",
+    "trường_hợp",
+    "than",
+    "khai_thác",
+    "sau",
+    "đó",
+    "qua",
+    "sàng_tuyển",
+    ",",
+    "phân_loại",
+    "theo",
+    "quy_trình",
+    "khép_kín",
+    "mới",
+    "bán",
+    "ra",
+    ")",
+    "thuộc",
+    "đôi",
+    "tượng",
+    "giảm",
+    "thuê",
+    "giá_trị",
+    "giạ",
+    "tàng",
+    ".",
+    "Mặt_hàng",
+    "than",
+    "thuộc",
+    "Phụ_lục",
+    "I",
+    "ban"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 1"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 80,
+     "text": "d ) Việc giảm thuế giá_trị gia_tăng cho từng loại hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này được áp_dụng thống_nhất tại các khâu nhập_khẩu ; sản_xuất , gia_công , kinh_doanh thương_mại . Đối_với mặt_hàng than khai_thác bán ra ( bao_gồm cả trường_hợp than khai_thác sau đó qua sàng_tuyển , phân_loại theo quy_trình khép_kín mới bán ra ) thuộc đôi tượng giảm thuê giá_trị giạ tàng . Mặt_hàng than thuộc Phụ_lục I ban"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 25,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 77,
+     "end": 79,
+     "text": "Phụ_lục I"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 16,
+     "end": 17,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_27",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . 2 . Mức giảm thuế giá_trị gia_tăng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Mức",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 23,
+     "text": "2 . Mức giảm thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_28",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 2 . a ) Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng theo phương_pháp khấu_trừ được áp_dụng mức thuế_suất thuế giá_trị gia_tăng 8 % đối_với hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Cơ_sở",
+    "kinh_doanh",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "phương_pháp",
+    "khấu_trừ",
+    "được",
+    "áp_dụng",
+    "mức",
+    "thuế_suất",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "8",
+    "%",
+    "đối_với",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 50,
+     "text": "a ) Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng theo phương_pháp khấu_trừ được áp_dụng mức thuế_suất thuế giá_trị gia_tăng 8 % đối_với hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 45,
+     "end": 49,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 43,
+     "end": 45,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 37,
+     "end": 39,
+     "text": "8 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 27,
+     "text": "Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_29",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . a ) Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng theo phương_pháp khấu_trừ được áp_dụng mức thuế_suất thuế giá_trị gia_tăng 8 % đối_với hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Cơ_sở",
+    "kinh_doanh",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "phương_pháp",
+    "khấu_trừ",
+    "được",
+    "áp_dụng",
+    "mức",
+    "thuế_suất",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "8",
+    "%",
+    "đối_với",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 37,
+     "text": "a ) Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng theo phương_pháp khấu_trừ được áp_dụng mức thuế_suất thuế giá_trị gia_tăng 8 % đối_với hàng_hóa , dịch_vụ quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 36,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 30,
+     "end": 32,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 24,
+     "end": 26,
+     "text": "8 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 27,
+     "end": 28,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 14,
+     "text": "Cơ_sở kinh_doanh tính thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_30",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 1 . Khoản 2 . b ) Cơ_sở kinh_doanh ( bao_gồm cả hộ kinh_doanh , cá_nhân kinh_doanh ) tính thuế giá_trị gia_tăng theo phương_pháp tỷ_lệ % trên doanh_thu được giảm 20 % mức tỷ_lệ % để tính thuế giá_trị gia_tăng khi thực_hiện xuât hóa_đơn đối_với hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Cơ_sở",
+    "kinh_doanh",
+    "(",
+    "bao_gồm",
+    "cả",
+    "hộ",
+    "kinh_doanh",
+    ",",
+    "cá_nhân",
+    "kinh_doanh",
+    ")",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "phương_pháp",
+    "tỷ_lệ",
+    "%",
+    "trên",
+    "doanh_thu",
+    "được",
+    "giảm",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "khi",
+    "thực_hiện",
+    "xuât",
+    "hóa_đơn",
+    "đối_với",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "được",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 71,
+     "text": "b ) Cơ_sở kinh_doanh ( bao_gồm cả hộ kinh_doanh , cá_nhân kinh_doanh ) tính thuế giá_trị gia_tăng theo phương_pháp tỷ_lệ % trên doanh_thu được giảm 20 % mức tỷ_lệ % để tính thuế giá_trị gia_tăng khi thực_hiện xuât hóa_đơn đối_với hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 66,
+     "end": 70,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 64,
+     "end": 66,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 41,
+     "end": 43,
+     "text": "20 %"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 54,
+     "end": 55,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 20,
+     "text": "Cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 56,
+     "end": 57,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_31",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 2 . b ) Cơ_sở kinh_doanh ( bao_gồm cả hộ kinh_doanh , cá_nhân kinh_doanh ) tính thuế giá_trị gia_tăng theo phương_pháp tỷ_lệ % trên doanh_thu được giảm 20 % mức tỷ_lệ % để tính thuế giá_trị gia_tăng khi thực_hiện xuât hóa_đơn đối_với hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng quy_định tại khoản 1 Điều này .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Cơ_sở",
+    "kinh_doanh",
+    "(",
+    "bao_gồm",
+    "cả",
+    "hộ",
+    "kinh_doanh",
+    ",",
+    "cá_nhân",
+    "kinh_doanh",
+    ")",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    "phương_pháp",
+    "tỷ_lệ",
+    "%",
+    "trên",
+    "doanh_thu",
+    "được",
+    "giảm",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "khi",
+    "thực_hiện",
+    "xuât",
+    "hóa_đơn",
+    "đối_với",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "được",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 61,
+     "text": "b ) Cơ_sở kinh_doanh ( bao_gồm cả hộ kinh_doanh , cá_nhân kinh_doanh ) tính thuế giá_trị gia_tăng theo phương_pháp tỷ_lệ % trên doanh_thu được giảm 20 % mức tỷ_lệ % để tính thuế giá_trị gia_tăng khi thực_hiện xuât hóa_đơn đối_với hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng quy_định tại khoản 1 Điều này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 56,
+     "end": 60,
+     "text": "khoản 1 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 54,
+     "end": 56,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 31,
+     "end": 33,
+     "text": "20 %"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 44,
+     "end": 45,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 8,
+     "end": 10,
+     "text": "Cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 15,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 46,
+     "end": 47,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_32",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 1 . 3 . Trình_tự , thủ_tục thực_hiện",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Trình_tự",
+    ",",
+    "thủ_tục",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 15,
+     "text": "3 . Trình_tự , thủ_tục thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_33",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 1 . Khoản 3 . a ) Đối_với cơ_sở kinh_doanh quy_định tại điểm a khoản 2 Điều này , khi lập hoá_đơn_giá_trị gia_tăng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại dòng thuế_suât thuê giá_trị gia_tăng ghi “ 8 % ” ; tiên thuế giá_trị gia_tăng ; tổng_số tiền người mua phải thanh_toán . Căn_cứ hóa_đơn giá_trị gia_tăng , cơ_sở kinh_doanh bán hàng_hóa , dịch_vụ kê_khai thuế giá_trị gia_tăng đầu",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Đối_với",
+    "cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "khi",
+    "lập",
+    "hoá_đơn_giá_trị",
+    "gia_tăng",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "tại",
+    "dòng",
+    "thuế_suât",
+    "thuê",
+    "giá_trị",
+    "gia_tăng",
+    "ghi",
+    "“",
+    "8",
+    "%",
+    "”",
+    ";",
+    "tiên",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ";",
+    "tổng_số",
+    "tiền",
+    "người",
+    "mua",
+    "phải",
+    "thanh_toán",
+    ".",
+    "Căn_cứ",
+    "hóa_đơn",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "cơ_sở",
+    "kinh_doanh",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "kê_khai",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đầu"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 85,
+     "text": "a ) Đối_với cơ_sở kinh_doanh quy_định tại điểm a khoản 2 Điều này , khi lập hoá_đơn_giá_trị gia_tăng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại dòng thuế_suât thuê giá_trị gia_tăng ghi “ 8 % ” ; tiên thuế giá_trị gia_tăng ; tổng_số tiền người mua phải thanh_toán . Căn_cứ hóa_đơn giá_trị gia_tăng , cơ_sở kinh_doanh bán hàng_hóa , dịch_vụ kê_khai thuế giá_trị gia_tăng đầu"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 29,
+     "text": "điểm a khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 23,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 53,
+     "end": 55,
+     "text": "8 %"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 70,
+     "end": 71,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 35,
+     "end": 36,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 74,
+     "end": 78,
+     "text": "cơ_sở kinh_doanh bán hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_34",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 3 . a ) Đối_với cơ_sở kinh_doanh quy_định tại điểm a khoản 2 Điều này , khi lập hoá_đơn_giá_trị gia_tăng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại dòng thuế_suât thuê giá_trị gia_tăng ghi “ 8 % ” ; tiên thuế giá_trị gia_tăng ; tổng_số tiền người mua phải thanh_toán . Căn_cứ hóa_đơn giá_trị gia_tăng , cơ_sở kinh_doanh bán hàng_hóa , dịch_vụ kê_khai thuế giá_trị gia_tăng đầu",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "a",
+    ")",
+    "Đối_với",
+    "cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "khi",
+    "lập",
+    "hoá_đơn_giá_trị",
+    "gia_tăng",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "tại",
+    "dòng",
+    "thuế_suât",
+    "thuê",
+    "giá_trị",
+    "gia_tăng",
+    "ghi",
+    "“",
+    "8",
+    "%",
+    "”",
+    ";",
+    "tiên",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ";",
+    "tổng_số",
+    "tiền",
+    "người",
+    "mua",
+    "phải",
+    "thanh_toán",
+    ".",
+    "Căn_cứ",
+    "hóa_đơn",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "cơ_sở",
+    "kinh_doanh",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "kê_khai",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "đầu"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 75,
+     "text": "a ) Đối_với cơ_sở kinh_doanh quy_định tại điểm a khoản 2 Điều này , khi lập hoá_đơn_giá_trị gia_tăng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại dòng thuế_suât thuê giá_trị gia_tăng ghi “ 8 % ” ; tiên thuế giá_trị gia_tăng ; tổng_số tiền người mua phải thanh_toán . Căn_cứ hóa_đơn giá_trị gia_tăng , cơ_sở kinh_doanh bán hàng_hóa , dịch_vụ kê_khai thuế giá_trị gia_tăng đầu"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 19,
+     "text": "điểm a khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 11,
+     "end": 13,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 43,
+     "end": 45,
+     "text": "8 %"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 60,
+     "end": 61,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 64,
+     "end": 68,
+     "text": "cơ_sở kinh_doanh bán hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_35",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Khoản 3 . b ) Đối_với cơ_sở kinh_doanh quy_định tại điểm b khoản 2 Điều này , khi ỉập hoá_đơn bán hàng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại cột “ Thành tiền ” ghi đầy_đủ tiền hàng_hóa , dịch_vụ trước khi giảm , tại dòng “ Cộng_tiền hàng_hóa , dịch_vụ ” ghi theo số đã giảm 20 % mức tỷ_lệ % trên doanh_thu , đồng_thời ghi_chú : “ đã giảm ... ( số tiền ) tương_ứng 20 % mức tỷ_lệ % để",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Đối_với",
+    "cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "điểm",
+    "b",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "khi",
+    "ỉập",
+    "hoá_đơn",
+    "bán",
+    "hàng",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "tại",
+    "cột",
+    "“",
+    "Thành",
+    "tiền",
+    "”",
+    "ghi",
+    "đầy_đủ",
+    "tiền",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "trước",
+    "khi",
+    "giảm",
+    ",",
+    "tại",
+    "dòng",
+    "“",
+    "Cộng_tiền",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "”",
+    "ghi",
+    "theo",
+    "số",
+    "đã",
+    "giảm",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "trên",
+    "doanh_thu",
+    ",",
+    "đồng_thời",
+    "ghi_chú",
+    ":",
+    "“",
+    "đã",
+    "giảm",
+    "...",
+    "(",
+    "số",
+    "tiền",
+    ")",
+    "tương_ứng",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 104,
+     "text": "b ) Đối_với cơ_sở kinh_doanh quy_định tại điểm b khoản 2 Điều này , khi ỉập hoá_đơn bán hàng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại cột “ Thành tiền ” ghi đầy_đủ tiền hàng_hóa , dịch_vụ trước khi giảm , tại dòng “ Cộng_tiền hàng_hóa , dịch_vụ ” ghi theo số đã giảm 20 % mức tỷ_lệ % trên doanh_thu , đồng_thời ghi_chú : “ đã giảm ... ( số tiền ) tương_ứng 20 % mức tỷ_lệ % để"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 26,
+     "end": 32,
+     "text": "điểm b khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 78,
+     "end": 80,
+     "text": "20 %"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 98,
+     "end": 100,
+     "text": "20 %"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 22,
+     "end": 24,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 39,
+     "end": 40,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 58,
+     "end": 59,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 69,
+     "end": 70,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_36",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Khoản 3 . b ) Đối_với cơ_sở kinh_doanh quy_định tại điểm b khoản 2 Điều này , khi ỉập hoá_đơn bán hàng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại cột “ Thành tiền ” ghi đầy_đủ tiền hàng_hóa , dịch_vụ trước khi giảm , tại dòng “ Cộng_tiền hàng_hóa , dịch_vụ ” ghi theo số đã giảm 20 % mức tỷ_lệ % trên doanh_thu , đồng_thời ghi_chú : “ đã giảm ... ( số tiền ) tương_ứng 20 % mức tỷ_lệ % để",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Khoản",
+    "3",
+    ".",
+    "b",
+    ")",
+    "Đối_với",
+    "cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "điểm",
+    "b",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    ",",
+    "khi",
+    "ỉập",
+    "hoá_đơn",
+    "bán",
+    "hàng",
+    "cung_cấp",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    ",",
+    "tại",
+    "cột",
+    "“",
+    "Thành",
+    "tiền",
+    "”",
+    "ghi",
+    "đầy_đủ",
+    "tiền",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "trước",
+    "khi",
+    "giảm",
+    ",",
+    "tại",
+    "dòng",
+    "“",
+    "Cộng_tiền",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "”",
+    "ghi",
+    "theo",
+    "số",
+    "đã",
+    "giảm",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "trên",
+    "doanh_thu",
+    ",",
+    "đồng_thời",
+    "ghi_chú",
+    ":",
+    "“",
+    "đã",
+    "giảm",
+    "...",
+    "(",
+    "số",
+    "tiền",
+    ")",
+    "tương_ứng",
+    "20",
+    "%",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 3"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 91,
+     "text": "b ) Đối_với cơ_sở kinh_doanh quy_định tại điểm b khoản 2 Điều này , khi ỉập hoá_đơn bán hàng cung_cấp hàng_hóa , dịch_vụ thuộc đối_tượng giảm thuế giá_trị gia_tăng , tại cột “ Thành tiền ” ghi đầy_đủ tiền hàng_hóa , dịch_vụ trước khi giảm , tại dòng “ Cộng_tiền hàng_hóa , dịch_vụ ” ghi theo số đã giảm 20 % mức tỷ_lệ % trên doanh_thu , đồng_thời ghi_chú : “ đã giảm ... ( số tiền ) tương_ứng 20 % mức tỷ_lệ % để"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 19,
+     "text": "điểm b khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 11,
+     "end": 13,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 65,
+     "end": 67,
+     "text": "20 %"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 85,
+     "end": 87,
+     "text": "20 %"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 11,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 26,
+     "end": 27,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 45,
+     "end": 46,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 56,
+     "end": 57,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_37",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . 4 . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm a khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ áp_dụng các mức thuế_suất khác nhau thì trêh hóa_đơn giá_trị gia_tăng phải ghi rõ thuế_suất của từng hàng_hóa , dịch_vụ . theo quy_định tại khoản 3 Điều này . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm b khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ thì trên hóa_đơn bán hàng phải ghi",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "theo",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "khi",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "cung_cấp",
+    "dịch_vụ",
+    "áp_dụng",
+    "các",
+    "mức",
+    "thuế_suất",
+    "khác",
+    "nhau",
+    "thì",
+    "trêh",
+    "hóa_đơn",
+    "giá_trị",
+    "gia_tăng",
+    "phải",
+    "ghi",
+    "rõ",
+    "thuế_suất",
+    "của",
+    "từng",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    ".",
+    "theo",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "này",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "theo",
+    "quy_định",
+    "tại",
+    "điểm",
+    "b",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "khi",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "cung_cấp",
+    "dịch_vụ",
+    "thì",
+    "trên",
+    "hóa_đơn",
+    "bán",
+    "hàng",
+    "phải",
+    "ghi"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 90,
+     "text": "4 . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm a khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ áp_dụng các mức thuế_suất khác nhau thì trêh hóa_đơn giá_trị gia_tăng phải ghi rõ thuế_suất của từng hàng_hóa , dịch_vụ . theo quy_định tại khoản 3 Điều này . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm b khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ thì trên hóa_đơn bán hàng phải ghi"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 30,
+     "text": "điểm a khoản 2 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 60,
+     "end": 64,
+     "text": "khoản 3 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 71,
+     "end": 77,
+     "text": "điểm b khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 24,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 57,
+     "end": 60,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 68,
+     "end": 71,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 44,
+     "end": 45,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 85,
+     "end": 86,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 66,
+     "end": 68,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 32,
+     "end": 33,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 53,
+     "end": 54,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 79,
+     "end": 80,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 11,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_38",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 4 . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm a khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ áp_dụng các mức thuế_suất khác nhau thì trêh hóa_đơn giá_trị gia_tăng phải ghi rõ thuế_suất của từng hàng_hóa , dịch_vụ . theo quy_định tại khoản 3 Điều này . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm b khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ thì trên hóa_đơn bán hàng phải ghi",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "theo",
+    "quy_định",
+    "tại",
+    "điểm",
+    "a",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "khi",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "cung_cấp",
+    "dịch_vụ",
+    "áp_dụng",
+    "các",
+    "mức",
+    "thuế_suất",
+    "khác",
+    "nhau",
+    "thì",
+    "trêh",
+    "hóa_đơn",
+    "giá_trị",
+    "gia_tăng",
+    "phải",
+    "ghi",
+    "rõ",
+    "thuế_suất",
+    "của",
+    "từng",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    ".",
+    "theo",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "này",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "theo",
+    "quy_định",
+    "tại",
+    "điểm",
+    "b",
+    "khoản",
+    "2",
+    "Điều",
+    "này",
+    "khi",
+    "bán",
+    "hàng_hóa",
+    ",",
+    "cung_cấp",
+    "dịch_vụ",
+    "thì",
+    "trên",
+    "hóa_đơn",
+    "bán",
+    "hàng",
+    "phải",
+    "ghi"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 77,
+     "text": "4 . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm a khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ áp_dụng các mức thuế_suất khác nhau thì trêh hóa_đơn giá_trị gia_tăng phải ghi rõ thuế_suất của từng hàng_hóa , dịch_vụ . theo quy_định tại khoản 3 Điều này . Trường_hợp cơ_sở kinh_doanh theo quy_định tại điểm b khoản 2 Điều này khi bán hàng_hóa , cung_cấp dịch_vụ thì trên hóa_đơn bán hàng phải ghi"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 17,
+     "text": "điểm a khoản 2 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 47,
+     "end": 51,
+     "text": "khoản 3 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 58,
+     "end": 64,
+     "text": "điểm b khoản 2 Điều này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 44,
+     "end": 47,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 55,
+     "end": 58,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 31,
+     "end": 32,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 72,
+     "end": 73,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 6,
+     "end": 8,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 53,
+     "end": 55,
+     "text": "cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 20,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 66,
+     "end": 67,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_39",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . 5 . Trường_hợp cơ_sở kinh_doanh đã lập hóa_đơn và đã kê_khai theo mức thuế_suất hoặc mức tỷ_lệ % để tính thuế giá_trị gia_tăng chưa được giảm theo quy_định tại Nghị_định này thì người bán và người mua xử_lý hóa_đơn đã lập theo quy_định pháp_luật về hóa_đơn , chứng_từ . Căn_cứ vào hóa_đơn sau khi xử_lý , người bán kê_khai điều_chỉnh thuế đầu_ra , người mua kê_khai điều_chỉnh thuế đầu_vào ( nếu có ) .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "đã",
+    "lập",
+    "hóa_đơn",
+    "và",
+    "đã",
+    "kê_khai",
+    "theo",
+    "mức",
+    "thuế_suất",
+    "hoặc",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "chưa",
+    "được",
+    "giảm",
+    "theo",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "thì",
+    "người",
+    "bán",
+    "và",
+    "người",
+    "mua",
+    "xử_lý",
+    "hóa_đơn",
+    "đã",
+    "lập",
+    "theo",
+    "quy_định",
+    "pháp_luật",
+    "về",
+    "hóa_đơn",
+    ",",
+    "chứng_từ",
+    ".",
+    "Căn_cứ",
+    "vào",
+    "hóa_đơn",
+    "sau",
+    "khi",
+    "xử_lý",
+    ",",
+    "người",
+    "bán",
+    "kê_khai",
+    "điều_chỉnh",
+    "thuế",
+    "đầu_ra",
+    ",",
+    "người",
+    "mua",
+    "kê_khai",
+    "điều_chỉnh",
+    "thuế",
+    "đầu_vào",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 90,
+     "text": "5 . Trường_hợp cơ_sở kinh_doanh đã lập hóa_đơn và đã kê_khai theo mức thuế_suất hoặc mức tỷ_lệ % để tính thuế giá_trị gia_tăng chưa được giảm theo quy_định tại Nghị_định này thì người bán và người mua xử_lý hóa_đơn đã lập theo quy_định pháp_luật về hóa_đơn , chứng_từ . Căn_cứ vào hóa_đơn sau khi xử_lý , người bán kê_khai điều_chỉnh thuế đầu_ra , người mua kê_khai điều_chỉnh thuế đầu_vào ( nếu có ) ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 45,
+     "end": 47,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 42,
+     "end": 45,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 23,
+     "end": 24,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 54,
+     "end": 55,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 61,
+     "end": 64,
+     "text": "hóa_đơn , chứng_từ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 67,
+     "end": 68,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 21,
+     "text": "cơ_sở kinh_doanh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_40",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 5 . Trường_hợp cơ_sở kinh_doanh đã lập hóa_đơn và đã kê_khai theo mức thuế_suất hoặc mức tỷ_lệ % để tính thuế giá_trị gia_tăng chưa được giảm theo quy_định tại Nghị_định này thì người bán và người mua xử_lý hóa_đơn đã lập theo quy_định pháp_luật về hóa_đơn , chứng_từ . Căn_cứ vào hóa_đơn sau khi xử_lý , người bán kê_khai điều_chỉnh thuế đầu_ra , người mua kê_khai điều_chỉnh thuế đầu_vào ( nếu có ) .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "5",
+    ".",
+    "Trường_hợp",
+    "cơ_sở",
+    "kinh_doanh",
+    "đã",
+    "lập",
+    "hóa_đơn",
+    "và",
+    "đã",
+    "kê_khai",
+    "theo",
+    "mức",
+    "thuế_suất",
+    "hoặc",
+    "mức",
+    "tỷ_lệ",
+    "%",
+    "để",
+    "tính",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "chưa",
+    "được",
+    "giảm",
+    "theo",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "thì",
+    "người",
+    "bán",
+    "và",
+    "người",
+    "mua",
+    "xử_lý",
+    "hóa_đơn",
+    "đã",
+    "lập",
+    "theo",
+    "quy_định",
+    "pháp_luật",
+    "về",
+    "hóa_đơn",
+    ",",
+    "chứng_từ",
+    ".",
+    "Căn_cứ",
+    "vào",
+    "hóa_đơn",
+    "sau",
+    "khi",
+    "xử_lý",
+    ",",
+    "người",
+    "bán",
+    "kê_khai",
+    "điều_chỉnh",
+    "thuế",
+    "đầu_ra",
+    ",",
+    "người",
+    "mua",
+    "kê_khai",
+    "điều_chỉnh",
+    "thuế",
+    "đầu_vào",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 77,
+     "text": "5 . Trường_hợp cơ_sở kinh_doanh đã lập hóa_đơn và đã kê_khai theo mức thuế_suất hoặc mức tỷ_lệ % để tính thuế giá_trị gia_tăng chưa được giảm theo quy_định tại Nghị_định này thì người bán và người mua xử_lý hóa_đơn đã lập theo quy_định pháp_luật về hóa_đơn , chứng_từ . Căn_cứ vào hóa_đơn sau khi xử_lý , người bán kê_khai điều_chỉnh thuế đầu_ra , người mua kê_khai điều_chỉnh thuế đầu_vào ( nếu có ) ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 32,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 10,
+     "end": 11,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 41,
+     "end": 42,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 48,
+     "end": 51,
+     "text": "hóa_đơn , chứng_từ"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 54,
+     "end": 55,
+     "text": "hóa_đơn"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 6,
+     "end": 8,
+     "text": "cơ_sở kinh_doanh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_41",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 1 . 6 . Cơ_sở kinh_doanh quy_định tại Điều này thực_hiện kê_khai các hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng theo . Mầu số 01 tại Phụ_lục IV ban_hành kèm theo Nghị_định này cùng với Tờ khai thuế giá_trị gia_tăng .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "này",
+    "thực_hiện",
+    "kê_khai",
+    "các",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "được",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    ".",
+    "Mầu",
+    "số",
+    "01",
+    "tại",
+    "Phụ_lục",
+    "IV",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "cùng",
+    "với",
+    "Tờ",
+    "khai",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 49,
+     "text": "6 . Cơ_sở kinh_doanh quy_định tại Điều này thực_hiện kê_khai các hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng theo . Mầu số 01 tại Phụ_lục IV ban_hành kèm theo Nghị_định này cùng với Tờ khai thuế giá_trị gia_tăng ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 15,
+     "end": 17,
+     "text": "Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 41,
+     "text": "Phụ_lục IV ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 13,
+     "end": 15,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 43,
+     "end": 48,
+     "text": "Tờ khai thuế giá_trị gia_tăng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 13,
+     "text": "Cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_42",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 6 . Cơ_sở kinh_doanh quy_định tại Điều này thực_hiện kê_khai các hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng theo . Mầu số 01 tại Phụ_lục IV ban_hành kèm theo Nghị_định này cùng với Tờ khai thuế giá_trị gia_tăng .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Cơ_sở",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "Điều",
+    "này",
+    "thực_hiện",
+    "kê_khai",
+    "các",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "được",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "theo",
+    ".",
+    "Mầu",
+    "số",
+    "01",
+    "tại",
+    "Phụ_lục",
+    "IV",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Nghị_định",
+    "này",
+    "cùng",
+    "với",
+    "Tờ",
+    "khai",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 43,
+     "text": "6 . Cơ_sở kinh_doanh quy_định tại Điều này thực_hiện kê_khai các hàng_hóa , dịch_vụ được giảm thuế giá_trị gia_tăng theo . Mầu số 01 tại Phụ_lục IV ban_hành kèm theo Nghị_định này cùng với Tờ khai thuế giá_trị gia_tăng ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 28,
+     "end": 35,
+     "text": "Phụ_lục IV ban_hành kèm theo Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 9,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 37,
+     "end": 42,
+     "text": "Tờ khai thuế giá_trị gia_tăng"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 7,
+     "text": "Cơ_sở kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_43",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 2 . Hiệu_lực thi_hành và tồ chức thực_hiện",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    "và",
+    "tồ",
+    "chức",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 19,
+     "text": "Điều 2 . Hiệu_lực thi_hành và tồ chức thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_44",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 2 . 1 . Nghị_định này có hiệu_lực thi_hành từ ngày 01 tháng 7 năm 2023 đến hết ngày 31 tháng 12 năm 2023 .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Nghị_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "từ",
+    "ngày",
+    "01",
+    "tháng",
+    "7",
+    "năm",
+    "2023",
+    "đến",
+    "hết",
+    "ngày",
+    "31",
+    "tháng",
+    "12",
+    "năm",
+    "2023",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 36,
+     "text": "1 . Nghị_định này có hiệu_lực thi_hành từ ngày 01 tháng 7 năm 2023 đến hết ngày 31 tháng 12 năm 2023 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_45",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 2 . 2 . Các bộ theo chức_năng , nhiệm_vụ và ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương chỉ_đạo các cơ_quan liên_quan triển_khai tuyên_truyền , hướng_dẫn , kiểm_tra , giám_sát để người tiêu_dùng hiểu và được thụ_hưởng lợi_ích từ việc giảm thuế giá_trị gia_tăng quy_định tại Điều 1 Nghị_định này , trong đó tập_trung các giải_pháp ổn_định cung_cầu hàng_hóa , dịch_vụ thuộc đối_tượng gỉảm thuế giá_trị gia_tăng nhằm giữ bình_ổn",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "bộ",
+    "theo",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "và",
+    "ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "trung_ương",
+    "chỉ_đạo",
+    "các",
+    "cơ_quan",
+    "liên_quan",
+    "triển_khai",
+    "tuyên_truyền",
+    ",",
+    "hướng_dẫn",
+    ",",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    "để",
+    "người",
+    "tiêu_dùng",
+    "hiểu",
+    "và",
+    "được",
+    "thụ_hưởng",
+    "lợi_ích",
+    "từ",
+    "việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "Nghị_định",
+    "này",
+    ",",
+    "trong",
+    "đó",
+    "tập_trung",
+    "các",
+    "giải_pháp",
+    "ổn_định",
+    "cung_cầu",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "gỉảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "nhằm",
+    "giữ",
+    "bình_ổn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 77,
+     "text": "2 . Các bộ theo chức_năng , nhiệm_vụ và ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương chỉ_đạo các cơ_quan liên_quan triển_khai tuyên_truyền , hướng_dẫn , kiểm_tra , giám_sát để người tiêu_dùng hiểu và được thụ_hưởng lợi_ích từ việc giảm thuế giá_trị gia_tăng quy_định tại Điều 1 Nghị_định này , trong đó tập_trung các giải_pháp ổn_định cung_cầu hàng_hóa , dịch_vụ thuộc đối_tượng gỉảm thuế giá_trị gia_tăng nhằm giữ bình_ổn"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 53,
+     "end": 57,
+     "text": "Điều 1 Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 51,
+     "end": 53,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 25,
+     "text": "ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 65,
+     "end": 66,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_46",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Các bộ theo chức_năng , nhiệm_vụ và ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương chỉ_đạo các cơ_quan liên_quan triển_khai tuyên_truyền , hướng_dẫn , kiểm_tra , giám_sát để người tiêu_dùng hiểu và được thụ_hưởng lợi_ích từ việc giảm thuế giá_trị gia_tăng quy_định tại Điều 1 Nghị_định này , trong đó tập_trung các giải_pháp ổn_định cung_cầu hàng_hóa , dịch_vụ thuộc đối_tượng gỉảm thuế giá_trị gia_tăng nhằm giữ bình_ổn",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "bộ",
+    "theo",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    "và",
+    "ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "trung_ương",
+    "chỉ_đạo",
+    "các",
+    "cơ_quan",
+    "liên_quan",
+    "triển_khai",
+    "tuyên_truyền",
+    ",",
+    "hướng_dẫn",
+    ",",
+    "kiểm_tra",
+    ",",
+    "giám_sát",
+    "để",
+    "người",
+    "tiêu_dùng",
+    "hiểu",
+    "và",
+    "được",
+    "thụ_hưởng",
+    "lợi_ích",
+    "từ",
+    "việc",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "quy_định",
+    "tại",
+    "Điều",
+    "1",
+    "Nghị_định",
+    "này",
+    ",",
+    "trong",
+    "đó",
+    "tập_trung",
+    "các",
+    "giải_pháp",
+    "ổn_định",
+    "cung_cầu",
+    "hàng_hóa",
+    ",",
+    "dịch_vụ",
+    "thuộc",
+    "đối_tượng",
+    "gỉảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng",
+    "nhằm",
+    "giữ",
+    "bình_ổn"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 71,
+     "text": "2 . Các bộ theo chức_năng , nhiệm_vụ và ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương chỉ_đạo các cơ_quan liên_quan triển_khai tuyên_truyền , hướng_dẫn , kiểm_tra , giám_sát để người tiêu_dùng hiểu và được thụ_hưởng lợi_ích từ việc giảm thuế giá_trị gia_tăng quy_định tại Điều 1 Nghị_định này , trong đó tập_trung các giải_pháp ổn_định cung_cầu hàng_hóa , dịch_vụ thuộc đối_tượng gỉảm thuế giá_trị gia_tăng nhằm giữ bình_ổn"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 47,
+     "end": 51,
+     "text": "Điều 1 Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 45,
+     "end": 47,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 19,
+     "text": "ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 59,
+     "end": 60,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_47",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 2 . 3 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc giao Bộ Tài_chính hướng_dẫn , giải_quyết .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    "nếu",
+    "phát_sinh",
+    "vướng_mắc",
+    "giao",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    ",",
+    "giải_quyết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 31,
+     "text": "3 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc giao Bộ Tài_chính hướng_dẫn , giải_quyết ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_48",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 3 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc giao Bộ Tài_chính hướng_dẫn , giải_quyết .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    "nếu",
+    "phát_sinh",
+    "vướng_mắc",
+    "giao",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    ",",
+    "giải_quyết",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 18,
+     "text": "3 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc giao Bộ Tài_chính hướng_dẫn , giải_quyết ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 14,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_49",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 2 . 4 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các doanh_nghiệp , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thỉ hành Nghị_định này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "trung_ương",
+    "và",
+    "các",
+    "doanh_nghiệp",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thỉ",
+    "hành",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 48,
+     "text": "4 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các doanh_nghiệp , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thỉ hành Nghị_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 22,
+     "end": 23,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 32,
+     "text": "Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 35,
+     "text": "doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_50",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 4 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các doanh_nghiệp , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thỉ hành Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "4",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "trung_ương",
+    "và",
+    "các",
+    "doanh_nghiệp",
+    ",",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thỉ",
+    "hành",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 42,
+     "text": "4 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các doanh_nghiệp , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thỉ hành Nghị_định này ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 17,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 26,
+     "text": "Chủ_tịch ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 28,
+     "end": 29,
+     "text": "doanh_nghiệp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_51",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . Giảm thuế giá_trị gia_tăng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 20,
+     "text": "Điều 1 . Giảm thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_52",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 1 . 2 . Mức giảm thuế giá_trị gia_tăng",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Mức",
+    "giảm",
+    "thuế",
+    "giá_trị",
+    "gia_tăng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 23,
+     "text": "2 . Mức giảm thuế giá_trị gia_tăng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_53",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 44/2023/NĐ-CP . Điều 1 . 3 . Trình_tự , thủ_tục thực_hiện",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Trình_tự",
+    ",",
+    "thủ_tục",
+    "thực_hiện"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 15,
+     "text": "3 . Trình_tự , thủ_tục thực_hiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_54",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP của Chính_phủ trong lĩnh_vực Chính_sách thuế . Điều 2 . Khoản 4 . đ ) Xe mô_tô hai bánh , xe mô_tô ba bánh có dung_tích xi_lanh trên 125 cm3 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Chính_sách",
+    "thuế",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "đ",
+    ")",
+    "Xe",
+    "mô_tô",
+    "hai",
+    "bánh",
+    ",",
+    "xe",
+    "mô_tô",
+    "ba",
+    "bánh",
+    "có",
+    "dung_tích",
+    "xi_lanh",
+    "trên",
+    "125",
+    "cm3",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Chính_sách thuế"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 15,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 16,
+     "end": 34,
+     "text": "đ ) Xe mô_tô hai bánh , xe mô_tô ba bánh có dung_tích xi_lanh trên 125 cm3 ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_standalone_55",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Khoản 4 . đ ) Xe mô_tô hai bánh , xe mô_tô ba bánh có dung_tích xi_lanh trên 125 cm3 ;",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "đ",
+    ")",
+    "Xe",
+    "mô_tô",
+    "hai",
+    "bánh",
+    ",",
+    "xe",
+    "mô_tô",
+    "ba",
+    "bánh",
+    "có",
+    "dung_tích",
+    "xi_lanh",
+    "trên",
+    "125",
+    "cm3",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 24,
+     "text": "đ ) Xe mô_tô hai bánh , xe mô_tô ba bánh có dung_tích xi_lanh trên 125 cm3 ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#body_context_56",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 44/2023/NĐ-CP ban_hành ngày 30 tháng 06 năm 2023 bởi Chính_phủ . Điều 2 . Khoản 4 . đ ) Kinh_doanh gôn ( golf ) bao_gồm bán thẻ hội_viên , vé chơi gôn ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "44/2023/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "30",
+    "tháng",
+    "06",
+    "năm",
+    "2023",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Khoản",
+    "4",
+    ".",
+    "đ",
+    ")",
+    "Kinh_doanh",
+    "gôn",
+    "(",
+    "golf",
+    ")",
+    "bao_gồm",
+    "bán",
+    "thẻ",
+    "hội_viên",
+    ",",
+    "vé",
+    "chơi",
+    "gôn",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "44/2023/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 30 tháng 06 năm 2023"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 18,
+     "text": "Khoản 4"
+    },
+    {
+     "type": "DIEM",
+     "start": 19,
+     "end": 35,
+     "text": "đ ) Kinh_doanh gôn ( golf ) bao_gồm bán thẻ hội_viên , vé chơi gôn ;"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 28,
+     "end": 30,
+     "text": "thẻ hội_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#hard_negative_57",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#hard_negative_58",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "hard_negative",
+   "text": "Độc_lập - Tự_do - Hạnh_phúc",
+   "tokens": [
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "44_2023_NĐ-CP_163749#hard_negative_59",
+   "doc": "44_2023_NĐ-CP_163749",
+   "category": "nghi_dinh",
+   "kind": "hard_negative",
+   "text": "Nơi nhận :",
+   "tokens": [
+    "Nơi",
+    "nhận",
+    ":"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

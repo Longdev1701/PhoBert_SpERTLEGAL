@@ -1,0 +1,263 @@
+{
+ "doc_id": "14_2007_QĐ-BTC_39852",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 14/2007/QĐ-BTC Về việc ban hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 14/2007/QĐ-BTC\nNgày 15 tháng 3 năm 2007\nQUYẾT ĐỊNH\nBan hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước theo Quyết định 24/2006/QĐ-BTC do Bộ trưởng Bộ Tài chính ban hành\nBỘ TRƯỞNG BỘ TÀI CHÍNH\n- Căn cứ Luật ngân sách Nhà nước ngày 16/12/2002;\n- Căn cứ Luật Kế toán ngày 17/6/2003;\n- Căn cứ Nghị định số 86/2002/NĐ-CP ngày 5/11/2002 của Chính phủ quy định chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;\n- Căn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;\n- Căn cứ Quyết định số 235/2003/QĐ-TTg ngày 13/11/2003 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Kho bạc nhà nước trực thuộc Bộ Tài chính;\nTheo đề nghị của Vụ trưởng Vụ Ngân sách nhà nước và Tổng Giám đốc Kho bạc Nhà nước;\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính.\nĐiều 3. Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định.\nĐiều 4. Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá\n",
+ "total_chars": 2229,
+ "total_paras": 20,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 28,
+   "text": "14/2007/QĐ-BTC"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 262,
+   "end": 274,
+   "text": "Bộ Tài chính"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 370,
+   "end": 394,
+   "text": "Ngày 15 tháng 3 năm 2007"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính.",
+   "parent": "e_so_hieu",
+   "start": 1299,
+   "end": 1569,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính.",
+   "parent": "e_so_hieu",
+   "start": 1570,
+   "end": 1836,
+   "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định.",
+   "parent": "e_so_hieu",
+   "start": 1837,
+   "end": 2095,
+   "text": "Điều 3. Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định."
+  },
+  {
+   "id": "e_dieu_4",
+   "type": "DIEU",
+   "number": "4",
+   "title": "Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá",
+   "parent": "e_so_hieu",
+   "start": 2096,
+   "end": 2228,
+   "text": "Điều 4. Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá"
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 2217,
+   "end": 2228,
+   "text": "Trần Văn Tá"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_4",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "14_2007_QĐ-BTC_39852",
+ "doc": "14_2007_QĐ-BTC_39852",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 9,
+ "total_relations": 8,
+ "samples": [
+  {
+   "id": "14_2007_QĐ-BTC_39852",
+   "doc": "14_2007_QĐ-BTC_39852",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 14/2007/QĐ-BTC Về việc ban hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 14/2007/QĐ-BTC\nNgày 15 tháng 3 năm 2007\nQUYẾT ĐỊNH\nBan hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước theo Quyết định 24/2006/QĐ-BTC do Bộ trưởng Bộ Tài chính ban hành\nBỘ TRƯỞNG BỘ TÀI CHÍNH\n- Căn cứ Luật ngân sách Nhà nước ngày 16/12/2002;\n- Căn cứ Luật Kế toán ngày 17/6/2003;\n- Căn cứ Nghị định số 86/2002/NĐ-CP ngày 5/11/2002 của Chính phủ quy định chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;\n- Căn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;\n- Căn cứ Quyết định số 235/2003/QĐ-TTg ngày 13/11/2003 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Kho bạc nhà nước trực thuộc Bộ Tài chính;\nTheo đề nghị của Vụ trưởng Vụ Ngân sách nhà nước và Tổng Giám đốc Kho bạc Nhà nước;\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính.\nĐiều 3. Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định.\nĐiều 4. Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá\n",
+   "full_text": "Quyết định số 14/2007/QĐ-BTC Về việc ban hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính\nBỘ TÀI CHÍNH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 14/2007/QĐ-BTC\nNgày 15 tháng 3 năm 2007\nQUYẾT ĐỊNH\nBan hành Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước theo Quyết định 24/2006/QĐ-BTC do Bộ trưởng Bộ Tài chính ban hành\nBỘ TRƯỞNG BỘ TÀI CHÍNH\n- Căn cứ Luật ngân sách Nhà nước ngày 16/12/2002;\n- Căn cứ Luật Kế toán ngày 17/6/2003;\n- Căn cứ Nghị định số 86/2002/NĐ-CP ngày 5/11/2002 của Chính phủ quy định chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;\n- Căn cứ Nghị định số 77/2003/NĐ-CP ngày 01/7/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;\n- Căn cứ Quyết định số 235/2003/QĐ-TTg ngày 13/11/2003 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Kho bạc nhà nước trực thuộc Bộ Tài chính;\nTheo đề nghị của Vụ trưởng Vụ Ngân sách nhà nước và Tổng Giám đốc Kho bạc Nhà nước;\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính.\nĐiều 3. Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định.\nĐiều 4. Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá\n",
+   "total_chars": 2229,
+   "total_paras": 20,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 28,
+     "text": "14/2007/QĐ-BTC"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 262,
+     "end": 274,
+     "text": "Bộ Tài chính"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 370,
+     "end": 394,
+     "text": "Ngày 15 tháng 3 năm 2007"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính.",
+     "parent": "e_so_hieu",
+     "start": 1299,
+     "end": 1569,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này Hệ thống báo cáo tài chính và báo cáo kế toán quản trị áp dụng trong Chế độ kế toán ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước ban hành theo Quyết định số 24/2006/QĐ-BTC ngày 06/04/2006 của Bộ trưởng Bộ Tài chính."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính.",
+     "parent": "e_so_hieu",
+     "start": 1570,
+     "end": 1836,
+     "text": "Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo và thực hiện từ năm ngân sách 2007, thay thế Hệ thống báo cáo tài chính và báo cáo kế toán quản trị quy định tại Quyết định số 130/2003/QĐ-BTC ngày 18/8/2003 của Bộ trưởng Bộ Tài chính."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định.",
+     "parent": "e_so_hieu",
+     "start": 1837,
+     "end": 2095,
+     "text": "Điều 3. Tổng Giám đốc Kho bạc Nhà nước, Vụ trưởng Vụ Ngân sách nhà nước chịu trách nhiệm tổ chức, hướng dẫn thi hành Quyết định này. Các báo cáo Kho bạc Nhà nước cung cấp cho cơ quan Tài chính phải đảm bảo tính hợp pháp, chính xác và đúng thời gian quy định."
+    },
+    {
+     "id": "e_dieu_4",
+     "type": "DIEU",
+     "number": "4",
+     "title": "Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá",
+     "parent": "e_so_hieu",
+     "start": 2096,
+     "end": 2228,
+     "text": "Điều 4. Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.KT. BỘ TRƯỞNG THỨ TRƯỞNG(Đã ký)Trần Văn Tá"
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 2217,
+     "end": 2228,
+     "text": "Trần Văn Tá"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_4",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

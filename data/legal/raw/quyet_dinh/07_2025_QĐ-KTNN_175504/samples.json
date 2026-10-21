@@ -1,0 +1,203 @@
+{
+ "doc_id": "07_2025_QĐ-KTNN_175504",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 07/2025/QĐ-KTNN bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nKIỂM TOÁN NHÀ NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2025/QĐ-KTNN\nHà Nội, ngày 25 tháng 2 năm 2025\nQUYẾT ĐỊNH\nBãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019;\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật và Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 59/2024/NĐ-CP ngày 25 tháng 5 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nTổng Kiểm toán nhà nước ban hành Quyết định bãi bỏ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 1. Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nBãi bỏ toàn bộ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 2. Điều khoản thi hành\nQuyết định này có hiệu lực thi hành kể từ ngày ký. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nNgô Văn Tuấn\n",
+ "total_chars": 2127,
+ "total_paras": 19,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 29,
+   "text": "07/2025/QĐ-KTNN"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 77,
+   "end": 95,
+   "text": "Kiểm toán nhà nước"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 206,
+   "end": 230,
+   "text": "ngày 25 tháng 2 năm 2025"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước",
+   "parent": "e_so_hieu",
+   "start": 1659,
+   "end": 1879,
+   "text": "Điều 1. Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nBãi bỏ toàn bộ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Điều khoản thi hành",
+   "parent": "e_so_hieu",
+   "start": 1880,
+   "end": 2126,
+   "text": "Điều 2. Điều khoản thi hành\nQuyết định này có hiệu lực thi hành kể từ ngày ký. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nNgô Văn Tuấn"
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 2114,
+   "end": 2126,
+   "text": "Ngô Văn Tuấn"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "07_2025_QĐ-KTNN_175504",
+ "doc": "07_2025_QĐ-KTNN_175504",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "07_2025_QĐ-KTNN_175504",
+   "doc": "07_2025_QĐ-KTNN_175504",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 07/2025/QĐ-KTNN bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nKIỂM TOÁN NHÀ NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2025/QĐ-KTNN\nHà Nội, ngày 25 tháng 2 năm 2025\nQUYẾT ĐỊNH\nBãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019;\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật và Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 59/2024/NĐ-CP ngày 25 tháng 5 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nTổng Kiểm toán nhà nước ban hành Quyết định bãi bỏ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 1. Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nBãi bỏ toàn bộ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 2. Điều khoản thi hành\nQuyết định này có hiệu lực thi hành kể từ ngày ký. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nNgô Văn Tuấn\n",
+   "full_text": "Quyết định số 07/2025/QĐ-KTNN bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nKIỂM TOÁN NHÀ NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 07/2025/QĐ-KTNN\nHà Nội, ngày 25 tháng 2 năm 2025\nQUYẾT ĐỊNH\nBãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019;\nCăn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020;\nCăn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật và Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 59/2024/NĐ-CP ngày 25 tháng 5 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ;\nTheo đề nghị của Vụ trưởng Vụ Pháp chế;\nTổng Kiểm toán nhà nước ban hành Quyết định bãi bỏ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 1. Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nBãi bỏ toàn bộ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán.\nĐiều 2. Điều khoản thi hành\nQuyết định này có hiệu lực thi hành kể từ ngày ký. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nNgô Văn Tuấn\n",
+   "total_chars": 2127,
+   "total_paras": 19,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 29,
+     "text": "07/2025/QĐ-KTNN"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 77,
+     "end": 95,
+     "text": "Kiểm toán nhà nước"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 206,
+     "end": 230,
+     "text": "ngày 25 tháng 2 năm 2025"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước",
+     "parent": "e_so_hieu",
+     "start": 1659,
+     "end": 1879,
+     "text": "Điều 1. Bãi bỏ một văn bản quy phạm pháp luật của Tổng Kiểm toán nhà nước\nBãi bỏ toàn bộ Quyết định số 04/2010/QĐ-KTNN ngày 02 tháng 6 năm 2010 của Tổng Kiểm toán nhà nước ban hành Quy chế kiểm soát chất lượng kiểm toán."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Điều khoản thi hành",
+     "parent": "e_so_hieu",
+     "start": 1880,
+     "end": 2126,
+     "text": "Điều 2. Điều khoản thi hành\nQuyết định này có hiệu lực thi hành kể từ ngày ký. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nNgô Văn Tuấn"
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 2114,
+     "end": 2126,
+     "text": "Ngô Văn Tuấn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

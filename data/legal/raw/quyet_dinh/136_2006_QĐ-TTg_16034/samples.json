@@ -1,0 +1,367 @@
+{
+ "doc_id": "136_2006_QĐ-TTg_16034",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 136/2006/QĐ-TTg Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 136/2006/QĐ-TTg\nHà Nội, ngày 08 tháng 6 năm 2006\nQUYẾT ĐỊNH\nPhê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc\nỦy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001.\nCăn cứ Nghị định số 170/2004/NĐ-CP ngày 22 tháng 09 năm 2004 của Chính phủ về sắp xếp, đổi mới và phát triển nông trường quốc doanh.\nXét đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn và Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh.\nQUYẾT ĐỊNH:\nĐiều 1. Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:\nTiếp tục củng cố và phát triển các công ty:\n- Công ty Mía đường Tây Ninh.\n- Công ty trách nhiệm hữu hạn một thành viên 22/12.\n- Công ty Cao su 1/5 Tây Ninh.\nCổ phần hoá các cơ sở chế biến của ba Công ty này.\nĐiều 2. Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:\n1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này.\n2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này.\n3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng.\nĐiều 3. Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nChủ tịch Ủy ban nhân dân tỉnh Tây Ninh và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này./.KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Tấn Dũng\n",
+ "total_chars": 2020,
+ "total_paras": 27,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 29,
+   "text": "136/2006/QĐ-TTg"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 122,
+   "end": 141,
+   "text": "THỦ TƯỚNG CHÍNH PHỦ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 233,
+   "end": 257,
+   "text": "ngày 08 tháng 6 năm 2006"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:",
+   "parent": "e_so_hieu",
+   "start": 691,
+   "end": 1007,
+   "text": "Điều 1. Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:\nTiếp tục củng cố và phát triển các công ty:\n- Công ty Mía đường Tây Ninh.\n- Công ty trách nhiệm hữu hạn một thành viên 22/12.\n- Công ty Cao su 1/5 Tây Ninh.\nCổ phần hoá các cơ sở chế biến của ba Công ty này."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:",
+   "parent": "e_so_hieu",
+   "start": 1008,
+   "end": 1502,
+   "text": "Điều 2. Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:\n1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này.\n2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này.\n3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng."
+  },
+  {
+   "id": "e_khoan_2_1",
+   "type": "KHOAN",
+   "number": "1",
+   "parent": "e_dieu_2",
+   "start": 1056,
+   "end": 1152,
+   "text": "1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này."
+  },
+  {
+   "id": "e_khoan_2_2",
+   "type": "KHOAN",
+   "number": "2",
+   "parent": "e_dieu_2",
+   "start": 1153,
+   "end": 1282,
+   "text": "2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này."
+  },
+  {
+   "id": "e_khoan_2_3",
+   "type": "KHOAN",
+   "number": "3",
+   "parent": "e_dieu_2",
+   "start": 1283,
+   "end": 1502,
+   "text": "3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này.",
+   "parent": "e_so_hieu",
+   "start": 1503,
+   "end": 1768,
+   "text": "Điều 3. Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này."
+  },
+  {
+   "id": "e_dieu_4",
+   "type": "DIEU",
+   "number": "4",
+   "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 1769,
+   "end": 1851,
+   "text": "Điều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_nguoi_ky",
+   "type": "NGUOI",
+   "start": 2004,
+   "end": 2019,
+   "text": "Nguyễn Tấn Dũng"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "KY_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_nguoi_ky"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "VIEN_DAN",
+   "head": "e_dieu_2",
+   "tail": "e_dieu_1"
+  },
+  {
+   "type": "VIEN_DAN",
+   "head": "e_khoan_2_1",
+   "tail": "e_dieu_1"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_2_1",
+   "tail": "e_dieu_2"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_2_2",
+   "tail": "e_dieu_2"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_khoan_2_3",
+   "tail": "e_dieu_2"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_4",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "136_2006_QĐ-TTg_16034",
+ "doc": "136_2006_QĐ-TTg_16034",
+ "split": "test",
+ "total_samples": 1,
+ "total_entities": 12,
+ "total_relations": 13,
+ "samples": [
+  {
+   "id": "136_2006_QĐ-TTg_16034",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 136/2006/QĐ-TTg Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 136/2006/QĐ-TTg\nHà Nội, ngày 08 tháng 6 năm 2006\nQUYẾT ĐỊNH\nPhê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc\nỦy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001.\nCăn cứ Nghị định số 170/2004/NĐ-CP ngày 22 tháng 09 năm 2004 của Chính phủ về sắp xếp, đổi mới và phát triển nông trường quốc doanh.\nXét đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn và Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh.\nQUYẾT ĐỊNH:\nĐiều 1. Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:\nTiếp tục củng cố và phát triển các công ty:\n- Công ty Mía đường Tây Ninh.\n- Công ty trách nhiệm hữu hạn một thành viên 22/12.\n- Công ty Cao su 1/5 Tây Ninh.\nCổ phần hoá các cơ sở chế biến của ba Công ty này.\nĐiều 2. Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:\n1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này.\n2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này.\n3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng.\nĐiều 3. Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nChủ tịch Ủy ban nhân dân tỉnh Tây Ninh và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này./.KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Tấn Dũng\n",
+   "full_text": "Quyết định số 136/2006/QĐ-TTg Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 136/2006/QĐ-TTg\nHà Nội, ngày 08 tháng 6 năm 2006\nQUYẾT ĐỊNH\nPhê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc\nỦy ban nhân dân tỉnh Tây Ninh\nTHỦ TƯỚNG CHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001.\nCăn cứ Nghị định số 170/2004/NĐ-CP ngày 22 tháng 09 năm 2004 của Chính phủ về sắp xếp, đổi mới và phát triển nông trường quốc doanh.\nXét đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn và Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh.\nQUYẾT ĐỊNH:\nĐiều 1. Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:\nTiếp tục củng cố và phát triển các công ty:\n- Công ty Mía đường Tây Ninh.\n- Công ty trách nhiệm hữu hạn một thành viên 22/12.\n- Công ty Cao su 1/5 Tây Ninh.\nCổ phần hoá các cơ sở chế biến của ba Công ty này.\nĐiều 2. Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:\n1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này.\n2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này.\n3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng.\nĐiều 3. Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này.\nĐiều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nChủ tịch Ủy ban nhân dân tỉnh Tây Ninh và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này./.KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG(Đã ký)Nguyễn Tấn Dũng\n",
+   "total_chars": 2020,
+   "total_paras": 27,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 29,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 122,
+     "end": 141,
+     "text": "THỦ TƯỚNG CHÍNH PHỦ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 233,
+     "end": 257,
+     "text": "ngày 08 tháng 6 năm 2006"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:",
+     "parent": "e_so_hieu",
+     "start": 691,
+     "end": 1007,
+     "text": "Điều 1. Phê duyệt Đề án sắp xếp, đổi mới nông trường quốc doanh thuộc Ủy ban nhân dân tỉnh Tây Ninh như sau:\nTiếp tục củng cố và phát triển các công ty:\n- Công ty Mía đường Tây Ninh.\n- Công ty trách nhiệm hữu hạn một thành viên 22/12.\n- Công ty Cao su 1/5 Tây Ninh.\nCổ phần hoá các cơ sở chế biến của ba Công ty này."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:",
+     "parent": "e_so_hieu",
+     "start": 1008,
+     "end": 1502,
+     "text": "Điều 2. Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh:\n1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này.\n2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này.\n3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng."
+    },
+    {
+     "id": "e_khoan_2_1",
+     "type": "KHOAN",
+     "number": "1",
+     "parent": "e_dieu_2",
+     "start": 1056,
+     "end": 1152,
+     "text": "1. Chỉ đạo thực hiện việc sắp xếp, đổi mới nông trường quốc doanh như Điều 1 của Quyết định này."
+    },
+    {
+     "id": "e_khoan_2_2",
+     "type": "KHOAN",
+     "number": "2",
+     "parent": "e_dieu_2",
+     "start": 1153,
+     "end": 1282,
+     "text": "2. Phối hợp với các tổ chức chính trị, tổ chức chính trị - xã hội sắp xếp các công ty sản xuất nông nghiệp thuộc các tổ chức này."
+    },
+    {
+     "id": "e_khoan_2_3",
+     "type": "KHOAN",
+     "number": "3",
+     "parent": "e_dieu_2",
+     "start": 1283,
+     "end": 1502,
+     "text": "3. Quyết định điều chỉnh lại diện tích, ranh giới các loại đất giao cho các nông trường phù hợp với quy hoạch phát triển nông nghiệp của địa phương và các quy định của pháp luật về đất đai, về bảo vệ và phát triển rừng."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này.",
+     "parent": "e_so_hieu",
+     "start": 1503,
+     "end": 1768,
+     "text": "Điều 3. Các Bộ: Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư, Tài nguyên và Môi trường, Lao động - Thương binh và Xã hội, Nội vụ và các cơ quan liên quan có trách nhiệm phối hợp với Ủy ban nhân dân tỉnh Tây Ninh trong việc thực hiện Đề án này."
+    },
+    {
+     "id": "e_dieu_4",
+     "type": "DIEU",
+     "number": "4",
+     "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 1769,
+     "end": 1851,
+     "text": "Điều 4. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_nguoi_ky",
+     "type": "NGUOI",
+     "start": 2004,
+     "end": 2019,
+     "text": "Nguyễn Tấn Dũng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "KY_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_nguoi_ky"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "VIEN_DAN",
+     "head": "e_dieu_2",
+     "tail": "e_dieu_1"
+    },
+    {
+     "type": "VIEN_DAN",
+     "head": "e_khoan_2_1",
+     "tail": "e_dieu_1"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_2_1",
+     "tail": "e_dieu_2"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_2_2",
+     "tail": "e_dieu_2"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_khoan_2_3",
+     "tail": "e_dieu_2"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_4",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

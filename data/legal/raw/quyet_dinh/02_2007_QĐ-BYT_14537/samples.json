@@ -1,0 +1,209 @@
+{
+ "doc_id": "02_2007_QĐ-BYT_14537",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 02/2007/QĐ-BYT Về việc ban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nQUYẾT ĐỊNH\nban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nBỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 49/2003/NĐ-CP ngày 15 tháng 5 năm 2003 về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Y tế;\nCăn cứ Pháp lệnh Vệ sinh an toàn thực phẩm số 12/PL-UBTVQH ngày 26 tháng 7 năm 2003 của Uỷ ban Thường vụ Quốc hội và Nghị định số 163/2004/NĐ-CP ngày 07/9/2004 của Chính phủ quy định chi tiết một số điều của Pháp lệnh vệ sinh an toàn thực phẩm;\nCăn cứ Pháp lệnh Chất lượng hàng hóa số 18/1999/PL-UBTVQH ngày 24 tháng 12 năm 1999 của Uỷ ban thường vụ Quốc hội ;\nNghị định số 179/2004/NĐ-CP ngày 21 tháng 10 năm 2004 của Chính phủ quy định quản lý nhà nước về chất lượng sản phẩm, hàng hóa; Nghị định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính phủ về nhãn hàng hoá;\nCăn cứ Nghị quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính phủ về Chính sách quốc gia phòng chống tác hại thuốc lá trong giai đoạn 2000-2010 ;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Đào tạo, Cục trưởng Cục An toàn vệ sinh thực phẩm, Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”.\nĐiều 3. Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./.\n",
+ "total_chars": 1784,
+ "total_paras": 14,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 28,
+   "text": "02/2007/QĐ-BYT"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 184,
+   "end": 191,
+   "text": "BỘ Y TẾ"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 226,
+   "end": 250,
+   "text": "ngày 15 tháng 5 năm 2003"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”",
+   "parent": "e_so_hieu",
+   "start": 1167,
+   "end": 1260,
+   "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”"
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”.",
+   "parent": "e_so_hieu",
+   "start": 1261,
+   "end": 1456,
+   "text": "Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 1457,
+   "end": 1783,
+   "text": "Điều 3. Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./."
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "02_2007_QĐ-BYT_14537",
+ "doc": "02_2007_QĐ-BYT_14537",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 7,
+ "total_relations": 6,
+ "samples": [
+  {
+   "id": "02_2007_QĐ-BYT_14537",
+   "doc": "02_2007_QĐ-BYT_14537",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 02/2007/QĐ-BYT Về việc ban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nQUYẾT ĐỊNH\nban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nBỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 49/2003/NĐ-CP ngày 15 tháng 5 năm 2003 về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Y tế;\nCăn cứ Pháp lệnh Vệ sinh an toàn thực phẩm số 12/PL-UBTVQH ngày 26 tháng 7 năm 2003 của Uỷ ban Thường vụ Quốc hội và Nghị định số 163/2004/NĐ-CP ngày 07/9/2004 của Chính phủ quy định chi tiết một số điều của Pháp lệnh vệ sinh an toàn thực phẩm;\nCăn cứ Pháp lệnh Chất lượng hàng hóa số 18/1999/PL-UBTVQH ngày 24 tháng 12 năm 1999 của Uỷ ban thường vụ Quốc hội ;\nNghị định số 179/2004/NĐ-CP ngày 21 tháng 10 năm 2004 của Chính phủ quy định quản lý nhà nước về chất lượng sản phẩm, hàng hóa; Nghị định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính phủ về nhãn hàng hoá;\nCăn cứ Nghị quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính phủ về Chính sách quốc gia phòng chống tác hại thuốc lá trong giai đoạn 2000-2010 ;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Đào tạo, Cục trưởng Cục An toàn vệ sinh thực phẩm, Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”.\nĐiều 3. Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./.\n",
+   "full_text": "Quyết định số 02/2007/QĐ-BYT Về việc ban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nQUYẾT ĐỊNH\nban hành Quy định về vệ sinh an toàn đối với sản phẩm thuốc lá\nBỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 49/2003/NĐ-CP ngày 15 tháng 5 năm 2003 về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Y tế;\nCăn cứ Pháp lệnh Vệ sinh an toàn thực phẩm số 12/PL-UBTVQH ngày 26 tháng 7 năm 2003 của Uỷ ban Thường vụ Quốc hội và Nghị định số 163/2004/NĐ-CP ngày 07/9/2004 của Chính phủ quy định chi tiết một số điều của Pháp lệnh vệ sinh an toàn thực phẩm;\nCăn cứ Pháp lệnh Chất lượng hàng hóa số 18/1999/PL-UBTVQH ngày 24 tháng 12 năm 1999 của Uỷ ban thường vụ Quốc hội ;\nNghị định số 179/2004/NĐ-CP ngày 21 tháng 10 năm 2004 của Chính phủ quy định quản lý nhà nước về chất lượng sản phẩm, hàng hóa; Nghị định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính phủ về nhãn hàng hoá;\nCăn cứ Nghị quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính phủ về Chính sách quốc gia phòng chống tác hại thuốc lá trong giai đoạn 2000-2010 ;\nTheo đề nghị của Vụ trưởng Vụ Khoa học và Đào tạo, Cục trưởng Cục An toàn vệ sinh thực phẩm, Bộ Y tế.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”\nĐiều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”.\nĐiều 3. Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./.\n",
+   "total_chars": 1784,
+   "total_paras": 14,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 28,
+     "text": "02/2007/QĐ-BYT"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 184,
+     "end": 191,
+     "text": "BỘ Y TẾ"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 226,
+     "end": 250,
+     "text": "ngày 15 tháng 5 năm 2003"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”",
+     "parent": "e_so_hieu",
+     "start": 1167,
+     "end": 1260,
+     "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định vệ sinh an toàn đối với sản phẩm thuốc lá”"
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”.",
+     "parent": "e_so_hieu",
+     "start": 1261,
+     "end": 1456,
+     "text": "Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.Bãi bỏ Quyết định số 2019/2000/QĐ-BYT ngày 30/6/2000 của Bộ trưởng Bộ Y tế về “Quy định tạm thời về vệ sinh thuốc lá điếu”."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 1457,
+     "end": 1783,
+     "text": "Điều 3. Các ông, bà: Chánh Văn phòng, Chánh Thanh tra Bộ Y tế, Vụ trưởng các Vụ: Pháp chế, Khoa học và Đào tạo; Cục trưởng Cục An toàn vệ sinh thực phẩm, Giám đốc Sở Y tế tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị liên quan thuộc Bộ Y tế, Thủ trưởng Y tế các ngành chịu trách nhiệm thi hành Quyết định này./."
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "level": "Chương",
+    "number": "I",
+    "title": "Chương I. NHỮNG QUY ĐỊNH CHUNG",
+    "content": "",
+    "children": [
+      {
+        "level": "Điều",
+        "number": "1",
+        "title": "Điều 1. Phạm vi điều chỉnh",
+        "content": "Nghị định này quy định việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (sau đây gọi là Giấy chứng nhận); điều kiện ủy quyền cấp Giấy chứng nhận; hồ sơ, trình tự, thủ tục cấp Giấy chứng nhận.",
+        "children": []
+      },
+      {
+        "level": "Điều",
+        "number": "2",
+        "title": "Điều 2. Đối tượng áp dụng",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Cơ quan quản lý nhà nước về tài nguyên và môi trường; cơ quan quản lý nhà nước về nhà ở, công trình xây dựng; cơ quan quản lý nhà nước về nông nghiệp và các cơ quan quản lý nhà nước khác có liên quan.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Người sử dụng đất, chủ sở hữu nhà ở, tài sản khác gắn liền với đất và các tổ chức, cá nhân có liên quan.",
+            "content": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "Điều",
+        "number": "3",
+        "title": "Điều 3. Nguyên tắc cấp Giấy chứng nhận",
+        "content": "",
+        "children": [
+          {
+            "level": "Khoản",
+            "number": "1",
+            "title": "1. Giấy chứng nhận được cấp cho người có quyền sử dụng đất, quyền sở hữu nhà ở và quyền sở hữu tài sản khác gắn liền với đất theo từng thửa đất. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp trồng cây hàng năm, đất nuôi trồng thủy sản, đất làm muối tại cùng một xã, phường, thị trấn mà có yêu cầu thì được cấp một Giấy chứng nhận chung cho các thửa đất đó.",
+            "content": "",
+            "children": []
+          },
+          {
+            "level": "Khoản",
+            "number": "2",
+            "title": "2. Thửa đất có nhiều người sử dụng đất, nhiều chủ sở hữu nhà ở, tài sản khác gắn liền với đất thì Giấy chứng nhận được cấp cho từng người sử dụng đất, từng chủ sở hữu nhà ở, tài sản khác gắn liền với đất.",
+            "content": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

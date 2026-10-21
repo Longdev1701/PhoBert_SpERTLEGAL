@@ -1,0 +1,1447 @@
+{
+ "doc": "101_2008_TT-BTC_23888",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 14,
+ "total_entities": 87,
+ "total_relations": 43,
+ "samples": [
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_0",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Giao_thông đường thủy_nội_địa ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_1",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Giao_thông đường thủy_nội_địa ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_2",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 57/2002/NĐ-CP ngày 3/6/2002 và Nghị_định số 24/2006/NĐ-CP ngày 06/3/2006 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 57/2002/NĐ-CP ngày 3/6/2002 của Chính_phủ quy_định chi_tiết thi_hành Pháp_lệnh phí và lệ_phí ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "57/2002/NĐ-CP",
+    "ngày",
+    "3/6/2002",
+    "và",
+    "Nghị_định",
+    "số",
+    "24/2006/NĐ-CP",
+    "ngày",
+    "06/3/2006",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "57/2002/NĐ-CP",
+    "ngày",
+    "3/6/2002",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "Pháp_lệnh",
+    "phí",
+    "và",
+    "lệ_phí",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 57/2002/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 14,
+     "end": 17,
+     "text": "Nghị_định số 24/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 30,
+     "text": "Nghị_định số 57/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 21,
+     "end": 27,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 3/6/2002"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 17,
+     "end": 19,
+     "text": "ngày 06/3/2006"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 30,
+     "end": 32,
+     "text": "ngày 3/6/2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 21,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 34,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 9
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_3",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 57/2002/NĐ-CP ngày 3/6/2002 và Nghị_định số 24/2006/NĐ-CP ngày 06/3/2006 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 57/2002/NĐ-CP ngày 3/6/2002 của Chính_phủ quy_định chi_tiết thi_hành Pháp_lệnh phí và lệ_phí ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "57/2002/NĐ-CP",
+    "ngày",
+    "3/6/2002",
+    "và",
+    "Nghị_định",
+    "số",
+    "24/2006/NĐ-CP",
+    "ngày",
+    "06/3/2006",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "57/2002/NĐ-CP",
+    "ngày",
+    "3/6/2002",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "Pháp_lệnh",
+    "phí",
+    "và",
+    "lệ_phí",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 57/2002/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Nghị_định số 24/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 23,
+     "text": "Nghị_định số 57/2002/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 14,
+     "end": 20,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 3/6/2002"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 12,
+     "text": "ngày 06/3/2006"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 23,
+     "end": 25,
+     "text": "ngày 3/6/2002"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 14,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 27,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 2,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_4",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . Sau khi có ý_kiến của Bộ Giao_thông vận_tải , Bộ Tài_chính hướng_dẫn chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa như sau :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Sau",
+    "khi",
+    "có",
+    "ý_kiến",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    "và",
+    "quản_lý",
+    "sử_dụng",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 15,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 18,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 34,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_5",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Sau khi có ý_kiến của Bộ Giao_thông vận_tải , Bộ Tài_chính hướng_dẫn chế_độ thu , nộp và quản_lý sử_dụng phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa như sau :",
+   "tokens": [
+    "Sau",
+    "khi",
+    "có",
+    "ý_kiến",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ",",
+    "Bộ",
+    "Tài_chính",
+    "hướng_dẫn",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    "và",
+    "quản_lý",
+    "sử_dụng",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 8,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 11,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 27,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_6",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . 1 . Các phương_tiện_thủy ra , vào hoạt_động tại các cảng , bến thủy_nội_địa ( kể_cả cảng , bến chuyên_dùng ) đã được cơ_quan nhà_nước công_bố cấp phép hoạt_động phải nộp phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa theo quy_định tại Thông_tư này ( trừ trường_hợp không phải nộp quy_định tại điểm 2 mục này ) .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "1",
+    ".",
+    "Các",
+    "phương_tiện_thủy",
+    "ra",
+    ",",
+    "vào",
+    "hoạt_động",
+    "tại",
+    "các",
+    "cảng",
+    ",",
+    "bến",
+    "thủy_nội_địa",
+    "(",
+    "kể_cả",
+    "cảng",
+    ",",
+    "bến",
+    "chuyên_dùng",
+    ")",
+    "đã",
+    "được",
+    "cơ_quan",
+    "nhà_nước",
+    "công_bố",
+    "cấp",
+    "phép",
+    "hoạt_động",
+    "phải",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "(",
+    "trừ",
+    "trường_hợp",
+    "không",
+    "phải",
+    "nộp",
+    "quy_định",
+    "tại",
+    "điểm",
+    "2",
+    "mục",
+    "này",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 49,
+     "end": 51,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 46,
+     "end": 49,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 57,
+     "end": 59,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 43,
+     "end": 46,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 10,
+     "end": 11,
+     "text": "phương_tiện_thủy"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_7",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "1 . Các phương_tiện_thủy ra , vào hoạt_động tại các cảng , bến thủy_nội_địa ( kể_cả cảng , bến chuyên_dùng ) đã được cơ_quan nhà_nước công_bố cấp phép hoạt_động phải nộp phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa theo quy_định tại Thông_tư này ( trừ trường_hợp không phải nộp quy_định tại điểm 2 mục này ) .",
+   "tokens": [
+    "1",
+    ".",
+    "Các",
+    "phương_tiện_thủy",
+    "ra",
+    ",",
+    "vào",
+    "hoạt_động",
+    "tại",
+    "các",
+    "cảng",
+    ",",
+    "bến",
+    "thủy_nội_địa",
+    "(",
+    "kể_cả",
+    "cảng",
+    ",",
+    "bến",
+    "chuyên_dùng",
+    ")",
+    "đã",
+    "được",
+    "cơ_quan",
+    "nhà_nước",
+    "công_bố",
+    "cấp",
+    "phép",
+    "hoạt_động",
+    "phải",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "(",
+    "trừ",
+    "trường_hợp",
+    "không",
+    "phải",
+    "nộp",
+    "quy_định",
+    "tại",
+    "điểm",
+    "2",
+    "mục",
+    "này",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 39,
+     "end": 42,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 50,
+     "end": 52,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 36,
+     "end": 39,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 3,
+     "end": 4,
+     "text": "phương_tiện_thủy"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_8",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . Trường_hợp điều_ước quốc_tế mà nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam ký_kết hoặc gia_nhập có quy_định về phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa khác với quy_định tại Thông_tư này thì thực_hiện theo quy_định của điều_ước quốc_tế đó .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Trường_hợp",
+    "điều_ước",
+    "quốc_tế",
+    "mà",
+    "nước",
+    "Cộng_hòa",
+    "xã_hội",
+    "chủ_nghĩa",
+    "Việt_Nam",
+    "ký_kết",
+    "hoặc",
+    "gia_nhập",
+    "có",
+    "quy_định",
+    "về",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "khác",
+    "với",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "thì",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "của",
+    "điều_ước",
+    "quốc_tế",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 36,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_9",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Trường_hợp điều_ước quốc_tế mà nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam ký_kết hoặc gia_nhập có quy_định về phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa khác với quy_định tại Thông_tư này thì thực_hiện theo quy_định của điều_ước quốc_tế đó .",
+   "tokens": [
+    "Trường_hợp",
+    "điều_ước",
+    "quốc_tế",
+    "mà",
+    "nước",
+    "Cộng_hòa",
+    "xã_hội",
+    "chủ_nghĩa",
+    "Việt_Nam",
+    "ký_kết",
+    "hoặc",
+    "gia_nhập",
+    "có",
+    "quy_định",
+    "về",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    "khác",
+    "với",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "thì",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "của",
+    "điều_ước",
+    "quốc_tế",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 27,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_10",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . 2 . Những trường_hợp sau đây không phải nộp phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "2",
+    ".",
+    "Những",
+    "trường_hợp",
+    "sau",
+    "đây",
+    "không",
+    "phải",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 24,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_11",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "2 . Những trường_hợp sau đây không phải nộp phí , lệ_phí áp_dụng tại Cảng_vụ đường thủy_nội_địa :",
+   "tokens": [
+    "2",
+    ".",
+    "Những",
+    "trường_hợp",
+    "sau",
+    "đây",
+    "không",
+    "phải",
+    "nộp",
+    "phí",
+    ",",
+    "lệ_phí",
+    "áp_dụng",
+    "tại",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 17,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_context_12",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 101/2008/TT-BTC của Bộ Tài_chính . a ) Phương_tiện sử_dụng vào mục_đích quốc_phòng , an_ninh thuộc Bộ Quốc_phòng và Bộ Công_an ( trừ các phương_tiện sử_dụng vào hoạt_động_kinh_tế ) ; phương_tiện của cơ_quan Hải_quan đang làm nhiệm_vụ ( trừ các phương_tiện sử_dụng vào hoạt_động_kinh_tế ) ; phương_tiện của các cơ_quan thanh_tra giao_thông , Cảng_vụ đường thủy_nội_địa ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "101/2008/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "a",
+    ")",
+    "Phương_tiện",
+    "sử_dụng",
+    "vào",
+    "mục_đích",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "thuộc",
+    "Bộ",
+    "Quốc_phòng",
+    "và",
+    "Bộ",
+    "Công_an",
+    "(",
+    "trừ",
+    "các",
+    "phương_tiện",
+    "sử_dụng",
+    "vào",
+    "hoạt_động_kinh_tế",
+    ")",
+    ";",
+    "phương_tiện",
+    "của",
+    "cơ_quan",
+    "Hải_quan",
+    "đang",
+    "làm",
+    "nhiệm_vụ",
+    "(",
+    "trừ",
+    "các",
+    "phương_tiện",
+    "sử_dụng",
+    "vào",
+    "hoạt_động_kinh_tế",
+    ")",
+    ";",
+    "phương_tiện",
+    "của",
+    "các",
+    "cơ_quan",
+    "thanh_tra",
+    "giao_thông",
+    ",",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "101/2008/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 19,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 22,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 35,
+     "text": "cơ_quan Hải_quan"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 54,
+     "end": 57,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 10,
+     "text": "Phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 26,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 31,
+     "end": 32,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 41,
+     "end": 42,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 47,
+     "end": 48,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "101_2008_TT-BTC_23888#preamble_standalone_13",
+   "doc": "101_2008_TT-BTC_23888",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "a ) Phương_tiện sử_dụng vào mục_đích quốc_phòng , an_ninh thuộc Bộ Quốc_phòng và Bộ Công_an ( trừ các phương_tiện sử_dụng vào hoạt_động_kinh_tế ) ; phương_tiện của cơ_quan Hải_quan đang làm nhiệm_vụ ( trừ các phương_tiện sử_dụng vào hoạt_động_kinh_tế ) ; phương_tiện của các cơ_quan thanh_tra giao_thông , Cảng_vụ đường thủy_nội_địa ;",
+   "tokens": [
+    "a",
+    ")",
+    "Phương_tiện",
+    "sử_dụng",
+    "vào",
+    "mục_đích",
+    "quốc_phòng",
+    ",",
+    "an_ninh",
+    "thuộc",
+    "Bộ",
+    "Quốc_phòng",
+    "và",
+    "Bộ",
+    "Công_an",
+    "(",
+    "trừ",
+    "các",
+    "phương_tiện",
+    "sử_dụng",
+    "vào",
+    "hoạt_động_kinh_tế",
+    ")",
+    ";",
+    "phương_tiện",
+    "của",
+    "cơ_quan",
+    "Hải_quan",
+    "đang",
+    "làm",
+    "nhiệm_vụ",
+    "(",
+    "trừ",
+    "các",
+    "phương_tiện",
+    "sử_dụng",
+    "vào",
+    "hoạt_động_kinh_tế",
+    ")",
+    ";",
+    "phương_tiện",
+    "của",
+    "các",
+    "cơ_quan",
+    "thanh_tra",
+    "giao_thông",
+    ",",
+    "Cảng_vụ",
+    "đường",
+    "thủy_nội_địa",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 12,
+     "text": "Bộ Quốc_phòng"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 15,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 28,
+     "text": "cơ_quan Hải_quan"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 47,
+     "end": 50,
+     "text": "Cảng_vụ đường thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 2,
+     "end": 3,
+     "text": "Phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 25,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 34,
+     "end": 35,
+     "text": "phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 40,
+     "end": 41,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": []
+  }
+ ]
+}

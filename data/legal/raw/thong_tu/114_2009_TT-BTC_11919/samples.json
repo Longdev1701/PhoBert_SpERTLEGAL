@@ -1,0 +1,119 @@
+{
+ "doc_id": "114_2009_TT-BTC_11919",
+ "category": "thong_tu",
+ "full_text": "Thông tư số 114/2009/TT-BTC Sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hoá trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008 – 2012\nTHÔNG TƯ\nSửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012\nCăn cứ Luật Ngân sách nhà nước số 01/2002/QH11 ngày 16/12/2002; Căn cứ Nghị định số 52/1999/NĐ-CP ngày 08/7/1999 của Chính phủ về việc ban hành Quy chế Quản lý đầu tư và xây dựng, Nghị định số 12/2000/NĐ-CP ngày 05/5/2000 và Nghị định số 07/2003/NĐ-CP ngày 30/01/2003 của Chính phủ về việc sửa đổi, bổ sung một số điều của Quy chế Quản lý đầu tư và xây dựng ban hành kèm theo Nghị định số 52/1999/NĐ-CP ngày 8/7/1999 của Chính phủ. Căn cứ Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình; Căn cứ Quyết định số 20/2008/QĐ-TTg ngày 01/02/2008 của Thủ tướng Chính phủ về việc phê duyệt Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012; Bộ Tài chính hướng dẫn sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012 như sau:\n1. Sửa đổi điểm 2.2 Phần II như sau:\n\"2.2. Phân bổ vốn đầu tư hàng năm:\nHàng năm, căn cứ Quyết định của Thủ tướng Chính phủ và thông báo của Bộ Kế hoạch và Đầu tư về việc giao kế hoạch vốn trái phiếu Chính phủ cho các địa phương, nguồn vốn ngân sách địa phương và nguồn vốn hợp pháp khác (nếu có); Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Sở Tài chính, Sở Giáo dục và Đào tạo thảo luận, thống nhất về danh mục và mức vốn cho từng dự án trình Ủy ban nhân dân tỉnh quyết định phân bổ. Trong quá trình tham gia thảo luận với Sở Kế hoạch và Đầu tư, Sở Giáo dục và Đào tạo (kể các trường hợp điều chỉnh phân bổ), Sở Tài chính có ý kiến bằng văn bản về danh mục dự án và mức vốn phân bổ cho từng dự án trình Ủy ban nhân dân tỉnh quyết định.\nTrường hợp các dự án được ứng trước kế hoạch vốn năm sau, Ủy ban nhân dân tỉnh phải ưu tiên bố trí đủ số vốn đã ứng trước để thu hồi.\nQuyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh gửi về Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giáo dục và Đào tạo để theo dõi, quản lý; gửi Kho bạc nhà nước làm căn cứ thanh toán.\nCăn cứ Quyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh, Kho bạc nhà nước thực hiện kiểm soát, thanh toán theo quy định\".\n2. Thông tư này có hiệu lực thi hành sau bốn mươi lăm (45) ngày, kể từ ngày ký. Trong quá trình thực hiện có vấn đề gì vướng mắc, đề nghị các đơn vị phản ánh kịp thời về Bộ Tài chính (Vụ Đầu tư) để nghiên cứu, giải quyết.\n",
+ "total_chars": 2898,
+ "total_paras": 11,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 8,
+   "text": "Thông tư"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 12,
+   "end": 27,
+   "text": "114/2009/TT-BTC"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 93,
+   "end": 102,
+   "text": "06/6/2008"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 107,
+   "end": 119,
+   "text": "Bộ Tài chính"
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  }
+ ],
+ "id": "114_2009_TT-BTC_11919",
+ "doc": "114_2009_TT-BTC_11919",
+ "split": "train",
+ "total_samples": 1,
+ "total_entities": 4,
+ "total_relations": 3,
+ "samples": [
+  {
+   "id": "114_2009_TT-BTC_11919",
+   "doc": "114_2009_TT-BTC_11919",
+   "category": "thong_tu",
+   "kind": "document",
+   "text": "Thông tư số 114/2009/TT-BTC Sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hoá trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008 – 2012\nTHÔNG TƯ\nSửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012\nCăn cứ Luật Ngân sách nhà nước số 01/2002/QH11 ngày 16/12/2002; Căn cứ Nghị định số 52/1999/NĐ-CP ngày 08/7/1999 của Chính phủ về việc ban hành Quy chế Quản lý đầu tư và xây dựng, Nghị định số 12/2000/NĐ-CP ngày 05/5/2000 và Nghị định số 07/2003/NĐ-CP ngày 30/01/2003 của Chính phủ về việc sửa đổi, bổ sung một số điều của Quy chế Quản lý đầu tư và xây dựng ban hành kèm theo Nghị định số 52/1999/NĐ-CP ngày 8/7/1999 của Chính phủ. Căn cứ Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình; Căn cứ Quyết định số 20/2008/QĐ-TTg ngày 01/02/2008 của Thủ tướng Chính phủ về việc phê duyệt Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012; Bộ Tài chính hướng dẫn sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012 như sau:\n1. Sửa đổi điểm 2.2 Phần II như sau:\n\"2.2. Phân bổ vốn đầu tư hàng năm:\nHàng năm, căn cứ Quyết định của Thủ tướng Chính phủ và thông báo của Bộ Kế hoạch và Đầu tư về việc giao kế hoạch vốn trái phiếu Chính phủ cho các địa phương, nguồn vốn ngân sách địa phương và nguồn vốn hợp pháp khác (nếu có); Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Sở Tài chính, Sở Giáo dục và Đào tạo thảo luận, thống nhất về danh mục và mức vốn cho từng dự án trình Ủy ban nhân dân tỉnh quyết định phân bổ. Trong quá trình tham gia thảo luận với Sở Kế hoạch và Đầu tư, Sở Giáo dục và Đào tạo (kể các trường hợp điều chỉnh phân bổ), Sở Tài chính có ý kiến bằng văn bản về danh mục dự án và mức vốn phân bổ cho từng dự án trình Ủy ban nhân dân tỉnh quyết định.\nTrường hợp các dự án được ứng trước kế hoạch vốn năm sau, Ủy ban nhân dân tỉnh phải ưu tiên bố trí đủ số vốn đã ứng trước để thu hồi.\nQuyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh gửi về Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giáo dục và Đào tạo để theo dõi, quản lý; gửi Kho bạc nhà nước làm căn cứ thanh toán.\nCăn cứ Quyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh, Kho bạc nhà nước thực hiện kiểm soát, thanh toán theo quy định\".\n2. Thông tư này có hiệu lực thi hành sau bốn mươi lăm (45) ngày, kể từ ngày ký. Trong quá trình thực hiện có vấn đề gì vướng mắc, đề nghị các đơn vị phản ánh kịp thời về Bộ Tài chính (Vụ Đầu tư) để nghiên cứu, giải quyết.\n",
+   "full_text": "Thông tư số 114/2009/TT-BTC Sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hoá trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008 – 2012\nTHÔNG TƯ\nSửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 của Bộ Tài chính hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012\nCăn cứ Luật Ngân sách nhà nước số 01/2002/QH11 ngày 16/12/2002; Căn cứ Nghị định số 52/1999/NĐ-CP ngày 08/7/1999 của Chính phủ về việc ban hành Quy chế Quản lý đầu tư và xây dựng, Nghị định số 12/2000/NĐ-CP ngày 05/5/2000 và Nghị định số 07/2003/NĐ-CP ngày 30/01/2003 của Chính phủ về việc sửa đổi, bổ sung một số điều của Quy chế Quản lý đầu tư và xây dựng ban hành kèm theo Nghị định số 52/1999/NĐ-CP ngày 8/7/1999 của Chính phủ. Căn cứ Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình; Căn cứ Quyết định số 20/2008/QĐ-TTg ngày 01/02/2008 của Thủ tướng Chính phủ về việc phê duyệt Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012; Bộ Tài chính hướng dẫn sửa đổi, bổ sung một số điểm của Thông tư số 46/2008/TT-BTC ngày 06/6/2008 hướng dẫn cơ chế quản lý, sử dụng nguồn vốn thực hiện Đề án Kiên cố hóa trường, lớp học và nhà công vụ cho giáo viên giai đoạn 2008-2012 như sau:\n1. Sửa đổi điểm 2.2 Phần II như sau:\n\"2.2. Phân bổ vốn đầu tư hàng năm:\nHàng năm, căn cứ Quyết định của Thủ tướng Chính phủ và thông báo của Bộ Kế hoạch và Đầu tư về việc giao kế hoạch vốn trái phiếu Chính phủ cho các địa phương, nguồn vốn ngân sách địa phương và nguồn vốn hợp pháp khác (nếu có); Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Sở Tài chính, Sở Giáo dục và Đào tạo thảo luận, thống nhất về danh mục và mức vốn cho từng dự án trình Ủy ban nhân dân tỉnh quyết định phân bổ. Trong quá trình tham gia thảo luận với Sở Kế hoạch và Đầu tư, Sở Giáo dục và Đào tạo (kể các trường hợp điều chỉnh phân bổ), Sở Tài chính có ý kiến bằng văn bản về danh mục dự án và mức vốn phân bổ cho từng dự án trình Ủy ban nhân dân tỉnh quyết định.\nTrường hợp các dự án được ứng trước kế hoạch vốn năm sau, Ủy ban nhân dân tỉnh phải ưu tiên bố trí đủ số vốn đã ứng trước để thu hồi.\nQuyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh gửi về Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giáo dục và Đào tạo để theo dõi, quản lý; gửi Kho bạc nhà nước làm căn cứ thanh toán.\nCăn cứ Quyết định phân bổ vốn trái phiếu Chính phủ của Ủy ban nhân dân tỉnh, Kho bạc nhà nước thực hiện kiểm soát, thanh toán theo quy định\".\n2. Thông tư này có hiệu lực thi hành sau bốn mươi lăm (45) ngày, kể từ ngày ký. Trong quá trình thực hiện có vấn đề gì vướng mắc, đề nghị các đơn vị phản ánh kịp thời về Bộ Tài chính (Vụ Đầu tư) để nghiên cứu, giải quyết.\n",
+   "total_chars": 2898,
+   "total_paras": 11,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 8,
+     "text": "Thông tư"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 12,
+     "end": 27,
+     "text": "114/2009/TT-BTC"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 93,
+     "end": 102,
+     "text": "06/6/2008"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 107,
+     "end": 119,
+     "text": "Bộ Tài chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    }
+   ]
+  }
+ ]
+}

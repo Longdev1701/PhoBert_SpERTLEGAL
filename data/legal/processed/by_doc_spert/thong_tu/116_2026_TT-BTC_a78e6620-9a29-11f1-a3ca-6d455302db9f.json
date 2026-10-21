@@ -1,0 +1,5555 @@
+{
+ "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+ "category": "thong_tu",
+ "split": "train",
+ "total_samples": 57,
+ "total_entities": 296,
+ "total_relations": 250,
+ "samples": [
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#header_0",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "header",
+   "text": "BỘ TÀI_CHÍNH . Số : 116/2026/TT-BTC . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập - Tự_do - Hạnh_phúc . Hà_Nội , ngày 13 tháng 8 năm 2026 . THÔNG_TƯ",
+   "tokens": [
+    "BỘ",
+    "TÀI_CHÍNH",
+    ".",
+    "Số",
+    ":",
+    "116/2026/TT-BTC",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "13",
+    "tháng",
+    "8",
+    "năm",
+    "2026",
+    ".",
+    "THÔNG_TƯ"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 13 tháng 8 năm 2026"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ TÀI_CHÍNH"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#signature_1",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "signature",
+   "text": "KT. BỘ_TRƯỞNG . THỨ_TRƯỞNG . Cao_Anh Tuấn",
+   "tokens": [
+    "KT.",
+    "BỘ_TRƯỞNG",
+    ".",
+    "THỨ_TRƯỞNG",
+    ".",
+    "Cao_Anh",
+    "Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 5,
+     "end": 7,
+     "text": "Cao_Anh Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 3,
+     "end": 4,
+     "text": "THỨ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#meta_2",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "meta",
+   "text": "BỘ TÀI_CHÍNH . Số : 116/2026/TT-BTC . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập - Tự_do - Hạnh_phúc . Hà_Nội , ngày 13 tháng 8 năm 2026 . THÔNG_TƯ . KT. BỘ_TRƯỞNG . THỨ_TRƯỞNG . Cao_Anh Tuấn",
+   "tokens": [
+    "BỘ",
+    "TÀI_CHÍNH",
+    ".",
+    "Số",
+    ":",
+    "116/2026/TT-BTC",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "13",
+    "tháng",
+    "8",
+    "năm",
+    "2026",
+    ".",
+    "THÔNG_TƯ",
+    ".",
+    "KT.",
+    "BỘ_TRƯỞNG",
+    ".",
+    "THỨ_TRƯỞNG",
+    ".",
+    "Cao_Anh",
+    "Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ TÀI_CHÍNH"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "THÔNG_TƯ"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 36,
+     "end": 38,
+     "text": "Cao_Anh Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 34,
+     "end": 35,
+     "text": "THỨ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_3",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Phí và lệ_phí số 97/2015/QH13 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "số",
+    "97/2015/QH13",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 14,
+     "text": "Luật Phí và lệ_phí số 97/2015/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_4",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Phí và lệ_phí số 97/2015/QH13 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "số",
+    "97/2015/QH13",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 7,
+     "text": "Luật Phí và lệ_phí số 97/2015/QH13"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_5",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Ngân_sách nhà_nước số 89/2025/QH15 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Ngân_sách",
+    "nhà_nước",
+    "số",
+    "89/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 13,
+     "text": "Luật Ngân_sách nhà_nước số 89/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_6",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Ngân_sách nhà_nước số 89/2025/QH15 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Ngân_sách",
+    "nhà_nước",
+    "số",
+    "89/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 6,
+     "text": "Luật Ngân_sách nhà_nước số 89/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_7",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Quản_lý thuế_số 108/2025/QH15 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Quản_lý",
+    "thuế_số",
+    "108/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 12,
+     "text": "Luật Quản_lý thuế_số 108/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_8",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Quản_lý thuế_số 108/2025/QH15 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Quản_lý",
+    "thuế_số",
+    "108/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Quản_lý thuế_số 108/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_9",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Luật Thi_hành án dân_sự số 106/2025/QH15 ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Thi_hành",
+    "án",
+    "dân_sự",
+    "số",
+    "106/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 14,
+     "text": "Luật Thi_hành án dân_sự số 106/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_10",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Thi_hành án dân_sự số 106/2025/QH15 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Thi_hành",
+    "án",
+    "dân_sự",
+    "số",
+    "106/2025/QH15",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 7,
+     "text": "Luật Thi_hành án dân_sự số 106/2025/QH15"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_11",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 362/2025/NĐ-CP của Chính_phủ quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "và",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 13,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_12",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 362/2025/NĐ-CP của Chính_phủ quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "và",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 6,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_13",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 151/2026/NĐ-CP của Chính_phủ quy_định về tổ_chức và hoạt_động của văn_phòng thi_hành án dân_sự , Thừa_hành viên ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "151/2026/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "của",
+    "văn_phòng",
+    "thi_hành",
+    "án",
+    "dân_sự",
+    ",",
+    "Thừa_hành",
+    "viên",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 151/2026/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 13,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_14",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 151/2026/NĐ-CP của Chính_phủ quy_định về tổ_chức và hoạt_động của văn_phòng thi_hành án dân_sự , Thừa_hành viên ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "151/2026/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "về",
+    "tổ_chức",
+    "và",
+    "hoạt_động",
+    "của",
+    "văn_phòng",
+    "thi_hành",
+    "án",
+    "dân_sự",
+    ",",
+    "Thừa_hành",
+    "viên",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 151/2026/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 6,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_context_15",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính . Căn_cứ Nghị_định số 29/2025/NĐ-CP của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính được sửa_đổi , bổ_sung bởi Nghị_định số 166/2025/NĐ-CP ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "29/2025/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "được",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "bởi",
+    "Nghị_định",
+    "số",
+    "166/2025/NĐ-CP",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 29/2025/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 30,
+     "end": 33,
+     "text": "Nghị_định số 166/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 25,
+     "end": 30,
+     "text": "được sửa_đổi , bổ_sung bởi"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 13,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 25,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#preamble_standalone_16",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 29/2025/NĐ-CP của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính được sửa_đổi , bổ_sung bởi Nghị_định số 166/2025/NĐ-CP ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "29/2025/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "được",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "bởi",
+    "Nghị_định",
+    "số",
+    "166/2025/NĐ-CP",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 29/2025/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 23,
+     "end": 26,
+     "text": "Nghị_định số 166/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 23,
+     "text": "được sửa_đổi , bổ_sung bởi"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 6,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 18,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_17",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC ban_hành ngày 13 tháng 08 năm 2026 bởi Bộ Tài_chính . Điều 1 . Phạm_vi điều_chỉnh , đối_tượng áp_dụng",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "08",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ",",
+    "đối_tượng",
+    "áp_dụng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 08 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 22,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh , đối_tượng áp_dụng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_18",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 1 . 1 . Thông_tư này quy_định mức thu , chế_độ thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "quy_định",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 31,
+     "text": "1 . Thông_tư này quy_định mức thu , chế_độ thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_19",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 1 . 2 . Thông_tư này áp_dụng đối_với người nộp phí , tổ_chức thu phí và tổ_chức , cá_nhân khác có liên_quan đến thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "người",
+    "nộp",
+    "phí",
+    ",",
+    "tổ_chức",
+    "thu",
+    "phí",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "khác",
+    "có",
+    "liên_quan",
+    "đến",
+    "thu",
+    ",",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 48,
+     "text": "2 . Thông_tư này áp_dụng đối_với người nộp phí , tổ_chức thu phí và tổ_chức , cá_nhân khác có liên_quan đến thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_20",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Thông_tư này áp_dụng đối_với người nộp phí , tổ_chức thu phí và tổ_chức , cá_nhân khác có liên_quan đến thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên .",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Thông_tư",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "người",
+    "nộp",
+    "phí",
+    ",",
+    "tổ_chức",
+    "thu",
+    "phí",
+    "và",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "khác",
+    "có",
+    "liên_quan",
+    "đến",
+    "thu",
+    ",",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 36,
+     "text": "2 . Thông_tư này áp_dụng đối_với người nộp phí , tổ_chức thu phí và tổ_chức , cá_nhân khác có liên_quan đến thu , nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_21",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 2 . Người nộp phí",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Người",
+    "nộp",
+    "phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 18,
+     "text": "Điều 2 . Người nộp phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_22",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 2 . 1 . Cá_nhân đăng_ký tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành_viên theo quy_định tại Thông_tư này .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Cá_nhân",
+    "đăng_ký",
+    "tham_dự",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "phải",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "đối_với",
+    "nội_dung",
+    "tham_dự",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành_viên",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 45,
+     "text": "1 . Cá_nhân đăng_ký tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành_viên theo quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 44,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 39,
+     "end": 42,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_23",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 1 . Cá_nhân đăng_ký tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành_viên theo quy_định tại Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Cá_nhân",
+    "đăng_ký",
+    "tham_dự",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "phải",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "đối_với",
+    "nội_dung",
+    "tham_dự",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành_viên",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 38,
+     "text": "1 . Cá_nhân đăng_ký tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành_viên theo quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 37,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 32,
+     "end": 35,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_24",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 2 . 2 . Cá_nhân đề_nghị bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành_viên theo quy_định tại Thông_tư này .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Cá_nhân",
+    "đề_nghị",
+    "bổ_nhiệm",
+    "hoặc",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành",
+    "viên",
+    "phải",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "đối_với",
+    "bổ_nhiệm",
+    "hoặc",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành_viên",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 42,
+     "text": "2 . Cá_nhân đề_nghị bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành_viên theo quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 39,
+     "end": 41,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 36,
+     "end": 39,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_25",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 2 . Cá_nhân đề_nghị bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành_viên theo quy_định tại Thông_tư này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Cá_nhân",
+    "đề_nghị",
+    "bổ_nhiệm",
+    "hoặc",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành",
+    "viên",
+    "phải",
+    "nộp",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "đối_với",
+    "bổ_nhiệm",
+    "hoặc",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành_viên",
+    "theo",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 35,
+     "text": "2 . Cá_nhân đề_nghị bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên phải nộp phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên đối_với bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành_viên theo quy_định tại Thông_tư này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 32,
+     "end": 34,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 32,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_26",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 3 . Tổ_chức thu phí . Tổ_chức thu phí là cơ_quan có thẩm_quyền tổ_chức kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên , bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên theo quy_định của pháp_luật về thi_hành án dân_sự và pháp_luật về Thừa_hành viên .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    "là",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "tổ_chức",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    ",",
+    "bổ_nhiệm",
+    "hoặc",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành",
+    "viên",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "thi_hành",
+    "án",
+    "dân_sự",
+    "và",
+    "pháp_luật",
+    "về",
+    "Thừa_hành",
+    "viên",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 54,
+     "text": "Điều 3 . Tổ_chức thu phí . Tổ_chức thu phí là cơ_quan có thẩm_quyền tổ_chức kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên , bổ_nhiệm hoặc bổ_nhiệm lại Thừa_hành viên theo quy_định của pháp_luật về thi_hành án dân_sự và pháp_luật về Thừa_hành viên ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 23,
+     "end": 26,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_27",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 4 . Mức thu phí . Mức thu phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên được quy_định như sau :",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Mức",
+    "thu",
+    "phí",
+    ".",
+    "Mức",
+    "thu",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    "được",
+    "quy_định",
+    "như",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 29,
+     "text": "Điều 4 . Mức thu phí . Mức thu phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_hành viên được quy_định như sau :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_28",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC ban_hành ngày 13 tháng 08 năm 2026 bởi Bộ Tài_chính . Điều 4 . 1 . Đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên : 2.700.000 đồng / hồ_sơ .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "08",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "1",
+    ".",
+    "Đối_với",
+    "nội_dung",
+    "tham_dự",
+    "kiểm_tra",
+    "kết_quả",
+    "tập_sự",
+    "hành_nghề",
+    "Thừa_hành",
+    "viên",
+    ":",
+    "2.700.000",
+    "đồng",
+    "/",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 08 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 34,
+     "text": "1 . Đối_với nội_dung tham_dự kiểm_tra kết_quả tập_sự hành_nghề Thừa_hành viên : 2.700.000 đồng / hồ_sơ ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 29,
+     "end": 31,
+     "text": "2.700.000 đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_29",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 4 . 2 . Đối_với bổ_nhiệm Thừa_hành viên : 800.000 đồng / hồ_sơ .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "bổ_nhiệm",
+    "Thừa_hành",
+    "viên",
+    ":",
+    "800.000",
+    "đồng",
+    "/",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 22,
+     "text": "2 . Đối_với bổ_nhiệm Thừa_hành viên : 800.000 đồng / hồ_sơ ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 17,
+     "end": 19,
+     "text": "800.000 đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_30",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 4 . 3 . Đối_với bổ_nhiệm lại Thừa_hành viên : 500.000 đồng / hồ_sơ .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Đối_với",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành",
+    "viên",
+    ":",
+    "500.000",
+    "đồng",
+    "/",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 23,
+     "text": "3 . Đối_với bổ_nhiệm lại Thừa_hành viên : 500.000 đồng / hồ_sơ ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 18,
+     "end": 20,
+     "text": "500.000 đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_31",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 3 . Đối_với bổ_nhiệm lại Thừa_hành viên : 500.000 đồng / hồ_sơ .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Đối_với",
+    "bổ_nhiệm",
+    "lại",
+    "Thừa_hành",
+    "viên",
+    ":",
+    "500.000",
+    "đồng",
+    "/",
+    "hồ_sơ",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 16,
+     "text": "3 . Đối_với bổ_nhiệm lại Thừa_hành viên : 500.000 đồng / hồ_sơ ."
+    },
+    {
+     "type": "MUC_TIEN",
+     "start": 11,
+     "end": 13,
+     "text": "500.000 đồng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_32",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 5 . Khai , thu , nộp và quyết_toán phí",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Khai",
+    ",",
+    "thu",
+    ",",
+    "nộp",
+    "và",
+    "quyết_toán",
+    "phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 18,
+     "text": "Điều 5 . Khai , thu , nộp và quyết_toán phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_33",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 5 . 1 . Người nộp phí thực_hiện nộp phí theo một trong các phương_thức quy_định tại khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Người",
+    "nộp",
+    "phí",
+    "thực_hiện",
+    "nộp",
+    "phí",
+    "theo",
+    "một",
+    "trong",
+    "các",
+    "phương_thức",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "3",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "và",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 53,
+     "text": "1 . Người nộp phí thực_hiện nộp phí theo một trong các phương_thức quy_định tại khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 30,
+     "end": 37,
+     "text": "khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 28,
+     "end": 30,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_34",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 1 . Người nộp phí thực_hiện nộp phí theo một trong các phương_thức quy_định tại khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "1",
+    ".",
+    "Người",
+    "nộp",
+    "phí",
+    "thực_hiện",
+    "nộp",
+    "phí",
+    "theo",
+    "một",
+    "trong",
+    "các",
+    "phương_thức",
+    "quy_định",
+    "tại",
+    "khoản",
+    "1",
+    "Điều",
+    "3",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "quy_định",
+    "chi_tiết",
+    "một_số",
+    "điều",
+    "và",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 41,
+     "text": "1 . Người nộp phí thực_hiện nộp phí theo một trong các phương_thức quy_định tại khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP quy_định chi_tiết một_số điều và biện_pháp để tổ_chức , hướng_dẫn thi_hành Luật Phí và lệ_phí ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 25,
+     "text": "khoản 1 Điều 3 Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 16,
+     "end": 18,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_35",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 5 . 2 . Tổ_chức thu phí nộp 100 % số tiền phí thu được vào ngân_sách nhà_nước theo chương , tiểu_mục của Mục_lục ngân_sách nhà_nước hiện_hành , bao_gồm tiền lãi phát_sinh ( nếu có ) trên số_dư tài_khoản liên_quan trong quá_trình thu phí . Nguồn kinh_phí để trang_trải cho hoạt_động cung_cấp dịch_vụ , thu phí được ngân_sách nhà_nước bố_trí trong dự_toán ngân_sách hằng năm của tổ_chức thu phí theo chế_độ , định mức chi ngân_sách",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    "nộp",
+    "100",
+    "%",
+    "số",
+    "tiền",
+    "phí",
+    "thu",
+    "được",
+    "vào",
+    "ngân_sách",
+    "nhà_nước",
+    "theo",
+    "chương",
+    ",",
+    "tiểu_mục",
+    "của",
+    "Mục_lục",
+    "ngân_sách",
+    "nhà_nước",
+    "hiện_hành",
+    ",",
+    "bao_gồm",
+    "tiền",
+    "lãi",
+    "phát_sinh",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    "trên",
+    "số_dư",
+    "tài_khoản",
+    "liên_quan",
+    "trong",
+    "quá_trình",
+    "thu",
+    "phí",
+    ".",
+    "Nguồn",
+    "kinh_phí",
+    "để",
+    "trang_trải",
+    "cho",
+    "hoạt_động",
+    "cung_cấp",
+    "dịch_vụ",
+    ",",
+    "thu",
+    "phí",
+    "được",
+    "ngân_sách",
+    "nhà_nước",
+    "bố_trí",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "hằng",
+    "năm",
+    "của",
+    "tổ_chức",
+    "thu",
+    "phí",
+    "theo",
+    "chế_độ",
+    ",",
+    "định",
+    "mức",
+    "chi",
+    "ngân_sách"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 89,
+     "text": "2 . Tổ_chức thu phí nộp 100 % số tiền phí thu được vào ngân_sách nhà_nước theo chương , tiểu_mục của Mục_lục ngân_sách nhà_nước hiện_hành , bao_gồm tiền lãi phát_sinh ( nếu có ) trên số_dư tài_khoản liên_quan trong quá_trình thu phí . Nguồn kinh_phí để trang_trải cho hoạt_động cung_cấp dịch_vụ , thu phí được ngân_sách nhà_nước bố_trí trong dự_toán ngân_sách hằng năm của tổ_chức thu phí theo chế_độ , định mức chi ngân_sách"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 21,
+     "end": 23,
+     "text": "100 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 31,
+     "text": "ngân_sách nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 37,
+     "end": 39,
+     "text": "ngân_sách nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 70,
+     "end": 72,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_36",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 2 . Tổ_chức thu phí nộp 100 % số tiền phí thu được vào ngân_sách nhà_nước theo chương , tiểu_mục của Mục_lục ngân_sách nhà_nước hiện_hành , bao_gồm tiền lãi phát_sinh ( nếu có ) trên số_dư tài_khoản liên_quan trong quá_trình thu phí . Nguồn kinh_phí để trang_trải cho hoạt_động cung_cấp dịch_vụ , thu phí được ngân_sách nhà_nước bố_trí trong dự_toán ngân_sách hằng năm của tổ_chức thu phí theo chế_độ , định mức chi ngân_sách",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    "nộp",
+    "100",
+    "%",
+    "số",
+    "tiền",
+    "phí",
+    "thu",
+    "được",
+    "vào",
+    "ngân_sách",
+    "nhà_nước",
+    "theo",
+    "chương",
+    ",",
+    "tiểu_mục",
+    "của",
+    "Mục_lục",
+    "ngân_sách",
+    "nhà_nước",
+    "hiện_hành",
+    ",",
+    "bao_gồm",
+    "tiền",
+    "lãi",
+    "phát_sinh",
+    "(",
+    "nếu",
+    "có",
+    ")",
+    "trên",
+    "số_dư",
+    "tài_khoản",
+    "liên_quan",
+    "trong",
+    "quá_trình",
+    "thu",
+    "phí",
+    ".",
+    "Nguồn",
+    "kinh_phí",
+    "để",
+    "trang_trải",
+    "cho",
+    "hoạt_động",
+    "cung_cấp",
+    "dịch_vụ",
+    ",",
+    "thu",
+    "phí",
+    "được",
+    "ngân_sách",
+    "nhà_nước",
+    "bố_trí",
+    "trong",
+    "dự_toán",
+    "ngân_sách",
+    "hằng",
+    "năm",
+    "của",
+    "tổ_chức",
+    "thu",
+    "phí",
+    "theo",
+    "chế_độ",
+    ",",
+    "định",
+    "mức",
+    "chi",
+    "ngân_sách"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 77,
+     "text": "2 . Tổ_chức thu phí nộp 100 % số tiền phí thu được vào ngân_sách nhà_nước theo chương , tiểu_mục của Mục_lục ngân_sách nhà_nước hiện_hành , bao_gồm tiền lãi phát_sinh ( nếu có ) trên số_dư tài_khoản liên_quan trong quá_trình thu phí . Nguồn kinh_phí để trang_trải cho hoạt_động cung_cấp dịch_vụ , thu phí được ngân_sách nhà_nước bố_trí trong dự_toán ngân_sách hằng năm của tổ_chức thu phí theo chế_độ , định mức chi ngân_sách"
+    },
+    {
+     "type": "NGUONG_DINH_LUONG",
+     "start": 9,
+     "end": 11,
+     "text": "100 %"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 17,
+     "end": 19,
+     "text": "ngân_sách nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 25,
+     "end": 27,
+     "text": "ngân_sách nhà_nước"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 58,
+     "end": 60,
+     "text": "ngân_sách nhà_nước"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_37",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 5 . 3 . Tổ_chức thu phí thực_hiện khai , thu , nộp phí và quyết_toán số tiền phí thu được theo quy_định tại khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    "thực_hiện",
+    "khai",
+    ",",
+    "thu",
+    ",",
+    "nộp",
+    "phí",
+    "và",
+    "quyết_toán",
+    "số",
+    "tiền",
+    "phí",
+    "thu",
+    "được",
+    "theo",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "3",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 45,
+     "text": "3 . Tổ_chức thu phí thực_hiện khai , thu , nộp phí và quyết_toán số tiền phí thu được theo quy_định tại khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 37,
+     "end": 44,
+     "text": "khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 34,
+     "end": 37,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_38",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 3 . Tổ_chức thu phí thực_hiện khai , thu , nộp phí và quyết_toán số tiền phí thu được theo quy_định tại khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí",
+    "thực_hiện",
+    "khai",
+    ",",
+    "thu",
+    ",",
+    "nộp",
+    "phí",
+    "và",
+    "quyết_toán",
+    "số",
+    "tiền",
+    "phí",
+    "thu",
+    "được",
+    "theo",
+    "quy_định",
+    "tại",
+    "khoản",
+    "3",
+    "Điều",
+    "3",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 33,
+     "text": "3 . Tổ_chức thu phí thực_hiện khai , thu , nộp phí và quyết_toán số tiền phí thu được theo quy_định tại khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 25,
+     "end": 32,
+     "text": "khoản 3 Điều 3 Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "theo quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_39",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 6 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 6 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_40",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 6 . 1 . Thông_tư này có hiệu_lực thi_hành từ ngày 14 tháng 8 năm 2026 .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "từ",
+    "ngày",
+    "14",
+    "tháng",
+    "8",
+    "năm",
+    "2026",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 25,
+     "text": "1 . Thông_tư này có hiệu_lực thi_hành từ ngày 14 tháng 8 năm 2026 ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_41",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC ban_hành ngày 13 tháng 08 năm 2026 bởi Bộ Tài_chính . Điều 6 . 2 . Các Thông_tư sau_hết hiệu_lực kể từ ngày Thông_tư này có hiệu_lực thi_hành :",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "08",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Các",
+    "Thông_tư",
+    "sau_hết",
+    "hiệu_lực",
+    "kể",
+    "từ",
+    "ngày",
+    "Thông_tư",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 08 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 32,
+     "text": "2 . Các Thông_tư sau_hết hiệu_lực kể từ ngày Thông_tư này có hiệu_lực thi_hành :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_42",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC ban_hành ngày 13 tháng 08 năm 2026 bởi Bộ Tài_chính . Điều 6 . Khoản 2 . a ) Thông_tư số 223/2016/TT-BTC quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề trong lĩnh_vực thừa phát lại ;",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "08",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Thông_tư",
+    "số",
+    "223/2016/TT-BTC",
+    "quy_định",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "quản_lý",
+    "và",
+    "sử_dụng",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "trong",
+    "lĩnh_vực",
+    "thừa",
+    "phát",
+    "lại",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 08 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 19,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 20,
+     "end": 49,
+     "text": "a ) Thông_tư số 223/2016/TT-BTC quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề trong lĩnh_vực thừa phát lại ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "Thông_tư số 223/2016/TT-BTC"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 44,
+     "end": 48,
+     "text": "lĩnh_vực thừa phát lại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 7,
+     "tail": 8
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 8
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 8
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_43",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . a ) Thông_tư số 223/2016/TT-BTC quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề trong lĩnh_vực thừa phát lại ;",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "a",
+    ")",
+    "Thông_tư",
+    "số",
+    "223/2016/TT-BTC",
+    "quy_định",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "quản_lý",
+    "và",
+    "sử_dụng",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "trong",
+    "lĩnh_vực",
+    "thừa",
+    "phát",
+    "lại",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 35,
+     "text": "a ) Thông_tư số 223/2016/TT-BTC quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề trong lĩnh_vực thừa phát lại ;"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Thông_tư số 223/2016/TT-BTC"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 30,
+     "end": 34,
+     "text": "lĩnh_vực thừa phát lại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 2,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_44",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 6 . Khoản 2 . b ) Thông_tư số 05/2021/TT-BTC sửa_đổi , bổ_sung một_số điều của Thông_tư số 223/2016/TT-BTC ngày 10 tháng 11 năm 2016 của Bộ_trưởng Bộ Tài_chính quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_phát lại ; phí thẩm_định điều_kiện thành_lập , hoạt_động Văn_phòng Thừa_phát lại .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Thông_tư",
+    "số",
+    "05/2021/TT-BTC",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Thông_tư",
+    "số",
+    "223/2016/TT-BTC",
+    "ngày",
+    "10",
+    "tháng",
+    "11",
+    "năm",
+    "2016",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_chính",
+    "quy_định",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "quản_lý",
+    "và",
+    "sử_dụng",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_phát",
+    "lại",
+    ";",
+    "phí",
+    "thẩm_định",
+    "điều_kiện",
+    "thành_lập",
+    ",",
+    "hoạt_động",
+    "Văn_phòng",
+    "Thừa_phát",
+    "lại",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 17,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 18,
+     "end": 73,
+     "text": "b ) Thông_tư số 05/2021/TT-BTC sửa_đổi , bổ_sung một_số điều của Thông_tư số 223/2016/TT-BTC ngày 10 tháng 11 năm 2016 của Bộ_trưởng Bộ Tài_chính quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_phát lại ; phí thẩm_định điều_kiện thành_lập , hoạt_động Văn_phòng Thừa_phát lại ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 23,
+     "text": "Thông_tư số 05/2021/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 32,
+     "text": "Thông_tư số 223/2016/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 23,
+     "end": 29,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 32,
+     "end": 38,
+     "text": "ngày 10 tháng 11 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 39,
+     "end": 42,
+     "text": "Bộ_trưởng Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 69,
+     "end": 72,
+     "text": "Văn_phòng Thừa_phát lại"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 60,
+     "end": 62,
+     "text": "Thừa_phát lại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 9,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 8,
+     "tail": 10
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_45",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . Khoản 2 . b ) Thông_tư số 05/2021/TT-BTC sửa_đổi , bổ_sung một_số điều của Thông_tư số 223/2016/TT-BTC ngày 10 tháng 11 năm 2016 của Bộ_trưởng Bộ Tài_chính quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_phát lại ; phí thẩm_định điều_kiện thành_lập , hoạt_động Văn_phòng Thừa_phát lại .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "Khoản",
+    "2",
+    ".",
+    "b",
+    ")",
+    "Thông_tư",
+    "số",
+    "05/2021/TT-BTC",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Thông_tư",
+    "số",
+    "223/2016/TT-BTC",
+    "ngày",
+    "10",
+    "tháng",
+    "11",
+    "năm",
+    "2016",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_chính",
+    "quy_định",
+    "mức",
+    "thu",
+    ",",
+    "chế_độ",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "quản_lý",
+    "và",
+    "sử_dụng",
+    "phí",
+    "thẩm_định",
+    "tiêu_chuẩn",
+    ",",
+    "điều_kiện",
+    "hành_nghề",
+    "Thừa_phát",
+    "lại",
+    ";",
+    "phí",
+    "thẩm_định",
+    "điều_kiện",
+    "thành_lập",
+    ",",
+    "hoạt_động",
+    "Văn_phòng",
+    "Thừa_phát",
+    "lại",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 5,
+     "text": "Khoản 2"
+    },
+    {
+     "type": "DIEM",
+     "start": 6,
+     "end": 61,
+     "text": "b ) Thông_tư số 05/2021/TT-BTC sửa_đổi , bổ_sung một_số điều của Thông_tư số 223/2016/TT-BTC ngày 10 tháng 11 năm 2016 của Bộ_trưởng Bộ Tài_chính quy_định mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí thẩm_định tiêu_chuẩn , điều_kiện hành_nghề Thừa_phát lại ; phí thẩm_định điều_kiện thành_lập , hoạt_động Văn_phòng Thừa_phát lại ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Thông_tư số 05/2021/TT-BTC"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 20,
+     "text": "Thông_tư số 223/2016/TT-BTC"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 11,
+     "end": 17,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 20,
+     "end": 26,
+     "text": "ngày 10 tháng 11 năm 2016"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "Bộ_trưởng Bộ Tài_chính"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 57,
+     "end": 60,
+     "text": "Văn_phòng Thừa_phát lại"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 48,
+     "end": 50,
+     "text": "Thừa_phát lại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_46",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 6 . 3 . Các nội_dung khác liên_quan đến việc khai , thu , nộp , công_khai chế_độ thu phí không quy_định tại Thông_tư này được thực_hiện theo quy_định tại các văn_bản : Luật Phí và lệ_phí số 97/2015/QH13 ; Luật Quản_lý thuế_số 108 / 20 25 / QH1 5 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết biện_pháp để tổ_chức , hướng_dẫn thi_hành ; Nghị_định số 362/2025/NĐ-CP ; Nghị_định số 347/2025/NĐ-CP quy_định về thủ_tục hành_chính thuộc",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Các",
+    "nội_dung",
+    "khác",
+    "liên_quan",
+    "đến",
+    "việc",
+    "khai",
+    ",",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "công_khai",
+    "chế_độ",
+    "thu",
+    "phí",
+    "không",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "tại",
+    "các",
+    "văn_bản",
+    ":",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "số",
+    "97/2015/QH13",
+    ";",
+    "Luật",
+    "Quản_lý",
+    "thuế_số",
+    "108",
+    "/",
+    "20",
+    "25",
+    "/",
+    "QH1",
+    "5",
+    "và",
+    "các",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    "quy_định",
+    "chi_tiết",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    ";",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    ";",
+    "Nghị_định",
+    "số",
+    "347/2025/NĐ-CP",
+    "quy_định",
+    "về",
+    "thủ_tục",
+    "hành_chính",
+    "thuộc"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 88,
+     "text": "3 . Các nội_dung khác liên_quan đến việc khai , thu , nộp , công_khai chế_độ thu phí không quy_định tại Thông_tư này được thực_hiện theo quy_định tại các văn_bản : Luật Phí và lệ_phí số 97/2015/QH13 ; Luật Quản_lý thuế_số 108 / 20 25 / QH1 5 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết biện_pháp để tổ_chức , hướng_dẫn thi_hành ; Nghị_định số 362/2025/NĐ-CP ; Nghị_định số 347/2025/NĐ-CP quy_định về thủ_tục hành_chính thuộc"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 36,
+     "end": 38,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 46,
+     "end": 52,
+     "text": "Luật Phí và lệ_phí số 97/2015/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 76,
+     "end": 79,
+     "text": "Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 80,
+     "end": 83,
+     "text": "Nghị_định số 347/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 34,
+     "end": 36,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 7
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 8
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 10,
+     "tail": 9
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_standalone_47",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 3 . Các nội_dung khác liên_quan đến việc khai , thu , nộp , công_khai chế_độ thu phí không quy_định tại Thông_tư này được thực_hiện theo quy_định tại các văn_bản : Luật Phí và lệ_phí số 97/2015/QH13 ; Luật Quản_lý thuế_số 108 / 20 25 / QH1 5 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết biện_pháp để tổ_chức , hướng_dẫn thi_hành ; Nghị_định số 362/2025/NĐ-CP ; Nghị_định số 347/2025/NĐ-CP quy_định về thủ_tục hành_chính thuộc",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Các",
+    "nội_dung",
+    "khác",
+    "liên_quan",
+    "đến",
+    "việc",
+    "khai",
+    ",",
+    "thu",
+    ",",
+    "nộp",
+    ",",
+    "công_khai",
+    "chế_độ",
+    "thu",
+    "phí",
+    "không",
+    "quy_định",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "thực_hiện",
+    "theo",
+    "quy_định",
+    "tại",
+    "các",
+    "văn_bản",
+    ":",
+    "Luật",
+    "Phí",
+    "và",
+    "lệ_phí",
+    "số",
+    "97/2015/QH13",
+    ";",
+    "Luật",
+    "Quản_lý",
+    "thuế_số",
+    "108",
+    "/",
+    "20",
+    "25",
+    "/",
+    "QH1",
+    "5",
+    "và",
+    "các",
+    "văn_bản",
+    "quy_phạm_pháp_luật",
+    "quy_định",
+    "chi_tiết",
+    "biện_pháp",
+    "để",
+    "tổ_chức",
+    ",",
+    "hướng_dẫn",
+    "thi_hành",
+    ";",
+    "Nghị_định",
+    "số",
+    "362/2025/NĐ-CP",
+    ";",
+    "Nghị_định",
+    "số",
+    "347/2025/NĐ-CP",
+    "quy_định",
+    "về",
+    "thủ_tục",
+    "hành_chính",
+    "thuộc"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 76,
+     "text": "3 . Các nội_dung khác liên_quan đến việc khai , thu , nộp , công_khai chế_độ thu phí không quy_định tại Thông_tư này được thực_hiện theo quy_định tại các văn_bản : Luật Phí và lệ_phí số 97/2015/QH13 ; Luật Quản_lý thuế_số 108 / 20 25 / QH1 5 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết biện_pháp để tổ_chức , hướng_dẫn thi_hành ; Nghị_định số 362/2025/NĐ-CP ; Nghị_định số 347/2025/NĐ-CP quy_định về thủ_tục hành_chính thuộc"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "Thông_tư này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 34,
+     "end": 40,
+     "text": "Luật Phí và lệ_phí số 97/2015/QH13"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 64,
+     "end": 67,
+     "text": "Nghị_định số 362/2025/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 68,
+     "end": 71,
+     "text": "Nghị_định số 347/2025/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_48",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 6 . 4 . Trường_hợp các văn_bản viện_dẫn tại Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì thực_hiện theo văn_bản sửa_đổi , bổ_sung hoặc thay_thế đó .",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Trường_hợp",
+    "các",
+    "văn_bản",
+    "viện_dẫn",
+    "tại",
+    "Thông_tư",
+    "này",
+    "được",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "hoặc",
+    "thay_thế_thì",
+    "thực_hiện",
+    "theo",
+    "văn_bản",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "hoặc",
+    "thay_thế",
+    "đó",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 35,
+     "text": "4 . Trường_hợp các văn_bản viện_dẫn tại Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì thực_hiện theo văn_bản sửa_đổi , bổ_sung hoặc thay_thế đó ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_49",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 6 . 5 . Trong quá_trình thực_hiện , trường_hợp có vướng_mắc , đề_nghị các tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_chính để nghiên_cứu , hướng_dẫn bổ_sung . / .",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Trong",
+    "quá_trình",
+    "thực_hiện",
+    ",",
+    "trường_hợp",
+    "có",
+    "vướng_mắc",
+    ",",
+    "đề_nghị",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "phản_ánh",
+    "kịp_thời",
+    "về",
+    "Bộ",
+    "Tài_chính",
+    "để",
+    "nghiên_cứu",
+    ",",
+    "hướng_dẫn",
+    "bổ_sung",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 14,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 15,
+     "end": 43,
+     "text": "5 . Trong quá_trình thực_hiện , trường_hợp có vướng_mắc , đề_nghị các tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_chính để nghiên_cứu , hướng_dẫn bổ_sung . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 35,
+     "text": "Bộ Tài_chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_50",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC ban_hành ngày 13 tháng 08 năm 2026 bởi Bộ Tài_chính . Điều 2 . Người nộp phí",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "ban_hành",
+    "ngày",
+    "13",
+    "tháng",
+    "08",
+    "năm",
+    "2026",
+    "bởi",
+    "Bộ",
+    "Tài_chính",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Người",
+    "nộp",
+    "phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 13 tháng 08 năm 2026"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 20,
+     "text": "Điều 2 . Người nộp phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_51",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 3 . Tổ_chức thu phí",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Tổ_chức",
+    "thu",
+    "phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 18,
+     "text": "Điều 3 . Tổ_chức thu phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_52",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Bộ Tài_chính ban_hành Thông_tư số 116/2026/TT-BTC . Điều 4 . Mức thu phí",
+   "tokens": [
+    "Bộ",
+    "Tài_chính",
+    "ban_hành",
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Mức",
+    "thu",
+    "phí"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 13,
+     "text": "Điều 4 . Mức thu phí"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#body_context_53",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "body_context",
+   "text": "Thông_tư số 116/2026/TT-BTC của Bộ Tài_chính trong lĩnh_vực Phí và lệ_phí . Điều 6 . Hiệu_lực thi_hành",
+   "tokens": [
+    "Thông_tư",
+    "số",
+    "116/2026/TT-BTC",
+    "của",
+    "Bộ",
+    "Tài_chính",
+    "trong",
+    "lĩnh_vực",
+    "Phí",
+    "và",
+    "lệ_phí",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Hiệu_lực",
+    "thi_hành"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Thông_tư"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "116/2026/TT-BTC"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Tài_chính"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 11,
+     "text": "Phí và lệ_phí"
+    },
+    {
+     "type": "DIEU",
+     "start": 12,
+     "end": 17,
+     "text": "Điều 6 . Hiệu_lực thi_hành"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#hard_negative_54",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#hard_negative_55",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "Độc_lập - Tự_do - Hạnh_phúc",
+   "tokens": [
+    "Độc_lập",
+    "-",
+    "Tự_do",
+    "-",
+    "Hạnh_phúc"
+   ],
+   "entities": [],
+   "relations": []
+  },
+  {
+   "id": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f#hard_negative_56",
+   "doc": "116_2026_TT-BTC_a78e6620-9a29-11f1-a3ca-6d455302db9f",
+   "category": "thong_tu",
+   "kind": "hard_negative",
+   "text": "Nơi nhận :",
+   "tokens": [
+    "Nơi",
+    "nhận",
+    ":"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

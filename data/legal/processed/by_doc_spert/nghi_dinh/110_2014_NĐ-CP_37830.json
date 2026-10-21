@@ -1,0 +1,9385 @@
+{
+ "doc": "110_2014_NĐ-CP_37830",
+ "category": "nghi_dinh",
+ "split": "train",
+ "total_samples": 94,
+ "total_entities": 567,
+ "total_relations": 390,
+ "samples": [
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_0",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 10,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 10,
+     "end": 16,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_1",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_2",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Căn_cứ Luật Giao_thông đường thủy_nội_địa ngày 15 tháng 6 năm 2004 và Luật sửa_đổi , bổ_sung một_số điều của Luật Giao_thông đường thủy_nội_địa ngày 17 tháng 6 năm 2014 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "ngày",
+    "15",
+    "tháng",
+    "6",
+    "năm",
+    "2004",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "ngày",
+    "17",
+    "tháng",
+    "6",
+    "năm",
+    "2014",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 11,
+     "text": "Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 18,
+     "end": 29,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 15 tháng 6 năm 2004"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 29,
+     "end": 35,
+     "text": "ngày 17 tháng 6 năm 2014"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 6
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 7
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_3",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Giao_thông đường thủy_nội_địa ngày 15 tháng 6 năm 2004 và Luật sửa_đổi , bổ_sung một_số điều của Luật Giao_thông đường thủy_nội_địa ngày 17 tháng 6 năm 2014 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "ngày",
+    "15",
+    "tháng",
+    "6",
+    "năm",
+    "2004",
+    "và",
+    "Luật",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "ngày",
+    "17",
+    "tháng",
+    "6",
+    "năm",
+    "2014",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 5,
+     "text": "Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 12,
+     "end": 23,
+     "text": "Luật sửa_đổi , bổ_sung một_số điều của Luật Giao_thông đường thủy_nội_địa"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 5,
+     "end": 11,
+     "text": "ngày 15 tháng 6 năm 2004"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 23,
+     "end": 29,
+     "text": "ngày 17 tháng 6 năm 2014"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_4",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Căn_cứ Luật Doanh_nghiệp ngày 29 tháng 11 năm 2005 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Doanh_nghiệp",
+    "ngày",
+    "29",
+    "tháng",
+    "11",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 9,
+     "text": "Luật Doanh_nghiệp"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 15,
+     "text": "ngày 29 tháng 11 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_5",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Doanh_nghiệp ngày 29 tháng 11 năm 2005 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Doanh_nghiệp",
+    "ngày",
+    "29",
+    "tháng",
+    "11",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật Doanh_nghiệp"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 29 tháng 11 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_6",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Căn_cứ Luật Hợp_tác_xã ngày 20 tháng 11 năm 2012 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Hợp_tác_xã",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2012",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 9,
+     "text": "Luật Hợp_tác_xã"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 15,
+     "text": "ngày 20 tháng 11 năm 2012"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_7",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Hợp_tác_xã ngày 20 tháng 11 năm 2012 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Hợp_tác_xã",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2012",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật Hợp_tác_xã"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 20 tháng 11 năm 2012"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_8",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Căn_cứ Luật Du_lịch ngày 14 tháng 6 năm 2005 ;",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Du_lịch",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 7,
+     "end": 9,
+     "text": "Luật Du_lịch"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 6,
+     "end": 7,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 9,
+     "end": 15,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_9",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Du_lịch ngày 14 tháng 6 năm 2005 ;",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Du_lịch",
+    "ngày",
+    "14",
+    "tháng",
+    "6",
+    "năm",
+    "2005",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 3,
+     "text": "Luật Du_lịch"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 3,
+     "end": 9,
+     "text": "ngày 14 tháng 6 năm 2005"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_10",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Theo đề_nghị của Bộ_trưởng Bộ Giao_thông vận_tải ,",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 13,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_11",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Giao_thông vận_tải ,",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ","
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 7,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_context_12",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ . Chính_phủ ban_hành Nghị_định quy_định điều_kiện kinh_doanh vận_tải đường thủy_nội_địa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    ".",
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "quy_định",
+    "điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 6,
+     "end": 7,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#preamble_standalone_13",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "preamble_standalone",
+   "text": "Chính_phủ ban_hành Nghị_định quy_định điều_kiện kinh_doanh vận_tải đường thủy_nội_địa .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "quy_định",
+    "điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_14",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Chương I. QUY_ĐỊNH CHUNG",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "I.",
+    "QUY_ĐỊNH",
+    "CHUNG"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 17,
+     "text": "Chương I. QUY_ĐỊNH CHUNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_15",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Chương I . Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định điều_kiện kinh_doanh vận_tải đường thủy_nội_địa , gồm kinh_doanh vận_tải hành_khách và kinh_doanh vận_tải hàng_hóa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "I",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh",
+    ".",
+    "Nghị_định",
+    "này",
+    "quy_định",
+    "điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    ",",
+    "gồm",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "và",
+    "kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương I"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 40,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh . Nghị_định này quy_định điều_kiện kinh_doanh vận_tải đường thủy_nội_địa , gồm kinh_doanh vận_tải hành_khách và kinh_doanh vận_tải hàng_hóa ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 38,
+     "end": 39,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_16",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Chương I . Điều 2 . Đối_tượng áp_dụng . Nghị_định này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa bằng phương_tiện thủy_nội_địa ( sau đây gọi là phương_tiện ) .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "I",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Đối_tượng",
+    "áp_dụng",
+    ".",
+    "Nghị_định",
+    "này",
+    "áp_dụng",
+    "đối_với",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "đến",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "bằng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "(",
+    "sau",
+    "đây",
+    "gọi",
+    "là",
+    "phương_tiện",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương I"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 47,
+     "text": "Điều 2 . Đối_tượng áp_dụng . Nghị_định này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa bằng phương_tiện thủy_nội_địa ( sau đây gọi là phương_tiện ) ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 37,
+     "end": 39,
+     "text": "phương_tiện thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 44,
+     "end": 45,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_17",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 3 . 1 . Đơn_vị kinh_doanh vận_tải là doanh_nghiệp , hợp_tác_xã , hộ kinh_doanh tham_gia kinh_doanh vận_tải bằng phương_tiện thủy_nội_địa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "là",
+    "doanh_nghiệp",
+    ",",
+    "hợp_tác_xã",
+    ",",
+    "hộ",
+    "kinh_doanh",
+    "tham_gia",
+    "kinh_doanh",
+    "vận_tải",
+    "bằng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 32,
+     "text": "1 . Đơn_vị kinh_doanh vận_tải là doanh_nghiệp , hợp_tác_xã , hộ kinh_doanh tham_gia kinh_doanh vận_tải bằng phương_tiện thủy_nội_địa ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 19,
+     "end": 20,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 22,
+     "text": "hợp_tác_xã"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 23,
+     "end": 25,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 31,
+     "text": "phương_tiện thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_18",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 1 . Đơn_vị kinh_doanh vận_tải là doanh_nghiệp , hợp_tác_xã , hộ kinh_doanh tham_gia kinh_doanh vận_tải bằng phương_tiện thủy_nội_địa .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "là",
+    "doanh_nghiệp",
+    ",",
+    "hợp_tác_xã",
+    ",",
+    "hộ",
+    "kinh_doanh",
+    "tham_gia",
+    "kinh_doanh",
+    "vận_tải",
+    "bằng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 22,
+     "text": "1 . Đơn_vị kinh_doanh vận_tải là doanh_nghiệp , hợp_tác_xã , hộ kinh_doanh tham_gia kinh_doanh vận_tải bằng phương_tiện thủy_nội_địa ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 8,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 9,
+     "end": 10,
+     "text": "doanh_nghiệp"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 11,
+     "end": 12,
+     "text": "hợp_tác_xã"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 13,
+     "end": 15,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 21,
+     "text": "phương_tiện thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_19",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 3 . 2 . Kinh_doanh vận_tải đường thủy_nội_địa là hoạt_động của đơn_vị kinh_doanh sử_dụng phương_tiện thủy_nội_địa để vận_tải hành_khách , hàng_hóa có thu cước_phí vận_tải .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "là",
+    "hoạt_động",
+    "của",
+    "đơn_vị",
+    "kinh_doanh",
+    "sử_dụng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "để",
+    "vận_tải",
+    "hành_khách",
+    ",",
+    "hàng_hóa",
+    "có",
+    "thu",
+    "cước_phí",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 40,
+     "text": "2 . Kinh_doanh vận_tải đường thủy_nội_địa là hoạt_động của đơn_vị kinh_doanh sử_dụng phương_tiện thủy_nội_địa để vận_tải hành_khách , hàng_hóa có thu cước_phí vận_tải ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 28,
+     "end": 30,
+     "text": "phương_tiện thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 34,
+     "end": 35,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_20",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 3 . 2 . Kinh_doanh vận_tải đường thủy_nội_địa là hoạt_động của đơn_vị kinh_doanh sử_dụng phương_tiện thủy_nội_địa để vận_tải hành_khách , hàng_hóa có thu cước_phí vận_tải .",
+   "tokens": [
+    "Điều",
+    "3",
+    ".",
+    "2",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "là",
+    "hoạt_động",
+    "của",
+    "đơn_vị",
+    "kinh_doanh",
+    "sử_dụng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "để",
+    "vận_tải",
+    "hành_khách",
+    ",",
+    "hàng_hóa",
+    "có",
+    "thu",
+    "cước_phí",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "2 . Kinh_doanh vận_tải đường thủy_nội_địa là hoạt_động của đơn_vị kinh_doanh sử_dụng phương_tiện thủy_nội_địa để vận_tải hành_khách , hàng_hóa có thu cước_phí vận_tải ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 17,
+     "text": "phương_tiện thủy_nội_địa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_21",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 3 . 3 . Tuyến vận_tải đường thủy_nội_địa cố_định là tuyến được cơ_quan có thẩm_quyền phê_duyệt hoặc công_bố , được xác_định bởi cảng , bến nơi đi và cảng , bến nơi đến .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "3",
+    ".",
+    "Tuyến",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "cố_định",
+    "là",
+    "tuyến",
+    "được",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "phê_duyệt",
+    "hoặc",
+    "công_bố",
+    ",",
+    "được",
+    "xác_định",
+    "bởi",
+    "cảng",
+    ",",
+    "bến",
+    "nơi",
+    "đi",
+    "và",
+    "cảng",
+    ",",
+    "bến",
+    "nơi",
+    "đến",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 3"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 48,
+     "text": "3 . Tuyến vận_tải đường thủy_nội_địa cố_định là tuyến được cơ_quan có thẩm_quyền phê_duyệt hoặc công_bố , được xác_định bởi cảng , bến nơi đi và cảng , bến nơi đến ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 26,
+     "end": 29,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_22",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Chương I . Điều 4 . Các hình_thức kinh_doanh vận_tải đường thủy_nội_địa . Kinh_doanh vận_tải đường thủy_nội_địa bao_gồm các hình_thức sau :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "I",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Các",
+    "hình_thức",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "bao_gồm",
+    "các",
+    "hình_thức",
+    "sau",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương I"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 35,
+     "text": "Điều 4 . Các hình_thức kinh_doanh vận_tải đường thủy_nội_địa . Kinh_doanh vận_tải đường thủy_nội_địa bao_gồm các hình_thức sau :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_23",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 4 . 3 . Kinh_doanh vận_chuyển khách du_lịch ;",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "3",
+    ".",
+    "Kinh_doanh",
+    "vận_chuyển",
+    "khách",
+    "du_lịch",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 16,
+     "text": "3 . Kinh_doanh vận_chuyển khách du_lịch ;"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_24",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 4 . 5 . Kinh_doanh vận_tải hàng_hóa .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "5",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 15,
+     "text": "5 . Kinh_doanh vận_tải hàng_hóa ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 13,
+     "end": 14,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_25",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 5 . Điều_kiện chung . Đơn_vị kinh_doanh vận_tải đường thủy_nội_địa phải có đủ các điều_kiện sau đây :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Điều_kiện",
+    "chung",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "phải",
+    "có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 25,
+     "text": "Điều 5 . Điều_kiện chung . Đơn_vị kinh_doanh vận_tải đường thủy_nội_địa phải có đủ các điều_kiện sau đây :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 12,
+     "end": 15,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_26",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 5 . 2 . Phương_tiện phải bảo_đảm an_toàn kỹ_thuật và bảo_vệ môi_trường theo quy_định ; phù_hợp với hình_thức và phương_án kinh_doanh .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "2",
+    ".",
+    "Phương_tiện",
+    "phải",
+    "bảo_đảm",
+    "an_toàn",
+    "kỹ_thuật",
+    "và",
+    "bảo_vệ",
+    "môi_trường",
+    "theo",
+    "quy_định",
+    ";",
+    "phù_hợp",
+    "với",
+    "hình_thức",
+    "và",
+    "phương_án",
+    "kinh_doanh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 36,
+     "text": "2 . Phương_tiện phải bảo_đảm an_toàn kỹ_thuật và bảo_vệ môi_trường theo quy_định ; phù_hợp với hình_thức và phương_án kinh_doanh ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "Phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_27",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 5 . 3 . Thuyền_viên phải có bằng , chứng_chỉ chuyên_môn theo quy_định . Thuyền_viên phải đủ tiêu_chuẩn về sức_khỏe theo quy_định của Bộ Y_tế .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Thuyền_viên",
+    "phải",
+    "có",
+    "bằng",
+    ",",
+    "chứng_chỉ",
+    "chuyên_môn",
+    "theo",
+    "quy_định",
+    ".",
+    "Thuyền_viên",
+    "phải",
+    "đủ",
+    "tiêu_chuẩn",
+    "về",
+    "sức_khỏe",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Y_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 33,
+     "text": "3 . Thuyền_viên phải có bằng , chứng_chỉ chuyên_môn theo quy_định . Thuyền_viên phải đủ tiêu_chuẩn về sức_khỏe theo quy_định của Bộ Y_tế ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 32,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "chứng_chỉ chuyên_môn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_28",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 3 . Thuyền_viên phải có bằng , chứng_chỉ chuyên_môn theo quy_định . Thuyền_viên phải đủ tiêu_chuẩn về sức_khỏe theo quy_định của Bộ Y_tế .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "3",
+    ".",
+    "Thuyền_viên",
+    "phải",
+    "có",
+    "bằng",
+    ",",
+    "chứng_chỉ",
+    "chuyên_môn",
+    "theo",
+    "quy_định",
+    ".",
+    "Thuyền_viên",
+    "phải",
+    "đủ",
+    "tiêu_chuẩn",
+    "về",
+    "sức_khỏe",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Y_tế",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 27,
+     "text": "3 . Thuyền_viên phải có bằng , chứng_chỉ chuyên_môn theo quy_định . Thuyền_viên phải đủ tiêu_chuẩn về sức_khỏe theo quy_định của Bộ Y_tế ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 26,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 10,
+     "end": 12,
+     "text": "chứng_chỉ chuyên_môn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_29",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 5 . 4 . Thuyền_viên , nhân_viên phục_vụ có hợp_đồng lao_động bằng văn_bản với đơn_vị kinh_doanh vận_tải theo mẫu của Bộ Lao_động - Thương_binh và Xã_hội ( trừ các trường_hợp_đồng_thời là chủ hộ kinh_doanh hoặc là bố , mẹ , vợ , chồng , con của chủ hộ kinh_doanh ) .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "4",
+    ".",
+    "Thuyền_viên",
+    ",",
+    "nhân_viên",
+    "phục_vụ",
+    "có",
+    "hợp_đồng",
+    "lao_động",
+    "bằng",
+    "văn_bản",
+    "với",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "theo",
+    "mẫu",
+    "của",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    "(",
+    "trừ",
+    "các",
+    "trường_hợp_đồng_thời",
+    "là",
+    "chủ",
+    "hộ",
+    "kinh_doanh",
+    "hoặc",
+    "là",
+    "bố",
+    ",",
+    "mẹ",
+    ",",
+    "vợ",
+    ",",
+    "chồng",
+    ",",
+    "con",
+    "của",
+    "chủ",
+    "hộ",
+    "kinh_doanh",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 58,
+     "text": "4 . Thuyền_viên , nhân_viên phục_vụ có hợp_đồng lao_động bằng văn_bản với đơn_vị kinh_doanh vận_tải theo mẫu của Bộ Lao_động - Thương_binh và Xã_hội ( trừ các trường_hợp_đồng_thời là chủ hộ kinh_doanh hoặc là bố , mẹ , vợ , chồng , con của chủ hộ kinh_doanh ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 33,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "hợp_đồng lao_động"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 39,
+     "end": 41,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 54,
+     "end": 56,
+     "text": "hộ kinh_doanh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_30",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 5 . 4 . Thuyền_viên , nhân_viên phục_vụ có hợp_đồng lao_động bằng văn_bản với đơn_vị kinh_doanh vận_tải theo mẫu của Bộ Lao_động - Thương_binh và Xã_hội ( trừ các trường_hợp_đồng_thời là chủ hộ kinh_doanh hoặc là bố , mẹ , vợ , chồng , con của chủ hộ kinh_doanh ) .",
+   "tokens": [
+    "Điều",
+    "5",
+    ".",
+    "4",
+    ".",
+    "Thuyền_viên",
+    ",",
+    "nhân_viên",
+    "phục_vụ",
+    "có",
+    "hợp_đồng",
+    "lao_động",
+    "bằng",
+    "văn_bản",
+    "với",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "theo",
+    "mẫu",
+    "của",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    "(",
+    "trừ",
+    "các",
+    "trường_hợp_đồng_thời",
+    "là",
+    "chủ",
+    "hộ",
+    "kinh_doanh",
+    "hoặc",
+    "là",
+    "bố",
+    ",",
+    "mẹ",
+    ",",
+    "vợ",
+    ",",
+    "chồng",
+    ",",
+    "con",
+    "của",
+    "chủ",
+    "hộ",
+    "kinh_doanh",
+    ")",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 52,
+     "text": "4 . Thuyền_viên , nhân_viên phục_vụ có hợp_đồng lao_động bằng văn_bản với đơn_vị kinh_doanh vận_tải theo mẫu của Bộ Lao_động - Thương_binh và Xã_hội ( trừ các trường_hợp_đồng_thời là chủ hộ kinh_doanh hoặc là bố , mẹ , vợ , chồng , con của chủ hộ kinh_doanh ) ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 21,
+     "end": 27,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 10,
+     "end": 12,
+     "text": "hợp_đồng lao_động"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 33,
+     "end": 35,
+     "text": "hộ kinh_doanh"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 48,
+     "end": 50,
+     "text": "hộ kinh_doanh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_31",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 5 . 5 . Mua bảo_hiểm trách_nhiệm dân_sự của chủ phương_tiện đối_với hành_khách và người thứ ba .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "5",
+    ".",
+    "Mua",
+    "bảo_hiểm",
+    "trách_nhiệm",
+    "dân_sự",
+    "của",
+    "chủ",
+    "phương_tiện",
+    "đối_với",
+    "hành_khách",
+    "và",
+    "người",
+    "thứ",
+    "ba",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 5"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 29,
+     "text": "5 . Mua bảo_hiểm trách_nhiệm dân_sự của chủ phương_tiện đối_với hành_khách và người thứ ba ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_32",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 6 . Điều_kiện kinh_doanh vận_tải hành_khách theo tuyến cố_định . Đơn_vị kinh_doanh vận_tải hành_khách theo tuyến cố_định phải bảo_đảm các điều_kiện sau đây :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "Điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "theo",
+    "tuyến",
+    "cố_định",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "theo",
+    "tuyến",
+    "cố_định",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "điều_kiện",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 31,
+     "text": "Điều 6 . Điều_kiện kinh_doanh vận_tải hành_khách theo tuyến cố_định . Đơn_vị kinh_doanh vận_tải hành_khách theo tuyến cố_định phải bảo_đảm các điều_kiện sau đây :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 17,
+     "end": 20,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_33",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 6 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 27,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 26,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_34",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 16,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_35",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 6 . 2 . Có văn_bản chấp_thuận tuyến hoạt_động và phương_án khai_thác tuyến của cơ_quan có thẩm_quyền nơi đơn_vị kinh_doanh nộp đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục đăng_ký tuyến hoạt_động vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Có",
+    "văn_bản",
+    "chấp_thuận",
+    "tuyến",
+    "hoạt_động",
+    "và",
+    "phương_án",
+    "khai_thác",
+    "tuyến",
+    "của",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "nơi",
+    "đơn_vị",
+    "kinh_doanh",
+    "nộp",
+    "đơn",
+    "đăng_ký",
+    "vận_tải",
+    "hành_khách",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "tuyến",
+    "cố_định",
+    ".",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thủ_tục",
+    "đăng_ký",
+    "tuyến",
+    "hoạt_động",
+    "vận_tải",
+    "hành_khách",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "tuyến",
+    "cố_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 58,
+     "text": "2 . Có văn_bản chấp_thuận tuyến hoạt_động và phương_án khai_thác tuyến của cơ_quan có thẩm_quyền nơi đơn_vị kinh_doanh nộp đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục đăng_ký tuyến hoạt_động vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 42,
+     "end": 45,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 16,
+     "end": 18,
+     "text": "văn_bản chấp_thuận"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 32,
+     "end": 38,
+     "text": "đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_36",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 2 . Có văn_bản chấp_thuận tuyến hoạt_động và phương_án khai_thác tuyến của cơ_quan có thẩm_quyền nơi đơn_vị kinh_doanh nộp đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục đăng_ký tuyến hoạt_động vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "2",
+    ".",
+    "Có",
+    "văn_bản",
+    "chấp_thuận",
+    "tuyến",
+    "hoạt_động",
+    "và",
+    "phương_án",
+    "khai_thác",
+    "tuyến",
+    "của",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "nơi",
+    "đơn_vị",
+    "kinh_doanh",
+    "nộp",
+    "đơn",
+    "đăng_ký",
+    "vận_tải",
+    "hành_khách",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "tuyến",
+    "cố_định",
+    ".",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thủ_tục",
+    "đăng_ký",
+    "tuyến",
+    "hoạt_động",
+    "vận_tải",
+    "hành_khách",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "tuyến",
+    "cố_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 48,
+     "text": "2 . Có văn_bản chấp_thuận tuyến hoạt_động và phương_án khai_thác tuyến của cơ_quan có thẩm_quyền nơi đơn_vị kinh_doanh nộp đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục đăng_ký tuyến hoạt_động vận_tải hành_khách đường thủy_nội_địa theo tuyến cố_định ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 18,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 32,
+     "end": 35,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 6,
+     "end": 8,
+     "text": "văn_bản chấp_thuận"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 28,
+     "text": "đơn đăng_ký vận_tải hành_khách đường thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_37",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 6 . 3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Nhân_viên",
+    "phục_vụ",
+    "trên",
+    "phương_tiện",
+    "phải",
+    "được",
+    "tập_huấn",
+    "về",
+    "nghiệp_vụ",
+    "và",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "đối_với",
+    "hoạt_động",
+    "vận_tải",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 35,
+     "text": "3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 31,
+     "end": 34,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_38",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 6 . 3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Điều",
+    "6",
+    ".",
+    "3",
+    ".",
+    "Nhân_viên",
+    "phục_vụ",
+    "trên",
+    "phương_tiện",
+    "phải",
+    "được",
+    "tập_huấn",
+    "về",
+    "nghiệp_vụ",
+    "và",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "đối_với",
+    "hoạt_động",
+    "vận_tải",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 29,
+     "text": "3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 8,
+     "end": 9,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_39",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 6 . 4 . Người điều_hành vận_tải phải có trình_độ chuyên_môn về vận_tải từ trung_cấp trở lên hoặc có trình_độ từ cao_đẳng trở lên đối_với các chuyên_ngành kinh_tế , kỹ_thuật khác .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "4",
+    ".",
+    "Người",
+    "điều_hành",
+    "vận_tải",
+    "phải",
+    "có",
+    "trình_độ",
+    "chuyên_môn",
+    "về",
+    "vận_tải",
+    "từ",
+    "trung_cấp",
+    "trở",
+    "lên",
+    "hoặc",
+    "có",
+    "trình_độ",
+    "từ",
+    "cao_đẳng",
+    "trở",
+    "lên",
+    "đối_với",
+    "các",
+    "chuyên_ngành",
+    "kinh_tế",
+    ",",
+    "kỹ_thuật",
+    "khác",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 46,
+     "text": "4 . Người điều_hành vận_tải phải có trình_độ chuyên_môn về vận_tải từ trung_cấp trở lên hoặc có trình_độ từ cao_đẳng trở lên đối_với các chuyên_ngành kinh_tế , kỹ_thuật khác ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_40",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 6 . 5 . Có nơi neo đậu cho phương_tiện phù_hợp với phương_án khai_thác tuyến và bảo_đảm các yêu_cầu về an_toàn giao_thông , phòng_chống cháy , nổ và bảo_vệ môi_trường theo quy_định .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "6",
+    ".",
+    "5",
+    ".",
+    "Có",
+    "nơi",
+    "neo",
+    "đậu",
+    "cho",
+    "phương_tiện",
+    "phù_hợp",
+    "với",
+    "phương_án",
+    "khai_thác",
+    "tuyến",
+    "và",
+    "bảo_đảm",
+    "các",
+    "yêu_cầu",
+    "về",
+    "an_toàn",
+    "giao_thông",
+    ",",
+    "phòng_chống",
+    "cháy",
+    ",",
+    "nổ",
+    "và",
+    "bảo_vệ",
+    "môi_trường",
+    "theo",
+    "quy_định",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 6"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 47,
+     "text": "5 . Có nơi neo đậu cho phương_tiện phù_hợp với phương_án khai_thác tuyến và bảo_đảm các yêu_cầu về an_toàn giao_thông , phòng_chống cháy , nổ và bảo_vệ môi_trường theo quy_định ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 24,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_41",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 7 . Điều_kiện kinh_doanh vận_tải hành_khách theo hợp_đồng chuyến . Đơn_vị kinh_doanh vận_tải hành_khách theo hợp_đồng chuyến phải bảo_đảm các điều_kiện sau đây :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "Điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "theo",
+    "hợp_đồng",
+    "chuyến",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "theo",
+    "hợp_đồng",
+    "chuyến",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "điều_kiện",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 35,
+     "text": "Điều 7 . Điều_kiện kinh_doanh vận_tải hành_khách theo hợp_đồng chuyến . Đơn_vị kinh_doanh vận_tải hành_khách theo hợp_đồng chuyến phải bảo_đảm các điều_kiện sau đây :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 21,
+     "end": 24,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_42",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 7 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 30,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 24,
+     "end": 29,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 22,
+     "end": 24,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_43",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 16,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_44",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 7 . 3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Nhân_viên",
+    "phục_vụ",
+    "trên",
+    "phương_tiện",
+    "phải",
+    "được",
+    "tập_huấn",
+    "về",
+    "nghiệp_vụ",
+    "và",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "đối_với",
+    "hoạt_động",
+    "vận_tải",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 39,
+     "text": "3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 38,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_45",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "3",
+    ".",
+    "Nhân_viên",
+    "phục_vụ",
+    "trên",
+    "phương_tiện",
+    "phải",
+    "được",
+    "tập_huấn",
+    "về",
+    "nghiệp_vụ",
+    "và",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "đối_với",
+    "hoạt_động",
+    "vận_tải",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 29,
+     "text": "3 . Nhân_viên phục_vụ trên phương_tiện phải được tập_huấn về nghiệp_vụ và các quy_định của pháp_luật đối_với hoạt_động vận_tải theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 8,
+     "end": 9,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_46",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 7 . 5 . Phương_tiện phải lắp_đặt thiết_bị nhận_dạng tự_động - AIS khi hoạt_động trên tuyến từ bờ ra đảo hoặc giữa các đảo .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "7",
+    ".",
+    "5",
+    ".",
+    "Phương_tiện",
+    "phải",
+    "lắp_đặt",
+    "thiết_bị",
+    "nhận_dạng",
+    "tự_động",
+    "-",
+    "AIS",
+    "khi",
+    "hoạt_động",
+    "trên",
+    "tuyến",
+    "từ",
+    "bờ",
+    "ra",
+    "đảo",
+    "hoặc",
+    "giữa",
+    "các",
+    "đảo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 36,
+     "text": "5 . Phương_tiện phải lắp_đặt thiết_bị nhận_dạng tự_động - AIS khi hoạt_động trên tuyến từ bờ ra đảo hoặc giữa các đảo ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "Phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_47",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 7 . 5 . Phương_tiện phải lắp_đặt thiết_bị nhận_dạng tự_động - AIS khi hoạt_động trên tuyến từ bờ ra đảo hoặc giữa các đảo .",
+   "tokens": [
+    "Điều",
+    "7",
+    ".",
+    "5",
+    ".",
+    "Phương_tiện",
+    "phải",
+    "lắp_đặt",
+    "thiết_bị",
+    "nhận_dạng",
+    "tự_động",
+    "-",
+    "AIS",
+    "khi",
+    "hoạt_động",
+    "trên",
+    "tuyến",
+    "từ",
+    "bờ",
+    "ra",
+    "đảo",
+    "hoặc",
+    "giữa",
+    "các",
+    "đảo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 7"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 26,
+     "text": "5 . Phương_tiện phải lắp_đặt thiết_bị nhận_dạng tự_động - AIS khi hoạt_động trên tuyến từ bờ ra đảo hoặc giữa các đảo ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 5,
+     "end": 6,
+     "text": "Phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_48",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 8 . 1 . Có đủ các điều_kiện quy_định tại Điều 7 của Nghị_định này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "7",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 23,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 7 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 17,
+     "end": 22,
+     "text": "Điều 7 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 15,
+     "end": 17,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_49",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 1 . Có đủ các điều_kiện quy_định tại Điều 7 của Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "7",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 7 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 16,
+     "text": "Điều 7 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_50",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 8 . 2 . Phương_tiện phải được cấp biển_hiệu riêng cho phương_tiện vận_chuyển khách du_lịch theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Phương_tiện",
+    "phải",
+    "được",
+    "cấp",
+    "biển_hiệu",
+    "riêng",
+    "cho",
+    "phương_tiện",
+    "vận_chuyển",
+    "khách",
+    "du_lịch",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 33,
+     "text": "2 . Phương_tiện phải được cấp biển_hiệu riêng cho phương_tiện vận_chuyển khách du_lịch theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 32,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 15,
+     "end": 16,
+     "text": "Phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 22,
+     "end": 23,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_51",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 8 . 2 . Phương_tiện phải được cấp biển_hiệu riêng cho phương_tiện vận_chuyển khách du_lịch theo quy_định của Bộ Giao_thông vận_tải .",
+   "tokens": [
+    "Điều",
+    "8",
+    ".",
+    "2",
+    ".",
+    "Phương_tiện",
+    "phải",
+    "được",
+    "cấp",
+    "biển_hiệu",
+    "riêng",
+    "cho",
+    "phương_tiện",
+    "vận_chuyển",
+    "khách",
+    "du_lịch",
+    "theo",
+    "quy_định",
+    "của",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 8"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 23,
+     "text": "2 . Phương_tiện phải được cấp biển_hiệu riêng cho phương_tiện vận_chuyển khách du_lịch theo quy_định của Bộ Giao_thông vận_tải ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 22,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 5,
+     "end": 6,
+     "text": "Phương_tiện"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 12,
+     "end": 13,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_52",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 9 . Điều_kiện kinh_doanh vận_tải hành_khách ngang sông . Đơn_vị kinh_doanh vận_tải hành_khách ngang sông phải bảo_đảm các điều_kiện sau đây :",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "Điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "điều_kiện",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 29,
+     "text": "Điều 9 . Điều_kiện kinh_doanh vận_tải hành_khách ngang sông . Đơn_vị kinh_doanh vận_tải hành_khách ngang sông phải bảo_đảm các điều_kiện sau đây :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 16,
+     "end": 19,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_53",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 9 . 1 . Đơn_vị kinh_doanh phải được cơ_quan có thẩm_quyền chấp_thuận vận_tải hành_khách ngang sông theo quy_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục chấp_thuận vận_tải hành_khách ngang sông .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "phải",
+    "được",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "chấp_thuận",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    "theo",
+    "quy_định",
+    ".",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thủ_tục",
+    "chấp_thuận",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 41,
+     "text": "1 . Đơn_vị kinh_doanh phải được cơ_quan có thẩm_quyền chấp_thuận vận_tải hành_khách ngang sông theo quy_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục chấp_thuận vận_tải hành_khách ngang sông ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 22,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 30,
+     "end": 33,
+     "text": "Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_54",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 9 . 1 . Đơn_vị kinh_doanh phải được cơ_quan có thẩm_quyền chấp_thuận vận_tải hành_khách ngang sông theo quy_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục chấp_thuận vận_tải hành_khách ngang sông .",
+   "tokens": [
+    "Điều",
+    "9",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "phải",
+    "được",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "chấp_thuận",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    "theo",
+    "quy_định",
+    ".",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thủ_tục",
+    "chấp_thuận",
+    "vận_tải",
+    "hành_khách",
+    "ngang",
+    "sông",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 31,
+     "text": "1 . Đơn_vị kinh_doanh phải được cơ_quan có thẩm_quyền chấp_thuận vận_tải hành_khách ngang sông theo quy_định . Bộ Giao_thông vận_tải hướng_dẫn thủ_tục chấp_thuận vận_tải hành_khách ngang sông ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 12,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_55",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 9 . 2 . Phải đón , trả hành_khách tại bến đã được cơ_quan có thẩm_quyền cấp giấy_phép hoạt_động .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "2",
+    ".",
+    "Phải",
+    "đón",
+    ",",
+    "trả",
+    "hành_khách",
+    "tại",
+    "bến",
+    "đã",
+    "được",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "cấp",
+    "giấy_phép",
+    "hoạt_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 34,
+     "text": "2 . Phải đón , trả hành_khách tại bến đã được cơ_quan có thẩm_quyền cấp giấy_phép hoạt_động ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 30,
+     "end": 33,
+     "text": "cấp giấy_phép hoạt_động"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 30,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 31,
+     "end": 33,
+     "text": "giấy_phép hoạt_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 6,
+     "tail": 8
+    },
+    {
+     "type": "CO_THAM_QUYEN",
+     "head": 7,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_56",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 9 . 2 . Phải đón , trả hành_khách tại bến đã được cơ_quan có thẩm_quyền cấp giấy_phép hoạt_động .",
+   "tokens": [
+    "Điều",
+    "9",
+    ".",
+    "2",
+    ".",
+    "Phải",
+    "đón",
+    ",",
+    "trả",
+    "hành_khách",
+    "tại",
+    "bến",
+    "đã",
+    "được",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "cấp",
+    "giấy_phép",
+    "hoạt_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 21,
+     "text": "2 . Phải đón , trả hành_khách tại bến đã được cơ_quan có thẩm_quyền cấp giấy_phép hoạt_động ."
+    },
+    {
+     "type": "NGHIA_VU_QUYEN",
+     "start": 17,
+     "end": 20,
+     "text": "cấp giấy_phép hoạt_động"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 17,
+     "text": "cơ_quan có thẩm_quyền"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 18,
+     "end": 20,
+     "text": "giấy_phép hoạt_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "TAC_DONG_DOI_TUONG",
+     "head": 2,
+     "tail": 4
+    },
+    {
+     "type": "CO_THAM_QUYEN",
+     "head": 3,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_57",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 9 . 4 . Thuyền_viên , người lái phương_tiện phải có chứng_chỉ chuyên_môn .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "9",
+    ".",
+    "4",
+    ".",
+    "Thuyền_viên",
+    ",",
+    "người",
+    "lái",
+    "phương_tiện",
+    "phải",
+    "có",
+    "chứng_chỉ",
+    "chuyên_môn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 25,
+     "text": "4 . Thuyền_viên , người lái phương_tiện phải có chứng_chỉ chuyên_môn ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 22,
+     "end": 24,
+     "text": "chứng_chỉ chuyên_môn"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 19,
+     "end": 20,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_58",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 9 . 4 . Thuyền_viên , người lái phương_tiện phải có chứng_chỉ chuyên_môn .",
+   "tokens": [
+    "Điều",
+    "9",
+    ".",
+    "4",
+    ".",
+    "Thuyền_viên",
+    ",",
+    "người",
+    "lái",
+    "phương_tiện",
+    "phải",
+    "có",
+    "chứng_chỉ",
+    "chuyên_môn",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 9"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 15,
+     "text": "4 . Thuyền_viên , người lái phương_tiện phải có chứng_chỉ chuyên_môn ."
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 12,
+     "end": 14,
+     "text": "chứng_chỉ chuyên_môn"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 9,
+     "end": 10,
+     "text": "phương_tiện"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_59",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 10 . Điều_kiện kinh_doanh vận_tải hàng_hóa . Đơn_vị kinh_doanh vận_tải hàng_hóa phải bảo_đảm các điều_kiện sau đây :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "10",
+    ".",
+    "Điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "điều_kiện",
+    "sau",
+    "đây",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 29,
+     "text": "Điều 10 . Điều_kiện kinh_doanh vận_tải hàng_hóa . Đơn_vị kinh_doanh vận_tải hàng_hóa phải bảo_đảm các điều_kiện sau đây :"
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 21,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 16,
+     "end": 17,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 21,
+     "end": 22,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_60",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 10 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "10",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 27,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 26,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 19,
+     "end": 21,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_61",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 10 . 1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "10",
+    ".",
+    "1",
+    ".",
+    "Có",
+    "đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Điều",
+    "5",
+    "của",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "1 . Có đủ các điều_kiện quy_định tại Điều 5 của Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 11,
+     "end": 16,
+     "text": "Điều 5 của Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 9,
+     "end": 11,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_62",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 10 . 2 . Đối_với kinh_doanh vận_tải hàng_hóa nguy_hiểm phải đáp_ứng các quy_định của pháp_luật về vận_tải hàng_hóa nguy_hiểm . Việc vận_chuyển hàng_hóa có nguy_cơ gây_sự_cố môi_trường phải bảo_đảm các yêu_cầu về bảo_vệ môi_trường theo quy_định tại Điều 74 Luật Bảo_vệ môi_trường năm 2014 .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "10",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "nguy_hiểm",
+    "phải",
+    "đáp_ứng",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "vận_tải",
+    "hàng_hóa",
+    "nguy_hiểm",
+    ".",
+    "Việc",
+    "vận_chuyển",
+    "hàng_hóa",
+    "có",
+    "nguy_cơ",
+    "gây_sự_cố",
+    "môi_trường",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "yêu_cầu",
+    "về",
+    "bảo_vệ",
+    "môi_trường",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "74",
+    "Luật",
+    "Bảo_vệ",
+    "môi_trường",
+    "năm",
+    "2014",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 52,
+     "text": "2 . Đối_với kinh_doanh vận_tải hàng_hóa nguy_hiểm phải đáp_ứng các quy_định của pháp_luật về vận_tải hàng_hóa nguy_hiểm . Việc vận_chuyển hàng_hóa có nguy_cơ gây_sự_cố môi_trường phải bảo_đảm các yêu_cầu về bảo_vệ môi_trường theo quy_định tại Điều 74 Luật Bảo_vệ môi_trường năm 2014 ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 44,
+     "end": 46,
+     "text": "Điều 74"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 41,
+     "end": 44,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 14,
+     "end": 15,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 24,
+     "end": 25,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 29,
+     "end": 30,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_63",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 10 . 2 . Đối_với kinh_doanh vận_tải hàng_hóa nguy_hiểm phải đáp_ứng các quy_định của pháp_luật về vận_tải hàng_hóa nguy_hiểm . Việc vận_chuyển hàng_hóa có nguy_cơ gây_sự_cố môi_trường phải bảo_đảm các yêu_cầu về bảo_vệ môi_trường theo quy_định tại Điều 74 Luật Bảo_vệ môi_trường năm 2014 .",
+   "tokens": [
+    "Điều",
+    "10",
+    ".",
+    "2",
+    ".",
+    "Đối_với",
+    "kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "nguy_hiểm",
+    "phải",
+    "đáp_ứng",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "vận_tải",
+    "hàng_hóa",
+    "nguy_hiểm",
+    ".",
+    "Việc",
+    "vận_chuyển",
+    "hàng_hóa",
+    "có",
+    "nguy_cơ",
+    "gây_sự_cố",
+    "môi_trường",
+    "phải",
+    "bảo_đảm",
+    "các",
+    "yêu_cầu",
+    "về",
+    "bảo_vệ",
+    "môi_trường",
+    "theo",
+    "quy_định",
+    "tại",
+    "Điều",
+    "74",
+    "Luật",
+    "Bảo_vệ",
+    "môi_trường",
+    "năm",
+    "2014",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 10"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 46,
+     "text": "2 . Đối_với kinh_doanh vận_tải hàng_hóa nguy_hiểm phải đáp_ứng các quy_định của pháp_luật về vận_tải hàng_hóa nguy_hiểm . Việc vận_chuyển hàng_hóa có nguy_cơ gây_sự_cố môi_trường phải bảo_đảm các yêu_cầu về bảo_vệ môi_trường theo quy_định tại Điều 74 Luật Bảo_vệ môi_trường năm 2014 ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 38,
+     "end": 40,
+     "text": "Điều 74"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 35,
+     "end": 38,
+     "text": "theo quy_định tại"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 8,
+     "end": 9,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 18,
+     "end": 19,
+     "text": "hàng_hóa"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 24,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_64",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 11 . Bộ Giao_thông vận_tải",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 12,
+     "text": "Điều 11 . Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 12,
+     "text": "Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_65",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 11 . 1 . Thống_nhất quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa quy_định tại Nghị_định này .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "1",
+    ".",
+    "Thống_nhất",
+    "quản_lý",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 29,
+     "text": "1 . Thống_nhất quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 26,
+     "end": 28,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 24,
+     "end": 26,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_66",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 11 . 1 . Thống_nhất quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa quy_định tại Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "11",
+    ".",
+    "1",
+    ".",
+    "Thống_nhất",
+    "quản_lý",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 16,
+     "text": "1 . Thống_nhất quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 13,
+     "end": 15,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 11,
+     "end": 13,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_67",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 11 . 2 . Chỉ_đạo , hướng_dẫn , tổ_chức thực_hiện các quy_định tại Nghị_định này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "11",
+    ".",
+    "2",
+    ".",
+    "Chỉ_đạo",
+    ",",
+    "hướng_dẫn",
+    ",",
+    "tổ_chức",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 23,
+     "text": "2 . Chỉ_đạo , hướng_dẫn , tổ_chức thực_hiện các quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 20,
+     "end": 22,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 18,
+     "end": 20,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_68",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 11 . 2 . Chỉ_đạo , hướng_dẫn , tổ_chức thực_hiện các quy_định tại Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "11",
+    ".",
+    "2",
+    ".",
+    "Chỉ_đạo",
+    ",",
+    "hướng_dẫn",
+    ",",
+    "tổ_chức",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 11"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 17,
+     "text": "2 . Chỉ_đạo , hướng_dẫn , tổ_chức thực_hiện các quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 14,
+     "end": 16,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 12,
+     "end": 14,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_69",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 12 . Bộ Công_an . Chủ_trì hoặc phối_hợp với Bộ Giao_thông vận_tải kiểm_tra các hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa và xử_lý các hành_vi vi_phạm theo quy_định của pháp_luật .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "12",
+    ".",
+    "Bộ",
+    "Công_an",
+    ".",
+    "Chủ_trì",
+    "hoặc",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "kiểm_tra",
+    "các",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "và",
+    "xử_lý",
+    "các",
+    "hành_vi",
+    "vi_phạm",
+    "theo",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 39,
+     "text": "Điều 12 . Bộ Công_an . Chủ_trì hoặc phối_hợp với Bộ Giao_thông vận_tải kiểm_tra các hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa và xử_lý các hành_vi vi_phạm theo quy_định của pháp_luật ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 13,
+     "end": 15,
+     "text": "Bộ Công_an"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 23,
+     "text": "Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_70",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Chương III . Điều 13 . Bộ Văn_hóa , Thể_thao và Du_lịch . Phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn các đơn_vị kinh_doanh vận_chuyển khách du_lịch bằng phương_tiện thủy_nội_địa thực_hiện các quy_định tại Nghị_định này và các quy_định khác có liên_quan của pháp_luật .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Chương",
+    "III",
+    ".",
+    "Điều",
+    "13",
+    ".",
+    "Bộ",
+    "Văn_hóa",
+    ",",
+    "Thể_thao",
+    "và",
+    "Du_lịch",
+    ".",
+    "Phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "các",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_chuyển",
+    "khách",
+    "du_lịch",
+    "bằng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "và",
+    "các",
+    "quy_định",
+    "khác",
+    "có",
+    "liên_quan",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "CHUONG",
+     "start": 13,
+     "end": 15,
+     "text": "Chương III"
+    },
+    {
+     "type": "DIEU",
+     "start": 16,
+     "end": 56,
+     "text": "Điều 13 . Bộ Văn_hóa , Thể_thao và Du_lịch . Phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn các đơn_vị kinh_doanh vận_chuyển khách du_lịch bằng phương_tiện thủy_nội_địa thực_hiện các quy_định tại Nghị_định này và các quy_định khác có liên_quan của pháp_luật ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 45,
+     "end": 47,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 43,
+     "end": 45,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 25,
+     "text": "Bộ Văn_hóa , Thể_thao và Du_lịch"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 31,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 39,
+     "end": 41,
+     "text": "phương_tiện thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_71",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 13 . Bộ Văn_hóa , Thể_thao và Du_lịch . Phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn các đơn_vị kinh_doanh vận_chuyển khách du_lịch bằng phương_tiện thủy_nội_địa thực_hiện các quy_định tại Nghị_định này và các quy_định khác có liên_quan của pháp_luật .",
+   "tokens": [
+    "Điều",
+    "13",
+    ".",
+    "Bộ",
+    "Văn_hóa",
+    ",",
+    "Thể_thao",
+    "và",
+    "Du_lịch",
+    ".",
+    "Phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "các",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_chuyển",
+    "khách",
+    "du_lịch",
+    "bằng",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "và",
+    "các",
+    "quy_định",
+    "khác",
+    "có",
+    "liên_quan",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 40,
+     "text": "Điều 13 . Bộ Văn_hóa , Thể_thao và Du_lịch . Phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn các đơn_vị kinh_doanh vận_chuyển khách du_lịch bằng phương_tiện thủy_nội_địa thực_hiện các quy_định tại Nghị_định này và các quy_định khác có liên_quan của pháp_luật ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 31,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 9,
+     "text": "Bộ Văn_hóa , Thể_thao và Du_lịch"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 12,
+     "end": 15,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 23,
+     "end": 25,
+     "text": "phương_tiện thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_72",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Chương III . Điều 14 . Bộ Thông_tin và Truyền_thông . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn quản_lý việc sử_dụng tần_số vô_tuyến_điện , hạ_tầng thông_tin và các thiết_bị thông_tin , liên_lạc khác sử_dụng trong công_tác quản_lý , điều_hành hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa ; quy_định về quy_chuẩn kỹ_thuật quốc_gia của thiết_bị nhận_dạng tự_động .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Chương",
+    "III",
+    ".",
+    "Điều",
+    "14",
+    ".",
+    "Bộ",
+    "Thông_tin",
+    "và",
+    "Truyền_thông",
+    ".",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "quản_lý",
+    "việc",
+    "sử_dụng",
+    "tần_số",
+    "vô_tuyến_điện",
+    ",",
+    "hạ_tầng",
+    "thông_tin",
+    "và",
+    "các",
+    "thiết_bị",
+    "thông_tin",
+    ",",
+    "liên_lạc",
+    "khác",
+    "sử_dụng",
+    "trong",
+    "công_tác",
+    "quản_lý",
+    ",",
+    "điều_hành",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    ";",
+    "quy_định",
+    "về",
+    "quy_chuẩn",
+    "kỹ_thuật",
+    "quốc_gia",
+    "của",
+    "thiết_bị",
+    "nhận_dạng",
+    "tự_động",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "CHUONG",
+     "start": 10,
+     "end": 12,
+     "text": "Chương III"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 65,
+     "text": "Điều 14 . Bộ Thông_tin và Truyền_thông . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn quản_lý việc sử_dụng tần_số vô_tuyến_điện , hạ_tầng thông_tin và các thiết_bị thông_tin , liên_lạc khác sử_dụng trong công_tác quản_lý , điều_hành hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa ; quy_định về quy_chuẩn kỹ_thuật quốc_gia của thiết_bị nhận_dạng tự_động ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 16,
+     "end": 20,
+     "text": "Bộ Thông_tin và Truyền_thông"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "Bộ Giao_thông vận_tải"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_73",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 15 . Bộ Y_tế . Ban_hành quy_định về tiêu_chuẩn , việc khám sức_khỏe và quy_định về cơ sở y_tế khám sức_khỏe của thuyền_viên , người lái phương_tiện thủy_nội_địa .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "15",
+    ".",
+    "Bộ",
+    "Y_tế",
+    ".",
+    "Ban_hành",
+    "quy_định",
+    "về",
+    "tiêu_chuẩn",
+    ",",
+    "việc",
+    "khám",
+    "sức_khỏe",
+    "và",
+    "quy_định",
+    "về",
+    "cơ",
+    "sở",
+    "y_tế",
+    "khám",
+    "sức_khỏe",
+    "của",
+    "thuyền_viên",
+    ",",
+    "người",
+    "lái",
+    "phương_tiện",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 36,
+     "text": "Điều 15 . Bộ Y_tế . Ban_hành quy_định về tiêu_chuẩn , việc khám sức_khỏe và quy_định về cơ sở y_tế khám sức_khỏe của thuyền_viên , người lái phương_tiện thủy_nội_địa ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 11,
+     "text": "Bộ Y_tế"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 26,
+     "text": "sở y_tế"
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 33,
+     "end": 35,
+     "text": "phương_tiện thủy_nội_địa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_74",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 16 . Bộ Lao_động - Thương_binh và Xã_hội",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "16",
+    ".",
+    "Bộ",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 15,
+     "text": "Điều 16 . Bộ Lao_động - Thương_binh và Xã_hội"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 15,
+     "text": "Bộ Lao_động - Thương_binh và Xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_75",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 16 . 1 . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn thực_hiện các quy_định của pháp_luật về hợp_đồng lao_động , bảo_hiểm xã_hội , bảo_hiểm y_tế và các chế_độ khác của người lao_động trong hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "16",
+    ".",
+    "1",
+    ".",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "hợp_đồng",
+    "lao_động",
+    ",",
+    "bảo_hiểm",
+    "xã_hội",
+    ",",
+    "bảo_hiểm",
+    "y_tế",
+    "và",
+    "các",
+    "chế_độ",
+    "khác",
+    "của",
+    "người",
+    "lao_động",
+    "trong",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 16"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 50,
+     "text": "1 . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn thực_hiện các quy_định của pháp_luật về hợp_đồng lao_động , bảo_hiểm xã_hội , bảo_hiểm y_tế và các chế_độ khác của người lao_động trong hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 19,
+     "end": 22,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 29,
+     "end": 31,
+     "text": "hợp_đồng lao_động"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 42,
+     "end": 44,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_76",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 16 . 1 . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn thực_hiện các quy_định của pháp_luật về hợp_đồng lao_động , bảo_hiểm xã_hội , bảo_hiểm y_tế và các chế_độ khác của người lao_động trong hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa .",
+   "tokens": [
+    "Điều",
+    "16",
+    ".",
+    "1",
+    ".",
+    "Chủ_trì",
+    ",",
+    "phối_hợp",
+    "với",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    "hướng_dẫn",
+    "thực_hiện",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "hợp_đồng",
+    "lao_động",
+    ",",
+    "bảo_hiểm",
+    "xã_hội",
+    ",",
+    "bảo_hiểm",
+    "y_tế",
+    "và",
+    "các",
+    "chế_độ",
+    "khác",
+    "của",
+    "người",
+    "lao_động",
+    "trong",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 16"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 40,
+     "text": "1 . Chủ_trì , phối_hợp với Bộ Giao_thông vận_tải hướng_dẫn thực_hiện các quy_định của pháp_luật về hợp_đồng lao_động , bảo_hiểm xã_hội , bảo_hiểm y_tế và các chế_độ khác của người lao_động trong hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 12,
+     "text": "Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "GIAY_TO_HO_SO",
+     "start": 19,
+     "end": 21,
+     "text": "hợp_đồng lao_động"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 32,
+     "end": 34,
+     "text": "người lao_động"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_77",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 17 . 2 . Tổ_chức quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa theo quy_định của Nghị_định này và các quy_định khác có liên_quan của pháp_luật .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "17",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    "quản_lý",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "quy_định",
+    "của",
+    "Nghị_định",
+    "này",
+    "và",
+    "các",
+    "quy_định",
+    "khác",
+    "có",
+    "liên_quan",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 17"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 35,
+     "text": "2 . Tổ_chức quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa theo quy_định của Nghị_định này và các quy_định khác có liên_quan của pháp_luật ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_78",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 17 . 2 . Tổ_chức quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa theo quy_định của Nghị_định này và các quy_định khác có liên_quan của pháp_luật .",
+   "tokens": [
+    "Điều",
+    "17",
+    ".",
+    "2",
+    ".",
+    "Tổ_chức",
+    "quản_lý",
+    "hoạt_động_kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "theo",
+    "quy_định",
+    "của",
+    "Nghị_định",
+    "này",
+    "và",
+    "các",
+    "quy_định",
+    "khác",
+    "có",
+    "liên_quan",
+    "của",
+    "pháp_luật",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 17"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 25,
+     "text": "2 . Tổ_chức quản_lý hoạt_động_kinh_doanh vận_tải đường thủy_nội_địa theo quy_định của Nghị_định này và các quy_định khác có liên_quan của pháp_luật ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_79",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 18 . 1 . Đơn_vị kinh_doanh vận_tải chịu sự kiểm_tra về việc chấp_hành các quy_định về kinh_doanh và điều_kiện kinh_doanh vận_tải đường thủy_nội_địa của cơ_quan có thẩm_quyền .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "18",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "chịu",
+    "sự",
+    "kiểm_tra",
+    "về",
+    "việc",
+    "chấp_hành",
+    "các",
+    "quy_định",
+    "về",
+    "kinh_doanh",
+    "và",
+    "điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "của",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 18"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 39,
+     "text": "1 . Đơn_vị kinh_doanh vận_tải chịu sự kiểm_tra về việc chấp_hành các quy_định về kinh_doanh và điều_kiện kinh_doanh vận_tải đường thủy_nội_địa của cơ_quan có thẩm_quyền ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 15,
+     "end": 18,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 38,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_80",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 18 . 1 . Đơn_vị kinh_doanh vận_tải chịu sự kiểm_tra về việc chấp_hành các quy_định về kinh_doanh và điều_kiện kinh_doanh vận_tải đường thủy_nội_địa của cơ_quan có thẩm_quyền .",
+   "tokens": [
+    "Điều",
+    "18",
+    ".",
+    "1",
+    ".",
+    "Đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "chịu",
+    "sự",
+    "kiểm_tra",
+    "về",
+    "việc",
+    "chấp_hành",
+    "các",
+    "quy_định",
+    "về",
+    "kinh_doanh",
+    "và",
+    "điều_kiện",
+    "kinh_doanh",
+    "vận_tải",
+    "đường",
+    "thủy_nội_địa",
+    "của",
+    "cơ_quan",
+    "có",
+    "thẩm_quyền",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 18"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 29,
+     "text": "1 . Đơn_vị kinh_doanh vận_tải chịu sự kiểm_tra về việc chấp_hành các quy_định về kinh_doanh và điều_kiện kinh_doanh vận_tải đường thủy_nội_địa của cơ_quan có thẩm_quyền ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 5,
+     "end": 8,
+     "text": "Đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 28,
+     "text": "cơ_quan có thẩm_quyền"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_81",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 18 . 2 . Hình_thức kiểm_tra :",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "18",
+    ".",
+    "2",
+    ".",
+    "Hình_thức",
+    "kiểm_tra",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 18"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 21,
+     "text": "2 . Hình_thức kiểm_tra :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_82",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 18 . 3 . Bộ_trưởng Bộ Giao_thông vận_tải , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm chỉ_đạo cơ_quan_chức_năng tổ_chức kiểm_tra việc tuân_thủ các điều_kiện kinh_doanh của đơn_vị kinh_doanh vận_tải thủy_nội_địa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "18",
+    ".",
+    "3",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "có",
+    "trách_nhiệm",
+    "chỉ_đạo",
+    "cơ_quan_chức_năng",
+    "tổ_chức",
+    "kiểm_tra",
+    "việc",
+    "tuân_thủ",
+    "các",
+    "điều_kiện",
+    "kinh_doanh",
+    "của",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 18"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 42,
+     "text": "3 . Bộ_trưởng Bộ Giao_thông vận_tải , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm chỉ_đạo cơ_quan_chức_năng tổ_chức kiểm_tra việc tuân_thủ các điều_kiện kinh_doanh của đơn_vị kinh_doanh vận_tải thủy_nội_địa ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 37,
+     "end": 40,
+     "text": "đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 15,
+     "end": 19,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 20,
+     "end": 25,
+     "text": "Chủ_tịch Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_83",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 18 . 3 . Bộ_trưởng Bộ Giao_thông vận_tải , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm chỉ_đạo cơ_quan_chức_năng tổ_chức kiểm_tra việc tuân_thủ các điều_kiện kinh_doanh của đơn_vị kinh_doanh vận_tải thủy_nội_địa .",
+   "tokens": [
+    "Điều",
+    "18",
+    ".",
+    "3",
+    ".",
+    "Bộ_trưởng",
+    "Bộ",
+    "Giao_thông",
+    "vận_tải",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh",
+    "có",
+    "trách_nhiệm",
+    "chỉ_đạo",
+    "cơ_quan_chức_năng",
+    "tổ_chức",
+    "kiểm_tra",
+    "việc",
+    "tuân_thủ",
+    "các",
+    "điều_kiện",
+    "kinh_doanh",
+    "của",
+    "đơn_vị",
+    "kinh_doanh",
+    "vận_tải",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 18"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 32,
+     "text": "3 . Bộ_trưởng Bộ Giao_thông vận_tải , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm chỉ_đạo cơ_quan_chức_năng tổ_chức kiểm_tra việc tuân_thủ các điều_kiện kinh_doanh của đơn_vị kinh_doanh vận_tải thủy_nội_địa ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 27,
+     "end": 30,
+     "text": "đơn_vị kinh_doanh vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 5,
+     "end": 9,
+     "text": "Bộ_trưởng Bộ Giao_thông vận_tải"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 15,
+     "text": "Chủ_tịch Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_84",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Chương IV. ĐIỀU_KHOẢN THI_HÀNH",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Chương",
+    "IV.",
+    "ĐIỀU_KHOẢN",
+    "THI_HÀNH"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "CHUONG",
+     "start": 10,
+     "end": 14,
+     "text": "Chương IV. ĐIỀU_KHOẢN THI_HÀNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_85",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 19 . 2 . Trong thời_hạn kể từ ngày 05 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016 , các đơn_vị kinh_doanh quy_định tại Khoản 1 Điều này phải đáp_ứng đầy_đủ các điều_kiện quy_định tại Nghị_định này .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "19",
+    ".",
+    "2",
+    ".",
+    "Trong",
+    "thời_hạn",
+    "kể",
+    "từ",
+    "ngày",
+    "05",
+    "tháng",
+    "01",
+    "năm",
+    "2015",
+    "đến",
+    "hết",
+    "ngày",
+    "31",
+    "tháng",
+    "12",
+    "năm",
+    "2016",
+    ",",
+    "các",
+    "đơn_vị",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "Khoản",
+    "1",
+    "Điều",
+    "này",
+    "phải",
+    "đáp_ứng",
+    "đầy_đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 8,
+     "text": "Điều 19"
+    },
+    {
+     "type": "KHOAN",
+     "start": 9,
+     "end": 49,
+     "text": "2 . Trong thời_hạn kể từ ngày 05 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016 , các đơn_vị kinh_doanh quy_định tại Khoản 1 Điều này phải đáp_ứng đầy_đủ các điều_kiện quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 39,
+     "text": "Khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 46,
+     "end": 48,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 33,
+     "end": 35,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 44,
+     "end": 46,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 6
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_86",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 19 . 2 . Trong thời_hạn kể từ ngày 05 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016 , các đơn_vị kinh_doanh quy_định tại Khoản 1 Điều này phải đáp_ứng đầy_đủ các điều_kiện quy_định tại Nghị_định này .",
+   "tokens": [
+    "Điều",
+    "19",
+    ".",
+    "2",
+    ".",
+    "Trong",
+    "thời_hạn",
+    "kể",
+    "từ",
+    "ngày",
+    "05",
+    "tháng",
+    "01",
+    "năm",
+    "2015",
+    "đến",
+    "hết",
+    "ngày",
+    "31",
+    "tháng",
+    "12",
+    "năm",
+    "2016",
+    ",",
+    "các",
+    "đơn_vị",
+    "kinh_doanh",
+    "quy_định",
+    "tại",
+    "Khoản",
+    "1",
+    "Điều",
+    "này",
+    "phải",
+    "đáp_ứng",
+    "đầy_đủ",
+    "các",
+    "điều_kiện",
+    "quy_định",
+    "tại",
+    "Nghị_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 19"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 43,
+     "text": "2 . Trong thời_hạn kể từ ngày 05 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016 , các đơn_vị kinh_doanh quy_định tại Khoản 1 Điều này phải đáp_ứng đầy_đủ các điều_kiện quy_định tại Nghị_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 33,
+     "text": "Khoản 1 Điều này"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 40,
+     "end": 42,
+     "text": "Nghị_định này"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 27,
+     "end": 29,
+     "text": "quy_định tại"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 38,
+     "end": 40,
+     "text": "quy_định tại"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_87",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 20 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 05 tháng 01 năm 2015 ; bãi_bỏ Điều 10 Nghị_định số 21/2005/NĐ-CP ngày 01 tháng 3 năm 2005 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Giao_thông đường thủy_nội_địa .",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "20",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    ".",
+    "Nghị_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "05",
+    "tháng",
+    "01",
+    "năm",
+    "2015",
+    ";",
+    "bãi_bỏ",
+    "Điều",
+    "10",
+    "Nghị_định",
+    "số",
+    "21/2005/NĐ-CP",
+    "ngày",
+    "01",
+    "tháng",
+    "3",
+    "năm",
+    "2005",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 51,
+     "text": "Điều 20 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 05 tháng 01 năm 2015 ; bãi_bỏ Điều 10 Nghị_định số 21/2005/NĐ-CP ngày 01 tháng 3 năm 2005 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Giao_thông đường thủy_nội_địa ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 32,
+     "text": "Điều 10 Nghị_định số 21/2005/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 26,
+     "end": 27,
+     "text": "bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 32,
+     "end": 38,
+     "text": "ngày 01 tháng 3 năm 2005"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 39,
+     "end": 40,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_88",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 20 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 05 tháng 01 năm 2015 ; bãi_bỏ Điều 10 Nghị_định số 21/2005/NĐ-CP ngày 01 tháng 3 năm 2005 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Giao_thông đường thủy_nội_địa .",
+   "tokens": [
+    "Điều",
+    "20",
+    ".",
+    "Hiệu_lực",
+    "thi_hành",
+    ".",
+    "Nghị_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "kể",
+    "từ",
+    "ngày",
+    "05",
+    "tháng",
+    "01",
+    "năm",
+    "2015",
+    ";",
+    "bãi_bỏ",
+    "Điều",
+    "10",
+    "Nghị_định",
+    "số",
+    "21/2005/NĐ-CP",
+    "ngày",
+    "01",
+    "tháng",
+    "3",
+    "năm",
+    "2005",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chi_tiết",
+    "thi_hành",
+    "một_số",
+    "điều",
+    "của",
+    "Luật",
+    "Giao_thông",
+    "đường",
+    "thủy_nội_địa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 45,
+     "text": "Điều 20 . Hiệu_lực thi_hành . Nghị_định này có hiệu_lực thi_hành kể từ ngày 05 tháng 01 năm 2015 ; bãi_bỏ Điều 10 Nghị_định số 21/2005/NĐ-CP ngày 01 tháng 3 năm 2005 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Giao_thông đường thủy_nội_địa ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 21,
+     "end": 26,
+     "text": "Điều 10 Nghị_định số 21/2005/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 20,
+     "end": 21,
+     "text": "bãi_bỏ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 26,
+     "end": 32,
+     "text": "ngày 01 tháng 3 năm 2005"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 33,
+     "end": 34,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 2,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_89",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP của Chính_phủ trong lĩnh_vực Đường thủy_nội_địa . Điều 21 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Nghị_định này . / .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "của",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Đường",
+    "thủy_nội_địa",
+    ".",
+    "Điều",
+    "21",
+    ".",
+    "Trách_nhiệm",
+    "thi_hành",
+    ".",
+    "Các",
+    "Bộ_trưởng",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "Thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    ",",
+    "các",
+    "tổ_chức",
+    ",",
+    "cá_nhân",
+    "có",
+    "liên_quan",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành",
+    "Nghị_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 5,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 7,
+     "end": 9,
+     "text": "Đường thủy_nội_địa"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 53,
+     "text": "Điều 21 . Trách_nhiệm thi_hành . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Nghị_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 28,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 29,
+     "end": 38,
+     "text": "Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_90",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 1 . Phạm_vi điều_chỉnh",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phạm_vi",
+    "điều_chỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 11,
+     "text": "Điều 1 . Phạm_vi điều_chỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_91",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Nghị_định số 110/2014/NĐ-CP ban_hành ngày 20 tháng 11 năm 2014 bởi Chính_phủ . Điều 4 . 5 . Kinh_doanh vận_tải hàng_hóa .",
+   "tokens": [
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    "ban_hành",
+    "ngày",
+    "20",
+    "tháng",
+    "11",
+    "năm",
+    "2014",
+    "bởi",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "5",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 20 tháng 11 năm 2014"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 22,
+     "text": "5 . Kinh_doanh vận_tải hàng_hóa ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 20,
+     "end": 21,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_standalone_92",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . 5 . Kinh_doanh vận_tải hàng_hóa .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "5",
+    ".",
+    "Kinh_doanh",
+    "vận_tải",
+    "hàng_hóa",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 4"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "5 . Kinh_doanh vận_tải hàng_hóa ."
+    },
+    {
+     "type": "TAI_SAN_VAT_CHAT",
+     "start": 7,
+     "end": 8,
+     "text": "hàng_hóa"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "110_2014_NĐ-CP_37830#body_context_93",
+   "doc": "110_2014_NĐ-CP_37830",
+   "category": "nghi_dinh",
+   "kind": "body_context",
+   "text": "Chính_phủ ban_hành Nghị_định số 110/2014/NĐ-CP . Điều 17 . Ủy_ban nhân_dân cấp tỉnh",
+   "tokens": [
+    "Chính_phủ",
+    "ban_hành",
+    "Nghị_định",
+    "số",
+    "110/2014/NĐ-CP",
+    ".",
+    "Điều",
+    "17",
+    ".",
+    "Ủy_ban",
+    "nhân_dân",
+    "cấp",
+    "tỉnh"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 2,
+     "end": 3,
+     "text": "Nghị_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 4,
+     "end": 5,
+     "text": "110/2014/NĐ-CP"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 1,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 6,
+     "end": 13,
+     "text": "Điều 17 . Ủy_ban nhân_dân cấp tỉnh"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 9,
+     "end": 13,
+     "text": "Ủy_ban nhân_dân cấp tỉnh"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  }
+ ]
+}

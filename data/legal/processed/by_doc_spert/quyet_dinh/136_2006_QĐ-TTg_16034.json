@@ -1,0 +1,1840 @@
+{
+ "doc": "136_2006_QĐ-TTg_16034",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 21,
+ "total_entities": 93,
+ "total_relations": 74,
+ "samples": [
+  {
+   "id": "136_2006_QĐ-TTg_16034#header_0",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 136/2006/QĐ-TTg . Hà_Nội , ngày 08 tháng 6 năm 2006 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "08",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 08 tháng 6 năm 2006"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#meta_1",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "THỦ_TƯỚNG CHÍNH_PHỦ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 136/2006/QĐ-TTg . Hà_Nội , ngày 08 tháng 6 năm 2006 . QUYẾT_ĐỊNH . Điều 4 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo .",
+   "tokens": [
+    "THỦ_TƯỚNG",
+    "CHÍNH_PHỦ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "08",
+    "tháng",
+    "6",
+    "năm",
+    "2006",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "THỦ_TƯỚNG CHÍNH_PHỦ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_context_2",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_standalone_3",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 .",
+   "tokens": [
+    "Căn_cứ",
+    "Luật",
+    "Tổ_chức",
+    "Chính_phủ",
+    "ngày",
+    "25",
+    "tháng",
+    "12",
+    "năm",
+    "2001",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Luật Tổ_chức Chính_phủ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 25 tháng 12 năm 2001"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_context_4",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ . Căn_cứ Nghị_định số 170/2004/NĐ-CP ngày 22 tháng 09 năm 2004 của Chính_phủ về sắp_xếp , đổi_mới và phát_triển nông_trường quốc_doanh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "170/2004/NĐ-CP",
+    "ngày",
+    "22",
+    "tháng",
+    "09",
+    "năm",
+    "2004",
+    "của",
+    "Chính_phủ",
+    "về",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "và",
+    "phát_triển",
+    "nông_trường",
+    "quốc_doanh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 170/2004/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 17,
+     "text": "ngày 22 tháng 09 năm 2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 19,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_standalone_5",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 170/2004/NĐ-CP ngày 22 tháng 09 năm 2004 của Chính_phủ về sắp_xếp , đổi_mới và phát_triển nông_trường quốc_doanh .",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "170/2004/NĐ-CP",
+    "ngày",
+    "22",
+    "tháng",
+    "09",
+    "năm",
+    "2004",
+    "của",
+    "Chính_phủ",
+    "về",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "và",
+    "phát_triển",
+    "nông_trường",
+    "quốc_doanh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 170/2004/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 22 tháng 09 năm 2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 11,
+     "end": 12,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_context_6",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ . Xét đề_nghị của Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn và Chủ_tịch Ủy_ban nhân_dân tỉnh Tây_Ninh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    "và",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 16,
+     "text": "Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#preamble_standalone_7",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Xét đề_nghị của Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn và Chủ_tịch Ủy_ban nhân_dân tỉnh Tây_Ninh .",
+   "tokens": [
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    "và",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 9,
+     "text": "Bộ_trưởng Bộ Nông_nghiệp và Phát_triển nông_thôn"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_8",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg ban_hành ngày 08 tháng 06 năm 2006 bởi Thủ_tướng Chính_phủ . Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . Tiếp_tục củng_cố và phát_triển các công_ty :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "06",
+    "năm",
+    "2006",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phê_duyệt",
+    "Đề_án",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "Tiếp_tục",
+    "củng_cố",
+    "và",
+    "phát_triển",
+    "các",
+    "công_ty",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 06 năm 2006"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 40,
+     "text": "Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . Tiếp_tục củng_cố và phát_triển các công_ty :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_9",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty Mía đường Tây_Ninh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phê_duyệt",
+    "Đề_án",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "-",
+    "Công_ty",
+    "Mía",
+    "đường",
+    "Tây_Ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 12,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 38,
+     "text": "Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty Mía đường Tây_Ninh ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_10",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg ban_hành ngày 08 tháng 06 năm 2006 bởi Thủ_tướng Chính_phủ . Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty trách_nhiệm hữu_hạn một thành_viên 22/12 .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "06",
+    "năm",
+    "2006",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phê_duyệt",
+    "Đề_án",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "-",
+    "Công_ty",
+    "trách_nhiệm",
+    "hữu_hạn",
+    "một",
+    "thành_viên",
+    "22/12",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 06 năm 2006"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 41,
+     "text": "Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty trách_nhiệm hữu_hạn một thành_viên 22/12 ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 34,
+     "end": 39,
+     "text": "Công_ty trách_nhiệm hữu_hạn một thành_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_11",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg ban_hành ngày 08 tháng 06 năm 2006 bởi Thủ_tướng Chính_phủ . Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty Cao_su 1/5 Tây_Ninh .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "06",
+    "năm",
+    "2006",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phê_duyệt",
+    "Đề_án",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "-",
+    "Công_ty",
+    "Cao_su",
+    "1/5",
+    "Tây_Ninh",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 06 năm 2006"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 39,
+     "text": "Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . - Công_ty Cao_su 1/5 Tây_Ninh ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_12",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 136/2006/QĐ-TTg . Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . Cổ_phần_hoá các cơ_sở chế_biến của ba Công_ty này .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Phê_duyệt",
+    "Đề_án",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "thuộc",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "như",
+    "sau",
+    ":",
+    ".",
+    "Cổ_phần_hoá",
+    "các",
+    "cơ_sở",
+    "chế_biến",
+    "của",
+    "ba",
+    "Công_ty",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 35,
+     "text": "Điều 1 . Phê_duyệt Đề_án sắp_xếp , đổi_mới nông_trường quốc_doanh thuộc Ủy_ban nhân_dân tỉnh Tây_Ninh như sau : . Cổ_phần_hoá các cơ_sở chế_biến của ba Công_ty này ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_13",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 136/2006/QĐ-TTg . Điều 2 . Chủ_tịch Ủy_ban nhân_dân tỉnh Tây_Ninh :",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Chủ_tịch",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 16,
+     "text": "Điều 2 . Chủ_tịch Ủy_ban nhân_dân tỉnh Tây_Ninh :"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_14",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 2 . 1 . Chỉ_đạo thực_hiện việc sắp_xếp , đổi_mới nông_trường quốc_doanh như Điều 1 của Quyết_định này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Chỉ_đạo",
+    "thực_hiện",
+    "việc",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "như",
+    "Điều",
+    "1",
+    "của",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 12,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 15,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 16,
+     "end": 33,
+     "text": "1 . Chỉ_đạo thực_hiện việc sắp_xếp , đổi_mới nông_trường quốc_doanh như Điều 1 của Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 27,
+     "end": 32,
+     "text": "Điều 1 của Quyết_định này"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_standalone_15",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . 1 . Chỉ_đạo thực_hiện việc sắp_xếp , đổi_mới nông_trường quốc_doanh như Điều 1 của Quyết_định này .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "1",
+    ".",
+    "Chỉ_đạo",
+    "thực_hiện",
+    "việc",
+    "sắp_xếp",
+    ",",
+    "đổi_mới",
+    "nông_trường",
+    "quốc_doanh",
+    "như",
+    "Điều",
+    "1",
+    "của",
+    "Quyết_định",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 20,
+     "text": "1 . Chỉ_đạo thực_hiện việc sắp_xếp , đổi_mới nông_trường quốc_doanh như Điều 1 của Quyết_định này ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 14,
+     "end": 19,
+     "text": "Điều 1 của Quyết_định này"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_16",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 136/2006/QĐ-TTg . Điều 2 . 2 . Phối_hợp với các tổ_chức chính_trị , tổ_chức chính_trị - xã_hội sắp_xếp các công_ty sản_xuất nông_nghiệp thuộc các tổ_chức này .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "2",
+    ".",
+    "Phối_hợp",
+    "với",
+    "các",
+    "tổ_chức",
+    "chính_trị",
+    ",",
+    "tổ_chức",
+    "chính_trị",
+    "-",
+    "xã_hội",
+    "sắp_xếp",
+    "các",
+    "công_ty",
+    "sản_xuất",
+    "nông_nghiệp",
+    "thuộc",
+    "các",
+    "tổ_chức",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 32,
+     "text": "2 . Phối_hợp với các tổ_chức chính_trị , tổ_chức chính_trị - xã_hội sắp_xếp các công_ty sản_xuất nông_nghiệp thuộc các tổ_chức này ."
+    },
+    {
+     "type": "TO_CHUC_DOANH_NGHIEP",
+     "start": 18,
+     "end": 22,
+     "text": "tổ_chức chính_trị - xã_hội"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_17",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg ban_hành ngày 08 tháng 06 năm 2006 bởi Thủ_tướng Chính_phủ . Điều 2 . 3 . Quyết_định điều_chỉnh lại diện_tích , ranh_giới các loại đất giao cho các nông_trường phù_hợp với quy_hoạch phát_triển nông_nghiệp của địa_phương và các quy_định của pháp_luật về đất_đai , về bảo_vệ và phát_triển rừng .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "ban_hành",
+    "ngày",
+    "08",
+    "tháng",
+    "06",
+    "năm",
+    "2006",
+    "bởi",
+    "Thủ_tướng",
+    "Chính_phủ",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "3",
+    ".",
+    "Quyết_định",
+    "điều_chỉnh",
+    "lại",
+    "diện_tích",
+    ",",
+    "ranh_giới",
+    "các",
+    "loại",
+    "đất",
+    "giao",
+    "cho",
+    "các",
+    "nông_trường",
+    "phù_hợp",
+    "với",
+    "quy_hoạch",
+    "phát_triển",
+    "nông_nghiệp",
+    "của",
+    "địa_phương",
+    "và",
+    "các",
+    "quy_định",
+    "của",
+    "pháp_luật",
+    "về",
+    "đất_đai",
+    ",",
+    "về",
+    "bảo_vệ",
+    "và",
+    "phát_triển",
+    "rừng",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 08 tháng 06 năm 2006"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 2"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 53,
+     "text": "3 . Quyết_định điều_chỉnh lại diện_tích , ranh_giới các loại đất giao cho các nông_trường phù_hợp với quy_hoạch phát_triển nông_nghiệp của địa_phương và các quy_định của pháp_luật về đất_đai , về bảo_vệ và phát_triển rừng ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_18",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 136/2006/QĐ-TTg của Thủ_tướng Chính_phủ trong lĩnh_vực Nông_nghiệp và phát_triển nông_thôn . Điều 3 . Các Bộ : Nông_nghiệp và Phát_triển nông_thôn , Tài_chính , Kế_hoạch và Đầu_tư , Tài_nguyên và Môi_trường , Lao_động - Thương_binh và Xã_hội , Nội_vụ và các cơ_quan liên_quan có trách_nhiệm phối_hợp với Ủy_ban nhân_dân tỉnh Tây_Ninh trong việc thực_hiện Đề_án này .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    "của",
+    "Thủ_tướng",
+    "Chính_phủ",
+    "trong",
+    "lĩnh_vực",
+    "Nông_nghiệp",
+    "và",
+    "phát_triển",
+    "nông_thôn",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Các",
+    "Bộ",
+    ":",
+    "Nông_nghiệp",
+    "và",
+    "Phát_triển",
+    "nông_thôn",
+    ",",
+    "Tài_chính",
+    ",",
+    "Kế_hoạch",
+    "và",
+    "Đầu_tư",
+    ",",
+    "Tài_nguyên",
+    "và",
+    "Môi_trường",
+    ",",
+    "Lao_động",
+    "-",
+    "Thương_binh",
+    "và",
+    "Xã_hội",
+    ",",
+    "Nội_vụ",
+    "và",
+    "các",
+    "cơ_quan",
+    "liên_quan",
+    "có",
+    "trách_nhiệm",
+    "phối_hợp",
+    "với",
+    "Ủy_ban",
+    "nhân_dân",
+    "tỉnh",
+    "Tây_Ninh",
+    "trong",
+    "việc",
+    "thực_hiện",
+    "Đề_án",
+    "này",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 12,
+     "text": "Nông_nghiệp và phát_triển nông_thôn"
+    },
+    {
+     "type": "DIEU",
+     "start": 13,
+     "end": 59,
+     "text": "Điều 3 . Các Bộ : Nông_nghiệp và Phát_triển nông_thôn , Tài_chính , Kế_hoạch và Đầu_tư , Tài_nguyên và Môi_trường , Lao_động - Thương_binh và Xã_hội , Nội_vụ và các cơ_quan liên_quan có trách_nhiệm phối_hợp với Ủy_ban nhân_dân tỉnh Tây_Ninh trong việc thực_hiện Đề_án này ."
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#body_context_19",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Thủ_tướng Chính_phủ ban_hành Quyết_định số 136/2006/QĐ-TTg . Điều 4 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo .",
+   "tokens": [
+    "Thủ_tướng",
+    "Chính_phủ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "136/2006/QĐ-TTg",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "136/2006/QĐ-TTg"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Thủ_tướng Chính_phủ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 25,
+     "text": "Điều 4 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 15,
+     "end": 18,
+     "text": "sau 15 ngày"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "136_2006_QĐ-TTg_16034#hard_negative_20",
+   "doc": "136_2006_QĐ-TTg_16034",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

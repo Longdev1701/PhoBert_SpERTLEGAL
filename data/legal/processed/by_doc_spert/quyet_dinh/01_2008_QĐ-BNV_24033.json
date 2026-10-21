@@ -1,0 +1,7490 @@
+{
+ "doc": "01_2008_QĐ-BNV_24033",
+ "category": "quyet_dinh",
+ "split": "train",
+ "total_samples": 84,
+ "total_entities": 441,
+ "total_relations": 371,
+ "samples": [
+  {
+   "id": "01_2008_QĐ-BNV_24033#header_0",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "header",
+   "text": "BỘ NỘI_VỤ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 01/2008/QĐ-BNV . Hà_Nội , ngày 04 tháng 08 năm 2008 . QUYẾT_ĐỊNH",
+   "tokens": [
+    "BỘ",
+    "NỘI_VỤ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    ".",
+    "QUYẾT_ĐỊNH"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 22,
+     "end": 28,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ NỘI_VỤ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#signature_1",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "signature",
+   "text": "BỘ_TRƯỞNG . ( Đã ký ) . Trần_Văn_Tuấn",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Trần_Văn_Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "NGUOI_KY",
+     "start": 7,
+     "end": 8,
+     "text": "Trần_Văn_Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 0,
+     "end": 1,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#meta_2",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "meta",
+   "text": "BỘ NỘI_VỤ . CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM . Độc_lập – Tự_do – Hạnh_phúc . Số : 01/2008/QĐ-BNV . Hà_Nội , ngày 04 tháng 08 năm 2008 . QUYẾT_ĐỊNH . BỘ_TRƯỞNG . ( Đã ký ) . Trần_Văn_Tuấn",
+   "tokens": [
+    "BỘ",
+    "NỘI_VỤ",
+    ".",
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT",
+    "NAM",
+    ".",
+    "Độc_lập",
+    "–",
+    "Tự_do",
+    "–",
+    "Hạnh_phúc",
+    ".",
+    "Số",
+    ":",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Hà_Nội",
+    ",",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    ".",
+    "QUYẾT_ĐỊNH",
+    ".",
+    "BỘ_TRƯỞNG",
+    ".",
+    "(",
+    "Đã",
+    "ký",
+    ")",
+    ".",
+    "Trần_Văn_Tuấn"
+   ],
+   "entities": [
+    {
+     "type": "SO_HIEU",
+     "start": 18,
+     "end": 19,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "BỘ NỘI_VỤ"
+    },
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 29,
+     "end": 30,
+     "text": "QUYẾT_ĐỊNH"
+    },
+    {
+     "type": "NGUOI_KY",
+     "start": 38,
+     "end": 39,
+     "text": "Trần_Văn_Tuấn"
+    },
+    {
+     "type": "CHUC_DANH_NGUOI_KY",
+     "start": 31,
+     "end": 32,
+     "text": "BỘ_TRƯỞNG"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 0,
+     "tail": 2
+    },
+    {
+     "type": "KY_BOI",
+     "head": 0,
+     "tail": 3
+    },
+    {
+     "type": "GIU_CHUC_VU",
+     "head": 3,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_3",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . Về việc ban_hành_chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Về",
+    "việc",
+    "ban_hành_chức_danh",
+    "và",
+    "mã_số",
+    "ngạch",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 16,
+     "end": 20,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 15,
+     "end": 16,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_4",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Về việc ban_hành_chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường",
+   "tokens": [
+    "Về",
+    "việc",
+    "ban_hành_chức_danh",
+    "và",
+    "mã_số",
+    "ngạch",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 13,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 8,
+     "end": 9,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_5",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . BỘ_TRƯỞNG BỘ NỘI_VỤ",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "NỘI_VỤ"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 10,
+     "text": "BỘ_TRƯỞNG BỘ NỘI_VỤ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_6",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "BỘ_TRƯỞNG BỘ NỘI_VỤ",
+   "tokens": [
+    "BỘ_TRƯỞNG",
+    "BỘ",
+    "NỘI_VỤ"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 0,
+     "end": 3,
+     "text": "BỘ_TRƯỞNG BỘ NỘI_VỤ"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_7",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . Căn_cứ Nghị_định số 48/2008/NĐ-CP ngày 17/4/2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Nội_vụ ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "48/2008/NĐ-CP",
+    "ngày",
+    "17/4/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 48/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 17/4/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 25,
+     "end": 27,
+     "text": "Bộ Nội_vụ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_8",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 48/2008/NĐ-CP ngày 17/4/2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Nội_vụ ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "48/2008/NĐ-CP",
+    "ngày",
+    "17/4/2008",
+    "của",
+    "Chính_phủ",
+    "quy_định",
+    "chức_năng",
+    ",",
+    "nhiệm_vụ",
+    ",",
+    "quyền_hạn",
+    "và",
+    "cơ_cấu",
+    "tổ_chức",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 48/2008/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 17/4/2008"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 8,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 18,
+     "end": 20,
+     "text": "Bộ Nội_vụ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_9",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . Căn_cứ Nghị_định số 116/2003/NĐ-CP ngày 10/10/2003 của Chính_phủ về tuyển_dụng , sử_dụng và quản_lý cán_bộ , công_chức trong các cơ_quan nhà_nước và Nghị_định số 121/2006/NĐ-CP ngày 23/10/2006 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 116/2003/NĐ-CP ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "116/2003/NĐ-CP",
+    "ngày",
+    "10/10/2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "tuyển_dụng",
+    ",",
+    "sử_dụng",
+    "và",
+    "quản_lý",
+    "cán_bộ",
+    ",",
+    "công_chức",
+    "trong",
+    "các",
+    "cơ_quan",
+    "nhà_nước",
+    "và",
+    "Nghị_định",
+    "số",
+    "121/2006/NĐ-CP",
+    "ngày",
+    "23/10/2006",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "116/2003/NĐ-CP",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 8,
+     "end": 11,
+     "text": "Nghị_định số 116/2003/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 29,
+     "end": 32,
+     "text": "Nghị_định số 121/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 42,
+     "end": 45,
+     "text": "Nghị_định số 116/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 7,
+     "end": 8,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 36,
+     "end": 42,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 11,
+     "end": 13,
+     "text": "ngày 10/10/2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 32,
+     "end": 34,
+     "text": "ngày 23/10/2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 14,
+     "end": 15,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 35,
+     "end": 36,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 21,
+     "end": 24,
+     "text": "cán_bộ , công_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 6,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 5
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 3,
+     "tail": 8
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 4,
+     "tail": 9
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_10",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Căn_cứ Nghị_định số 116/2003/NĐ-CP ngày 10/10/2003 của Chính_phủ về tuyển_dụng , sử_dụng và quản_lý cán_bộ , công_chức trong các cơ_quan nhà_nước và Nghị_định số 121/2006/NĐ-CP ngày 23/10/2006 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 116/2003/NĐ-CP ;",
+   "tokens": [
+    "Căn_cứ",
+    "Nghị_định",
+    "số",
+    "116/2003/NĐ-CP",
+    "ngày",
+    "10/10/2003",
+    "của",
+    "Chính_phủ",
+    "về",
+    "tuyển_dụng",
+    ",",
+    "sử_dụng",
+    "và",
+    "quản_lý",
+    "cán_bộ",
+    ",",
+    "công_chức",
+    "trong",
+    "các",
+    "cơ_quan",
+    "nhà_nước",
+    "và",
+    "Nghị_định",
+    "số",
+    "121/2006/NĐ-CP",
+    "ngày",
+    "23/10/2006",
+    "của",
+    "Chính_phủ",
+    "sửa_đổi",
+    ",",
+    "bổ_sung",
+    "một_số",
+    "điều",
+    "của",
+    "Nghị_định",
+    "số",
+    "116/2003/NĐ-CP",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 1,
+     "end": 4,
+     "text": "Nghị_định số 116/2003/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 22,
+     "end": 25,
+     "text": "Nghị_định số 121/2006/NĐ-CP"
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 35,
+     "end": 38,
+     "text": "Nghị_định số 116/2003/NĐ-CP"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 0,
+     "end": 1,
+     "text": "Căn_cứ"
+    },
+    {
+     "type": "TU_KHOA_PHAP_LY",
+     "start": 29,
+     "end": 35,
+     "text": "sửa_đổi , bổ_sung một_số điều của"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 4,
+     "end": 6,
+     "text": "ngày 10/10/2003"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 25,
+     "end": 27,
+     "text": "ngày 23/10/2006"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 7,
+     "end": 8,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 28,
+     "end": 29,
+     "text": "Chính_phủ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 17,
+     "text": "cán_bộ , công_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 7,
+     "tail": 0
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 2
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 8,
+     "tail": 2
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 0,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_11",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . Theo đề_nghị của Bộ_trưởng Bộ Tài_nguyên và Môi_trường tại công_văn số 2577/BTNMT-TCCB ngày 11/7/2008 ;",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_nguyên",
+    "và",
+    "Môi_trường",
+    "tại",
+    "công_văn",
+    "số",
+    "2577/BTNMT-TCCB",
+    "ngày",
+    "11/7/2008",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 10,
+     "end": 15,
+     "text": "Bộ_trưởng Bộ Tài_nguyên và Môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_12",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Theo đề_nghị của Bộ_trưởng Bộ Tài_nguyên và Môi_trường tại công_văn số 2577/BTNMT-TCCB ngày 11/7/2008 ;",
+   "tokens": [
+    "Theo",
+    "đề_nghị",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Tài_nguyên",
+    "và",
+    "Môi_trường",
+    "tại",
+    "công_văn",
+    "số",
+    "2577/BTNMT-TCCB",
+    "ngày",
+    "11/7/2008",
+    ";"
+   ],
+   "entities": [
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 3,
+     "end": 8,
+     "text": "Bộ_trưởng Bộ Tài_nguyên và Môi_trường"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_context_13",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ . Xét đề_nghị của Vụ_trưởng Vụ Công_chức - Viên_chức .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Công_chức",
+    "-",
+    "Viên_chức",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 12,
+     "end": 13,
+     "text": "Công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 14,
+     "end": 15,
+     "text": "Viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#preamble_standalone_14",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "preamble_standalone",
+   "text": "Xét đề_nghị của Vụ_trưởng Vụ Công_chức - Viên_chức .",
+   "tokens": [
+    "Xét",
+    "đề_nghị",
+    "của",
+    "Vụ_trưởng",
+    "Vụ",
+    "Công_chức",
+    "-",
+    "Viên_chức",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 5,
+     "end": 6,
+     "text": "Công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 7,
+     "end": 8,
+     "text": "Viên_chức"
+    }
+   ],
+   "relations": []
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_15",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . Ban_hành_chức_danh và mã_số các ngạch viên_chức ngành tài_nguyên và môi_trường , gồm :",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành_chức_danh",
+    "và",
+    "mã_số",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    ",",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 26,
+     "text": "Điều 1 . Ban_hành_chức_danh và mã_số các ngạch viên_chức ngành tài_nguyên và môi_trường , gồm :"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 19,
+     "end": 23,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 18,
+     "end": 19,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 4,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_16",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . Ban_hành_chức_danh và mã_số các ngạch viên_chức ngành tài_nguyên và môi_trường , gồm :",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "Ban_hành_chức_danh",
+    "và",
+    "mã_số",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    ",",
+    "gồm",
+    ":"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 16,
+     "text": "Điều 1 . Ban_hành_chức_danh và mã_số các ngạch viên_chức ngành tài_nguyên và môi_trường , gồm :"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 9,
+     "end": 13,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 8,
+     "end": 9,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 0,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_17",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 1 . Trắc_địa bản_đồ viên chính",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "chính"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "1 . Trắc_địa bản_đồ viên chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_18",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 1 . Trắc_địa bản_đồ viên chính",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "1",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "chính"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "1 . Trắc_địa bản_đồ viên chính"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_19",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 2 . Trắc_địa bản_đồ_viên",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Trắc_địa",
+    "bản_đồ_viên"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 21,
+     "text": "2 . Trắc_địa bản_đồ_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_20",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 2 . Trắc_địa bản_đồ_viên",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Trắc_địa",
+    "bản_đồ_viên"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 7,
+     "text": "2 . Trắc_địa bản_đồ_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_21",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 3 . Trắc_địa bản_đồ viên cao_đẳng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "cao_đẳng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "3 . Trắc_địa bản_đồ viên cao_đẳng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_22",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 3 . Trắc_địa bản_đồ viên cao_đẳng",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "cao_đẳng"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "3 . Trắc_địa bản_đồ viên cao_đẳng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_23",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 4 . Trắc_địa bản_đồ viên trung_cấp",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "trung_cấp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "4 . Trắc_địa bản_đồ viên trung_cấp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_24",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 6 . Địa_chính_viên",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Địa_chính_viên"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 16,
+     "text": "6 . Địa_chính_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_25",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 7 . Địa_chính viên cao_đẳng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "7",
+    ".",
+    "Địa_chính",
+    "viên",
+    "cao_đẳng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 18,
+     "text": "7 . Địa_chính viên cao_đẳng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_26",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 8 . Địa_chính viên trung_cấp",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "8",
+    ".",
+    "Địa_chính",
+    "viên",
+    "trung_cấp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 15,
+     "text": "8 . Địa_chính viên trung_cấp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_27",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 10 . Điều_tra_viên chính tài_nguyên môi_trường",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "10",
+    ".",
+    "Điều_tra_viên",
+    "chính",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "10 . Điều_tra_viên chính tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_28",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 11 . Điều_tra_viên tài_nguyên môi_trường",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "11",
+    ".",
+    "Điều_tra_viên",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 22,
+     "text": "11 . Điều_tra_viên tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_29",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 12 . Điều_tra_viên cao_đẳng tài_nguyên môi_trường",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "12",
+    ".",
+    "Điều_tra_viên",
+    "cao_đẳng",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "12 . Điều_tra_viên cao_đẳng tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_30",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 14 . Dự_báo viên cao_cấp khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "14",
+    ".",
+    "Dự_báo",
+    "viên",
+    "cao_cấp",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 20,
+     "text": "14 . Dự_báo viên cao_cấp khí_tượng thuỷ_văn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_31",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 15 . Dự_báo viên chính khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "15",
+    ".",
+    "Dự_báo",
+    "viên",
+    "chính",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 20,
+     "text": "15 . Dự_báo viên chính khí_tượng thuỷ_văn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_32",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 16 . Dự_báo viên khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "16",
+    ".",
+    "Dự_báo",
+    "viên",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "16 . Dự_báo viên khí_tượng thuỷ_văn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_33",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 18 . Dự_báo viên trung_cấp khí_tượng thuỷ_văn",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "18",
+    ".",
+    "Dự_báo",
+    "viên",
+    "trung_cấp",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 17,
+     "text": "18 . Dự_báo viên trung_cấp khí_tượng thuỷ_văn"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_34",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 19 . Kiểm_soát_viên cao_cấp khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "19",
+    ".",
+    "Kiểm_soát_viên",
+    "cao_cấp",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 23,
+     "text": "19 . Kiểm_soát_viên cao_cấp khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 19,
+     "end": 20,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_35",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 20 . Kiểm_soát_viên chính khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "20",
+    ".",
+    "Kiểm_soát_viên",
+    "chính",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "20 . Kiểm_soát_viên chính khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 15,
+     "end": 16,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_36",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 20 . Kiểm_soát_viên chính khí_tượng thuỷ_văn",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "20",
+    ".",
+    "Kiểm_soát_viên",
+    "chính",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 9,
+     "text": "20 . Kiểm_soát_viên chính khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 5,
+     "end": 6,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_37",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 21 . Kiểm_soát_viên khí_tượng thuỷ_văn",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "21",
+    ".",
+    "Kiểm_soát_viên",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 15,
+     "text": "21 . Kiểm_soát_viên khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 12,
+     "end": 13,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_38",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 22 . Kiểm_soát_viên cao_đẳng khí_tượng thuỷ_văn",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "22",
+    ".",
+    "Kiểm_soát_viên",
+    "cao_đẳng",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 16,
+     "text": "22 . Kiểm_soát_viên cao_đẳng khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 12,
+     "end": 13,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_39",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 23 . Kiểm_soát_viên trung_cấp khí_tượng thuỷ_văn",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "23",
+    ".",
+    "Kiểm_soát_viên",
+    "trung_cấp",
+    "khí_tượng",
+    "thuỷ_văn"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "23 . Kiểm_soát_viên trung_cấp khí_tượng thuỷ_văn"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 15,
+     "end": 16,
+     "text": "Kiểm_soát_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_40",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 24 . Quan_trắc viên chính tài_nguyên môi_trường",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "24",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "chính",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 24,
+     "text": "24 . Quan_trắc viên chính tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_41",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 25 . Quan_trắc viên tài_nguyên môi_trường",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "25",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 23,
+     "text": "25 . Quan_trắc viên tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_42",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 26 . Quan_trắc viên cao_đẳng tài_nguyên môi_trường",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "26",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "cao_đẳng",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 24,
+     "text": "26 . Quan_trắc viên cao_đẳng tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_43",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 26 . Quan_trắc viên cao_đẳng tài_nguyên môi_trường",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "26",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "cao_đẳng",
+    "tài_nguyên",
+    "môi_trường"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 10,
+     "text": "26 . Quan_trắc viên cao_đẳng tài_nguyên môi_trường"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_44",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.233",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.233"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 21,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.233"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_45",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.234",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.234"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.234"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_46",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.235",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.235"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.235"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_47",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.237",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.237"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.237"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_48",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.238",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.238"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.238"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_49",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.239",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.239"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 21,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.239"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_50",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.241",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.241"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.241"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_51",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.241",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.241"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.241"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_52",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.242",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.242"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.242"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_53",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.243",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.243"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.243"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_54",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.245",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.245"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.245"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_55",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.246",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.246"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 21,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.246"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_56",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.247",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.247"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.247"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_57",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.249",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.249"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.249"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_58",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.250",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.250"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.250"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_59",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.251",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.251"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.251"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_60",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.251",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.251"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.251"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_61",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.252",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.252"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.252"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_62",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.254",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.254"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.254"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_63",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.254",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.254"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.254"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_64",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.255",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.255"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.255"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_65",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.256",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.256"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.256"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_66",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.256",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.256"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.256"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_67",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.258",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.258"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 9,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 10,
+     "end": 21,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.258"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_68",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.259",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.259"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 24,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.259"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_69",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.260",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.260"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 28,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.260"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_70",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 1 . 28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.260",
+   "tokens": [
+    "Điều",
+    "1",
+    ".",
+    "28",
+    ".",
+    "Quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "tài_nguyên",
+    "môi_trường",
+    "-",
+    "Mã_số",
+    "ngạch",
+    "14.260"
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 2,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 3,
+     "end": 14,
+     "text": "28 . Quan_trắc viên sơ_cấp tài_nguyên môi_trường - Mã_số ngạch 14.260"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_VE",
+     "head": 1,
+     "tail": 0
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_71",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Bộ Nội_vụ ban_hành Quyết_định số 01/2008/QĐ-BNV . Điều 2 . Chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường là căn_cứ để Bộ Tài_nguyên và Môi_trường ban_hành tiêu_chuẩn nghiệp_vụ các ngạch viên_chức ngành tài_nguyên và môi_trường .",
+   "tokens": [
+    "Bộ",
+    "Nội_vụ",
+    "ban_hành",
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    ".",
+    "Điều",
+    "2",
+    ".",
+    "Chức_danh",
+    "và",
+    "mã_số",
+    "ngạch",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    "là",
+    "căn_cứ",
+    "để",
+    "Bộ",
+    "Tài_nguyên",
+    "và",
+    "Môi_trường",
+    "ban_hành",
+    "tiêu_chuẩn",
+    "nghiệp_vụ",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 3,
+     "end": 4,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 5,
+     "end": 6,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 0,
+     "end": 2,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 7,
+     "end": 39,
+     "text": "Điều 2 . Chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường là căn_cứ để Bộ Tài_nguyên và Môi_trường ban_hành tiêu_chuẩn nghiệp_vụ các ngạch viên_chức ngành tài_nguyên và môi_trường ."
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 17,
+     "end": 21,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 34,
+     "end": 38,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 24,
+     "end": 28,
+     "text": "Bộ Tài_nguyên và Môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 16,
+     "end": 17,
+     "text": "viên_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 33,
+     "end": 34,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 3,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 3,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 5
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 3,
+     "tail": 5
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_72",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 2 . Chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường là căn_cứ để Bộ Tài_nguyên và Môi_trường ban_hành tiêu_chuẩn nghiệp_vụ các ngạch viên_chức ngành tài_nguyên và môi_trường .",
+   "tokens": [
+    "Điều",
+    "2",
+    ".",
+    "Chức_danh",
+    "và",
+    "mã_số",
+    "ngạch",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    "là",
+    "căn_cứ",
+    "để",
+    "Bộ",
+    "Tài_nguyên",
+    "và",
+    "Môi_trường",
+    "ban_hành",
+    "tiêu_chuẩn",
+    "nghiệp_vụ",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ngành",
+    "tài_nguyên",
+    "và",
+    "môi_trường",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 32,
+     "text": "Điều 2 . Chức_danh và mã_số ngạch các ngạch viên_chức ngành tài_nguyên và môi_trường là căn_cứ để Bộ Tài_nguyên và Môi_trường ban_hành tiêu_chuẩn nghiệp_vụ các ngạch viên_chức ngành tài_nguyên và môi_trường ."
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 10,
+     "end": 14,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 27,
+     "end": 31,
+     "text": "ngành tài_nguyên và môi_trường"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 17,
+     "end": 21,
+     "text": "Bộ Tài_nguyên và Môi_trường"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 9,
+     "end": 10,
+     "text": "viên_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 26,
+     "end": 27,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 0,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_73",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 3 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "3",
+    ".",
+    "Quyết_định",
+    "này",
+    "có",
+    "hiệu_lực",
+    "thi_hành",
+    "sau",
+    "15",
+    "ngày",
+    ",",
+    "kể",
+    "từ",
+    "ngày",
+    "đăng",
+    "Công_báo",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 32,
+     "text": "Điều 3 . Quyết_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo ."
+    },
+    {
+     "type": "THOI_HAN",
+     "start": 22,
+     "end": 25,
+     "text": "sau 15 ngày"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_74",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 4 . Bãi_bỏ ngạch dự_báo viên cao_cấp ( mã_số 14.103 ) , dự_báo viên chính ( mã_số 14.104 ) , dự_báo viên ( mã_số 14.105 ) , quan_trắc viên chính ( mã_số 14.106 ) , quan_trắc viên ( mã_số 14.107 ) , quan_trắc viên sơ_cấp ( mã_số 14.108 ) thuộc Danh_mục các ngạch viên_chức ban_hành kèm theo Quyết_định số 78/2004/QĐ-BNV ngày 03 tháng 11 năm 2004 của Bộ_trưởng Bộ Nội_vụ về việc ban_hành danh_mục các ngạch công_chức và các ngạch viên_chức .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "4",
+    ".",
+    "Bãi_bỏ",
+    "ngạch",
+    "dự_báo",
+    "viên",
+    "cao_cấp",
+    "(",
+    "mã_số",
+    "14.103",
+    ")",
+    ",",
+    "dự_báo",
+    "viên",
+    "chính",
+    "(",
+    "mã_số",
+    "14.104",
+    ")",
+    ",",
+    "dự_báo",
+    "viên",
+    "(",
+    "mã_số",
+    "14.105",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "chính",
+    "(",
+    "mã_số",
+    "14.106",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "(",
+    "mã_số",
+    "14.107",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "(",
+    "mã_số",
+    "14.108",
+    ")",
+    "thuộc",
+    "Danh_mục",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Quyết_định",
+    "số",
+    "78/2004/QĐ-BNV",
+    "ngày",
+    "03",
+    "tháng",
+    "11",
+    "năm",
+    "2004",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    "về",
+    "việc",
+    "ban_hành",
+    "danh_mục",
+    "các",
+    "ngạch",
+    "công_chức",
+    "và",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 97,
+     "text": "Điều 4 . Bãi_bỏ ngạch dự_báo viên cao_cấp ( mã_số 14.103 ) , dự_báo viên chính ( mã_số 14.104 ) , dự_báo viên ( mã_số 14.105 ) , quan_trắc viên chính ( mã_số 14.106 ) , quan_trắc viên ( mã_số 14.107 ) , quan_trắc viên sơ_cấp ( mã_số 14.108 ) thuộc Danh_mục các ngạch viên_chức ban_hành kèm theo Quyết_định số 78/2004/QĐ-BNV ngày 03 tháng 11 năm 2004 của Bộ_trưởng Bộ Nội_vụ về việc ban_hành danh_mục các ngạch công_chức và các ngạch viên_chức ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 72,
+     "end": 75,
+     "text": "Quyết_định số 78/2004/QĐ-BNV"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 75,
+     "end": 81,
+     "text": "ngày 03 tháng 11 năm 2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 82,
+     "end": 85,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 68,
+     "end": 69,
+     "text": "viên_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 91,
+     "end": 92,
+     "text": "công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 95,
+     "end": 96,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 4,
+     "tail": 5
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 5,
+     "tail": 6
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_standalone_75",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_standalone",
+   "text": "Điều 4 . Bãi_bỏ ngạch dự_báo viên cao_cấp ( mã_số 14.103 ) , dự_báo viên chính ( mã_số 14.104 ) , dự_báo viên ( mã_số 14.105 ) , quan_trắc viên chính ( mã_số 14.106 ) , quan_trắc viên ( mã_số 14.107 ) , quan_trắc viên sơ_cấp ( mã_số 14.108 ) thuộc Danh_mục các ngạch viên_chức ban_hành kèm theo Quyết_định số 78/2004/QĐ-BNV ngày 03 tháng 11 năm 2004 của Bộ_trưởng Bộ Nội_vụ về việc ban_hành danh_mục các ngạch công_chức và các ngạch viên_chức .",
+   "tokens": [
+    "Điều",
+    "4",
+    ".",
+    "Bãi_bỏ",
+    "ngạch",
+    "dự_báo",
+    "viên",
+    "cao_cấp",
+    "(",
+    "mã_số",
+    "14.103",
+    ")",
+    ",",
+    "dự_báo",
+    "viên",
+    "chính",
+    "(",
+    "mã_số",
+    "14.104",
+    ")",
+    ",",
+    "dự_báo",
+    "viên",
+    "(",
+    "mã_số",
+    "14.105",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "chính",
+    "(",
+    "mã_số",
+    "14.106",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "(",
+    "mã_số",
+    "14.107",
+    ")",
+    ",",
+    "quan_trắc",
+    "viên",
+    "sơ_cấp",
+    "(",
+    "mã_số",
+    "14.108",
+    ")",
+    "thuộc",
+    "Danh_mục",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "ban_hành",
+    "kèm",
+    "theo",
+    "Quyết_định",
+    "số",
+    "78/2004/QĐ-BNV",
+    "ngày",
+    "03",
+    "tháng",
+    "11",
+    "năm",
+    "2004",
+    "của",
+    "Bộ_trưởng",
+    "Bộ",
+    "Nội_vụ",
+    "về",
+    "việc",
+    "ban_hành",
+    "danh_mục",
+    "các",
+    "ngạch",
+    "công_chức",
+    "và",
+    "các",
+    "ngạch",
+    "viên_chức",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "DIEU",
+     "start": 0,
+     "end": 83,
+     "text": "Điều 4 . Bãi_bỏ ngạch dự_báo viên cao_cấp ( mã_số 14.103 ) , dự_báo viên chính ( mã_số 14.104 ) , dự_báo viên ( mã_số 14.105 ) , quan_trắc viên chính ( mã_số 14.106 ) , quan_trắc viên ( mã_số 14.107 ) , quan_trắc viên sơ_cấp ( mã_số 14.108 ) thuộc Danh_mục các ngạch viên_chức ban_hành kèm theo Quyết_định số 78/2004/QĐ-BNV ngày 03 tháng 11 năm 2004 của Bộ_trưởng Bộ Nội_vụ về việc ban_hành danh_mục các ngạch công_chức và các ngạch viên_chức ."
+    },
+    {
+     "type": "THAM_CHIEU_PHAP_LY",
+     "start": 58,
+     "end": 61,
+     "text": "Quyết_định số 78/2004/QĐ-BNV"
+    },
+    {
+     "type": "NGAY_THAM_CHIEU",
+     "start": 61,
+     "end": 67,
+     "text": "ngày 03 tháng 11 năm 2004"
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 68,
+     "end": 71,
+     "text": "Bộ_trưởng Bộ Nội_vụ"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 54,
+     "end": 55,
+     "text": "viên_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 77,
+     "end": 78,
+     "text": "công_chức"
+    },
+    {
+     "type": "CHU_THE_CA_NHAN",
+     "start": 81,
+     "end": 82,
+     "text": "viên_chức"
+    }
+   ],
+   "relations": [
+    {
+     "type": "VIEN_DAN_THAM_CHIEU",
+     "head": 0,
+     "tail": 1
+    },
+    {
+     "type": "NGAY_BAN_HANH_THAM_CHIEU",
+     "head": 1,
+     "tail": 2
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_76",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 5 . Bộ_trưởng , thủ_trưởng cơ_quan ngang Bộ , thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Uỷ_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành_quyết_định này . / .",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "5",
+    ".",
+    "Bộ_trưởng",
+    ",",
+    "thủ_trưởng",
+    "cơ_quan",
+    "ngang",
+    "Bộ",
+    ",",
+    "thủ_trưởng",
+    "cơ_quan",
+    "thuộc",
+    "Chính_phủ",
+    ",",
+    "Chủ_tịch",
+    "Uỷ_ban",
+    "nhân_dân",
+    "các",
+    "tỉnh",
+    ",",
+    "thành_phố",
+    "trực_thuộc",
+    "Trung_ương",
+    "chịu",
+    "trách_nhiệm",
+    "thi_hành_quyết_định",
+    "này",
+    ".",
+    "/",
+    "."
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 45,
+     "text": "Điều 5 . Bộ_trưởng , thủ_trưởng cơ_quan ngang Bộ , thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Uỷ_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành_quyết_định này . / ."
+    },
+    {
+     "type": "CO_QUAN_THAM_QUYEN",
+     "start": 27,
+     "end": 28,
+     "text": "Chính_phủ"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_77",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 2 . Trắc_địa bản_đồ_viên",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "2",
+    ".",
+    "Trắc_địa",
+    "bản_đồ_viên"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 21,
+     "text": "2 . Trắc_địa bản_đồ_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_78",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 3 . Trắc_địa bản_đồ viên cao_đẳng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "3",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "cao_đẳng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 23,
+     "text": "3 . Trắc_địa bản_đồ viên cao_đẳng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_79",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 4 . Trắc_địa bản_đồ viên trung_cấp",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "4",
+    ".",
+    "Trắc_địa",
+    "bản_đồ",
+    "viên",
+    "trung_cấp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 19,
+     "text": "4 . Trắc_địa bản_đồ viên trung_cấp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_80",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 6 . Địa_chính_viên",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "6",
+    ".",
+    "Địa_chính_viên"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 20,
+     "text": "6 . Địa_chính_viên"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_81",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV của Bộ Nội_vụ trong lĩnh_vực Nội_vụ . Điều 1 . 7 . Địa_chính viên cao_đẳng",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "của",
+    "Bộ",
+    "Nội_vụ",
+    "trong",
+    "lĩnh_vực",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "7",
+    ".",
+    "Địa_chính",
+    "viên",
+    "cao_đẳng"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 4,
+     "end": 6,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "LINH_VUC",
+     "start": 8,
+     "end": 9,
+     "text": "Nội_vụ"
+    },
+    {
+     "type": "DIEU",
+     "start": 10,
+     "end": 12,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 13,
+     "end": 18,
+     "text": "7 . Địa_chính viên cao_đẳng"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_LINH_VUC",
+     "head": 5,
+     "tail": 3
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#body_context_82",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "body_context",
+   "text": "Quyết_định số 01/2008/QĐ-BNV ban_hành ngày 04 tháng 08 năm 2008 bởi Bộ Nội_vụ . Điều 1 . 8 . Địa_chính viên trung_cấp",
+   "tokens": [
+    "Quyết_định",
+    "số",
+    "01/2008/QĐ-BNV",
+    "ban_hành",
+    "ngày",
+    "04",
+    "tháng",
+    "08",
+    "năm",
+    "2008",
+    "bởi",
+    "Bộ",
+    "Nội_vụ",
+    ".",
+    "Điều",
+    "1",
+    ".",
+    "8",
+    ".",
+    "Địa_chính",
+    "viên",
+    "trung_cấp"
+   ],
+   "entities": [
+    {
+     "type": "LOAI_VAN_BAN",
+     "start": 0,
+     "end": 1,
+     "text": "Quyết_định"
+    },
+    {
+     "type": "SO_HIEU",
+     "start": 2,
+     "end": 3,
+     "text": "01/2008/QĐ-BNV"
+    },
+    {
+     "type": "CO_QUAN_BAN_HANH",
+     "start": 11,
+     "end": 13,
+     "text": "Bộ Nội_vụ"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "start": 4,
+     "end": 10,
+     "text": "ngày 04 tháng 08 năm 2008"
+    },
+    {
+     "type": "DIEU",
+     "start": 14,
+     "end": 16,
+     "text": "Điều 1"
+    },
+    {
+     "type": "KHOAN",
+     "start": 17,
+     "end": 22,
+     "text": "8 . Địa_chính viên trung_cấp"
+    }
+   ],
+   "relations": [
+    {
+     "type": "BAN_HANH_BOI",
+     "head": 1,
+     "tail": 2
+    },
+    {
+     "type": "LA_LOAI_VAN_BAN",
+     "head": 1,
+     "tail": 0
+    },
+    {
+     "type": "BAN_HANH_NGAY",
+     "head": 1,
+     "tail": 3
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 4,
+     "tail": 1
+    },
+    {
+     "type": "THUOC_VE",
+     "head": 5,
+     "tail": 4
+    }
+   ]
+  },
+  {
+   "id": "01_2008_QĐ-BNV_24033#hard_negative_83",
+   "doc": "01_2008_QĐ-BNV_24033",
+   "category": "quyet_dinh",
+   "kind": "hard_negative",
+   "text": "CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM",
+   "tokens": [
+    "CỘNG",
+    "HÒA",
+    "XÃ_HỘI",
+    "CHỦ_NGHĨA",
+    "VIỆT_NAM"
+   ],
+   "entities": [],
+   "relations": []
+  }
+ ]
+}

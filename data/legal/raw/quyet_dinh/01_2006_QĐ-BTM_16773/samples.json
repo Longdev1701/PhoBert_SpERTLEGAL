@@ -1,0 +1,239 @@
+{
+ "doc_id": "01_2006_QĐ-BTM_16773",
+ "category": "quyet_dinh",
+ "full_text": "Quyết định số 01/2006/QĐ-BTM Về việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nQUYẾT ĐỊNH\nVề việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nBỘ TRƯỞNG BỘ THƯƠNG MẠI\nCăn cứ Nghị định số 29/2004/NĐ-CP ngày 16 tháng 01 năm 2004 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thương mại;\nCăn cứ Luật Thi đua, Khen thưởng số 15/2003/QH11, ngày 26 tháng 11 năm 2003;\nTheo đề nghị của Thường trực Thi đua, Khen thưởng Bộ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\nĐiều 2. Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành.\nĐiều 3. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 4. Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./.\n",
+ "total_chars": 1195,
+ "total_paras": 12,
+ "entities": [
+  {
+   "id": "e_loai_vb",
+   "type": "LOAI_VB",
+   "start": 0,
+   "end": 10,
+   "text": "Quyết định"
+  },
+  {
+   "id": "e_so_hieu",
+   "type": "SO_HIEU",
+   "start": 14,
+   "end": 28,
+   "text": "01/2006/QĐ-BTM"
+  },
+  {
+   "id": "e_co_quan",
+   "type": "CO_QUAN",
+   "start": 166,
+   "end": 179,
+   "text": "BỘ THƯƠNG MẠI"
+  },
+  {
+   "id": "e_ngay_bh",
+   "type": "NGAY",
+   "start": 214,
+   "end": 239,
+   "text": "ngày 16 tháng 01 năm 2004"
+  },
+  {
+   "id": "e_dieu_1",
+   "type": "DIEU",
+   "number": "1",
+   "title": "Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+   "parent": "e_so_hieu",
+   "start": 474,
+   "end": 659,
+   "text": "Điều 1. Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+  },
+  {
+   "id": "e_dieu_2",
+   "type": "DIEU",
+   "number": "2",
+   "title": "Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành.",
+   "parent": "e_so_hieu",
+   "start": 660,
+   "end": 837,
+   "text": "Điều 2. Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành."
+  },
+  {
+   "id": "e_dieu_3",
+   "type": "DIEU",
+   "number": "3",
+   "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.",
+   "parent": "e_so_hieu",
+   "start": 838,
+   "end": 910,
+   "text": "Điều 3. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo."
+  },
+  {
+   "id": "e_dieu_4",
+   "type": "DIEU",
+   "number": "4",
+   "title": "Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./.",
+   "parent": "e_so_hieu",
+   "start": 911,
+   "end": 1194,
+   "text": "Điều 4. Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./."
+  }
+ ],
+ "relations": [
+  {
+   "type": "LA_LOAI",
+   "head": "e_so_hieu",
+   "tail": "e_loai_vb"
+  },
+  {
+   "type": "BAN_HANH_BOI",
+   "head": "e_so_hieu",
+   "tail": "e_co_quan"
+  },
+  {
+   "type": "NGAY_BAN_HANH",
+   "head": "e_so_hieu",
+   "tail": "e_ngay_bh"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_1",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_2",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_3",
+   "tail": "e_so_hieu"
+  },
+  {
+   "type": "THUOC",
+   "head": "e_dieu_4",
+   "tail": "e_so_hieu"
+  }
+ ],
+ "id": "01_2006_QĐ-BTM_16773",
+ "doc": "01_2006_QĐ-BTM_16773",
+ "split": "dev",
+ "total_samples": 1,
+ "total_entities": 8,
+ "total_relations": 7,
+ "samples": [
+  {
+   "id": "01_2006_QĐ-BTM_16773",
+   "doc": "01_2006_QĐ-BTM_16773",
+   "category": "quyet_dinh",
+   "kind": "document",
+   "text": "Quyết định số 01/2006/QĐ-BTM Về việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nQUYẾT ĐỊNH\nVề việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nBỘ TRƯỞNG BỘ THƯƠNG MẠI\nCăn cứ Nghị định số 29/2004/NĐ-CP ngày 16 tháng 01 năm 2004 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thương mại;\nCăn cứ Luật Thi đua, Khen thưởng số 15/2003/QH11, ngày 26 tháng 11 năm 2003;\nTheo đề nghị của Thường trực Thi đua, Khen thưởng Bộ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\nĐiều 2. Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành.\nĐiều 3. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 4. Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./.\n",
+   "full_text": "Quyết định số 01/2006/QĐ-BTM Về việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nQUYẾT ĐỊNH\nVề việc ban hành Kỷ niệm chương \"Vì sự nghiệp thương mại\"\nBỘ TRƯỞNG BỘ THƯƠNG MẠI\nCăn cứ Nghị định số 29/2004/NĐ-CP ngày 16 tháng 01 năm 2004 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thương mại;\nCăn cứ Luật Thi đua, Khen thưởng số 15/2003/QH11, ngày 26 tháng 11 năm 2003;\nTheo đề nghị của Thường trực Thi đua, Khen thưởng Bộ,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\nĐiều 2. Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành.\nĐiều 3. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.\nĐiều 4. Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./.\n",
+   "total_chars": 1195,
+   "total_paras": 12,
+   "entities": [
+    {
+     "id": "e_loai_vb",
+     "type": "LOAI_VB",
+     "start": 0,
+     "end": 10,
+     "text": "Quyết định"
+    },
+    {
+     "id": "e_so_hieu",
+     "type": "SO_HIEU",
+     "start": 14,
+     "end": 28,
+     "text": "01/2006/QĐ-BTM"
+    },
+    {
+     "id": "e_co_quan",
+     "type": "CO_QUAN",
+     "start": 166,
+     "end": 179,
+     "text": "BỘ THƯƠNG MẠI"
+    },
+    {
+     "id": "e_ngay_bh",
+     "type": "NGAY",
+     "start": 214,
+     "end": 239,
+     "text": "ngày 16 tháng 01 năm 2004"
+    },
+    {
+     "id": "e_dieu_1",
+     "type": "DIEU",
+     "number": "1",
+     "title": "Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+     "parent": "e_so_hieu",
+     "start": 474,
+     "end": 659,
+     "text": "Điều 1. Ban hành Kỷ niệm chương “Vì sự nghiệp thương mại” để ghi nhận công lao của các cá nhân đã có nhiều đóng góp cho sự nghiệp thương mại của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+     "id": "e_dieu_2",
+     "type": "DIEU",
+     "number": "2",
+     "title": "Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành.",
+     "parent": "e_so_hieu",
+     "start": 660,
+     "end": 837,
+     "text": "Điều 2. Việc xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” được thực hiện theo Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp thương mại” do Bộ trưởng Bộ Thương mại ban hành."
+    },
+    {
+     "id": "e_dieu_3",
+     "type": "DIEU",
+     "number": "3",
+     "title": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.",
+     "parent": "e_so_hieu",
+     "start": 838,
+     "end": 910,
+     "text": "Điều 3. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo."
+    },
+    {
+     "id": "e_dieu_4",
+     "type": "DIEU",
+     "number": "4",
+     "title": "Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./.",
+     "parent": "e_so_hieu",
+     "start": 911,
+     "end": 1194,
+     "text": "Điều 4. Chủ tịch Hội đồng Thi đua, Khen thưởng Bộ, Chánh văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Giám đốc Sở Thương mại, Sở Thương mại - Du lịch các tỉnh thành phố trực thuộc Trung ương và Thường trực Thi đua, Khen thưởng Bộ chịu trách nhiệm thi hành Quyết định này./."
+    }
+   ],
+   "relations": [
+    {
+     "type": "LA_LOAI",
+     "head": "e_so_hieu",
+     "tail": "e_loai_vb"
+    },
+    {
+     "type": "BAN_HANH_BOI",
+     "head": "e_so_hieu",
+     "tail": "e_co_quan"
+    },
+    {
+     "type": "NGAY_BAN_HANH",
+     "head": "e_so_hieu",
+     "tail": "e_ngay_bh"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_1",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_2",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_3",
+     "tail": "e_so_hieu"
+    },
+    {
+     "type": "THUOC",
+     "head": "e_dieu_4",
+     "tail": "e_so_hieu"
+    }
+   ]
+  }
+ ]
+}
