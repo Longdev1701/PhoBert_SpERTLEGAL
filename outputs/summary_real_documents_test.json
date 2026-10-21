@@ -1,0 +1,97 @@
+{
+  "total_documents": 9,
+  "total_time_seconds": 97.94,
+  "timestamp": "2026-10-20 20:04:28",
+  "results": [
+    {
+      "doc_name": "01_2006_QĐ-BTM_16773",
+      "num_paras": 12,
+      "num_entities": 30,
+      "num_relations": 17,
+      "inference_time": 1.3652291297912598,
+      "output_md": "outputs\\ket_qua_trich_xuat_01_2006_QĐ-BTM_16773.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_01_2006_QĐ-BTM_16773.html",
+      "description": "Quyết định Bộ Thương mại"
+    },
+    {
+      "doc_name": "07_2025_QĐ-KTNN_175504",
+      "num_paras": 19,
+      "num_entities": 59,
+      "num_relations": 39,
+      "inference_time": 1.761505126953125,
+      "output_md": "outputs\\ket_qua_trich_xuat_07_2025_QĐ-KTNN_175504.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_07_2025_QĐ-KTNN_175504.html",
+      "description": "Quyết định Kiểm toán Nhà nước"
+    },
+    {
+      "doc_name": "133_2009_QĐ-TTg_23839",
+      "num_paras": 20,
+      "num_entities": 37,
+      "num_relations": 22,
+      "inference_time": 1.3374457359313965,
+      "output_md": "outputs\\ket_qua_trich_xuat_133_2009_QĐ-TTg_23839.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_133_2009_QĐ-TTg_23839.html",
+      "description": "Quyết định Thủ tướng Chính phủ"
+    },
+    {
+      "doc_name": "101_2008_TT-BTC_23888",
+      "num_paras": 72,
+      "num_entities": 155,
+      "num_relations": 53,
+      "inference_time": 3.9199154376983643,
+      "output_md": "outputs\\ket_qua_trich_xuat_101_2008_TT-BTC_23888.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_101_2008_TT-BTC_23888.html",
+      "description": "Thông tư Bộ Tài chính"
+    },
+    {
+      "doc_name": "01_2009_TT-BNV_12219",
+      "num_paras": 65,
+      "num_entities": 298,
+      "num_relations": 150,
+      "inference_time": 6.266204118728638,
+      "output_md": "outputs\\ket_qua_trich_xuat_01_2009_TT-BNV_12219.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_01_2009_TT-BNV_12219.html",
+      "description": "Thông tư Bộ Nội vụ"
+    },
+    {
+      "doc_name": "06_2017_TT-NHNN_122819",
+      "num_paras": 77,
+      "num_entities": 363,
+      "num_relations": 188,
+      "inference_time": 8.717949390411377,
+      "output_md": "outputs\\ket_qua_trich_xuat_06_2017_TT-NHNN_122819.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_06_2017_TT-NHNN_122819.html",
+      "description": "Thông tư Ngân hàng Nhà nước"
+    },
+    {
+      "doc_name": "107_2011_NĐ-CP_27184",
+      "num_paras": 38,
+      "num_entities": 104,
+      "num_relations": 37,
+      "inference_time": 3.4827842712402344,
+      "output_md": "outputs\\ket_qua_trich_xuat_107_2011_NĐ-CP_27184.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_107_2011_NĐ-CP_27184.html",
+      "description": "Nghị định Xử phạt Lĩnh vực Năng lượng Nguyên tử"
+    },
+    {
+      "doc_name": "04_2013_NĐ-CP_28054",
+      "num_paras": 189,
+      "num_entities": 823,
+      "num_relations": 332,
+      "inference_time": 20.963675022125244,
+      "output_md": "outputs\\ket_qua_trich_xuat_04_2013_NĐ-CP_28054.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_04_2013_NĐ-CP_28054.html",
+      "description": "Nghị định Quản lý Phát triển Đô thị"
+    },
+    {
+      "doc_name": "306_2025_NĐ-CP_186388",
+      "num_paras": 386,
+      "num_entities": 2325,
+      "num_relations": 2090,
+      "inference_time": 49.582491874694824,
+      "output_md": "outputs\\ket_qua_trich_xuat_306_2025_NĐ-CP_186388.md",
+      "output_html": "outputs\\ket_qua_trich_xuat_306_2025_NĐ-CP_186388.html",
+      "description": "Nghị định Xử phạt Vi phạm Hành chính Chứng khoán"
+    }
+  ]
+}
