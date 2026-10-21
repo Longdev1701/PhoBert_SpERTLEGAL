@@ -1,0 +1,31 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Checkpoint model weights (large binary files > 100MB)
+checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.bin
+
+# Temporary & agent logs
+transcript*.jsonl
+chat_cli.txt
+*.log
+
+# Drive test cache (temporary local downloads)
+data/drive_test_cache/

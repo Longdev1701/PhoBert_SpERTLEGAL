@@ -1,0 +1,20 @@
+# PyTorch with CUDA 12.4
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.4.0
+torchvision
+
+# Hugging Face & Transformers
+transformers>=4.40.0
+tokenizers
+accelerate
+datasets
+
+# Vietnamese NLP Preprocessing
+pyvi>=0.1.1
+
+# Scientific computing & evaluation
+numpy
+pandas
+scikit-learn
+seqeval
+tqdm
